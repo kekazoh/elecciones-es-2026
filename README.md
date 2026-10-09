@@ -34,3 +34,10 @@ scripts/                  validate-data, simulate
 docs/ARQUITECTURA.md      arquitectura, modelo y algoritmo
 docs/FUENTES.md           política de fuentes y verificación
 ```
+
+## Despliegue
+
+Cada push a `main` construye la app y la publica en GitHub Pages
+(`.github/workflows/deploy-pages.yml`), en
+https://kekazoh.github.io/elecciones-es-2026/. Requiere una sola vez:
+Settings → Pages → Source: **GitHub Actions**.
