@@ -28,9 +28,9 @@ function MeasureList({ items }: { items: MeasureMatch[] }) {
                   {m.source.locator ? ` (${m.source.locator})` : ''}
                 </a>
                 {m.origin === 'declaracion' && (
-                  <span title="No está en su programa: sale de declaraciones del partido y cuenta la mitad">
+                  <span title="No está en su programa: sale de declaraciones del partido y cuenta tres cuartos de lo que cuenta el programa">
                     {' '}
-                    · declaración{m.speaker ? ` de ${m.speaker}` : ''}, no programa (cuenta la mitad)
+                    · declaración{m.speaker ? ` de ${m.speaker}` : ''}, no programa (cuenta menos)
                   </span>
                 )}
               </>
@@ -61,8 +61,8 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
         {rec.fromDeclarations > 0 && (
           <>
             {' '}
-            En {rec.fromDeclarations} de ellas su programa no se pronuncia y usamos declaraciones del partido, que cuentan la
-            mitad.
+            En {rec.fromDeclarations} de ellas su programa no se pronuncia y usamos declaraciones del partido, que cuentan
+            menos que el programa.
           </>
         )}
       </p>

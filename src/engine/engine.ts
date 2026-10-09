@@ -57,7 +57,7 @@ export const DEFAULT_CONFIG: EngineConfig = {
   lambda: 3,
   corruptionLambda: 2,
   corruptionHalfLifeYears: 10,
-  declarationWeight: 0.5,
+  declarationWeight: 0.75,
 };
 
 const IMPORTANCE_WEIGHT: Record<Importance, number> = { 0: 0, 1: 0.5, 2: 1, 3: 2 };

@@ -41,7 +41,7 @@ Reglas:
 - Solo los casos con `status: sentencia_firme` penalizan. El resto pueden
   guardarse para seguimiento, pero no cuentan.
 - Una `PartyPosition` con `origin: declaracion` (sacada de declaraciones
-  porque el programa no aborda la medida) pesa `declarationWeight` = 0,5 frente
+  porque el programa no aborda la medida) pesa `declarationWeight` = 0,75 frente
   a 1 de las del programa, tanto en la puntuación como al elegir la siguiente
   pregunta y en el % de coincidencia del informe.
 - Si un partido no tiene posición conocida en una medida, esa medida no le suma
@@ -59,7 +59,7 @@ debe pesar la corrupción probada. Un tema con peso 0 no vuelve a aparecer.
 "No lo sé" (que no cuenta).
 
 1. *Creencia.* Cada partido acumula una puntuación
-   `Σ peso_tema · peso_origen · λ · (acuerdo − 0,5)` (peso_origen: 1 programa, 0,5 declaración), con `acuerdo = 1 − |usuario − partido| / 4`,
+   `Σ peso_tema · peso_origen · λ · (acuerdo − 0,5)` (peso_origen: 1 programa, 0,75 declaración), con `acuerdo = 1 − |usuario − partido| / 4`,
    menos `λc · peso_corrupción · penalización_partido`. Un softmax la convierte en
    probabilidad de que ese partido sea el más afín.
 2. *Selección.* La siguiente medida es la que maximiza

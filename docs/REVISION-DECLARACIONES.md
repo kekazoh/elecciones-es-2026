@@ -1,6 +1,6 @@
 # Revisión de posiciones por declaraciones
 
-Posiciones que el programa no aborda y que se han sacado de declaraciones oficiales de cada partido, con la política de [FUENTES.md](FUENTES.md). Las citas se comprobaron automáticamente contra la página enlazada. keko revisó las 80 propuestas el 2026-10-09: aceptó 72 (`verificado`; tres con la postura corregida) y rechazó 8, que no se guardan. Las aceptadas cuentan la mitad que una posición del programa.
+Posiciones que el programa no aborda y que se han sacado de declaraciones oficiales de cada partido, con la política de [FUENTES.md](FUENTES.md). Las citas se comprobaron automáticamente contra la página enlazada. keko revisó las 80 propuestas el 2026-10-09: aceptó 72 (`verificado`; tres con la postura corregida) y rechazó 8, que no se guardan. Las aceptadas cuentan tres cuartos de lo que cuenta una posición del programa (0,75 frente a 1).
 
 ## Revisión de keko
 
@@ -37,7 +37,7 @@ Posiciones que el programa no aborda y que se han sacado de declaraciones oficia
 | ter-2 | -2 | **-2**ᵈ | -2 | · | +2 | +1 | +2 | +1 | +1 | +2 | · | **-2**ᵈ |
 | ter-3 | **-1**ᵈ | -1 | +2 | -1 | -2 | -2 | -2 | -2 | **-1**ᵈ | -2 | **-1**ᵈ | **-1**ᵈ |
 
-Normal = programa. **Negrita ᵈ** = declaración (verificada, cuenta la mitad). `·` = sin postura identificable.
+Normal = programa. **Negrita ᵈ** = declaración (verificada, cuenta 0,75). `·` = sin postura identificable.
 
 Cobertura: 156 posiciones del programa + 72 por declaraciones = 228 de 288.
 

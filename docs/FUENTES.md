@@ -12,7 +12,7 @@ entra como `verificado` sin cumplir esto.
   preferiblemente, `source.quote` con la frase literal.
 - Si el programa no se pronuncia sobre una medida, se puede buscar la postura en
   **declaraciones oficiales del partido** y guardarla con `origin: declaracion`.
-  Cuentan la mitad que una del programa (`declarationWeight` en el motor) y el
+  Cuentan tres cuartos de lo que cuenta una del programa (`declarationWeight` en el motor) y el
   informe lo indica junto a la fuente. Fuentes aceptadas, por orden de
   preferencia (`declarationKind`):
   1. `parlamento`: intervención de un portavoz o diputado del partido en el
