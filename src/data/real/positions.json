@@ -1999,5 +1999,1148 @@
       "quote": "O BNG aspira a que a Galiza asuma a plena capacidade para rexer o seu sistema sanitario, sen interferencias de ningún tipo."
     },
     "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "eco-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
+    "source": {
+      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
+      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
+      "date": "2025-07-06",
+      "locator": "Apartado 'Gastar bien y aliviar la carga fiscal', pp. 44-45",
+      "quote": "Defendemos impuestos bajos para todos, en especial, para las rentas más modestas, los jóvenes, las familias y las clases medias, para que puedan elegir libremente a qué dedican ese dinero"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "eco-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "PSOE, 41 Congreso Federal (Sevilla, nov.-dic. 2024)",
+    "source": {
+      "title": "Resolución Política del 41 Congreso Federal del PSOE «España 2030» (publicada por el PSC-PSOE)",
+      "url": "https://psc-psoe.es/wp-content/uploads/2024/12/RESOLUCION-41C_1.pdf",
+      "date": "2024-12-01",
+      "locator": "Algunos «imposibles» que lograremos, punto 10 (pág. 13 del PDF)",
+      "quote": "Aumentaremos la lucha contra la evasión fiscal de los megarricos y estableceremos un tipo marginal mínimo del 50% en la tarifa general del IRPF a partir de los 300.000 euros anuales."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "eco-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "EH Bildu Gipuzkoa (Juntas Generales)",
+    "source": {
+      "title": "EH Bildu reivindica una reforma fiscal profunda que asegure una recaudación más eficiente para garantizar el bienestar de la ciudadanía (ehbildu.eus)",
+      "url": "https://ehbildu.eus/herriak/gipuzkoa/es/noticias/eh-bildu-reivindica-una-reforma-fiscal-profunda-que-asegure-una-recaudacion-mas-eficiente-para-garantizar-el-bienestar-de-la-ciudadania",
+      "date": "2025-02-14",
+      "quote": "Por un lado, el aumento de la tributación en los tramos superiores en las rentas del trabajo del IRPF."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "eco-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Grupo Parlamentario Popular en el Senado",
+    "source": {
+      "title": "El PP introduce sus enmiendas a la reforma fiscal y con ello protege a los ciudadanos de un “hachazo impositivo” de 8.700 millones de euros",
+      "url": "https://www.pp.es/actualidad/articulos/el-pp-introduce-sus-enmiendas-a-la-reforma-fiscal-y-con-ello-protege-a-los-ciudadanos-de-un-hachazo-impositivo-de-8-700-millones-de-euros/",
+      "date": "2024-12-11",
+      "locator": "Tercer bloque de enmiendas",
+      "quote": "El tercero de los bloques se centra en una propuesta para que la rebaja del tipo de sociedades para pymes se haga desde 2025 de forma automática y sin prorrogarlo en tres años."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "eco-2",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "EH Bildu Nafarroa (grupo parlamentario en el Parlamento de Navarra)",
+    "source": {
+      "title": "EH Bildu valora “algunos avances” en las nuevas medidas fiscales, pero lamenta que “sigue siendo insuficiente” (ehbildu.eus)",
+      "url": "https://ehbildu.eus/herriak/nafarroa/es/noticias/eh-bildu-valora-algunos-avances-en-las-nuevas-medidas-fiscales-pero-lamenta-que-sigue-siendo-insuficiente",
+      "date": "2025-11-11",
+      "locator": "Punto 5",
+      "quote": "En el Impuesto de Sociedades se va a introducir una medida largamente perseguida por nuestra formación política: el establecimiento de un suelo mínimo efectivo, que obligará a las grandes empresas a pagar un mínimo del 13 % de su base imponible."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "eco-2",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "BNG (programa de goberno, eleccións galegas 2024)",
+    "source": {
+      "title": "BNG – Programa de goberno, eleccións galegas 2024",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2024/01/24/24_bng_galegas_programa_goberno.pdf",
+      "date": "2024-01-24",
+      "locator": "Eixo 01 'Un país dono de si', p. 13",
+      "quote": "Mentres Galiza non teña competencias sobre o Imposto de Sociedades, fixar un gravame adicional no Imposto sobre Sociedades para as bases impoñíbeis que superen os 100 millóns de euros, isto é, empresas que teñan grandes beneficios."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "eco-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Coalición Canaria, programa electoral autonómico 2023",
+    "source": {
+      "title": "Canarias por delante. Programa electoral de Coalición Canaria, elecciones autonómicas 2023 (periodo 2023-2027)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00%20Programa%20Electoral%20Elecciones%20auton%C3%B3micas%20y%20municipales%202023.pdf",
+      "date": "2023-05-01",
+      "locator": "Bloque REF/fiscalidad, medida 6, p. 47",
+      "quote": "Ofrecer una fiscalidad muy reducida para los beneficios empresariales obtenidos por personas jurídicas, en la medida en que esos beneficios se mantengan en sede de la sociedad y se reinviertan en Canarias."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "eco-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Junts per Catalunya (programa electoral)",
+    "source": {
+      "title": "Junts per Catalunya – Programa de govern, eleccions al Parlament de Catalunya 2024 (PDF difós per VilaWeb)",
+      "url": "https://imatges.vilaweb.cat/nacional/wp-content/uploads/2024/04/PROGRAMA-DE-GOVERN-1.pdf",
+      "date": "2024-04-26",
+      "locator": "Bloc de fiscalitat, apartat 'Impost sobre el patrimoni', p. 56-57",
+      "quote": "Reconeixem el caràcter injust d’aquest impost, atès que qui el tributa ho fa sobre unes rendes i patrimoni de les quals ja n’ha pagat l’impost corresponent en la seva generació. […] En el moment que la Generalitat disposi de les competències i la capacitat normativa necessàries per revisar-lo o suprimir-lo, caldria fer-ho"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "viv-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Partido Popular, Conclusiones de la XXVIII Interparlamentaria",
+    "source": {
+      "title": "Conclusiones de la XXVIII Interparlamentaria Popular (A Coruña)",
+      "url": "https://www.pp.es/storage/2026/01/2026.01.11-Conclusiones-28-Interparlamentaria-PP.pdf",
+      "date": "2026-01-11",
+      "locator": "Vivienda, punto 2.1 'Más seguridad jurídica'",
+      "quote": "Derogación de todas las leyes que destrozan el mercado del alquiler: zonas de mercado tensionado, intervención de precios y prohibición de desalojos por impago."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "viv-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Junts per Catalunya (programa electoral)",
+    "source": {
+      "title": "Junts per Catalunya – Programa de govern, eleccions al Parlament de Catalunya 2024 (PDF difós per VilaWeb)",
+      "url": "https://imatges.vilaweb.cat/nacional/wp-content/uploads/2024/04/PROGRAMA-DE-GOVERN-1.pdf",
+      "date": "2024-04-26",
+      "locator": "Apartat 'El dret a l’habitatge', p. 150-151",
+      "quote": "el control de preus no només perjudica els propietaris, sinó que també té efectes contraproduents sobre la població de llogaters vulnerables que es pretén protegir, atès que redueix l’oferta de lloguer"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "viv-1",
+    "stance": 0,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Jonatan Moreno, parlamentario de EAJ-PNV en el Parlamento Vasco",
+    "source": {
+      "title": "El precio del alquiler, las zonas tensionadas y Errenteria encienden el debate en el Parlamento Vasco (Deia)",
+      "url": "https://www.deia.eus/politica/2025/02/13/limitacion-precio-alquiler-debate-parlamento-9274444.amp.html",
+      "date": "2025-02-13",
+      "locator": "Pleno del Parlamento Vasco, debate de la PNL de EH Bildu sobre índice de precios",
+      "quote": "Tras afirmar que \"nadie en el Gobierno vasco está en contra de que se declaren zonas tensionadas ni de que se establezcan límites a los precios de los alquileres \", ha advertido de que \"no solucionará los problemas porque es una medida transitoria\"."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "viv-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Ana Pontón, portavoz nacional do BNG",
+    "source": {
+      "title": "Ana Pontón propón limitar os prezos do alugueiro e pide ao Goberno do PP un programa propio de axudas para familias e mocidade",
+      "url": "https://www.bng.gal/articulo/novas/ana-ponton-propon-limitar-prezos-do-alugueiro-pide-ao-goberno-do-pp-programa-propio-axudas-familias-mocidade/20250224145058039849.html",
+      "date": "2025-02-24",
+      "quote": "Demandamos que a Xunta dunha vez por todas poña en marcha topes ao alugueiro naquelas zonas que están máis tensionadas porque é a única forma de frear a escalada de prezos"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "viv-2",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "EH Bildu",
+    "source": {
+      "title": "La línea de avales del Gobierno vasco para la compra de vivienda va a servir para alimentar el mercado especulativo (ehbildu.eus)",
+      "url": "https://ehbildu.eus/es/noticias/nagusiala-linea-de-avales-del-gobierno-vasco-para-la-compra-de-vivienda-va-a-servir-para-alimentar-el-mercado-especulativo",
+      "date": "2025-07-08",
+      "quote": "EH Bildu defiende que los recursos públicos deben orientarse a la construcción y puesta a disposición de un parque público de vivienda en alquiler, estable, asequible y no especulativo."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "viv-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Coalición Canaria, programa electoral autonómico 2023",
+    "source": {
+      "title": "Canarias por delante. Programa electoral de Coalición Canaria, elecciones autonómicas 2023 (periodo 2023-2027)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00%20Programa%20Electoral%20Elecciones%20auton%C3%B3micas%20y%20municipales%202023.pdf",
+      "date": "2023-05-01",
+      "locator": "Vivienda, medida 3, p. 68",
+      "quote": "Promover el acceso a una vivienda en alquiler seguirá siendo un pilar básico en nuestra política de vivienda, por lo que se incrementará el parque público de vivienda a disposición de las familias de escasos recursos"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "viv-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Gerardo Pisarello Prados, diputado del Grupo Plurinacional SUMAR",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 103: toma en consideración de la proposición de ley de Junts de medidas urgentes contra la ocupación ilegal de inmuebles",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-103.PDF",
+      "date": "2025-03-18",
+      "locator": "Pág. 15-16, intervención del señor Pisarello Prados",
+      "quote": "Que la ocupación ilegal de morada ajena es algo rechazable, por supuesto que sí, pero es que ya existen leyes contra el allanamiento de morada que la impiden."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "viv-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Etna Estrems Fayos, diputada de ERC",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 103: toma en consideración de la proposición de ley de Junts de medidas urgentes contra la ocupación ilegal de inmuebles",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-103.PDF",
+      "date": "2025-03-18",
+      "locator": "Pág. 12-13, intervención de la señora Estrems Fayos (original en catalán)",
+      "quote": "la presentació d’aquesta iniciativa per nosaltres és una maniobra de distracció del que realment està demanant la ciutadania […] no acceptem que sigui el mateix legislar una violació de domicili o una ocupació d’un habitatge buit"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "viv-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario Vasco EAJ-PNV en el Congreso (texto de su enmienda)",
+    "source": {
+      "title": "El PNV propone en el Congreso un cambio legal para ejecutar desahucios en 48 horas en casos de ocupación (Onda Vasca / Europa Press)",
+      "url": "https://www.ondavasca.com/el-pnv-propone-en-el-congreso-un-cambio-legal-para-ejecutar-desahucios-en-48-horas-en-casos-de-ocupacion/",
+      "date": "2024-03-17",
+      "locator": "Enmienda del PNV a la LECrim en el proyecto de ley de medidas urgentes del servicio público de Justicia",
+      "quote": "\"ninguno de los cauces legales actualmente previsto en la vía penal para procurar el desalojo de la ocupación de viviendas resultan plenamente satisfactorios y, en todo caso, se demoran temporalmente de forma extraordinaria, con los consiguientes perjuicios de los legítimos titulares de la vivienda"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "san-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Ester Muñoz, vicesecretaria de Sanidad y Educación del PP",
+    "source": {
+      "title": "Ester Muñoz censura a Mónica García por apostar por modelos sanitarios fracasados como el de la Generalitat de Cataluña",
+      "url": "https://www.pp.es/actualidad/articulos/ester-munoz-censura-monica-garcia-por-apostar-por-modelos-sanitarios-fracasados/",
+      "date": "2024-05-17",
+      "locator": "Cuerpo de la nota",
+      "quote": "Considera que el modelo de colaboración público-privado ha sido positivo en España y lamenta que para la ministra “por encima de los intereses de los ciudadanos está su ideología sectaria”."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "san-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "ERC (programa electoral)",
+    "source": {
+      "title": "ERC – Programa electoral, eleccions al Parlament de Catalunya 2024",
+      "url": "https://esquerrarepublicana.cat/documents/c2024-programa.pdf",
+      "date": "2024-04-29",
+      "locator": "Àmbit de salut, 'Proposta destacada'",
+      "quote": "establir en el sistema de salut de Catalunya un model que garanteixi l’equitat territorial i de resultats, amb una atenció de qualitat, on no hi hagi lloc per l’ànim de lucre."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "san-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Iñigo Ansola, presidente del Bizkai Buru Batzar (EAJ-PNV)",
+    "source": {
+      "title": "El PNV responde a las enmiendas de Bildu sobre el pacto de salud: \"No podemos hacer públicos todos los servicios. Es inviable\" (Onda Vasca)",
+      "url": "https://www.ondavasca.com/el-pnv-responde-a-las-enmiendas-de-bildu-sobre-el-pacto-de-salud-no-podemos-hacer-publicos-todos-los-servicios-es-inviable/amp/",
+      "date": "2025-06-23",
+      "locator": "Entrevista en Onda Vasca",
+      "quote": "\"No podemos hacer público absolutamente todos los servicios, eso es inviable, y esa colaboración público-privada funciona y ha funcionado bien."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "san-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Fernando Clavijo, secretario general de CC y presidente de Canarias",
+    "source": {
+      "title": "Clavijo pasa de afear al PSOE el gasto en conciertos sanitarios a anunciar derivaciones “sin complejos” a la privada (elDiario.es / Canarias Ahora)",
+      "url": "https://www.eldiario.es/canariasahora/sociedad/clavijo-pasa-afear-psoe-gasto-conciertos-sanitarios-anunciar-derivaciones-complejos-privada_1_10633545.html",
+      "date": "2023-10-26",
+      "locator": "Foro de Canarias7, declaraciones de Clavijo",
+      "quote": "“El servicio sanitario es público si lo paga el ciudadano”, ha dicho el presidente canario sobre la derivación de pacientes a las clínicas concertadas"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "san-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Grupo Parlamentario de UPN en el Parlamento de Navarra",
+    "source": {
+      "title": "Moción por la que se insta al Gobierno de Navarra a incorporar productos ópticos y servicios de salud bucodental a la cartera de servicios del Servicio Navarro de Salud-Osasunbidea",
+      "url": "https://www.upn.org/iniciativas/mocion-por-la-que-se-insta-al-gobierno-de-navarra-a-incorporar-productos-opticos-y-servicios-de-salud-bucodental-a-la-cartera-de-servicios-del-servicio-navarro-de-salud-osasunbidea/",
+      "date": "2025-04-09",
+      "locator": "título de la iniciativa (la web no reproduce el texto)",
+      "quote": "Moción por la que se insta al Gobierno de Navarra a incorporar productos ópticos y servicios de salud bucodental a la cartera de servicios del Servicio Navarro de Salud-Osasunbidea"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "san-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Movimiento Sumar (presentación de Yolanda Díaz y el Grupo Plurinacional Sumar)",
+    "source": {
+      "title": "Cuentas para transformar: prioridades de Sumar para los PGE 2025",
+      "url": "https://movimientosumar.es/cuentas-para-transformar-pge-2025/",
+      "date": "2024-09-16",
+      "locator": "Nota de prensa, último párrafo",
+      "quote": "el reequilibrio del IVA, es decir, incluirlo en la educación y seguros sanitarios privados"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "san-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Junts per Catalunya (programa electoral)",
+    "source": {
+      "title": "Junts per Catalunya – Programa de govern, eleccions al Parlament de Catalunya 2024 (PDF difós per VilaWeb)",
+      "url": "https://imatges.vilaweb.cat/nacional/wp-content/uploads/2024/04/PROGRAMA-DE-GOVERN-1.pdf",
+      "date": "2024-04-26",
+      "locator": "Bloc de fiscalitat, IRPF, p. 56",
+      "quote": "Deduirem el 15% de l’IRPF en despeses de salut per l’import de les quotes satisfetes, com a abonament per la pràctica d’activitat esportiva en instal·lacions públiques o privades, així com pel pagament d’assegurances mèdiques i sanitàries."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "edu-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "PSOE, 41 Congreso Federal",
+    "source": {
+      "title": "Resolución Política del 41 Congreso Federal del PSOE «España 2030» (publicada por el PSC-PSOE)",
+      "url": "https://psc-psoe.es/wp-content/uploads/2024/12/RESOLUCION-41C_1.pdf",
+      "date": "2024-12-01",
+      "locator": "3ª Meta (educación), pág. 54 del PDF",
+      "quote": "Reconocer el papel que algunos de estos centros cumplen en nuestro país, dado el apoyo que reciben del Estado, no debe confundirse con la apuesta que desde el PSOE hacemos por una educación pública"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "edu-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "ERC (programa electoral)",
+    "source": {
+      "title": "ERC – Programa electoral, eleccions al Parlament de Catalunya 2024",
+      "url": "https://esquerrarepublicana.cat/documents/c2024-programa.pdf",
+      "date": "2024-04-29",
+      "locator": "Àmbit d'educació, proposta 8 'Nou decret de concerts', p. 153",
+      "quote": "Equipararem les condicions de la pública i la concertada dins d’un únic Servei Educatiu de Catalunya. Millorarem el finançament dels centres aplicant fórmules més equitatives de finançament"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "edu-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Gorka Álvarez (EA-NV) y Ekain Rico (ES-SV), grupos parlamentarios EAJ-PNV y PSE-EE",
+    "source": {
+      "title": "Enmiendas registradas por EAJ-PNV y PSE-EE al Proyecto de Ley de Educación del País Vasco (Parlamento Vasco, exp. 12\\09\\01\\00\\00031)",
+      "url": "https://parlamentovasco.eaj-pnv.eus/es/adjuntos-documentos/21047/pdf/enmiendas-registradas-por-eaj-pnv-y-pse-ee-al-proy",
+      "date": "2023-10-03",
+      "locator": "Enmienda nº 9 de adición, artículo 22 (Centros privados concertados)",
+      "quote": "Los centros concertados que presten enseñanzas obligatorias dentro del Servicio Público Vasco de la Educación serán financiados íntegramente en lo que a tales enseñanzas respecta."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "edu-2",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "EH Bildu Nafarroa (Eneka Maiz, portavoz de Educación en el Parlamento de Navarra)",
+    "source": {
+      "title": "EH Bildu muestra su satisfacción por la decisión de no crear aulas de dos años en Barañain y Ansoain (ehbildu.eus)",
+      "url": "https://ehbildu.eus/herriak/nafarroa/es/noticias/eh-bildu-muestra-su-satisfaccion-por-la-decision-de-no-crear-aulas-de-dos-anos-en-baranain-y-ansoain",
+      "date": "2025-07-01",
+      "quote": "“sigue siendo necesario acordar una hoja de ruta concreta para implantar un sistema integral y homogéneo, para que la oferta sea gratuita, universal y de calidad, como en el resto de etapas educativas”"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "edu-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Imanol Pradales, candidato a lehendakari (EAJ-PNV)",
+    "source": {
+      "title": "Pradales presenta un decálogo de compromisos para hacer crecer Euskadi en bienestar (eaj-pnv.eus)",
+      "url": "https://www.eaj-pnv.eus/es/noticias/55540/pradales-presenta-un-decalogo-de-compromisos-para-",
+      "date": "2024-04-03",
+      "locator": "Compromiso 5 del decálogo electoral",
+      "quote": "aumentará la ayuda por hijo a 200 euros mensuales hasta los 7 u 8 años (y hasta los 10 para familias numerosas o monoparentales), se extenderán los permisos de paternidad y maternidad a 24 semanas, se mantendrá la gratuidad de las haurreskolak"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "edu-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
+    "source": {
+      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
+      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
+      "date": "2025-07-06",
+      "locator": "Apartado 'La Nación', lenguas",
+      "quote": "Garantizaremos el derecho constitucional de recibir enseñanza en español en todas las etapas del sistema educativo y en toda la nación, desde el respeto a las lenguas cooficiales de cada una de las comunidades y en cumplimiento de las sentencias judiciales."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "edu-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Pello Otxandiano, director de programa de EH Bildu",
+    "source": {
+      "title": "EH Bildu corta amarras con el PNV: “De aquí en adelante, el debate ya es público” (El Salto)",
+      "url": "https://www.elsaltodiario.com/educacion/eh-bildu-corta-amarras-pnv-aqui-adelante-debate-es-publico",
+      "date": "2023-10-04",
+      "quote": "“Los modelos están superados por la realidad, una realidad sociolingüística distinta a la de 1982”, ha afirmado Otxandiano"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "edu-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Néstor Rego Candamil, diputado del BNG",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 206 (22 de septiembre de 2026)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-206.PDF",
+      "date": "2026-09-22",
+      "locator": "p. 84 aprox., intervención del señor Rego Candamil",
+      "quote": "Digo infelizmente porque a relixión tiña que estar fóra das escolas, o diñeiro público debe ser para o ensino público e evidentemente en nacións como Galiza a lingua vehicular debe ser a lingua propia de Galiza, que é o galego."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "emp-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Juan Bravo Baena, diputado y vicesecretario de Economía del PP",
+    "source": {
+      "title": "Acta taquigráfica del Pleno del Congreso de los Diputados, 10 de septiembre de 2025 (debate de totalidad del Proyecto de Ley de reducción de la jornada)",
+      "url": "https://www.congreso.es/docu/tramit/LegXV/AT/ATCD_15_PL_20250910.pdf",
+      "date": "2025-09-10",
+      "locator": "Debate de totalidad, enmienda del Grupo Popular, intervención del señor Bravo Baena",
+      "quote": "La jornada laboral bajará, como lleva haciéndose desde años, pero no desde la imposición, sino desde el acuerdo y el diálogo."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "emp-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "José María Figaredo Álvarez-Sala, portavoz adjunto del Grupo Parlamentario VOX",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 135 (10 de septiembre de 2025): debate de totalidad del Proyecto de Ley de reducción de la jornada ordinaria",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-135.PDF",
+      "date": "2025-09-10",
+      "locator": "Pág. 123-124, defensa de la enmienda a la totalidad de VOX",
+      "quote": "Lo cierto es que esta norma es y será, como les digo, un desastre para los trabajadores de España."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "emp-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Grupo Parlamentario Junts per Catalunya (firma Míriam Nogueras, portavoz)",
+    "source": {
+      "title": "BOCG Congreso, Serie A núm. 58-2: enmienda a la totalidad de devolución de Junts al Proyecto de Ley de reducción de la jornada ordinaria de trabajo (121/000058)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-2.PDF",
+      "date": "2025-06-24",
+      "locator": "Enmienda núm. 1, justificación, p. 2",
+      "quote": "Fiar la solución a la reducción por ley de la jornada laboral puede conllevar el efecto contrario al deseado […] La viabilidad de las pymes se puede ver gravemente perjudicada por esta imposición rígida de la reducción de la jornada"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "emp-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Aitor Esteban, portavoz de EAJ-PNV en el Congreso",
+    "source": {
+      "title": "El PNV advierte que la reducción de la jornada en pequeñas empresas \"no es tan sencillo\" (Deia)",
+      "url": "https://www.deia.eus/politica/2024/11/11/pnv-advierte-reduccion-jornada-pequenas-8915596.amp.html",
+      "date": "2024-11-11",
+      "quote": "\"Por lo tanto, nosotros estamos a favor de la idea en general, porque aquí ya lo tenemos en vigor, empezando por la administración, pero quizás en otros negocios no es tan sencillo y eso habría que estudiarlo bien, que es lo que pedimos\""
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "emp-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 135 (10 de septiembre de 2025): debate de totalidad del Proyecto de Ley de reducción de la jornada ordinaria",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-135.PDF",
+      "date": "2025-09-10",
+      "locator": "Pág. 142",
+      "quote": "Aprobamos el acuerdo, el entendimiento, la negociación, pero en ningún caso la intervención, la imposición y tampoco la amenaza."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "emp-2",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "EH Bildu",
+    "source": {
+      "title": "Compromiso social de EH Bildu en Madrid (ehbildu.eus)",
+      "url": "https://ehbildu.eus/es/noticias/compromiso-social-de-eh-bildu-en-madrid",
+      "date": "2019-04-25",
+      "locator": "Apartado Pensiones",
+      "quote": "Nos comprometemos a llevar las exigencias de las y los pensionistas vascos a Madrid, comenzando por proponer 1080€ de pensión mínima, la actualización por ley al IPC y la derogación definitiva del factor de sostenibilidad."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "emp-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 170 (26 de febrero de 2026): convalidación del Real Decreto-ley 3/2026 de revalorización de las pensiones",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-170.PDF",
+      "date": "2026-02-26",
+      "locator": "Pág. 44",
+      "quote": "En Unión del Pueblo Navarro lo tenemos claro y lo hemos defendido por activa y por pasiva: respaldamos la revalorización de las pensiones."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "emp-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Elma Saiz, ministra de Inclusión, Seguridad Social y Migraciones (PSOE)",
+    "source": {
+      "title": "Saiz insiste en que la reforma de pensiones no contempla que la edad de jubilación sea a los 71 años (Forbes España / Europa Press)",
+      "url": "https://forbes.es/economia/761376/saiz-insiste-en-que-la-reforma-de-pensiones-no-contempla-que-la-edad-de-jubilacion-sea-a-los-71-anos/",
+      "date": "2025-07-11",
+      "locator": "entrevista en La Cuatro",
+      "quote": "«Detrás de determinadas afirmaciones hay intereses económicos y hay intereses que muchas veces son ideológicos», ha indicado Elma Saiz sobre la cuestión."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "emp-3",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Yolanda Díaz, entonces líder y candidata de Sumar",
+    "source": {
+      "title": "Díaz confronta con el PSOE por la edad de jubilación: \"Sumar no va a permitir que se alargue\" (Onda Vasca / Noticias Taldea)",
+      "url": "https://www.ondavasca.com/diaz-confronta-con-el-psoe-por-la-edad-de-jubilacion-sumar-no-va-a-permitir-que-se-alargue/",
+      "date": "2023-07-07",
+      "locator": "Mitin de campaña en Zaragoza",
+      "quote": "Quiero ser clara, Sumar defiende que un trabajador que se sube a un andamio no puede trabajar a partir de los 65 años, que un docente no puede trabajar a partir de los 65 años"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "emp-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Aitor Esteban, portavoz de EAJ-PNV en el Congreso",
+    "source": {
+      "title": "El PNV rechaza la propuesta de jubilación a los 75 años: \"Que con nosotros no cuenten\" (El Independiente)",
+      "url": "https://www.elindependiente.com/espana/2021/09/27/el-pnv-rechaza-la-propuesta-de-jubilacion-a-los-75-anos-que-con-nosotros-no-cuenten/amp/",
+      "date": "2021-09-27",
+      "quote": "\"Es algo propio del ministro Escrivá, le viene una idea y la suelta. Se trata de una propuesta que ni es realista ni es justa\", ha asegurado Esteban."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "inm-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Partido Popular, Conclusiones de la XXVIII Interparlamentaria",
+    "source": {
+      "title": "Conclusiones de la XXVIII Interparlamentaria Popular (A Coruña)",
+      "url": "https://www.pp.es/storage/2026/01/2026.01.11-Conclusiones-28-Interparlamentaria-PP.pdf",
+      "date": "2026-01-11",
+      "locator": "Inmigración, medidas",
+      "quote": "Fin de las regularizaciones masivas y sustitución por procesos individualizados, rigurosos y basados en la aportación real."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "inm-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Jon Iñarritu, diputado de EH Bildu en el Congreso",
+    "source": {
+      "title": "La ILP por la regularización de personas migrantes entra en el Congreso con el sí mayoritario de los grupos (El Salto)",
+      "url": "https://www.elsaltodiario.com/migracion/ilp-regularizacion-personas-migrantes-entra-congreso-mayoritario-grupo",
+      "date": "2024-04-09",
+      "locator": "Debate de toma en consideración de la ILP, Pleno del Congreso",
+      "quote": "“Animo a que apoyen la misma y a que se impulsen las comisiones cuanto antes”, aseguraba."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "inm-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Fernando Clavijo, secretario general de CC y presidente de Canarias",
+    "source": {
+      "title": "Clavijo manifiesta su apoyo a la regularización de migrantes (RTVC / EFE)",
+      "url": "https://rtvc.es/clavijo-apoyo-regularizacion-migrantes/",
+      "date": "2025-05-20",
+      "locator": "Declaraciones en Bruselas",
+      "quote": "Para Clavijo, es «razonable que esa gente pueda tener papeles para poder trabajar, para poder estar en la economía legal, para no ser objeto de prostitución, trata o de mafias y para que puedan abrirse un futuro, que es lo que han venido buscando»."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "inm-2",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 168 (24 de febrero de 2026): proposición no de ley del GP Popular para la ejecución efectiva de las órdenes de expulsión",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-168.PDF",
+      "date": "2026-02-24",
+      "locator": "Pág. 50",
+      "quote": "Y lo estamos viendo con las órdenes de expulsión, cuyo nivel de cumplimiento en nuestro país es ridículo, vergonzoso, por dejadez, por incapacidad, por incompetencia o por puro interés."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "inm-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Grupo Parlamentario Junts per Catalunya",
+    "source": {
+      "title": "BOCG Congreso, Serie B núm. 355-1: Proposición de Ley Orgánica de delegación en Cataluña de competencias estatales en materia de inmigración (122/000299), presentada por Junts",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-355-1.PDF",
+      "date": "2026-09-11",
+      "locator": "Artículo 5. Gestión Colectiva de Contrataciones en Origen",
+      "quote": "Se delega en la Comunidad Autónoma de Catalunya establecer la previsión anual de las ocupaciones y, en su caso, de las cifras previstas de empleos que se puedan cubrir a través de la gestión colectiva de contrataciones en origen en un período determinado, en relación a las necesidades de Catalunya."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "inm-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Ione Belarra Urteaga, secretaria general de Podemos",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 68 (9 de octubre de 2024), comparecencia del presidente del Gobierno sobre migraciones",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-68.PDF",
+      "date": "2024-10-09",
+      "locator": "p. 36 aprox., intervención de la señora Belarra Urteaga",
+      "quote": "Cuando les decimos a las personas migrantes que nos interesa que vengan porque sirven para algo, porque así van a tener hijos que paguen nuestras pensiones, porque así vienen a hacer el trabajo que la gente que vive aquí no quiere hacer, en realidad estamos lanzando una visión utilitarista sobre las personas migrantes que no respeta el derecho a migrar"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "inm-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Cristina Ibarrola, presidenta de UPN",
+    "source": {
+      "title": "Ibarrola exige para Navarra la competencia para la gestión de los permisos de trabajo de las personas extranjeras (upn.org)",
+      "url": "https://www.upn.org/accion-inmigracion/",
+      "date": "2026-04-22",
+      "locator": "clausura de la jornada 'Acción Inmigración'",
+      "quote": "De acuerdo con el objetivo de UPN de vincular la migración al empleo, Ibarrola ha apostado por fomentar la contratación en origen, “algo que, en estos momentos, no facilita nuestra legislación”."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "med-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Jordi Salvador i Duch, diputado de ERC",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 94: debate de la proposición no de ley del PP sobre la generación nuclear en España",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-94.PDF",
+      "date": "2025-02-11",
+      "locator": "Pág. 40-41, intervención del señor Salvador i Duch (original en catalán)",
+      "quote": "Nosaltres no defensem allargar la vida a les nuclears, però tampoc volem un tancament improvisat que posi en risc l’economia i la vida del territori. […] El tancament de les nuclears s’ha de fer, però s’ha de fer bé."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "med-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Pilar Calvo Gómez, diputada de Junts per Catalunya",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 94: debate de la proposición no de ley del PP sobre la generación nuclear en España",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-94.PDF",
+      "date": "2025-02-11",
+      "locator": "Pág. 39-40, intervención de la señora Calvo Gómez (original en catalán)",
+      "quote": "no som aquí per respondre des del simplisme de nuclears sí, nuclears, no; sinó per reconèixer que no podem prescindir de l’energia que ens aporten les nuclears sense caure en noves dependències o assumir riscos de falta de subministrament."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "med-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Oskar Matute, diputado de EH Bildu en el Congreso",
+    "source": {
+      "title": "Oskar Matute: «Defendemos una intervención pública activa en el mercado de la vivienda» (ehbildu.eus)",
+      "url": "https://ehbildu.eus/es/noticias/oskar-matute-defendemos-una-intervencion-publica-activa-en-el-mercado-de-la-vivienda",
+      "date": "2025-05-15",
+      "quote": "«hay un lobby nuclear que ha aprovechado el apagón eléctrico para recuperar un debate superado. Garoña se cerró por la lucha popular y porque no era rentable. La realidad es que los costes son monumentales y los residuos un peligro permanente»"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "med-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Idoia Sagastizabal, diputada y portavoz económica de EAJ-PNV en el Congreso",
+    "source": {
+      "title": "El PNV apuesta por las renovables y previene del coste de la energía nuclear (Onda Vasca)",
+      "url": "https://www.ondavasca.com/el-pnv-apuesta-por-las-renovables-y-previene-del-coste-de-la-energia-nuclear/",
+      "date": "2025-05-05",
+      "locator": "Entrevista en Onda Vasca",
+      "quote": "“¿Van a invertir en algo más costoso, que exige una gestión de residuos importante, y que hace que el Estado sea dependiente porque no tiene recursos autóctonos sino que hay que traer uranio de Rusia y Kazajistán?”"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "med-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Néstor Rego Candamil, diputado del BNG",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 111 (6 de mayo de 2025), PNL del GP Popular sobre transición energética",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-111.PDF",
+      "date": "2025-05-06",
+      "locator": "pp. 40-41, intervención del señor Rego Candamil",
+      "quote": "Din vostedes: transición enerxética, limpa, xusta e competitiva, mais unha das primeiras medidas é defender a continuidade das nucleares. Pois verán, por moito que se empeñen os novos gurús do desenvolvemento mesmo neoliberal, a enerxía nuclear non é verde, non é limpa e non é segura."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "med-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 202 (9 de septiembre de 2026)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-202.PDF",
+      "date": "2026-09-09",
+      "locator": "Pág. 111",
+      "quote": "Nosotros, desde Navarra, hemos venido dando ejemplo, lo cual no quiere decir que no sea compatible con otro tipo de fuentes energéticas, como puede ser la nuclear."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "med-2",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Alberto Núñez Feijóo, presidente del PP",
+    "source": {
+      "title": "Feijóo considera que Mercosur puede ser una “oportunidad económica”, pero exige control del fronteras e igualdad de condiciones para el sector primario",
+      "url": "https://www.pp.es/actualidad/articulos/feijoo-considera-que-mercosur-puede-ser-una-oportunidad-economica-pero-exige-control-del-fronteras-e-igualdad-de-condiciones-para-el-sector-primario/",
+      "date": "2026-01-16",
+      "locator": "Destacados de la nota",
+      "quote": "Celebra que se puedan seguir vendiendo coches con motores de combustión más allá de 2035 , “un compromiso del Partido Popular español en las pasadas elecciones europeas”"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "med-2",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Mikel Jauregi, consejero de Industria del Gobierno Vasco (EAJ-PNV)",
+    "source": {
+      "title": "Los aranceles impactarán en la automoción vasca con un sobrecoste de 25 millones (Deia)",
+      "url": "https://www.deia.eus/economia/2025/09/22/aranceles-impactaran-automocion-vasca-sobrecoste-10115160.amp.html",
+      "date": "2025-09-22",
+      "quote": "“Creemos que no está funcionando y, viendo la que está cayendo en ese sector, se tiene que hacer flexible”, aseguró ayer Jauregi antes del inicio de la reunión."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "med-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Coalición Canaria, programa electoral autonómico 2023",
+    "source": {
+      "title": "Canarias por delante. Programa electoral de Coalición Canaria, elecciones autonómicas 2023 (periodo 2023-2027)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00%20Programa%20Electoral%20Elecciones%20auton%C3%B3micas%20y%20municipales%202023.pdf",
+      "date": "2023-05-01",
+      "locator": "Transición ecológica, medida 2 (desarrollo de la Ley Canaria de Cambio Climático), p. 72",
+      "quote": "Antes de 2032 hay que sustituir los vehículos de combustión interna por otros con emisiones contaminantes nulas."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "med-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Grupo Parlamentario VOX (moción consecuencia de interpelación urgente 173/000104)",
+    "source": {
+      "title": "BOCG Congreso, Serie D, núm. 360: Moción de VOX sobre la política energética (Plan Nacional de Soberanía Energética)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-360.PDF",
+      "date": "2025-06-19",
+      "locator": "Pág. 11, punto 3.b",
+      "quote": "Suprimir el Impuesto Especial sobre la Electricidad, el Impuesto sobre Hidrocarburos y el Impuesto sobre el Valor de la Producción de Energía Eléctrica."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "med-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Josep Maria Cruset Domènech, diputado de Junts per Catalunya",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 176: convalidación del real decreto-ley anticrisis por la guerra en Oriente Medio (rebaja del IVA y del impuesto de hidrocarburos)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-176.PDF",
+      "date": "2026-03-26",
+      "locator": "Intervención del señor Cruset Domènech (original en catalán)",
+      "quote": "avui aprovarem aquest Reial decret. Bàsicament perquè la seva columna vertebral són les propostes de Junts per Catalunya per ajudar a la classe mitjana i treballadora, millorar el preu de l’electricitat, millorar el preu del gasoil, millorar el preu de la gasolina"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "med-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Mertxe Aizpurua, portavoz de EH Bildu en el Congreso",
+    "source": {
+      "title": "Mertxe Aizpurua: «Bajar el IVA no es la solución: no tiene ningún enfoque progresivo ni beneficio para la ciudadanía» (ehbildu.eus)",
+      "url": "https://ehbildu.eus/es/noticias/mertxe-aizpurua-bajar-el-iva-no-es-la-solucion-no-tiene-ningun-enfoque-progresivo-ni-beneficio-para-la-ciudadania",
+      "date": "2026-03-20",
+      "locator": "Entrevista en Egun On (ETB1)",
+      "quote": "«Bajar el IVA no es la solución: no tiene ningún enfoque progresivo ni beneficio para la ciudadanía. Recientemente hemos visto que la bajada de impuestos no se refleja en los bolsillos de los ciudadanos y que, en cambio, los beneficios se van a las grandes empresas: a las grandes compañías energéticas y a las petroleras»"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "med-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Javier Sánchez Serna, diputado de Podemos",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 176 (26 de marzo de 2026), convalidación del real decreto-ley de respuesta a la guerra de Irán",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-176.PDF",
+      "date": "2026-03-26",
+      "locator": "p. 10 aprox., intervención del señor Sánchez Serna",
+      "quote": "En segundo lugar, porque es una medida injusta, ya que ayuda lo mismo al millonario que va a echarle gasolina a su Porsche o a su Maserati, que al señor Juan, que es autónomo y que va todos los días al trabajo en una furgoneta. [...] Y, en tercer lugar, nos parece una medida cobarde, porque reduce la recaudación pública"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "med-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Cristina Ibarrola, presidenta de UPN",
+    "source": {
+      "title": "Ibarrola lamenta la inacción del Gobierno de Navarra ante los efectos de la crisis en Oriente Próximo por “seguidismo de Pedro Sánchez” (upn.org)",
+      "url": "https://www.upn.org/ibarrola-lamenta-la-inaccion-del-gobierno-de-navarra-ante-los-efectos-de-la-crisis-en-oriente-proximo-por-seguidismo-de-pedro-sanchez/",
+      "date": "2026-03-18",
+      "locator": "texto de la nota",
+      "quote": "“Representan aproximadamente entre el 45% y el 50% del precio final de la gasolina y el diésel, y es momento de que el Estado renuncie temporalmente a ese ingreso extra para que no afecte al bolsillo del ciudadano”, ha solicitado."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "ter-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
+    "source": {
+      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
+      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
+      "date": "2025-07-06",
+      "locator": "Apartado 'La Nación'",
+      "quote": "El marco competencial no puede ser un zoco en el que se compran mayorías parlamentarias. El núcleo de competencias indelegables del Estado en ningún caso puede estar sujeto a negociación."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "ter-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "PSOE, 41 Congreso Federal",
+    "source": {
+      "title": "Resolución Política del 41 Congreso Federal del PSOE «España 2030» (publicada por el PSC-PSOE)",
+      "url": "https://psc-psoe.es/wp-content/uploads/2024/12/RESOLUCION-41C_1.pdf",
+      "date": "2024-12-01",
+      "locator": "8ª Meta, III. Más federalismo, autogobierno y co-gobierno (pág. 134 del PDF)",
+      "quote": "24) continuaremos transfiriendo competencias a aquellos gobiernos autonómicos que lo soliciten"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "ter-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Javier Sánchez Serna, diputado de Podemos",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 66 (26 de septiembre de 2024)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-66.PDF",
+      "date": "2024-09-26",
+      "locator": "p. 26, intervención del señor Sánchez Serna",
+      "quote": "Nosotros siempre hemos tenido esto claro y, por ello, no nos oponemos a que se llegue a determinados acuerdos con comunidades autónomas para mejorar su financiación o, incluso, para que determinadas comunidades autónomas asuman más competencias si así lo quieren."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "ter-2",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Pedro Sánchez, secretario general del PSOE y presidente del Gobierno",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, XIV Legislatura, Pleno núm. 116 (30 de junio de 2021)",
+      "url": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-116.PDF",
+      "date": "2021-06-30",
+      "locator": "Pág. 6",
+      "quote": "Señorías, no habrá referéndum de autodeterminación salvo que quienes lo defienden consigan convencer a las tres quintas partes de esta Cámara para que se modifique el artículo 2 de la Constitución española y posteriormente los españoles y españolas ratifiquen ese cambio mediante referéndum. Ya les digo yo que el Partido Socialista Obrero español, del que me honro ser su secretario general, nunca jamás aceptará ese tipo de derivadas."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "ter-2",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 5 (27 de septiembre de 2023): debate de investidura de Alberto Núñez Feijóo",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-5.PDF",
+      "date": "2023-09-27",
+      "locator": "Pág. 25",
+      "quote": "Y tampoco consideramos desde Unión del Pueblo Navarro que se pueda negociar ni pactar con prófugos de la justicia ni que se pueda recurrir a indultos, amnistías, consultas o referéndums de autodeterminación totalmente ilegales y que son una humillación para el sistema democrático español y también una traición para la Constitución española."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "ter-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
+    "source": {
+      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
+      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
+      "date": "2025-07-06",
+      "locator": "Apartado 'Principios y valores'",
+      "quote": "Frente a los separatismos insolidarios y la demagogia recentralizadora, creemos que el Estado de las Autonomías, aún perfectible, no solo es el que mejor se ajusta a la realidad de nuestra nación"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "ter-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Javier Sánchez Serna, diputado de Podemos",
+    "source": {
+      "title": "Diario de Sesiones del Congreso, Pleno núm. 66 (26 de septiembre de 2024)",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-66.PDF",
+      "date": "2024-09-26",
+      "locator": "p. 26, intervención del señor Sánchez Serna",
+      "quote": "De hecho, nosotros pensamos que la descentralización es y siempre ha sido una herramienta democrática para acercar lo más posible decisiones políticas y la rendición de cuentas a la gente. España no ha sido históricamente un Estado centralista ni homogéneo"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "ter-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Coalición Canaria, programa electoral autonómico 2023",
+    "source": {
+      "title": "Canarias por delante. Programa electoral de Coalición Canaria, elecciones autonómicas 2023 (periodo 2023-2027)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00%20Programa%20Electoral%20Elecciones%20auton%C3%B3micas%20y%20municipales%202023.pdf",
+      "date": "2023-05-01",
+      "locator": "Justicia, p. 35",
+      "quote": "Es necesario culminar nuestro autogobierno en una materia compleja en la que el Ministerio de Justicia sigue conservando competencias que no le corresponden"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "ter-3",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "parlamento",
+    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
+    "source": {
+      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 188 (27 de mayo de 2026): comparecencia sobre la gestión de la crisis del hantavirus",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-188.PDF",
+      "date": "2026-05-27",
+      "locator": "Pág. 96",
+      "quote": "Pero podríamos decirle también, señora ministra, que ustedes han cometido un error mayúsculo contra la España de las autonomías, que nos caracterizan como país, porque no se puede consentir el enfrentamiento que ustedes generaron con una comunidad autónoma."
+    },
+    "verification": "verificado"
   }
 ]

@@ -169,3 +169,41 @@ describe('coincidencia y cobertura', () => {
     expect(r.recommended.affinity).toBeGreaterThanOrEqual(esm.affinity);
   });
 });
+
+describe('posiciones por declaraciones', () => {
+  it('cuentan menos que las del programa', () => {
+    const ds = structuredClone(sampleDataset);
+    const [a, b] = ds.parties;
+    const m = ds.measures[0]!;
+    ds.positions = [
+      { partyId: a!.id, measureId: m.id, stance: 2, verification: 'verificado', source: { title: 'Programa', url: 'https://example.org/p' } },
+      {
+        partyId: b!.id,
+        measureId: m.id,
+        stance: 2,
+        verification: 'verificado',
+        origin: 'declaracion',
+        declarationKind: 'parlamento',
+        source: { title: 'Diario de Sesiones', url: 'https://example.org/d', date: '2025-01-01', quote: 'cita' },
+      },
+    ];
+    ds.corruptionCases = [];
+    const answers: Answers = { importance: {}, agreement: { [m.id]: 2 } };
+    const p = beliefs(ds, answers);
+    expect(p.get(a!.id)!).toBeGreaterThan(p.get(b!.id)!);
+    expect(p.get(b!.id)!).toBeGreaterThan(p.get(ds.parties[2]!.id)!);
+
+    const r = buildReport(ds, answers);
+    const rb = r.ranking.find((x) => x.party.id === b!.id)!;
+    expect(rb.fromDeclarations).toBe(1);
+    expect(rb.affinity).toBeCloseTo(0.5 + 0.5 * DEFAULT_CONFIG.declarationWeight);
+  });
+
+  it('el validador exige enlace, cita, fecha y tipo de fuente', () => {
+    const ds = structuredClone(sampleDataset);
+    ds.positions.push({ partyId: ds.parties[0]!.id, measureId: 'no-existe', stance: 1, verification: 'pendiente', origin: 'declaracion' });
+    const errors = validateDataset(ds);
+    expect(errors.some((e) => e.includes('declaración sin enlace'))).toBe(true);
+    expect(errors.some((e) => e.includes('sin tipo de fuente'))).toBe(true);
+  });
+});
