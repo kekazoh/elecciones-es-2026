@@ -53,4 +53,25 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 - Pendiente: ERE (falta reflejar los amparos del TC de 2024).
 - La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
   Filesa y casos autonómicos y municipales.
-- Posiciones: pendientes de codificar a partir de los programas de 2023.
+- Posiciones: 156 codificadas a partir de los programas, todas `pendiente` de
+  revisión humana (el motor aún no las usa). Detalle, matriz y motivos de cada
+  una en [REVISION-POSICIONES.md](REVISION-POSICIONES.md). `source.locator` da
+  la página del PDF (no la impresa) y el apartado; `source.quote` es literal y se
+  ha comprobado automáticamente contra el texto extraído de esa página.
+- Programas usados y salvedades:
+  - PP, Sumar, ERC, PNV y BNG: PDF oficial del partido, generales de 2023.
+  - PSOE y Vox: la web del partido bloquea las descargas automáticas. Se citan
+    la URL oficial del PSOE y la página del programa de Vox, pero el texto se
+    leyó de copias publicadas por la prensa (ara.cat para el PSOE,
+    theobjective.com para Vox, con pie de página votaabascal.es). Conviene
+    cotejar la paginación con el original.
+  - Junts y EH Bildu: no se ha encontrado el PDF en la web del partido; se citan
+    copias de beteve.cat y elnacional.cat del programa de las generales de 2023.
+  - Podemos: en 2023 concurrió dentro de Sumar. Se usa su último programa propio
+    para unas generales (abril de 2019, copia de beteve.cat).
+  - Coalición Canaria: no publicó programa de generales en 2023; se usa el de
+    noviembre de 2019 de su web. Es un manifiesto breve: solo 4 medidas.
+  - UPN: no se ha localizado programa para las generales de 2023; se usa el de
+    las forales y municipales de mayo de 2023 (copia de iniciativa2028.es).
+  - Ninguna posición cubre `san-3` (deducción del seguro médico privado):
+    ningún programa la menciona. Conviene plantearse cambiar esa medida.

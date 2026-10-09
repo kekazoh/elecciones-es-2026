@@ -1,1 +1,2003 @@
-[]
+[
+  {
+    "partyId": "vox",
+    "measureId": "eco-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 75 del PDF · Fiscalidad para la prosperidad",
+      "quote": "Los tipos únicos del IRPF del 15% y del 25% se reducirán cuatro puntos por cada hijo"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "eco-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 17 del PDF · Economía · VIII. Una fiscalidad justa",
+      "quote": "Aumento de la progresividad del impuesto sobre la renta de las personas físicas (IRPF). En primer lugar, ampliando el número de tramos a partir de 120.000€ y aplicando tipos marginales crecientes: del 45% marginal actual se subirá por tramos hasta llegar al 52% para rentas a partir de 300.000€."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "eco-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 70 del PDF · Política fiscal – b) Acabar amb la discriminació de les rendes del treball",
+      "quote": "Per tal de corregir-ho, es proposa incrementar els tipus aplicats a les rendes del capital així com crear nous trams addicionals per a les rendes més altes."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "eco-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 57 del PDF · ii. Política fiscal. Estimular l’economia, reduir les desigualtats",
+      "quote": "Que contribueixi a combatre les desigualtats, de manera que aportin més els que més tenen, les rendes més altes, a la vegada que alliberi pressió sobre les rendes mitjanes ."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "eco-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 95 del PDF · Garantías de Justicia Fiscal (medida 239)",
+      "quote": "Por un lado, las rentas de más de 100 000 euros anuales contribuirán un poco más, con un 47 %, que llegará hasta el 55 % para rentas superiores a 300 000 euros anuales"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "eco-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 39 del PDF · 7. Por unha nova fiscalidade",
+      "quote": "defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas … Incrementar a súa progresividade: que pague máis quen máis renda obtén."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "eco-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 31 del PDF · 2.2.1 Medidas fiscales para personas y familias",
+      "quote": "Reduciremos la tributación en el IRPF en la que también se ampliará el número de tramos en las escalas más bajas del impuesto, para dejar de ser la Comunidad española en la que más impuestos se pagan."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "eco-2",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 39 del PDF · Bloque I · Fiscalidad",
+      "quote": "Continuaremos impulsando a nivel internacional y en la Unión Europea el establecimiento de una tributación mínima suficiente en el Impuesto sobre Sociedades y una justa distribución de la recaudación entre los países en los que operan los grupos transnacionales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "eco-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 77 del PDF · Fiscalidad para la prosperidad",
+      "quote": "Impuesto de Sociedades: reducción del tipo progresiva y continuada en la legislatura hasta alcanzar el 15%"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "eco-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 16 del PDF · Economía · VIII. Una fiscalidad justa",
+      "quote": "Reforma, en profundidad, del impuesto de sociedades para aumentar la contribución, en especial, de las grandes empresas. Como medida inmediata se debe hacer efectivo el tipo del 15% sobre los beneficios de la empresa"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "eco-2",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 71 del PDF · Política fiscal – mesures per a una fiscalitat justa",
+      "quote": "Revisar el funcionament de l’impost de societats per a garantir un tipus mínim sobre beneficis del 15% per a grans empreses."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "eco-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 58 del PDF · ii. Política fiscal. Estimular l’economia, reduir les desigualtats",
+      "quote": "Pel que fa al tipus nominal de l’impost sobre societats per a les pimes ha de baixar del 25 % al 20 %"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "eco-2",
+    "stance": -1,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 94 del PDF · Garantías de Justicia Fiscal (medida 234)",
+      "quote": "Eliminar los privilegios fiscales de las grandes corporaciones en el impuesto sobre sociedades y bajárselo a las pymes. Estableceremos un tipo efectivo mínimo, más eficaz y justo, del 15 % sobre el rendimiento neto positivo para los grupos empresariales"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "eco-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 33 del PDF · 2.2.2 Medidas fiscales para dinamizar la actividad económica",
+      "quote": "Reduciremos el tipo general del gravamen del Impuesto sobre Sociedades al 24% así como el tipo aplicado a las pequeñas empresas al 22% para que Navarra pueda volver a competir fiscalmente, entre otros, en la atracción de empresas a nuestra comunidad"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "eco-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 23 del PDF · Controlar el déficit y la deuda y reducir la presión fiscal",
+      "quote": "REALIZAREMOS UNA REFORMA INTEGRAL DEL SISTEMA FISCAL con criterios de eficacia, equidad y sostenibilidad de los servicios públicos destinada a proteger el ahorro, la inversión y fomentar la creación de empleo. Eliminaremos el impuesto a las grandes fortunas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "eco-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 39 del PDF · Bloque I · Fiscalidad",
+      "quote": "Evaluaremos los resultados del Impuesto Temporal de Solidaridad de las Grandes Fortunas y, en su caso, avanzaremos en el debate sobre la tributación de la riqueza en el marco del modelo de financiación autonómica para acabar con la competencia fiscal desleal entre territorios."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "eco-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 77 del PDF · Fiscalidad para la prosperidad",
+      "quote": "Suprimiremos el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 16 del PDF · Economía · VIII. Una fiscalidad justa",
+      "quote": "Implementaremos un impuesto a las grandes fortunas de forma permanente, reforzando además su progresividad, hasta llegar a tipos impositivos de al menos el 4% para los patrimonios más elevados. Los impuestos sobre la riqueza son justos"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 55 del PDF · Drets socials – a) Un Estat que accentua les desigualtats",
+      "quote": "El sistema fiscal continua gravant amb més intensitat el treball de la ciutadania que el capital que tinguin. Es bonifiquen els impostos de patrimoni i successions, fins i tot per a les grans fortunes, i es permet l’enginyeria fiscal que fomenta l’elusió de l’impost de societats."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "eco-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 8 del PDF · Política fiscal y desarrollo económico",
+      "quote": "Aumentar la carga impositiva y convertir en permanentes los … impuestos a la banca, energéticas y grandes fortunas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 95 del PDF · Garantías de Justicia Fiscal (medida 237)",
+      "quote": "Crear un impuesto para las grandes fortunas que grave los grandes patrimonios… Este impuesto sustituirá al actual impuesto sobre el patrimonio, que es inoperativo, y no podrá bonificarse por parte de las comunidades autónomas."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "eco-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 41 del PDF · 7. Por unha nova fiscalidade",
+      "quote": "aos beneficios da banca, das grandes enerxéticas e … ás grandes fortunas, reducir os límites de exención, … aumentar a súa progresividade e traspasar a súa xestión"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "eco-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 32 del PDF · 2.2.1 Medidas fiscales para personas y familias",
+      "quote": "Bonificaremos al 100% el Impuesto de Patrimonio."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "viv-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 221 del PDF · Bloque V · Vivienda",
+      "quote": "La ley nos dota de los instrumentos necesarios para atender las prioridades de la mayoría social de este país: controlar subidas de precios abusivas, sacar al mercado viviendas vacías, establecer incentivos fiscales para el control de precios… Desarrollaremos las medidas contempladas para la contención de los precios de la vivienda."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "viv-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 42 del PDF · Acceso a la vivienda",
+      "quote": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento puestos en marcha en los últimos años por distintas regiones."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 78 del PDF · Hábitat para la vida · Vivienda",
+      "quote": "haremos obligatoria la declaración de zona de mercado tensionado en las áreas geográficas en las que se cumplan objetivamente los requisitos que la Ley de Vivienda establece, aplicando así la regulación de alquileres a todas las zonas de mercado tensionado sin depender de la voluntad política del Gobierno autonómico."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 52 del PDF · Joventut – eixos",
+      "quote": "Defensar la limitació i impulsar la reducció dels preus del lloguer. Cal garantir l’emancipació juvenil en llibertat."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 2 del PDF · Introducción (compromisos cumplidos)",
+      "quote": "aprobar la Ley de Vivienda que limita los alquileres, declara zonas tensionadas y pone coto a los fondos buitre"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 80 del PDF · Garantías de Justicia Social (medida 188)",
+      "quote": "Intervenir el mercado del alquiler para impedir subidas abusivas mediante el control de precios… se habilitará a los Ayuntamientos con el fin de que puedan regular los precios en barrios y zonas con precios especialmente tensionados"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "viv-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 159 del PDF · 3.11.2 Vivienda",
+      "quote": "Abandonaremos las políticas de intervención de precios en el mercado de alquiler por haberse demostrado contrarias a la finalidad de incrementar la vivienda asequible ya que promueven que la oferta se retraiga."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 34 del PDF · Repensar nuestras infraestructuras y favorecer el acceso a la vivienda",
+      "quote": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda … a fórmulas de promoción de vivienda en alquiler asequible."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 222 del PDF · Bloque V · Vivienda · Política de alquiler",
+      "quote": "Incrementaremos el actual parque de vivienda pública de alquiler social mediante una decidida y ambiciosa política de inversión pública a medio y largo plazo en viviendas de calidad… El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 41 del PDF · Acceso a la vivienda",
+      "quote": "Impulsaremos la construcción viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra para garantizar que los jóvenes y familias puedan adquirir un hogar"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 76 del PDF · Hábitat para la vida · Vivienda",
+      "quote": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movilización y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 114 del PDF · Habitatge – b) Una República que garanteixi el dret d’accés a un habitatge digne",
+      "quote": "Incrementar el parc d’habitatge existent sotmès a algun tipus de protecció pública, prioritàriament en règim de lloguer social i dret de superfície, per garantir la seva perdurabilitat en el temps."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 95 del PDF · iii. Polítiques d’habitatge social",
+      "quote": "Seran destinats a habitatge social i per disposar d’un parc públic de lloguer. … Els recursos del Plan de Vivienda han de ser transferits a la Generalitat per produir habitatges de lloguer a preu assequible."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 45 del PDF · 12. Políticas sociales para reducir la desigualdad",
+      "quote": "Abogamos por políticas que fomenten el alquiler y la promoción de vivienda pública suficiente para hacer frente a esta realidad"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 80 del PDF · Garantías de Justicia Social (medida 190)",
+      "quote": "Crear un gran parque de alquiler público de precio asequible.… incrementaremos en 50 000 viviendas al año, durante toda la legislatura, el parque de vivienda en alquiler social… Aumentaremos la inversión pública en vivienda hasta equipararla a la media europea."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 15 del PDF · Polo dereito a unha vivenda digna",
+      "quote": "Aumentar o investimento destinado á vivenda até alcanzar os 250 euros por habitante. … Transferir de forma gratuíta as vivendas, solos e promocións da SAREB, de forma que permitan aumentar a oferta de parque público de vivenda do IGVS alí onde exista demanda."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 158 del PDF · 3.11.1 Vivienda",
+      "quote": "Construiremos 6.000 viviendas protegidas en la próxima legislatura.… Reincorporaremos al sector privado en la solución del problema incentivando la construcción de vivienda protegida en compra y alquiler"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "viv-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 82 del PDF · En defensa de la propiedad privada de los españoles",
+      "quote": "AGILIZAREMOS LOS DESALOJOS PARA QUE PUEDAN REALIZARSE EN EL PLAZO MÁXIMO DE 24 HORAS desde el requerimiento si los ocupantes no acreditan en dicho plazo el título jurídico que legitime la permanencia en el inmueble; y de modo inmediato en caso de flagrante delito."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "viv-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 251 del PDF · Bloque VI · Ocupación",
+      "quote": "Seguiremos mejorando la eficiencia de los procedimientos judiciales. En particular, se impulsará la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "viv-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 40 del PDF · Acceso a la vivienda",
+      "quote": "Tolerancia cero con la ocupación ilegal. Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamiento Criminal y Civil para proteger real y efectivamente a los propietarios"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "viv-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 126 del PDF · 5. Propostes de millora en els àmbits processal i penal",
+      "quote": "Ocupacions il·legals d’habitatges. Cal agilitzar la resposta dels poders públics davant del fenomen de l'ocupació il·legal mitjançant la introducció. En primer lloc, es proposen mesures de tipus processal, com el desallotjament cautelar en 48h"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "viv-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 81 del PDF · Garantías de Justicia Social (medida 193)",
+      "quote": "Prohibir los desalojos sin alternativa habitacional. En ningún caso se podrá realizar el desalojo o desahucio de personas y sus familias en situación de vulnerabilidad, sin que la Administración competente garantice un realojo en condiciones dignas, ya sea en casos de impago de alquileres o por ocupación en precario"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "san-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 196 del PDF · Bloque V · Sanidad",
+      "quote": "Frente a la derecha, que entiende la sanidad como un servicio público más que se puede privatizar, y ante cualquier intento de desmantelamiento del sistema público de salud, queremos dejar muy claro que contará con el rechazo frontal de nuestro partido"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "san-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 57 del PDF · Salud",
+      "quote": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 89 del PDF · Derecho a la salud · 2. Incremento de la inversión sanitaria pública",
+      "quote": "Se blindará el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas. Promoveremos un plan de desprivatización, que incluirá los servicios de limpieza"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "san-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 109 del PDF · xi. Salut",
+      "quote": "La sanitat catalana és un model que cal reforçar i millorar però que, en essència, és d’èxit i, per tant, s’ha de defensar. … La varietat de proveïdors, la competitivitat, milloren els serveis."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 6 del PDF · Servicios públicos – Sanidad",
+      "quote": "Derogar la Ley 15/1997 de Gestión del Sistema de Salud aprobada por el PP, que permite la privatización y externalización de los servicios sanitarios."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 83 del PDF · Garantías de Justicia Social (medida 202)",
+      "quote": "Adoptaremos medidas urgentes para proteger este patrimonio común frente a su privatización, como es, por ejemplo, la sustitución de la normativa vigente —que favorece la expansión de la gestión privada de la sanidad— por una que se base en la gestión pública directa."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 35 del PDF · 6. Sanidade",
+      "quote": "Garantir o carácter público da sanidade e reducir as súas posibilidades de privatización, mediante unha modificación da Lei 15/97, sobre habilitación de novas formas de xestión do Sistema de Saúde"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "san-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 105 del PDF · 3.1 Salud (gestión de recursos)",
+      "quote": "Utilizaremos la colaboración público-privada no solamente para la extensión de la oferta sanitaria y la tecnificación de sus servicios, sino también para potenciar la investigación"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "san-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 204 del PDF · Bloque V · Sanidad · Salud Bucodental",
+      "quote": "Salud Bucodental: promoveremos la incorporación progresiva de servicios como las obturaciones (empastes) o los implantes dentales a más colectivos, comenzando por personas mayores de 75 años."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 58 del PDF · Salud",
+      "quote": "Incluiremos en la cartera de servicios las prestaciones relacionadas con la salud bucodental y oftalmológica."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 89 del PDF · Derecho a la salud · 3. Más y mejores servicios de salud",
+      "quote": "Proponemos incorporar a los servicios sanitarios públicos nuevas prestaciones, como la salud bucodental, la nutrición, la salud óptica, la audioprótesis, la psicoterapia"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "san-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 62 del PDF · Salut – Mentrestant, en defensa de Catalunya al Congrés i Senat",
+      "quote": "Transferència financera per a l’aplicació efectiva dels plans de salut bucodental inclosos a la cartera de serveis."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 6 del PDF · Servicios públicos – Sanidad",
+      "quote": "Incluir servicios oftalmológicos y dentales básicos en la cartera de servicios públicos sanitarios."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 83 del PDF · Garantías de Justicia Social (medida 204)",
+      "quote": "Incorporar el servicio de dentista gratuito a los servicios del sistema de salud y que este cubra servicios básicos no incluidos hasta ahora, como empastes, limpiezas, ortodoncias, endodoncias, prótesis y férulas."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 36 del PDF · 6. Sanidade",
+      "quote": "Ampliar a Carteira de Servizos comúns do sistema … con financiamento 100% público; así como as prestacións sanitarias actualmente fora da atención primaria, ou só parcialmente financiadas como asistencia odontolóxica"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "edu-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 155 del PDF · Derecho a la educación y sistema educativo",
+      "quote": "la oferta de plazas concertadas se financiará con recursos públicos solo en los casos en que sea estrictamente necesario, esto es, debido a una insuficiencia en la red pública. Y, con el objetivo de corregir la segregación escolar, se establecerá también por ley el incremento progresivo del porcentaje de los fondos públicos destinados a la red pública."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "edu-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 114 del PDF · xiii. Ensenyament",
+      "quote": "Les dues xarxes tenen la necessitat dels mateixos recursos humans i materials per poder garantir la qualitat de l’ensenyament que el país necessita."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "edu-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 85 del PDF · Garantías de Justicia Social (medidas 211-212)",
+      "quote": "acabaremos con el pago ilegal de las cuotas supuestamente voluntarias en la escuela concertada… Esta norma será el instrumento fundamental para revertir los procesos de privatización y segregación de la última década"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "edu-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 33 del PDF · 6. Educación",
+      "quote": "Defender inequivocamente o ensino público. … No camiño da supresión dos concertos en todos os niveis educativos, eliminación destes no ensino non-obrigatorio"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "edu-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 110 del PDF · 3.2.1 Educación en libertad",
+      "quote": "Volveremos a considerar la demanda social como un factor primordial en la renovación de los conciertos educativos vigentes, garantizando una financiación suficiente para esos centros, considerando a la red concertada como complementaria y no subsidiaria de la red pública."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 50 del PDF · Una educación excelente y de calidad",
+      "quote": "LA EDUCACIÓN DE 0 A 3 AÑOS SERÁ UNIVERSAL Y GRATUITA y estará cofinanciada por el Estado y las Comunidades Autónomas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 103 del PDF · Bloque III · Educación",
+      "quote": "Ampliaremos el derecho a la formación y el aprendizaje a lo largo de toda la vida, universalizando la escolarización de 0 a 18 años, no mediante la obligatoriedad sino promoviendo de forma gradual una oferta suficiente de plazas públicas gratuitas, tanto de escuelas infantiles para niños de 0 a 3 años"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 164 del PDF · Perspectiva de familia",
+      "quote": "Apoyaremos a los ayuntamientos para garantizar guarderías gratuitas abiertas hasta el horario de comercios y…"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 157 del PDF · IV. Centralidad de la educación pública, gratuita",
+      "quote": "Gratuidad de todas las etapas educativas en los centros públicos, obligatorias y no obligatorias. Gratuidad, especialmente, como se ha señalado, en la Educación Infantil de cero a tres años"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 69 del PDF · Política econòmica – inversió pública",
+      "quote": "ens cal assegurar la inversió per a garantir la cohesió social amb accions com ampliar i universalitzar el 0 a 3 gratuït"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 114 del PDF · xiii. Ensenyament",
+      "quote": "L’educació dels infants de 0 a 3 anys ha de tenir finançament públic estatal"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 27 del PDF · Horizonte Morado (medida 57)",
+      "quote": "Garantizar la cobertura universal y gratuita de la educación infantil (de 0 a 3 años)."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 31 del PDF · 6. Educación",
+      "quote": "os poderes públicos teñen que garantir unha educación pública, universal e gratuíta de 0 a 18 anos"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
+      "date": "2019-10-11",
+      "locator": "pág. 5 del PDF · Derecho a la educación",
+      "quote": "Propondremos una reforma legislativa que reconozca la gratuidad del primer ciclo de la Educación Infantil (0-3 años) y que disponga el deber de las administraciones educativas de garantizar una oferta suficiente de plazas en centros públicos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 111 del PDF · 3.2.2 Enseñanza de calidad, diversa e inclusiva",
+      "quote": "Garantizaremos la gratuidad de la etapa 0-3 años para las familias y trabajaremos por su universalización priorizando en el acceso a las aulas 0-3 a las familias en las que los dos progenitores trabajen y a las familias monoparentales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "edu-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 33 del PDF · Educación en libertad",
+      "quote": "Aseguraremos de forma clara e inmediata el derecho a ser educado en español en todo el territorio nacional."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "edu-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 126 del PDF · Educació – a) Els continus atacs al model d’escola catalana",
+      "quote": "Aquestes forces reaccionàries volen construir un model educatiu que separi els alumnes per raó de llengua i divideixi els estudiants. Nosaltres apostem i defensem un model integrador"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "edu-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 113 del PDF · xiii. Ensenyament",
+      "quote": "Ens comprometem a defensar la immersió lingüística com a eina de cohesió social."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "edu-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 20 del PDF · 1.6 Euskara",
+      "quote": "Promoveremos la educación plurilingüe en lengua materna (vascuence o castellano) de acuerdo con los criterios de la UNESCO, realizando una oferta de centros bilingües en función de la demanda de las familias"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "emp-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 50 del PDF · Bloque I · Industria",
+      "quote": "Continuaremos impulsando el proyecto piloto de reducción de jornada laboral para empresas industriales con medidas destinadas a la reducción de las jornadas laborales sin merma salarial."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "emp-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 7 del PDF · Economía · Trabajo y tiempo de trabajo",
+      "quote": "Reordenaremos el tiempo de trabajo, incluyendo la reducción y la distribución de la jornada laboral, pero sin reducción de salario. En 2024 se establecerá por ley una jornada laboral máxima de 37,5 horas y se abrirá un proceso de diálogo social para seguir reduciendo la jornada hasta alcanzar las 32 horas semanales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "emp-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 53 del PDF · Joventut – b) El jovent ferm que avança cap a la República",
+      "quote": "També necessitem bastir un escut que protegeixi les classes treballadores davant els abusos del mercat, que recuperi instruments com els salaris de tramitació o l’autorització administrativa dels ERO, en reforci d’altres com la indemnització per acomiadament i implementi mesures com la jornada laboral de quatre dies."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "emp-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 3 del PDF · Empleo y derechos laborales",
+      "quote": "Reducción de la jornada laboral hasta las 32 horas semanales sin reducción salarial ni modificación de condiciones"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "emp-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 27 del PDF · Horizonte Morado (medida 59)",
+      "quote": "Jornada laboral de 34 horas semanales y reorganización de los tiempos de trabajo, ocio y cuidados.… implementaremos una jornada de 7 horas de lunes a jueves y de 6 horas los viernes sin reducción de salario"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "emp-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 16 del PDF · Máis dereitos para a clase traballadora",
+      "quote": "Promover a implantación da xornada laboral de 35 horas semanais sen redución salarial."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "emp-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 19 del PDF · Crear empleo de calidad para todos",
+      "quote": "ASEGURAREMOS LA SOSTENIBILIDAD Y SUFICIENCIA DEL SISTEMA DE PENSIONES PARA LAS GENERACIONES ACTUALES Y FUTURAS. GARANTIZAREMOS LA REVALORIZACIÓN DE LAS PENSIONES EN EL MARCO"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 170 del PDF · Bloque V · Pensiones",
+      "quote": "Blindaremos el poder adquisitivo de las pensiones con un cambio constitucional. Garantizaremos ante cualquier circunstancia el poder adquisitivo de todas las pensiones con arreglo al IPC."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 15 del PDF · Economía · VII. Más igualdad y mejor protección social",
+      "quote": "la actualización automática de las pensiones de acuerdo con el crecimiento del IPC para asegurar el poder adquisitivo de las mismas. Este compromiso se mantendrá de forma absoluta, pero además se subirán por encima del IPC las pensiones mínimas y las pensiones no contributivas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "emp-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 96 del PDF · Pensions – Mentrestant, en defensa de Catalunya al Congrés i Senat",
+      "quote": "Incrementar les pensions mínimes i establir revalortizacions automàtiques ancorant-les a l’evolució del Salari Mínim Interprofessional donant compliment a les exigències de la Carta Social Europea."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 99 del PDF · v. Pensions",
+      "quote": "El compromís de mantenir el poder adquisitiu de les pensions i de garantir la viabilitat del sistema de pensions per poder assegurar el pagament de les futures pensions constitueix un dels eixos bàsics del nostre estat del benestar i de la nostra força política."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 33 del PDF · 09. Pensiones justas y dignas – Pacto de Toledo",
+      "quote": "defenderemos la vinculación de las pensiones conforme al IPC para que esa revalorización sea irregresiva."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 74 del PDF · Garantías de Justicia Laboral y Pensiones (medida 179)",
+      "quote": "Garantía de revalorización de las pensiones. Estableceremos la actualización por ley de las pensiones al IPC de manera inmediata y buscaremos blindar esta garantía constitucionalizándola de forma expresa."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 18 del PDF · Na defensa do sistema público de pensións",
+      "quote": "Revalorización anual das pensións conforme ao IPC real."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
+      "date": "2019-10-11",
+      "locator": "pág. 6 del PDF · Derecho a unas pensiones dignas",
+      "quote": "Defendemos la sostenibilidad del sistema de pensiones. Garantizando pensiones dignas y actualizadas en función del coste de la vida."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 96 del PDF · Pensions – Mentrestant, en defensa de Catalunya al Congrés i Senat",
+      "quote": "Rebaixa de l’edat ordinària de jubilació als 65 anys de manera no condicionada a cap cotització mínima."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "emp-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 100 del PDF · v. Pensions",
+      "quote": "L’estabilitat del sistema també requereix la introducció d’un factor de sostenibilitat que vinculi qualsevol retard en l’edat legal de jubilació a l’augment de l’esperança de vida."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 5 del PDF · Justicia social – Pensiones",
+      "quote": "Rechazo a cualquier aumento de la edad de jubilación y/o del periodo de cómputo de las pensiones."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 74 del PDF · Garantías de Justicia Laboral y Pensiones (medida 180)",
+      "quote": "Derogar el factor de sostenibilidad.… Además, la medida retrasa la edad de jubilación (en un país con grandes problemas de empleo juvenil y entre los trabajadores y las trabajadoras mayores)."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 18 del PDF · Na defensa do sistema público de pensións",
+      "quote": "Recuperar a xubilación ordinaria aos 65 anos e a parcial … aos 61 anos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "inm-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 256 del PDF · Bloque VI · Migración y asilo",
+      "quote": "La segunda reforma del reglamento de extranjería se centra en la actualización de las actuales figuras de arraigo y la creación de nuevas… Seguiremos trabajando en la facilitación de la incorporación al mercado laboral de las personas que ya se encuentran en España"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "inm-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 101 del PDF · Inmigración e identidad nacional",
+      "quote": "Trasladaremos el mensaje claro de que cualquier inmigrante que llegue ilegalmente nunca podrá regularizar su situación en España."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 104 del PDF · Migraciones. Frenar el racismo y la xenofobia",
+      "quote": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX) que prime los criterios de reconocimiento de derechos y que introduzca un procedimiento de regularización permanente."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 41 del PDF · Ciutadania – Regularització de treball i residència",
+      "quote": "Regularitzar a les persones en situació administrativa irregular, incloses les persones inexpulsables, en base a la Iniciativa Legislativa Popular portada a terme pel moviment Regularització Ja!"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "inm-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 107 del PDF · x. Fluxos migratoris i acollida de refugiats",
+      "quote": "Treballar per articular vies legals i segures de migració regular i mobilitat. Buscar vies de solució a les persones que es troben al territori sense la seva situació administrativa resolta."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "inm-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 34 del PDF · Trabajadores migrantes y Seguridad Social",
+      "quote": "proponemos que aquellas personas migrantes que cuenten con contrato de trabajo no necesiten pasar por el proceso de arraigo actualmente vigente."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 56 del PDF · Garantías de Justicia Social / derechos (medida 131)",
+      "quote": "poner fin a la irregularidad sobrevenida y garantizar los derechos civiles de las personas migradas.… Además, flexibilizaremos los procesos de arraigo, dejando de vincular exclusivamente la renovación de las autorizaciones de residencia a un contrato en vigor u oferta de empleo."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 19 del PDF · Ningunha persoa é ilegal",
+      "quote": "Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación migrante (vivenda, traballo, atención sanitaria, educación...) así como favorecer e facilitar os procesos de"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "inm-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 81 del PDF · Devolver la seguridad y tranquilidad a los ciudadanos",
+      "quote": "POTENCIAREMOS LA INSPECCIÓN FRONTERIZA, incrementando el número y formación del personal … AGILIZAREMOS EL CUMPLIMIENTO DE LAS ÓRDENES DE RETORNO de inmigrantes irregulares o expulsión de los que hayan cometido un delito"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "inm-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 100 del PDF · Inmigración e identidad nacional",
+      "quote": "Inmediata expulsión de todos los inmigrantes que accedan ilegalmente a nuestro país. A España solo se entra de forma legal, ordenada y con la voluntad de integrarse y aportar al desarrollo de la Nación."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 149 del PDF · Movilidad humana con los derechos humanos en el centro",
+      "quote": "Tipificaremos el delito de devolución sumaria en frontera y eliminaremos la disposición adicional de la Ley de Extranjería que legitima esta práctica"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 38 del PDF · Ciutadania – Política migratòria i fronteres",
+      "quote": "Posar fi a la pràctica il·legal de les devolucions en calent. Cal eliminar el mecanisme específic de devolucions i expulsions a Ceuta i Melilla per ser discriminatori en relació amb la resta de població i per manca de garanties jurídiques bàsiques de tot procediment."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "inm-2",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 107 del PDF · x. Fluxos migratoris i acollida de refugiats",
+      "quote": "L’eliminació de les devolucions en calent derogant la Disposició Addicional 10ª de la Llei Orgànica 4/2000 sobre drets i llibertats dels estrangers a Espanya i la seva integració social."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 11 del PDF · Migración",
+      "quote": "Exigiremos el fin de las devoluciones en caliente ya sean por vía terrestre o marítima."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "inm-2",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 10 del PDF · Propuestas en materia de migración y asilo",
+      "quote": "se volverá a plantear la reforma de la legislación de extranjería a fin de establecer procedimientos que permitan la trazabilidad del cumplimiento de esos tratados internacionales durante el llamado rechazo en frontera"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 57 del PDF · Medida 134 (CIE)",
+      "quote": "Cerrar los centros de internamiento de extranjeros (CIE). Ningún modelo de privación de la libertad de las personas según su situación administrativa es adecuado para la recepción y acogida de personas migrantes."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 20 del PDF · Ningunha persoa é ilegal",
+      "quote": "Peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español e fin das deportacións"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "inm-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
+      "date": "2019-10-11",
+      "locator": "pág. 11 del PDF · Derecho a una migración ordenada y apoyo a los canarios retornados",
+      "quote": "Instaremos al Gobierno de España para que promueva en el ámbito de la UE una mayor cooperación con los países de origen y la lucha contra la inmigración ilegal."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 16 del PDF · Impulsar una economía basada en el talento, la innovación y el conocimiento",
+      "quote": "se orientará a facilitar la incorporación de talento extranjero al mercado laboral, que puede aportar el mayor beneficio a España, tanto en términos de contribuir al crecimiento económico como a la sostenibilidad de los servicios públicos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 256 del PDF · Bloque VI · Migración y asilo",
+      "quote": "Habilitaremos mejores vías para la migración regular y ordenada que permitan una mejor inserción social y laboral de las personas migrantes, fomentando convenios de migración circular exitosos como los que ya funcionan."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 99 del PDF · Inmigración e identidad nacional",
+      "quote": "La inmigración debe ser legal, controlada, adaptada a las necesidades de España y con capacidad y voluntad de adaptación."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "inm-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 30 del PDF · 08. El empleo, nuevos retos",
+      "quote": "Mejorar la capacidad de las políticas migratorias para responder a las demandas del mercado laboral de manera efectiva (reconocimiento de las cualificaciones de personas de terceros países, mejora de la gestión de la contratación en origen y la migración circular…)."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "med-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 38 del PDF · Pacto nacional del agua y energía limpia y barata para todos",
+      "quote": "PROPONDREMOS, CON EL VISTO BUENO DEL CONSEJO DE SEGURIDAD NUCLEAR, LA EXTENSIÓN DE LA VIDA ÚTIL DE LAS CENTRALES NUCLEARES EXISTENTES en nuestro país"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "med-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 75 del PDF · Bloque II · Transición energética",
+      "quote": "necesidades en el desmantelamiento ordenado y progresivo de las centrales nucleares."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "med-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 117 del PDF · Reindustrialización y soberanía energética",
+      "quote": "Fomentaremos la inversión y actualización del parque de generación nuclear y promoveremos la extensión de la vida útil de las centrales nucleares existentes."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "med-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 48 del PDF · 9. Hacia un cierre nuclear seguro y socialmente justo",
+      "quote": "Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "med-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 10 del PDF · Horizonte Verde (medida 4)",
+      "quote": "Objetivos de cierre de las centrales de carbón antes del final de 2025 (y siempre garantizando el uso de carbón nacional) y de las centrales nucleares antes del final de 2024."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "med-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 137 del PDF · Unión Europea",
+      "quote": "…la prohibición de fabricar coches de combustión a partir de 2035."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "med-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 11 del PDF · Plan nacional de transición energética",
+      "quote": "siga desarrollando la electrificación del parque móvil, con el objetivo de que en 2040 no circulen en España vehículos con motores de combustión interna."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "med-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 39 del PDF · Bloque I · Fiscalidad",
+      "quote": "Avanzaremos en la fiscalidad verde, contribuyendo al compromiso de nuestro país con la emergencia climática y con el futuro de nuestros jóvenes. Una fiscalidad verde bajo la premisa de “quien contamina paga”"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "med-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 17 del PDF · Economía · VIII. Una fiscalidad justa",
+      "quote": "Modernización de nuestra imposición ambiental, para impulsar la obligatoria y urgente transición energética y la descarbonización de la economía, apostar por la sostenibilidad ambiental y obtener recursos adicionales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "med-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 25 del PDF · Cooperar en materia de fiscalidad energética verde",
+      "quote": "Colaborar en cuantos debates se establezcan acerca de la fiscalidad energética verde que internalice los daños medioambientales y contribuya a la descarbonización, bajo el axioma de que quien contamina paga"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "ter-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 8 del PDF · Igualdad entre españoles",
+      "quote": "Promoveremos un estado unitario administrativamente descentralizado … proponemos la devolución inmediata al Estado de las competencias en Educación, Sanidad, Seguridad y Justicia."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "ter-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 121 del PDF · 2.3. Modelo territorial",
+      "quote": "Para garantizar el autogobierno territorial y desarrollar las políticas propias en el ámbito competencial autonómico, es necesario el pleno respeto de las competencias autonómicas … es necesario impulsar el desarrollo del pleno cumplimiento de los Estatutos de Autonomía, encauzar las reformas de aquellos que necesiten ser actualizados"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 91 del PDF · Treball – Mentrestant, en defensa de Catalunya al Congrés i Senat",
+      "quote": "Traspàs integral de la Inspecció de Treball i Seguretat Social a la Generalitat de Catalunya, la Generalitat Valenciana i el Govern de les Illes Balears incloent els seus serveis, funcions, personal i finançament."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 57 del PDF · ii. Política fiscal. Estimular l’economia, reduir les desigualtats",
+      "quote": "La Generalitat ha de tenir la titularitat de tots els impostos suportats a Catalunya, i subsidiàriament i temporal, fins a l’assoliment d’aquest objectiu, l‘Estat ha de traspassar o delegar a la Generalitat les competències normatives i de gestió dels mateixos.."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 15 del PDF · Autogobierno y transferencias",
+      "quote": "Exigiremos la transferencia de todas las competencias pendientes contempladas en el Estatuto Vasco y el Amejoramiento Navarro, así como nuevos instrumentos para ensanchar nuestras capacidades de autogobierno"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 6 del PDF · 02. Más autogobierno, más Europa y Agenda 2030",
+      "quote": "EAJ-PNV defenderá el reconocimiento nacional de Euskadi y la bilateralidad en relación con el Estado a través de un ejercicio compartido de la soberanía. Porque más autogobierno significa más bienestar."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 13 del PDF · 1. Soberanía política para garantir maior benestar social",
+      "quote": "En todo o caso, traspaso á Administración Galega de todas aquelas competencia previstas e que aínda detén a administración do Estado."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
+      "date": "2019-10-11",
+      "locator": "pág. 5 del PDF · Derechos de Canarias (reforma constitucional)",
+      "quote": "Reformas que deben plantear la reforma del modelo de Estado, reconocer el estado autonómico con mayores cotas de autogobierno, un reconocimiento de las singularidades y las distintas nacionalidades"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf",
+      "locator": "pág. 9 del PDF · 1.1.2 Defender la foralidad y desarrollar el autogobierno",
+      "quote": "Negociaremos con el Estado el traspaso de todas las compete."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "ter-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05",
+      "locator": "pág. 72 del PDF · Promover de forma efectiva la convivencia de todos",
+      "quote": "Recuperaremos el delito de sedición en el Código Penal … Regularemos también otras conductas de deslealtad de las instituciones dirigidas a poner en peligro la paz y el orden constitucional, ya sea mediante la convocatoria de referendos o consultas no autorizadas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "ter-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 16 del PDF · Unidad de España",
+      "quote": "Reintroduciremos los delitos de referéndum ilegal, sedición, traición y malversación de caudales públicos"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "ter-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 12 del PDF · Mentrestant, en defensa de Catalunya al Congrés i Senat",
+      "quote": "Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "ter-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 27 del PDF · c. Perquè cal perseverar en l’acció exterior",
+      "quote": "La Unió Europea, els principals països socis i aliats al món i a Europa, així com el conjunt d'organitzacions internacionals de les quals Catalunya forma part a través d’Espanya, han d’arribar a reconèixer el dret d’autodeterminació de Catalunya i la seva voluntat d’esdevenir un estat"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "ter-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 14 del PDF · Plurinacionalidad y derecho a decidir",
+      "quote": "El reconocimiento del derecho a decidir como mecanismo democrático para dicha solución … a los acuerdos y propuestas políticas que alcancen las fuerzas políticas en los correspondientes parlamentos de Gasteiz e Iruñea, siempre y cuando estas sean ratificadas por nuestra ciudadanía."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "ter-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 3 del PDF · 01. Análisis de la XIV Legislatura",
+      "quote": "Seguiremos defendiendo a Euskadi en Madrid. Planteando el derecho a decidir nuestro futuro"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "ter-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 104 del PDF · Garantías de Justicia Territorial (medida 256)",
+      "quote": "Resolución democrática del conflicto catalán. La gestión viable del conflicto en Cataluña pasa por construir un proceso de reconciliación que permita el diálogo y llegar a acuerdos. Apostamos por un referéndum pactado en el que Podemos defenderá un nuevo encaje para Cataluña en España."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "ter-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 28 del PDF · 5. Na defensa da democracia e das liberdades públicas",
+      "quote": "promoveremos e apoiaremos as mudanzas legais precisas que posibilitaren a convocatoria de referendos vinculantes en asuntos de interese, incluído o dereito de autodeterminación"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "ter-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 231 del PDF · Bloque VI · Un marco renovado de cogobernanza",
+      "quote": "El objetivo último debe ser constitucionalizar los avances realizados hasta el momento, que vienen a reflejar la progresiva descentralización del sistema y, paralelamente, el reforzamiento de los instrumentos de cooperación."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "ter-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07",
+      "locator": "pág. 8 del PDF · Igualdad entre españoles",
+      "quote": "Mientras logramos ese objetivo, proponemos la devolución inmediata al Estado de las competencias en Educación, Sanidad, Seguridad y Justicia."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "ter-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 121 del PDF · 2.3. Modelo territorial",
+      "quote": "Para garantizar el autogobierno territorial y desarrollar las políticas propias en el ámbito competencial autonómico, es necesario el pleno respeto de las competencias autonómicas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "ter-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11",
+      "locator": "pág. 60 del PDF · Salut – a) L’infrafinançament del sistema públic de salut",
+      "quote": "La competència en matèria sanitària és competència exclusiva de les comunitats autònomes … No només això, sinó que han intentat envair competències de manera reiterada"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "ter-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07",
+      "locator": "pág. 18 del PDF · iii. Pèrdua d’autogovern i vulneracions competencials",
+      "quote": "En aquest afany de laminar l’autogovern català i recentralitzar competències el govern de l’estat ha comptat amb la col·laboració inestimable del Tribunal Constitucional."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "ter-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 16 del PDF · Autogobierno y transferencias",
+      "quote": "defenderemos nuestro autogobierno y todas sus capacidades de cualquier invasión o intento de recentralización de nuestros instrumentos propios."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "ter-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07",
+      "locator": "pág. 6 del PDF · 02. Más autogobierno, más Europa y Agenda 2030",
+      "quote": "EAJ-PNV se seguirá oponiendo frontalmente a la visión y tentación recentralizadora existente que pueda afectar a Euskadi."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "ter-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22",
+      "locator": "pág. 35 del PDF · 6. Sanidade",
+      "quote": "O BNG aspira a que a Galiza asuma a plena capacidade para rexer o seu sistema sanitario, sen interferencias de ningún tipo."
+    },
+    "verification": "pendiente"
+  }
+]
