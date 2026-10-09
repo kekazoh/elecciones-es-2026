@@ -97,6 +97,8 @@ export interface CorruptionCase {
   verification: Verification;
   /** Fecha de la última revisión humana del caso (ISO). */
   lastReviewed?: string;
+  /** Explica por qué se atribuye a un partido distinto del condenado (p. ej. sucesor político). */
+  attributionNote?: string;
   /** Qué falta por comprobar o por decidir, si está pendiente. */
   pendingReason?: string;
 }

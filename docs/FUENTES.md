@@ -33,6 +33,10 @@ Si no se puede verificar un caso, se registra con `verification: pendiente`:
 queda guardado para revisión pero no aparece en el informe ni afecta al
 resultado. Nunca se completa un dato a partir de la memoria o de suposiciones.
 
+Si un caso se atribuye a un partido distinto del condenado (por ejemplo, un
+sucesor político de un partido disuelto), se explica en `attributionNote` y el
+informe lo muestra.
+
 Casos con sentencias posteriores que los modifican (anulaciones del TC,
 indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 
@@ -41,11 +45,12 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 - Partidos: los 12 con representación en el Congreso en la XV legislatura
   (grupos propios y partidos del Grupo Mixto).
 - Casos verificados con nota oficial del CGPJ y enlace a la sentencia por ECLI:
-  Gürtel época I (PP), obras de Génova (PP) y De Miguel (PNV). El texto íntegro
+  Gürtel época I (PP), obras de Génova (PP), De Miguel (PNV) y Palau (CDC,
+  atribuido a Junts como sucesor político por decisión del proyecto; el informe
+  lo indica). El texto íntegro
   de las sentencias en CENDOJ no se ha podido abrir desde el entorno de trabajo;
   conviene cotejarlo a mano.
-- Pendientes: ERE (falta reflejar los amparos del TC de 2024) y Palau (CDC está
-  disuelta; falta decidir si se atribuye a Junts).
+- Pendiente: ERE (falta reflejar los amparos del TC de 2024).
 - La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
   Filesa y casos autonómicos y municipales.
 - Posiciones: pendientes de codificar a partir de los programas de 2023.

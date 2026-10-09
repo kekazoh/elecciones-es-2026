@@ -104,6 +104,7 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
                   : r.corruptionCases.map((c) => (
                       <div key={c.id}>
                         {c.name}{' '}
+                        {c.attributionNote && <span className="muted">({c.attributionNote}) </span>}
                         {c.sources.map((s) => (
                           <a key={s.url} href={s.url} target="_blank" rel="noreferrer">
                             [fuente]

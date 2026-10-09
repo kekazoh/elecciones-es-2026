@@ -112,7 +112,9 @@
   {
     "id": "cdc-palau",
     "name": "Caso Palau de la Música",
-    "partyIds": [],
+    "partyIds": [
+      "junts"
+    ],
     "summary": "El Tribunal Supremo confirma el comiso de 6,6 millones de euros a Convergència Democràtica de Catalunya como ganancias obtenidas mediante tráfico de influencias.",
     "status": "sentencia_firme",
     "involvement": "comiso_al_partido",
@@ -132,7 +134,8 @@
         "quote": "comiso de 6,6 millones de euros a la formación política Convergència Democràtica de Catalunya (CDC)"
       }
     ],
-    "verification": "pendiente",
-    "pendingReason": "CDC está disuelta y Junts es otra persona jurídica. Hay que decidir si se atribuye a Junts antes de asignarle el caso."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-09",
+    "attributionNote": "La condena recae sobre Convergència Democràtica de Catalunya (CDC), ya disuelta. Se atribuye a Junts como sucesor político de CDC."
   }
 ]
