@@ -145,3 +145,27 @@ describe('informe', () => {
     }
   });
 });
+
+describe('coincidencia y cobertura', () => {
+  it('la coincidencia mostrada ordena igual que la recomendación si la corrupción no pesa', () => {
+    const ds = structuredClone(sampleDataset);
+    // "esmeralda" solo tiene posición en unas pocas medidas
+    const keep = new Set(ds.measures.slice(0, 3).map((m) => m.id));
+    ds.positions = ds.positions.filter((p) => p.partyId !== 'esmeralda' || keep.has(p.measureId));
+    const a = answerAs(sampleDataset, 'esmeralda');
+    a.importance[CORRUPTION_KEY] = 0;
+    for (const m of ds.measures) {
+      const st = sampleDataset.positions.find((p) => p.partyId === 'esmeralda' && p.measureId === m.id)!.stance;
+      a.agreement[m.id] = st;
+    }
+    const r = buildReport(ds, a);
+    const esm = r.ranking.find((x) => x.party.id === 'esmeralda')!;
+    expect(esm.knownAffinity).toBe(1);
+    expect(esm.coverage).toBe(3);
+    expect(r.measuresRated).toBe(ds.measures.length);
+    for (let i = 1; i < r.ranking.length; i++) {
+      expect(r.ranking[i - 1]!.affinity).toBeGreaterThanOrEqual(r.ranking[i]!.affinity - 1e-9);
+    }
+    expect(r.recommended.affinity).toBeGreaterThanOrEqual(esm.affinity);
+  });
+});
