@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pp",
+    "name": "Partido Popular",
+    "shortName": "PP",
+    "color": "#1d84ce"
+  },
+  {
+    "id": "psoe",
+    "name": "Partido Socialista Obrero Español",
+    "shortName": "PSOE",
+    "color": "#e1001a"
+  },
+  {
+    "id": "vox",
+    "name": "Vox",
+    "shortName": "Vox",
+    "color": "#5ac035"
+  },
+  {
+    "id": "sumar",
+    "name": "Sumar",
+    "shortName": "Sumar",
+    "color": "#e51c55"
+  },
+  {
+    "id": "erc",
+    "name": "Esquerra Republicana de Catalunya",
+    "shortName": "ERC",
+    "color": "#ffb232"
+  },
+  {
+    "id": "junts",
+    "name": "Junts per Catalunya",
+    "shortName": "Junts",
+    "color": "#00c3b2"
+  },
+  {
+    "id": "bildu",
+    "name": "EH Bildu",
+    "shortName": "EH Bildu",
+    "color": "#00d0b6"
+  },
+  {
+    "id": "pnv",
+    "name": "EAJ-PNV",
+    "shortName": "PNV",
+    "color": "#008000"
+  },
+  {
+    "id": "podemos",
+    "name": "Podemos",
+    "shortName": "Podemos",
+    "color": "#6b2e68"
+  },
+  {
+    "id": "bng",
+    "name": "Bloque Nacionalista Galego",
+    "shortName": "BNG",
+    "color": "#76b3dd"
+  },
+  {
+    "id": "cc",
+    "name": "Coalición Canaria",
+    "shortName": "CC",
+    "color": "#ffd700"
+  },
+  {
+    "id": "upn",
+    "name": "Unión del Pueblo Navarro",
+    "shortName": "UPN",
+    "color": "#2a52be"
+  }
+]

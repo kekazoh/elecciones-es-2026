@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ambar",
+    "name": "Partido Ámbar",
+    "shortName": "Ámbar",
+    "color": "#d97706",
+    "program": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    }
+  },
+  {
+    "id": "brezo",
+    "name": "Partido Brezo",
+    "shortName": "Brezo",
+    "color": "#a21caf",
+    "program": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    }
+  },
+  {
+    "id": "cobalto",
+    "name": "Partido Cobalto",
+    "shortName": "Cobalto",
+    "color": "#1d4ed8",
+    "program": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    }
+  },
+  {
+    "id": "dalia",
+    "name": "Partido Dalia",
+    "shortName": "Dalia",
+    "color": "#be123c",
+    "program": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    }
+  },
+  {
+    "id": "esmeralda",
+    "name": "Partido Esmeralda",
+    "shortName": "Esmeralda",
+    "color": "#047857",
+    "program": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    }
+  }
+]

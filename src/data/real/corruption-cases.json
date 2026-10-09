@@ -1,0 +1,141 @@
+[
+  {
+    "id": "pp-gurtel-epoca-i",
+    "name": "Caso Gürtel (época I, 1999-2005)",
+    "partyIds": [
+      "pp"
+    ],
+    "summary": "El Tribunal Supremo confirma las condenas de la trama Gürtel y la condena al Partido Popular como partícipe a título lucrativo por actos electorales en Majadahonda y Pozuelo pagados por empresas de la trama (133.628,48 € y 111.864,32 €).",
+    "status": "sentencia_firme",
+    "involvement": "participe_a_titulo_lucrativo",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2020:3191",
+        "ecli": "ECLI:ES:TS:2020:3191",
+        "date": "2020-10-14"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma penas de hasta 51 años de prisión para los procesados en el caso Gürtel",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-",
+        "date": "2020-10-14",
+        "quote": "El PP, como partícipe a título lucrativo por actos electorales que sufragaron las empresas del grupo Correa"
+      }
+    ],
+    "verification": "verificado",
+    "lastReviewed": "2026-10-09"
+  },
+  {
+    "id": "pp-caja-b-sede",
+    "name": "Papeles de Bárcenas: obras de la sede de Génova",
+    "partyIds": [
+      "pp"
+    ],
+    "summary": "El Tribunal Supremo confirma la condena por defraudación tributaria por el pago en B de obras de la sede del PP. El partido queda como responsable civil subsidiario de la cuota eludida atribuible a los pagos en B; ese pronunciamiento no fue recurrido.",
+    "status": "sentencia_firme",
+    "involvement": "responsable_civil_subsidiario",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2024:5577",
+        "ecli": "ECLI:ES:TS:2024:5577",
+        "date": "2024-11-15"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma el delito de defraudación tributaria en el caso Papeles de Bárcenas",
+        "url": "https://www.poderjudicial.es/cgpj/en/Judiciary/Supreme-Court/Judicial-News/El-Tribunal-Supremo-confirma-el-delito-de-defraudacion-tributaria-en-el-caso--Papeles-de-Barcenas--y-reduce-las-penas-al-apreciar-dilaciones-indebidas",
+        "date": "2024-11-15",
+        "quote": "solo hasta el importe defraudado achacable a los pagos en B"
+      }
+    ],
+    "verification": "verificado",
+    "lastReviewed": "2026-10-09"
+  },
+  {
+    "id": "pnv-de-miguel",
+    "name": "Caso De Miguel (Álava)",
+    "partyIds": [
+      "pnv"
+    ],
+    "summary": "El Tribunal Supremo confirma las principales condenas por corrupción a miembros de la ejecutiva alavesa del PNV que favorecieron adjudicaciones públicas a cambio de comisiones. El partido como entidad no es condenado.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2023:1",
+        "ecli": "ECLI:ES:TS:2023:1",
+        "date": "2023-01-10"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma las principales condenas por corrupción impuestas a integrantes del Partido Nacionalista Vasco en Álava",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-principales-condenas-por-corrupcion-impuestas-a-integrantes-del-Partido-Nacionalista-Vasco-en-Alava",
+        "date": "2023-01-10"
+      }
+    ],
+    "verification": "verificado",
+    "lastReviewed": "2026-10-09"
+  },
+  {
+    "id": "psoe-ere",
+    "name": "Caso ERE de Andalucía (pieza política)",
+    "partyIds": [
+      "psoe"
+    ],
+    "summary": "El Tribunal Supremo confirmó en 2022 la mayoría de condenas a ex altos cargos de la Junta de Andalucía. En 2024 el Tribunal Constitucional otorgó amparos que anularon parte de esas condenas.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2022:3258",
+        "ecli": "ECLI:ES:TS:2022:3258",
+        "date": "2022-09-14"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: Nota informativa de la Sala II sobre la sentencia del caso ERE",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/Nota-informativa-de-la-Sala-II-del-Tribunal-Supremo-sobre-la-sentencia-del--caso-ERE--y-voto-particular",
+        "date": "2022-09-14"
+      }
+    ],
+    "verification": "pendiente",
+    "pendingReason": "Falta reflejar las sentencias de amparo del Tribunal Constitucional (2024) y las nuevas sentencias del Supremo que dictó después, para saber qué condenas siguen vigentes. La nota oficial no menciona al PSOE: hay que documentar la vinculación de los condenados con el partido."
+  },
+  {
+    "id": "cdc-palau",
+    "name": "Caso Palau de la Música",
+    "partyIds": [
+      "junts"
+    ],
+    "summary": "El Tribunal Supremo confirma el comiso de 6,6 millones de euros a Convergència Democràtica de Catalunya como ganancias obtenidas mediante tráfico de influencias.",
+    "status": "sentencia_firme",
+    "involvement": "comiso_al_partido",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2020:813",
+        "ecli": "ECLI:ES:TS:2020:813",
+        "date": "2020-04-30"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo ratifica las condenas a la cúpula del caso Palau",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-ratifica-las-condenas-a-la-cupula-del--caso-Palau-",
+        "date": "2020-04-30",
+        "quote": "comiso de 6,6 millones de euros a la formación política Convergència Democràtica de Catalunya (CDC)"
+      }
+    ],
+    "verification": "verificado",
+    "lastReviewed": "2026-10-09",
+    "attributionNote": "La condena recae sobre Convergència Democràtica de Catalunya (CDC), ya disuelta. Se atribuye a Junts como sucesor político de CDC."
+  }
+]
