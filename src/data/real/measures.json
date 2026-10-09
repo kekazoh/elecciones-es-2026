@@ -1,0 +1,126 @@
+[
+  {
+    "id": "eco-1",
+    "topicId": "economia",
+    "statement": "Las rentas más altas deberían pagar un tipo de IRPF más alto que el actual."
+  },
+  {
+    "id": "eco-2",
+    "topicId": "economia",
+    "statement": "Habría que bajar el impuesto de sociedades para atraer empresas."
+  },
+  {
+    "id": "eco-3",
+    "topicId": "economia",
+    "statement": "El impuesto sobre el patrimonio debería suprimirse.",
+    "explainer": "Es un impuesto anual sobre el patrimonio neto de las personas con más bienes, por encima de un mínimo exento."
+  },
+  {
+    "id": "viv-1",
+    "topicId": "vivienda",
+    "statement": "Las administraciones deberían poder limitar el precio del alquiler en zonas con precios muy altos.",
+    "explainer": "Se refiere a topes al precio del alquiler en zonas declaradas 'tensionadas' por la administración."
+  },
+  {
+    "id": "viv-2",
+    "topicId": "vivienda",
+    "statement": "El Estado debería construir mucha más vivienda pública de alquiler, aunque suponga más gasto."
+  },
+  {
+    "id": "viv-3",
+    "topicId": "vivienda",
+    "statement": "Habría que agilizar los desalojos en casos de ocupación ilegal de viviendas."
+  },
+  {
+    "id": "san-1",
+    "topicId": "sanidad",
+    "statement": "Habría que reducir la gestión privada de hospitales públicos.",
+    "explainer": "Algunos hospitales públicos los gestiona una empresa privada mediante concesión."
+  },
+  {
+    "id": "san-2",
+    "topicId": "sanidad",
+    "statement": "La atención dental básica debería estar cubierta por la sanidad pública."
+  },
+  {
+    "id": "san-3",
+    "topicId": "sanidad",
+    "statement": "Quien contrate un seguro médico privado debería poder deducírselo en la declaración de la renta."
+  },
+  {
+    "id": "edu-1",
+    "topicId": "educacion",
+    "statement": "Los colegios concertados deberían recibir la misma financiación por alumno que los públicos.",
+    "explainer": "Los colegios concertados son centros privados que reciben fondos públicos a cambio de cumplir ciertas condiciones."
+  },
+  {
+    "id": "edu-2",
+    "topicId": "educacion",
+    "statement": "La educación de 0 a 3 años debería ser gratuita y universal."
+  },
+  {
+    "id": "edu-3",
+    "topicId": "educacion",
+    "statement": "En las comunidades con lengua cooficial, las familias deberían poder elegir la lengua en que estudian sus hijos."
+  },
+  {
+    "id": "emp-1",
+    "topicId": "empleo",
+    "statement": "La jornada laboral máxima debería bajar de 40 horas semanales sin reducir el sueldo."
+  },
+  {
+    "id": "emp-2",
+    "topicId": "empleo",
+    "statement": "Las pensiones deberían subir siempre al menos lo mismo que los precios (IPC)."
+  },
+  {
+    "id": "emp-3",
+    "topicId": "empleo",
+    "statement": "Debería retrasarse la edad de jubilación para asegurar que el sistema de pensiones sea sostenible."
+  },
+  {
+    "id": "inm-1",
+    "topicId": "inmigracion",
+    "statement": "Debería facilitarse la regularización de inmigrantes que ya viven y trabajan en España."
+  },
+  {
+    "id": "inm-2",
+    "topicId": "inmigracion",
+    "statement": "Habría que endurecer los controles en frontera y aumentar las expulsiones de quien entra de forma irregular."
+  },
+  {
+    "id": "inm-3",
+    "topicId": "inmigracion",
+    "statement": "La llegada de inmigrantes debería ligarse a los empleos que hacen falta, por ejemplo contratando en el país de origen."
+  },
+  {
+    "id": "med-1",
+    "topicId": "medioambiente",
+    "statement": "Las centrales nucleares deberían seguir funcionando más allá del calendario de cierre previsto."
+  },
+  {
+    "id": "med-2",
+    "topicId": "medioambiente",
+    "statement": "Debería adelantarse la prohibición de vender coches nuevos de gasolina y diésel."
+  },
+  {
+    "id": "med-3",
+    "topicId": "medioambiente",
+    "statement": "Los impuestos sobre los combustibles deberían bajar aunque eso aumente las emisiones."
+  },
+  {
+    "id": "ter-1",
+    "topicId": "territorial",
+    "statement": "Las comunidades autónomas deberían tener más competencias que ahora."
+  },
+  {
+    "id": "ter-2",
+    "topicId": "territorial",
+    "statement": "Debería poder celebrarse un referéndum de independencia en una comunidad si su parlamento lo pide."
+  },
+  {
+    "id": "ter-3",
+    "topicId": "territorial",
+    "statement": "Algunas competencias, como educación o sanidad, deberían volver a ser del Estado central."
+  }
+]

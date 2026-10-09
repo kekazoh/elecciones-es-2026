@@ -58,7 +58,9 @@ const IMPORTANCE_WEIGHT: Record<Importance, number> = { 0: 0, 1: 0.5, 2: 1, 3: 2
 
 const INVOLVEMENT_WEIGHT: Record<PartyInvolvement, number> = {
   persona_juridica_condenada: 1,
+  comiso_al_partido: 0.8,
   participe_a_titulo_lucrativo: 0.6,
+  responsable_civil_subsidiario: 0.6,
   cargos_condenados: 0.4,
 };
 

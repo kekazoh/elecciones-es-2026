@@ -73,7 +73,9 @@ export type CaseStatus =
 /** Cómo queda implicado el partido en la sentencia. */
 export type PartyInvolvement =
   | 'persona_juridica_condenada'
+  | 'comiso_al_partido'
   | 'participe_a_titulo_lucrativo'
+  | 'responsable_civil_subsidiario'
   | 'cargos_condenados';
 
 export type CaseSourceKind = 'sentencia' | 'boe' | 'organo_oficial';
@@ -95,6 +97,8 @@ export interface CorruptionCase {
   verification: Verification;
   /** Fecha de la última revisión humana del caso (ISO). */
   lastReviewed?: string;
+  /** Qué falta por comprobar o por decidir, si está pendiente. */
+  pendingReason?: string;
 }
 
 export interface Dataset {

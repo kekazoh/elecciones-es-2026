@@ -35,3 +35,17 @@ resultado. Nunca se completa un dato a partir de la memoria o de suposiciones.
 
 Casos con sentencias posteriores que los modifican (anulaciones del TC,
 indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
+
+## Estado del dataset real (`src/data/real/`)
+
+- Partidos: los 12 con representación en el Congreso en la XV legislatura
+  (grupos propios y partidos del Grupo Mixto).
+- Casos verificados con nota oficial del CGPJ y enlace a la sentencia por ECLI:
+  Gürtel época I (PP), obras de Génova (PP) y De Miguel (PNV). El texto íntegro
+  de las sentencias en CENDOJ no se ha podido abrir desde el entorno de trabajo;
+  conviene cotejarlo a mano.
+- Pendientes: ERE (falta reflejar los amparos del TC de 2024) y Palau (CDC está
+  disuelta; falta decidir si se atribuye a Junts).
+- La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
+  Filesa y casos autonómicos y municipales.
+- Posiciones: pendientes de codificar a partir de los programas de 2023.
