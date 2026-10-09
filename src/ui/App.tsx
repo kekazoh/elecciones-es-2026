@@ -1,11 +1,11 @@
 import { useMemo, useState } from 'react';
-import { sampleDataset } from '../data/ejemplo';
+import { realDataset } from '../data/real';
 import { nextQuestion } from '../engine/engine';
 import { buildReport } from '../engine/report';
 import type { Answers, Importance, Question, Stance } from '../model/types';
 import { ReportView } from './Report';
 
-const ds = sampleDataset;
+const ds = realDataset;
 
 const IMPORTANCE_OPTIONS: { value: Importance; label: string }[] = [
   { value: 0, label: 'Nada' },
@@ -58,9 +58,14 @@ export function App() {
 
   return (
     <main className="container">
-      {ds.meta.isSample && (
+      {ds.meta.isSample ? (
         <p className="banner">
           Versión de demostración: los partidos, sus posiciones y los casos de corrupción son <strong>ficticios</strong>.
+        </p>
+      ) : (
+        <p className="banner">
+          Mientras no se publiquen los programas de estas elecciones, las posiciones salen del último programa electoral
+          de cada partido (en su mayoría, los de las generales de 2023). Cada una enlaza a su fuente en el informe.
         </p>
       )}
 
