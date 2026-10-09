@@ -43,6 +43,11 @@ export interface EngineConfig {
   corruptionHalfLifeYears: number;
   /** Fecha de referencia para la antigüedad (ISO). Por defecto, hoy. */
   referenceDate?: string;
+  /**
+   * Peso de una posición sacada de declaraciones frente a una del programa
+   * (que pesa 1). Menor que 1: el programa es el compromiso formal.
+   */
+  declarationWeight: number;
 }
 
 export const DEFAULT_CONFIG: EngineConfig = {
@@ -52,6 +57,7 @@ export const DEFAULT_CONFIG: EngineConfig = {
   lambda: 3,
   corruptionLambda: 2,
   corruptionHalfLifeYears: 10,
+  declarationWeight: 0.5,
 };
 
 const IMPORTANCE_WEIGHT: Record<Importance, number> = { 0: 0, 1: 0.5, 2: 1, 3: 2 };
@@ -79,13 +85,18 @@ export function countableCases(ds: Dataset): CorruptionCase[] {
   );
 }
 
-type StanceIndex = Map<string, Map<string, Stance>>; // measureId -> partyId -> stance
+/** Cuánto pesa una posición según su origen: 1 el programa, menos una declaración. */
+export function positionWeight(p: PartyPosition, cfg: EngineConfig = DEFAULT_CONFIG): number {
+  return p.origin === 'declaracion' ? cfg.declarationWeight : 1;
+}
 
-function indexStances(ds: Dataset): StanceIndex {
+type StanceIndex = Map<string, Map<string, { stance: Stance; weight: number }>>; // measureId -> partyId -> posición
+
+function indexStances(ds: Dataset, cfg: EngineConfig): StanceIndex {
   const idx: StanceIndex = new Map();
   for (const p of usablePositions(ds)) {
     if (!idx.has(p.measureId)) idx.set(p.measureId, new Map());
-    idx.get(p.measureId)!.set(p.partyId, p.stance);
+    idx.get(p.measureId)!.set(p.partyId, { stance: p.stance, weight: positionWeight(p, cfg) });
   }
   return idx;
 }
@@ -138,9 +149,9 @@ function logScores(ds: Dataset, answers: Answers, cfg: EngineConfig, idx: Stance
     for (const [measureId, user] of Object.entries(answers.agreement)) {
       if (user === null) continue;
       const m = measures.get(measureId);
-      const stance = idx.get(measureId)?.get(party.id);
-      if (!m || stance === undefined) continue; // sin posición conocida: no informa
-      s += topicWeight(answers, m.topicId) * cfg.lambda * (agreementBetween(user, stance) - 0.5);
+      const pos = idx.get(measureId)?.get(party.id);
+      if (!m || pos === undefined) continue; // sin posición conocida: no informa
+      s += topicWeight(answers, m.topicId) * pos.weight * cfg.lambda * (agreementBetween(user, pos.stance) - 0.5);
     }
     scores.set(party.id, s);
   }
@@ -156,7 +167,7 @@ function softmax(scores: Map<string, number>): Map<string, number> {
 
 /** Probabilidad de que cada partido sea el más afín, dadas las respuestas. */
 export function beliefs(ds: Dataset, answers: Answers, cfg: EngineConfig = DEFAULT_CONFIG): Map<string, number> {
-  return softmax(logScores(ds, answers, cfg, indexStances(ds)));
+  return softmax(logScores(ds, answers, cfg, indexStances(ds, cfg)));
 }
 
 function leader(b: Map<string, number>): [string, number] {
@@ -179,17 +190,18 @@ function candidates(ds: Dataset, answers: Answers): Measure[] {
 function discrimination(m: Measure, b: Map<string, number>, idx: StanceIndex, answers: Answers): number {
   const stances = idx.get(m.id);
   if (!stances || stances.size < 2) return 0;
+  // Cada partido cuenta por su probabilidad y por la fiabilidad de su posición.
   let mass = 0;
   let mean = 0;
-  for (const [pid, s] of stances) {
-    const p = b.get(pid) ?? 0;
+  for (const [pid, { stance, weight }] of stances) {
+    const p = (b.get(pid) ?? 0) * weight;
     mass += p;
-    mean += p * s;
+    mean += p * stance;
   }
   if (mass === 0) return 0;
   mean /= mass;
   let variance = 0;
-  for (const [pid, s] of stances) variance += ((b.get(pid) ?? 0) / mass) * (s - mean) ** 2;
+  for (const [pid, { stance, weight }] of stances) variance += (((b.get(pid) ?? 0) * weight) / mass) * (stance - mean) ** 2;
   return topicWeight(answers, m.topicId) * variance;
 }
 
@@ -242,7 +254,7 @@ export function nextQuestion(ds: Dataset, answers: Answers, cfg: EngineConfig = 
   const n = answeredCount(answers);
   if (n >= cfg.maxAgreementQuestions) return null;
 
-  const idx = indexStances(ds);
+  const idx = indexStances(ds, cfg);
   const b = beliefs(ds, answers, cfg);
   const next = bestMeasure(ds, answers, b, idx);
   if (!next) return null; // nada más que preguntar que pueda cambiar el resultado

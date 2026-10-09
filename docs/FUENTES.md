@@ -10,8 +10,24 @@ entra como `verificado` sin cumplir esto.
   indicándolo en `source.title` y `source.date`.
 - Cada posición lleva `source.url`, `source.locator` (página o apartado) y,
   preferiblemente, `source.quote` con la frase literal.
-- Si el programa no se pronuncia sobre una medida, **no se crea la posición**.
-  No se infiere a partir de declaraciones o votaciones.
+- Si el programa no se pronuncia sobre una medida, se puede buscar la postura en
+  **declaraciones oficiales del partido** y guardarla con `origin: declaracion`.
+  Cuentan la mitad que una del programa (`declarationWeight` en el motor) y el
+  informe lo indica junto a la fuente. Fuentes aceptadas, por orden de
+  preferencia (`declarationKind`):
+  1. `parlamento`: intervención de un portavoz o diputado del partido en el
+     Congreso, el Senado o un parlamento autonómico, o iniciativa registrada por
+     su grupo.
+  2. `web_partido`: comunicado, noticia o documento de la web oficial del
+     partido (incluidos programas autonómicos o europeos y ponencias).
+  3. `prensa`: declaración literal de un líder o portavoz oficial en un medio
+     reconocido, solo si no hay nada en 1 o 2.
+  Siempre con `source.url`, `source.date`, `source.quote` literal y `speaker`.
+  No se infiere la postura de una votación sin declaración, de columnas de
+  opinión ni de cargos que contradigan la línea del partido. Si no se encuentra
+  nada claro, no se crea la posición. Entran como `pendiente` hasta que una
+  persona las revise. Detalle en
+  [REVISION-DECLARACIONES.md](REVISION-DECLARACIONES.md).
 - La codificación de −2 a +2 la hace una persona y la revisa otra.
 
 ## Casos de corrupción
@@ -73,5 +89,11 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
     noviembre de 2019 de su web. Es un manifiesto breve: solo 4 medidas.
   - UPN: no se ha localizado programa para las generales de 2023; se usa el de
     las forales y municipales de mayo de 2023 (copia de iniciativa2028.es).
-  - Ninguna posición cubre `san-3` (deducción del seguro médico privado):
-    ningún programa la menciona. Conviene plantearse cambiar esa medida.
+- Declaraciones: 80 posiciones más, de celdas que el programa no aborda,
+  sacadas de intervenciones parlamentarias, webs de los partidos y, en último
+  caso, prensa (octubre de 2026). Están `pendiente` hasta que keko las revise.
+  Las citas se han comprobado automáticamente contra la página enlazada.
+  Detalle, matriz y dudas en [REVISION-DECLARACIONES.md](REVISION-DECLARACIONES.md).
+- Ninguna posición del programa cubre `san-3` (deducción del seguro médico
+  privado): ningún programa la menciona y solo hay dos declaraciones (Sumar y
+  Junts). Conviene plantearse cambiar esa medida.

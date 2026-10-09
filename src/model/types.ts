@@ -54,12 +54,29 @@ export interface Party {
   program?: SourceRef;
 }
 
+/**
+ * De dónde sale una posición. `programa` (por defecto) es el programa
+ * electoral. `declaracion` cubre lo que el programa no aborda: intervenciones
+ * parlamentarias, comunicados o documentos del partido y, en último caso,
+ * declaraciones literales de sus portavoces en prensa. Pesa menos en el motor
+ * (`EngineConfig.declarationWeight`).
+ */
+export type PositionOrigin = 'programa' | 'declaracion';
+
+/** Tipo de fuente de una declaración, por orden de preferencia. */
+export type DeclarationKind = 'parlamento' | 'web_partido' | 'prensa';
+
 export interface PartyPosition {
   partyId: string;
   measureId: string;
   stance: Stance;
   source?: SourceRef;
   verification: Verification;
+  /** Ausente = `programa`. */
+  origin?: PositionOrigin;
+  /** Solo en declaraciones: tipo de fuente y quién habla. */
+  declarationKind?: DeclarationKind;
+  speaker?: string;
 }
 
 /** Estado procesal. Solo `sentencia_firme` penaliza en la recomendación. */

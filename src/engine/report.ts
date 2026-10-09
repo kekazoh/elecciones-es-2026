@@ -3,13 +3,23 @@
  * único punto en el que la app revela partidos.
  */
 import { CORRUPTION_KEY } from '../model/types';
-import type { Answers, CorruptionCase, Dataset, Party, PartyPosition, SourceRef, Stance } from '../model/types';
+import type {
+  Answers,
+  CorruptionCase,
+  Dataset,
+  Party,
+  PartyPosition,
+  PositionOrigin,
+  SourceRef,
+  Stance,
+} from '../model/types';
 import {
   DEFAULT_CONFIG,
   agreementBetween,
   beliefs,
   corruptionPenalty,
   countableCases,
+  positionWeight,
   topicWeight,
   usablePositions,
   type EngineConfig,
@@ -23,8 +33,11 @@ export interface MeasureMatch {
   partyStance: Stance;
   /** 0..1, 1 = coincidencia total. */
   agreement: number;
+  /** Peso del tema × peso del origen de la posición (programa 1, declaración menos). */
   weight: number;
   source?: SourceRef;
+  origin: PositionOrigin;
+  speaker?: string;
 }
 
 export interface PartyResult {
@@ -42,6 +55,8 @@ export interface PartyResult {
   knownAffinity: number;
   /** Medidas respondidas en las que el partido tiene posición conocida. */
   coverage: number;
+  /** De esas, cuántas salen de declaraciones y no del programa. */
+  fromDeclarations: number;
   corruptionPenalty: number;
   corruptionCases: CorruptionCase[];
   topicAffinity: { topicId: string; topicName: string; affinity: number; weight: number }[];
@@ -65,7 +80,13 @@ export interface Report {
   divergences: MeasureMatch[];
 }
 
-function matchesFor(ds: Dataset, answers: Answers, partyId: string, positions: PartyPosition[]): MeasureMatch[] {
+function matchesFor(
+  ds: Dataset,
+  answers: Answers,
+  partyId: string,
+  positions: PartyPosition[],
+  cfg: EngineConfig,
+): MeasureMatch[] {
   const byMeasure = new Map(positions.filter((p) => p.partyId === partyId).map((p) => [p.measureId, p]));
   const topics = new Map(ds.topics.map((t) => [t.id, t]));
   const out: MeasureMatch[] = [];
@@ -80,8 +101,10 @@ function matchesFor(ds: Dataset, answers: Answers, partyId: string, positions: P
       userStance: user,
       partyStance: pos.stance,
       agreement: agreementBetween(user, pos.stance),
-      weight: topicWeight(answers, m.topicId),
+      weight: topicWeight(answers, m.topicId) * positionWeight(pos, cfg),
       source: pos.source,
+      origin: pos.origin ?? 'programa',
+      speaker: pos.speaker,
     });
   }
   return out;
@@ -114,7 +137,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
 
   const ranking: PartyResult[] = ds.parties
     .map((party) => {
-      const matches = matchesFor(ds, answers, party.id, positions);
+      const matches = matchesFor(ds, answers, party.id, positions, cfg);
       const topicAffinity = ds.topics
         .map((t) => {
           const tm = matches.filter((m) => measureTopic.get(m.measureId) === t.id);
@@ -128,6 +151,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
         affinity: overallAffinity(matches, totalWeight),
         knownAffinity: weightedAffinity(matches),
         coverage: matches.length,
+        fromDeclarations: matches.filter((m) => m.origin === 'declaracion').length,
         corruptionPenalty: corruptionPenalty(ds, party.id, cfg),
         corruptionCases: cases.filter((c) => c.partyIds.includes(party.id)),
         topicAffinity,
@@ -139,7 +163,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
   const noCorruption = beliefs(ds, { ...answers, importance: { ...answers.importance, [CORRUPTION_KEY]: 0 } }, cfg);
   const [altId] = [...noCorruption].reduce((best, cur) => (cur[1] > best[1] ? cur : best));
   const alt = altId !== recommended.party.id ? ds.parties.find((p) => p.id === altId) : undefined;
-  const recMatches = matchesFor(ds, answers, recommended.party.id, positions);
+  const recMatches = matchesFor(ds, answers, recommended.party.id, positions, cfg);
   const byImpact = (m: MeasureMatch) => m.weight * (m.agreement - 0.5) * (1 + Math.abs(m.userStance) / 2);
 
   return {

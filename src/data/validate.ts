@@ -59,6 +59,13 @@ export function validateDataset(ds: Dataset): string[] {
     if (p.verification === 'verificado' && !p.source?.url) {
       errors.push(`Posición ${key}: marcada como verificada sin fuente`);
     }
+    if (p.origin === 'declaracion') {
+      // Una declaración fuera del programa solo se acepta con enlace y cita literal.
+      if (!p.source?.url || !p.source.quote || !p.source.date) {
+        errors.push(`Posición ${key}: declaración sin enlace, cita o fecha`);
+      }
+      if (!p.declarationKind) errors.push(`Posición ${key}: declaración sin tipo de fuente`);
+    }
   }
 
   for (const c of ds.corruptionCases) {

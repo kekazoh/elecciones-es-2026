@@ -27,6 +27,12 @@ function MeasureList({ items }: { items: MeasureMatch[] }) {
                   {m.source.title}
                   {m.source.locator ? ` (${m.source.locator})` : ''}
                 </a>
+                {m.origin === 'declaracion' && (
+                  <span title="No está en su programa: sale de declaraciones del partido y cuenta la mitad">
+                    {' '}
+                    · declaración{m.speaker ? ` de ${m.speaker}` : ''}, no programa (cuenta la mitad)
+                  </span>
+                )}
               </>
             )}
           </p>
@@ -50,6 +56,13 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
             {' '}
             Conocemos su posición en {rec.coverage} de esas {report.measuresRated} medidas (en esas coincides un{' '}
             {pct(rec.knownAffinity)}).
+          </>
+        )}
+        {rec.fromDeclarations > 0 && (
+          <>
+            {' '}
+            En {rec.fromDeclarations} de ellas su programa no se pronuncia y usamos declaraciones del partido, que cuentan la
+            mitad.
           </>
         )}
       </p>
