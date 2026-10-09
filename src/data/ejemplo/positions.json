@@ -1,0 +1,1322 @@
+[
+  {
+    "partyId": "ambar",
+    "measureId": "eco-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "eco-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "eco-1",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "eco-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "eco-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "eco-2",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "eco-2",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "eco-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "eco-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "eco-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "eco-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "eco-3",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "eco-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "eco-3",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "viv-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "viv-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "viv-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "viv-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "viv-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "viv-2",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "viv-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "viv-3",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "viv-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "viv-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "viv-3",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "san-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "san-1",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "san-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "san-1",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "san-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "san-2",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "san-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "san-3",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "san-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "san-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "san-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "san-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "edu-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "edu-1",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "edu-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "edu-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "edu-1",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "edu-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "edu-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "edu-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "edu-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "edu-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "edu-3",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "emp-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "emp-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "emp-1",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "emp-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "emp-1",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "emp-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "emp-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "emp-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "emp-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "emp-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "emp-3",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "emp-3",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "inm-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "inm-1",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "inm-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "inm-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "inm-2",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "inm-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "inm-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "inm-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "inm-3",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "inm-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "med-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "med-1",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "med-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "med-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "med-1",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "med-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "med-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "med-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "med-2",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "med-2",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "med-3",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "med-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "med-3",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "med-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "med-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "ter-1",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "ter-1",
+    "stance": 0,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "ter-1",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "ter-1",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "ter-1",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "ter-2",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "ter-2",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "ter-2",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "ter-2",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "ter-2",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "ambar",
+    "measureId": "ter-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Ámbar",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "brezo",
+    "measureId": "ter-3",
+    "stance": -1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Brezo",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "cobalto",
+    "measureId": "ter-3",
+    "stance": 1,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Cobalto",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "dalia",
+    "measureId": "ter-3",
+    "stance": 2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Dalia",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "esmeralda",
+    "measureId": "ter-3",
+    "stance": -2,
+    "source": {
+      "title": "[EJEMPLO] Programa ficticio del Partido Esmeralda",
+      "url": "https://example.org/programa-ficticio",
+      "locator": "Dato inventado para demostración"
+    },
+    "verification": "pendiente"
+  }
+]

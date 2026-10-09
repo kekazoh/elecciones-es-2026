@@ -1,0 +1,42 @@
+[
+  {
+    "id": "economia",
+    "name": "Impuestos y economía",
+    "importancePrompt": "¿Cuánto te importan los impuestos y la política económica a la hora de votar?"
+  },
+  {
+    "id": "vivienda",
+    "name": "Vivienda",
+    "importancePrompt": "¿Cuánto te importa la política de vivienda a la hora de votar?"
+  },
+  {
+    "id": "sanidad",
+    "name": "Sanidad",
+    "importancePrompt": "¿Cuánto te importa la sanidad pública a la hora de votar?"
+  },
+  {
+    "id": "educacion",
+    "name": "Educación",
+    "importancePrompt": "¿Cuánto te importa la educación a la hora de votar?"
+  },
+  {
+    "id": "empleo",
+    "name": "Empleo y pensiones",
+    "importancePrompt": "¿Cuánto te importan el trabajo y las pensiones a la hora de votar?"
+  },
+  {
+    "id": "inmigracion",
+    "name": "Inmigración",
+    "importancePrompt": "¿Cuánto te importa la política de inmigración a la hora de votar?"
+  },
+  {
+    "id": "medioambiente",
+    "name": "Medio ambiente y energía",
+    "importancePrompt": "¿Cuánto te importan el medio ambiente y la energía a la hora de votar?"
+  },
+  {
+    "id": "territorial",
+    "name": "Modelo territorial",
+    "importancePrompt": "¿Cuánto te importa la organización territorial del Estado (autonomías, competencias) a la hora de votar?"
+  }
+]

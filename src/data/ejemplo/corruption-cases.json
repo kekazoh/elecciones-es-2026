@@ -1,0 +1,58 @@
+[
+  {
+    "id": "caso-ejemplo-1",
+    "name": "[EJEMPLO] Caso Ficticio Uno",
+    "partyIds": [
+      "dalia"
+    ],
+    "summary": "Caso inventado para demostrar el funcionamiento: financiación irregular con condena firme al partido como persona jurídica.",
+    "status": "sentencia_firme",
+    "involvement": "persona_juridica_condenada",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "[EJEMPLO] Sentencia ficticia",
+        "url": "https://example.org/sentencia-ficticia-1",
+        "date": "2020-01-01"
+      }
+    ],
+    "verification": "pendiente"
+  },
+  {
+    "id": "caso-ejemplo-2",
+    "name": "[EJEMPLO] Caso Ficticio Dos",
+    "partyIds": [
+      "brezo"
+    ],
+    "summary": "Caso inventado: cargos del partido condenados en firme por malversación.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "[EJEMPLO] Sentencia ficticia",
+        "url": "https://example.org/sentencia-ficticia-2",
+        "date": "2021-01-01"
+      }
+    ],
+    "verification": "pendiente"
+  },
+  {
+    "id": "caso-ejemplo-3",
+    "name": "[EJEMPLO] Caso Ficticio Tres",
+    "partyIds": [
+      "ambar"
+    ],
+    "summary": "Caso inventado en fase de instrucción: no penaliza porque no hay sentencia firme.",
+    "status": "instruccion",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "organo_oficial",
+        "title": "[EJEMPLO] Auto ficticio",
+        "url": "https://example.org/auto-ficticio-3"
+      }
+    ],
+    "verification": "pendiente"
+  }
+]
