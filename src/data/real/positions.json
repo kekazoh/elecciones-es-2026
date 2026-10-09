@@ -2014,7 +2014,7 @@
       "locator": "Apartado 'Gastar bien y aliviar la carga fiscal', pp. 44-45",
       "quote": "Defendemos impuestos bajos para todos, en especial, para las rentas más modestas, los jóvenes, las familias y las clases medias, para que puedan elegir libremente a qué dedican ese dinero"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "psoe",
@@ -2030,7 +2030,7 @@
       "locator": "Algunos «imposibles» que lograremos, punto 10 (pág. 13 del PDF)",
       "quote": "Aumentaremos la lucha contra la evasión fiscal de los megarricos y estableceremos un tipo marginal mínimo del 50% en la tarifa general del IRPF a partir de los 300.000 euros anuales."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2045,7 +2045,7 @@
       "date": "2025-02-14",
       "quote": "Por un lado, el aumento de la tributación en los tramos superiores en las rentas del trabajo del IRPF."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -2061,7 +2061,7 @@
       "locator": "Tercer bloque de enmiendas",
       "quote": "El tercero de los bloques se centra en una propuesta para que la rebaja del tipo de sociedades para pymes se haga desde 2025 de forma automática y sin prorrogarlo en tres años."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2077,7 +2077,7 @@
       "locator": "Punto 5",
       "quote": "En el Impuesto de Sociedades se va a introducir una medida largamente perseguida por nuestra formación política: el establecimiento de un suelo mínimo efectivo, que obligará a las grandes empresas a pagar un mínimo del 13 % de su base imponible."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bng",
@@ -2093,7 +2093,7 @@
       "locator": "Eixo 01 'Un país dono de si', p. 13",
       "quote": "Mentres Galiza non teña competencias sobre o Imposto de Sociedades, fixar un gravame adicional no Imposto sobre Sociedades para as bases impoñíbeis que superen os 100 millóns de euros, isto é, empresas que teñan grandes beneficios."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "cc",
@@ -2109,7 +2109,7 @@
       "locator": "Bloque REF/fiscalidad, medida 6, p. 47",
       "quote": "Ofrecer una fiscalidad muy reducida para los beneficios empresariales obtenidos por personas jurídicas, en la medida en que esos beneficios se mantengan en sede de la sociedad y se reinviertan en Canarias."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -2125,22 +2125,7 @@
       "locator": "Bloc de fiscalitat, apartat 'Impost sobre el patrimoni', p. 56-57",
       "quote": "Reconeixem el caràcter injust d’aquest impost, atès que qui el tributa ho fa sobre unes rendes i patrimoni de les quals ja n’ha pagat l’impost corresponent en la seva generació. […] En el moment que la Generalitat disposi de les competències i la capacitat normativa necessàries per revisar-lo o suprimir-lo, caldria fer-ho"
     },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "pnv",
-    "measureId": "eco-3",
-    "stance": -1,
-    "origin": "declaracion",
-    "declarationKind": "prensa",
-    "speaker": "Elixabete Etxanobe, diputada general de Bizkaia (EAJ-PNV)",
-    "source": {
-      "title": "Bizkaia analizará la rebaja de Sociedades al 15% pero rechaza eliminar Patrimonio (Deia)",
-      "url": "https://www.deia.eus/economia/2024/07/18/bizkaia-analizara-rebaja-sociedades-15-8494862.amp.html",
-      "date": "2024-07-18",
-      "quote": "Sin embargo, el Impuesto de Patrimonio “no se considera” una materia a analizar y se mantendría como en la actualidad."
-    },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -2156,7 +2141,7 @@
       "locator": "Vivienda, punto 2.1 'Más seguridad jurídica'",
       "quote": "Derogación de todas las leyes que destrozan el mercado del alquiler: zonas de mercado tensionado, intervención de precios y prohibición de desalojos por impago."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -2172,12 +2157,12 @@
       "locator": "Apartat 'El dret a l’habitatge', p. 150-151",
       "quote": "el control de preus no només perjudica els propietaris, sinó que també té efectes contraproduents sobre la població de llogaters vulnerables que es pretén protegir, atès que redueix l’oferta de lloguer"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
     "measureId": "viv-1",
-    "stance": 1,
+    "stance": 0,
     "origin": "declaracion",
     "declarationKind": "prensa",
     "speaker": "Jonatan Moreno, parlamentario de EAJ-PNV en el Parlamento Vasco",
@@ -2188,7 +2173,7 @@
       "locator": "Pleno del Parlamento Vasco, debate de la PNL de EH Bildu sobre índice de precios",
       "quote": "Tras afirmar que \"nadie en el Gobierno vasco está en contra de que se declaren zonas tensionadas ni de que se establezcan límites a los precios de los alquileres \", ha advertido de que \"no solucionará los problemas porque es una medida transitoria\"."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bng",
@@ -2203,7 +2188,7 @@
       "date": "2025-02-24",
       "quote": "Demandamos que a Xunta dunha vez por todas poña en marcha topes ao alugueiro naquelas zonas que están máis tensionadas porque é a única forma de frear a escalada de prezos"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2218,7 +2203,7 @@
       "date": "2025-07-08",
       "quote": "EH Bildu defiende que los recursos públicos deben orientarse a la construcción y puesta a disposición de un parque público de vivienda en alquiler, estable, asequible y no especulativo."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "cc",
@@ -2234,7 +2219,7 @@
       "locator": "Vivienda, medida 3, p. 68",
       "quote": "Promover el acceso a una vivienda en alquiler seguirá siendo un pilar básico en nuestra política de vivienda, por lo que se incrementará el parque público de vivienda a disposición de las familias de escasos recursos"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "sumar",
@@ -2250,7 +2235,7 @@
       "locator": "Pág. 15-16, intervención del señor Pisarello Prados",
       "quote": "Que la ocupación ilegal de morada ajena es algo rechazable, por supuesto que sí, pero es que ya existen leyes contra el allanamiento de morada que la impiden."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "erc",
@@ -2266,22 +2251,7 @@
       "locator": "Pág. 12-13, intervención de la señora Estrems Fayos (original en catalán)",
       "quote": "la presentació d’aquesta iniciativa per nosaltres és una maniobra de distracció del que realment està demanant la ciutadania […] no acceptem que sigui el mateix legislar una violació de domicili o una ocupació d’un habitatge buit"
     },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "bildu",
-    "measureId": "viv-3",
-    "stance": -2,
-    "origin": "declaracion",
-    "declarationKind": "prensa",
-    "speaker": "EH Bildu (comunicado)",
-    "source": {
-      "title": "Bildu vota «por error» una enmienda del PNV que agiliza desahucios en caso de okupas (The Objective)",
-      "url": "https://theobjective.com/espana/politica/2024-11-14/bildu-enmienda-pnv-agiliza-desahucios-okupacion/",
-      "date": "2024-11-14",
-      "quote": "se ha comprometido a intentar revertirla y enmendarla “lo antes posible en coherencia con la postura contraria” que ha mantenido el partido político “siempre que se ha planteado esta medida por parte de diferentes grupos en el Congreso”."
-    },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2297,44 +2267,12 @@
       "locator": "Enmienda del PNV a la LECrim en el proyecto de ley de medidas urgentes del servicio público de Justicia",
       "quote": "\"ninguno de los cauces legales actualmente previsto en la vía penal para procurar el desalojo de la ocupación de viviendas resultan plenamente satisfactorios y, en todo caso, se demoran temporalmente de forma extraordinaria, con los consiguientes perjuicios de los legítimos titulares de la vivienda"
     },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "cc",
-    "measureId": "viv-3",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "prensa",
-    "speaker": "María Fernández, portavoz de Coalición Canaria (después diputada en el Congreso)",
-    "source": {
-      "title": "CC considera que la ley de vivienda estatal invade las competencias y favorece a los okupas (RTVC)",
-      "url": "https://rtvc.es/cc-considera-que-la-ley-de-vivienda-estatal-invade-las-competencias/",
-      "date": "2022-04-22",
-      "locator": "Rueda de prensa de CC",
-      "quote": "Este proyecto favorece la okupación y tiene un gran impacto en la vivienda pública ya construida y pensada para dar respuesta a familias vulnerables y para las que esperan familias."
-    },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "upn",
-    "measureId": "viv-3",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "parlamento",
-    "speaker": "Alberto Catalán Higueras, diputado de UPN (Grupo Mixto)",
-    "source": {
-      "title": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 5 (27 de septiembre de 2023): debate de investidura de Alberto Núñez Feijóo",
-      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-5.PDF",
-      "date": "2023-09-27",
-      "locator": "Pág. 26-27",
-      "quote": "Queremos también cambios normativos en la ley de educación, garantizar el derecho de los padres a elegir la educación que queremos para nuestros hijos. También que se acabe con la ocupación ilegal."
-    },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
     "measureId": "san-1",
-    "stance": -1,
+    "stance": -2,
     "origin": "declaracion",
     "declarationKind": "web_partido",
     "speaker": "Ester Muñoz, vicesecretaria de Sanidad y Educación del PP",
@@ -2345,12 +2283,12 @@
       "locator": "Cuerpo de la nota",
       "quote": "Considera que el modelo de colaboración público-privado ha sido positivo en España y lamenta que para la ministra “por encima de los intereses de los ciudadanos está su ideología sectaria”."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "erc",
     "measureId": "san-1",
-    "stance": 1,
+    "stance": 2,
     "origin": "declaracion",
     "declarationKind": "web_partido",
     "speaker": "ERC (programa electoral)",
@@ -2361,7 +2299,7 @@
       "locator": "Àmbit de salut, 'Proposta destacada'",
       "quote": "establir en el sistema de salut de Catalunya un model que garanteixi l’equitat territorial i de resultats, amb una atenció de qualitat, on no hi hagi lloc per l’ànim de lucre."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2377,7 +2315,7 @@
       "locator": "Entrevista en Onda Vasca",
       "quote": "\"No podemos hacer público absolutamente todos los servicios, eso es inviable, y esa colaboración público-privada funciona y ha funcionado bien."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "cc",
@@ -2393,7 +2331,7 @@
       "locator": "Foro de Canarias7, declaraciones de Clavijo",
       "quote": "“El servicio sanitario es público si lo paga el ciudadano”, ha dicho el presidente canario sobre la derivación de pacientes a las clínicas concertadas"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -2409,7 +2347,7 @@
       "locator": "título de la iniciativa (la web no reproduce el texto)",
       "quote": "Moción por la que se insta al Gobierno de Navarra a incorporar productos ópticos y servicios de salud bucodental a la cartera de servicios del Servicio Navarro de Salud-Osasunbidea"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "sumar",
@@ -2425,7 +2363,7 @@
       "locator": "Nota de prensa, último párrafo",
       "quote": "el reequilibrio del IVA, es decir, incluirlo en la educación y seguros sanitarios privados"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -2441,7 +2379,7 @@
       "locator": "Bloc de fiscalitat, IRPF, p. 56",
       "quote": "Deduirem el 15% de l’IRPF en despeses de salut per l’import de les quotes satisfetes, com a abonament per la pràctica d’activitat esportiva en instal·lacions públiques o privades, així com pel pagament d’assegurances mèdiques i sanitàries."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "psoe",
@@ -2457,23 +2395,7 @@
       "locator": "3ª Meta (educación), pág. 54 del PDF",
       "quote": "Reconocer el papel que algunos de estos centros cumplen en nuestro país, dado el apoyo que reciben del Estado, no debe confundirse con la apuesta que desde el PSOE hacemos por una educación pública"
     },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "vox",
-    "measureId": "edu-1",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "prensa",
-    "speaker": "Teresa López, diputada de Vox por Ceuta (interpelación del Grupo Parlamentario Vox)",
-    "source": {
-      "title": "Vox critica al Gobierno por la \"infrafinanciación\" de la escuela concertada (El Faro de Ceuta)",
-      "url": "https://elfarodeceuta.es/vox-pregunta-infrafinancion-escuela-concertada/",
-      "date": "2021-04-02",
-      "locator": "texto de la noticia",
-      "quote": "“¿Va a realizar el Ministerio de Educación y Formación Profesional un estudio acerca de la infrafinanciación de la escuela concertada en la totalidad del territorio español?”, interpela también Vox."
-    },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "erc",
@@ -2489,7 +2411,7 @@
       "locator": "Àmbit d'educació, proposta 8 'Nou decret de concerts', p. 153",
       "quote": "Equipararem les condicions de la pública i la concertada dins d’un únic Servei Educatiu de Catalunya. Millorarem el finançament dels centres aplicant fórmules més equitatives de finançament"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2505,7 +2427,7 @@
       "locator": "Enmienda nº 9 de adición, artículo 22 (Centros privados concertados)",
       "quote": "Los centros concertados que presten enseñanzas obligatorias dentro del Servicio Público Vasco de la Educación serán financiados íntegramente en lo que a tales enseñanzas respecta."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2520,7 +2442,7 @@
       "date": "2025-07-01",
       "quote": "“sigue siendo necesario acordar una hoja de ruta concreta para implantar un sistema integral y homogéneo, para que la oferta sea gratuita, universal y de calidad, como en el resto de etapas educativas”"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2536,7 +2458,7 @@
       "locator": "Compromiso 5 del decálogo electoral",
       "quote": "aumentará la ayuda por hijo a 200 euros mensuales hasta los 7 u 8 años (y hasta los 10 para familias numerosas o monoparentales), se extenderán los permisos de paternidad y maternidad a 24 semanas, se mantendrá la gratuidad de las haurreskolak"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -2552,7 +2474,7 @@
       "locator": "Apartado 'La Nación', lenguas",
       "quote": "Garantizaremos el derecho constitucional de recibir enseñanza en español en todas las etapas del sistema educativo y en toda la nación, desde el respeto a las lenguas cooficiales de cada una de las comunidades y en cumplimiento de las sentencias judiciales."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2567,7 +2489,7 @@
       "date": "2023-10-04",
       "quote": "“Los modelos están superados por la realidad, una realidad sociolingüística distinta a la de 1982”, ha afirmado Otxandiano"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bng",
@@ -2583,7 +2505,7 @@
       "locator": "p. 84 aprox., intervención del señor Rego Candamil",
       "quote": "Digo infelizmente porque a relixión tiña que estar fóra das escolas, o diñeiro público debe ser para o ensino público e evidentemente en nacións como Galiza a lingua vehicular debe ser a lingua propia de Galiza, que é o galego."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -2599,7 +2521,7 @@
       "locator": "Debate de totalidad, enmienda del Grupo Popular, intervención del señor Bravo Baena",
       "quote": "La jornada laboral bajará, como lleva haciéndose desde años, pero no desde la imposición, sino desde el acuerdo y el diálogo."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "vox",
@@ -2615,7 +2537,7 @@
       "locator": "Pág. 123-124, defensa de la enmienda a la totalidad de VOX",
       "quote": "Lo cierto es que esta norma es y será, como les digo, un desastre para los trabajadores de España."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -2631,7 +2553,7 @@
       "locator": "Enmienda núm. 1, justificación, p. 2",
       "quote": "Fiar la solución a la reducción por ley de la jornada laboral puede conllevar el efecto contrario al deseado […] La viabilidad de las pymes se puede ver gravemente perjudicada por esta imposición rígida de la reducción de la jornada"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2646,7 +2568,7 @@
       "date": "2024-11-11",
       "quote": "\"Por lo tanto, nosotros estamos a favor de la idea en general, porque aquí ya lo tenemos en vigor, empezando por la administración, pero quizás en otros negocios no es tan sencillo y eso habría que estudiarlo bien, que es lo que pedimos\""
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -2662,7 +2584,7 @@
       "locator": "Pág. 142",
       "quote": "Aprobamos el acuerdo, el entendimiento, la negociación, pero en ningún caso la intervención, la imposición y tampoco la amenaza."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2678,7 +2600,7 @@
       "locator": "Apartado Pensiones",
       "quote": "Nos comprometemos a llevar las exigencias de las y los pensionistas vascos a Madrid, comenzando por proponer 1080€ de pensión mínima, la actualización por ley al IPC y la derogación definitiva del factor de sostenibilidad."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -2694,7 +2616,7 @@
       "locator": "Pág. 44",
       "quote": "En Unión del Pueblo Navarro lo tenemos claro y lo hemos defendido por activa y por pasiva: respaldamos la revalorización de las pensiones."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "psoe",
@@ -2710,7 +2632,7 @@
       "locator": "entrevista en La Cuatro",
       "quote": "«Detrás de determinadas afirmaciones hay intereses económicos y hay intereses que muchas veces son ideológicos», ha indicado Elma Saiz sobre la cuestión."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "sumar",
@@ -2726,7 +2648,7 @@
       "locator": "Mitin de campaña en Zaragoza",
       "quote": "Quiero ser clara, Sumar defiende que un trabajador que se sube a un andamio no puede trabajar a partir de los 65 años, que un docente no puede trabajar a partir de los 65 años"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2741,7 +2663,7 @@
       "date": "2021-09-27",
       "quote": "\"Es algo propio del ministro Escrivá, le viene una idea y la suelta. Se trata de una propuesta que ni es realista ni es justa\", ha asegurado Esteban."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -2757,7 +2679,7 @@
       "locator": "Inmigración, medidas",
       "quote": "Fin de las regularizaciones masivas y sustitución por procesos individualizados, rigurosos y basados en la aportación real."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2773,7 +2695,7 @@
       "locator": "Debate de toma en consideración de la ILP, Pleno del Congreso",
       "quote": "“Animo a que apoyen la misma y a que se impulsen las comisiones cuanto antes”, aseguraba."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "cc",
@@ -2789,7 +2711,7 @@
       "locator": "Declaraciones en Bruselas",
       "quote": "Para Clavijo, es «razonable que esa gente pueda tener papeles para poder trabajar, para poder estar en la economía legal, para no ser objeto de prostitución, trata o de mafias y para que puedan abrirse un futuro, que es lo que han venido buscando»."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -2805,7 +2727,7 @@
       "locator": "Pág. 50",
       "quote": "Y lo estamos viendo con las órdenes de expulsión, cuyo nivel de cumplimiento en nuestro país es ridículo, vergonzoso, por dejadez, por incapacidad, por incompetencia o por puro interés."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -2821,7 +2743,7 @@
       "locator": "Artículo 5. Gestión Colectiva de Contrataciones en Origen",
       "quote": "Se delega en la Comunidad Autónoma de Catalunya establecer la previsión anual de las ocupaciones y, en su caso, de las cifras previstas de empleos que se puedan cubrir a través de la gestión colectiva de contrataciones en origen en un período determinado, en relación a las necesidades de Catalunya."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "podemos",
@@ -2837,7 +2759,7 @@
       "locator": "p. 36 aprox., intervención de la señora Belarra Urteaga",
       "quote": "Cuando les decimos a las personas migrantes que nos interesa que vengan porque sirven para algo, porque así van a tener hijos que paguen nuestras pensiones, porque así vienen a hacer el trabajo que la gente que vive aquí no quiere hacer, en realidad estamos lanzando una visión utilitarista sobre las personas migrantes que no respeta el derecho a migrar"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -2853,7 +2775,7 @@
       "locator": "clausura de la jornada 'Acción Inmigración'",
       "quote": "De acuerdo con el objetivo de UPN de vincular la migración al empleo, Ibarrola ha apostado por fomentar la contratación en origen, “algo que, en estos momentos, no facilita nuestra legislación”."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "erc",
@@ -2869,7 +2791,7 @@
       "locator": "Pág. 40-41, intervención del señor Salvador i Duch (original en catalán)",
       "quote": "Nosaltres no defensem allargar la vida a les nuclears, però tampoc volem un tancament improvisat que posi en risc l’economia i la vida del territori. […] El tancament de les nuclears s’ha de fer, però s’ha de fer bé."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -2885,7 +2807,7 @@
       "locator": "Pág. 39-40, intervención de la señora Calvo Gómez (original en catalán)",
       "quote": "no som aquí per respondre des del simplisme de nuclears sí, nuclears, no; sinó per reconèixer que no podem prescindir de l’energia que ens aporten les nuclears sense caure en noves dependències o assumir riscos de falta de subministrament."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -2900,7 +2822,7 @@
       "date": "2025-05-15",
       "quote": "«hay un lobby nuclear que ha aprovechado el apagón eléctrico para recuperar un debate superado. Garoña se cerró por la lucha popular y porque no era rentable. La realidad es que los costes son monumentales y los residuos un peligro permanente»"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2916,7 +2838,7 @@
       "locator": "Entrevista en Onda Vasca",
       "quote": "“¿Van a invertir en algo más costoso, que exige una gestión de residuos importante, y que hace que el Estado sea dependiente porque no tiene recursos autóctonos sino que hay que traer uranio de Rusia y Kazajistán?”"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bng",
@@ -2932,7 +2854,7 @@
       "locator": "pp. 40-41, intervención del señor Rego Candamil",
       "quote": "Din vostedes: transición enerxética, limpa, xusta e competitiva, mais unha das primeiras medidas é defender a continuidade das nucleares. Pois verán, por moito que se empeñen os novos gurús do desenvolvemento mesmo neoliberal, a enerxía nuclear non é verde, non é limpa e non é segura."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -2948,7 +2870,7 @@
       "locator": "Pág. 111",
       "quote": "Nosotros, desde Navarra, hemos venido dando ejemplo, lo cual no quiere decir que no sea compatible con otro tipo de fuentes energéticas, como puede ser la nuclear."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -2964,7 +2886,7 @@
       "locator": "Destacados de la nota",
       "quote": "Celebra que se puedan seguir vendiendo coches con motores de combustión más allá de 2035 , “un compromiso del Partido Popular español en las pasadas elecciones europeas”"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pnv",
@@ -2979,7 +2901,7 @@
       "date": "2025-09-22",
       "quote": "“Creemos que no está funcionando y, viendo la que está cayendo en ese sector, se tiene que hacer flexible”, aseguró ayer Jauregi antes del inicio de la reunión."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "cc",
@@ -2995,23 +2917,7 @@
       "locator": "Transición ecológica, medida 2 (desarrollo de la Ley Canaria de Cambio Climático), p. 72",
       "quote": "Antes de 2032 hay que sustituir los vehículos de combustión interna por otros con emisiones contaminantes nulas."
     },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "pp",
-    "measureId": "med-3",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Grupo Parlamentario Popular en el Congreso (moción consecuencia de interpelación)",
-    "source": {
-      "title": "El Congreso respalda el plan anticrisis del PP para paliar los efectos de la guerra, con medidas como adaptar el IRFP a la inflación o hacer permanente la eliminación del impuesto a la generación eléctrica",
-      "url": "https://www.pp.es/actualidad/articulos/el-congreso-respalda-el-plan-anticrisis-del-pp-para-paliar-los-efectos-de-la-guerra-con-medidas-como-adaptar-el-irfp-a-la-inflacion-o-hacer-permanente-la-eliminacion-del-impuesto-a-la-generacion-elec/",
-      "date": "2026-03-26",
-      "locator": "Cuerpo de la nota",
-      "quote": "Para paliar asimismo la escalada de precios energéticos, propone rebajar también al 10% el IVA para gasolina, gasóleo y gasóleo agrícola, además de una bonificación equivalente al 11% del precio por litro para los carburantes"
-    },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "vox",
@@ -3027,7 +2933,7 @@
       "locator": "Pág. 11, punto 3.b",
       "quote": "Suprimir el Impuesto Especial sobre la Electricidad, el Impuesto sobre Hidrocarburos y el Impuesto sobre el Valor de la Producción de Energía Eléctrica."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "junts",
@@ -3043,7 +2949,7 @@
       "locator": "Intervención del señor Cruset Domènech (original en catalán)",
       "quote": "avui aprovarem aquest Reial decret. Bàsicament perquè la seva columna vertebral són les propostes de Junts per Catalunya per ajudar a la classe mitjana i treballadora, millorar el preu de l’electricitat, millorar el preu del gasoil, millorar el preu de la gasolina"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "bildu",
@@ -3059,7 +2965,7 @@
       "locator": "Entrevista en Egun On (ETB1)",
       "quote": "«Bajar el IVA no es la solución: no tiene ningún enfoque progresivo ni beneficio para la ciudadanía. Recientemente hemos visto que la bajada de impuestos no se refleja en los bolsillos de los ciudadanos y que, en cambio, los beneficios se van a las grandes empresas: a las grandes compañías energéticas y a las petroleras»"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "podemos",
@@ -3075,38 +2981,7 @@
       "locator": "p. 10 aprox., intervención del señor Sánchez Serna",
       "quote": "En segundo lugar, porque es una medida injusta, ya que ayuda lo mismo al millonario que va a echarle gasolina a su Porsche o a su Maserati, que al señor Juan, que es autónomo y que va todos los días al trabajo en una furgoneta. [...] Y, en tercer lugar, nos parece una medida cobarde, porque reduce la recaudación pública"
     },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "bng",
-    "measureId": "med-3",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Néstor Rego, diputado do BNG no Congreso",
-    "source": {
-      "title": "BNG urxe ao Goberno medidas para frear a escalada de prezos e a perda de poder adquisitivo",
-      "url": "https://www.bng.gal/articulo/novas/bng-urxe-ao-goberno-medidas-frear-escalada-prezos-perda-poder-adquisitivo/20220317142426031946.html",
-      "date": "2022-03-17",
-      "quote": "É preciso un control do prezo dos hidrocarburos con medidas como a redución temporal dos impostos a estes combustíbeis, así como fixación de prezos máximos para a súa comercialización"
-    },
-    "verification": "pendiente"
-  },
-  {
-    "partyId": "cc",
-    "measureId": "med-3",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "prensa",
-    "speaker": "Fernando Clavijo, secretario general de CC",
-    "source": {
-      "title": "CC pide bajar el IGIC al 5% y eliminar el impuesto al combustible para hacer frente a 2023 (RTVC)",
-      "url": "https://rtvc.es/cc-pide-bajar-el-igic-al-5-y-eliminar-el-impuesto-al-combustible/",
-      "date": "2023-01-09",
-      "locator": "Rueda de prensa del secretario general de CC",
-      "quote": "En rueda de prensa ha dicho que esta medida es «imprescindible» para afrontar la subida de precios a lo que une la eliminación del impuesto al combustible , que podría hacer rebajar el precio del gasóleo en unos 22 céntimos y la gasolina en otros 26 céntimos."
-    },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -3122,7 +2997,7 @@
       "locator": "texto de la nota",
       "quote": "“Representan aproximadamente entre el 45% y el 50% del precio final de la gasolina y el diésel, y es momento de que el Estado renuncie temporalmente a ese ingreso extra para que no afecte al bolsillo del ciudadano”, ha solicitado."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -3138,7 +3013,7 @@
       "locator": "Apartado 'La Nación'",
       "quote": "El marco competencial no puede ser un zoco en el que se compran mayorías parlamentarias. El núcleo de competencias indelegables del Estado en ningún caso puede estar sujeto a negociación."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "psoe",
@@ -3154,7 +3029,7 @@
       "locator": "8ª Meta, III. Más federalismo, autogobierno y co-gobierno (pág. 134 del PDF)",
       "quote": "24) continuaremos transfiriendo competencias a aquellos gobiernos autonómicos que lo soliciten"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "podemos",
@@ -3170,7 +3045,7 @@
       "locator": "p. 26, intervención del señor Sánchez Serna",
       "quote": "Nosotros siempre hemos tenido esto claro y, por ello, no nos oponemos a que se llegue a determinados acuerdos con comunidades autónomas para mejorar su financiación o, incluso, para que determinadas comunidades autónomas asuman más competencias si así lo quieren."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "psoe",
@@ -3186,7 +3061,7 @@
       "locator": "Pág. 6",
       "quote": "Señorías, no habrá referéndum de autodeterminación salvo que quienes lo defienden consigan convencer a las tres quintas partes de esta Cámara para que se modifique el artículo 2 de la Constitución española y posteriormente los españoles y españolas ratifiquen ese cambio mediante referéndum. Ya les digo yo que el Partido Socialista Obrero español, del que me honro ser su secretario general, nunca jamás aceptará ese tipo de derivadas."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -3202,7 +3077,7 @@
       "locator": "Pág. 25",
       "quote": "Y tampoco consideramos desde Unión del Pueblo Navarro que se pueda negociar ni pactar con prófugos de la justicia ni que se pueda recurrir a indultos, amnistías, consultas o referéndums de autodeterminación totalmente ilegales y que son una humillación para el sistema democrático español y también una traición para la Constitución española."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pp",
@@ -3218,7 +3093,7 @@
       "locator": "Apartado 'Principios y valores'",
       "quote": "Frente a los separatismos insolidarios y la demagogia recentralizadora, creemos que el Estado de las Autonomías, aún perfectible, no solo es el que mejor se ajusta a la realidad de nuestra nación"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "podemos",
@@ -3234,7 +3109,7 @@
       "locator": "p. 26, intervención del señor Sánchez Serna",
       "quote": "De hecho, nosotros pensamos que la descentralización es y siempre ha sido una herramienta democrática para acercar lo más posible decisiones políticas y la rendición de cuentas a la gente. España no ha sido históricamente un Estado centralista ni homogéneo"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "cc",
@@ -3250,7 +3125,7 @@
       "locator": "Justicia, p. 35",
       "quote": "Es necesario culminar nuestro autogobierno en una materia compleja en la que el Ministerio de Justicia sigue conservando competencias que no le corresponden"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "upn",
@@ -3266,6 +3141,6 @@
       "locator": "Pág. 96",
       "quote": "Pero podríamos decirle también, señora ministra, que ustedes han cometido un error mayúsculo contra la España de las autonomías, que nos caracterizan como país, porque no se puede consentir el enfrentamiento que ustedes generaron con una comunidad autónoma."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   }
 ]

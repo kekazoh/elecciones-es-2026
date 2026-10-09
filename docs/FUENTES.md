@@ -89,11 +89,12 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
     noviembre de 2019 de su web. Es un manifiesto breve: solo 4 medidas.
   - UPN: no se ha localizado programa para las generales de 2023; se usa el de
     las forales y municipales de mayo de 2023 (copia de iniciativa2028.es).
-- Declaraciones: 80 posiciones más, de celdas que el programa no aborda,
+- Declaraciones: 72 posiciones más, de celdas que el programa no aborda,
   sacadas de intervenciones parlamentarias, webs de los partidos y, en último
-  caso, prensa (octubre de 2026). Están `pendiente` hasta que keko las revise.
-  Las citas se han comprobado automáticamente contra la página enlazada.
-  Detalle, matriz y dudas en [REVISION-DECLARACIONES.md](REVISION-DECLARACIONES.md).
+  caso, prensa (octubre de 2026). Las citas se han comprobado automáticamente
+  contra la página enlazada. keko revisó las 80 propuestas el 2026-10-09:
+  aceptó 72 (`verificado`) y rechazó 8. Detalle, matriz y motivos en
+  [REVISION-DECLARACIONES.md](REVISION-DECLARACIONES.md).
 - Ninguna posición del programa cubre `san-3` (deducción del seguro médico
   privado): ningún programa la menciona y solo hay dos declaraciones (Sumar y
   Junts). Conviene plantearse cambiar esa medida.
