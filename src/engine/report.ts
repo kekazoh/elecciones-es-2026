@@ -31,8 +31,15 @@ export interface PartyResult {
   party: Party;
   /** Probabilidad del modelo, incluye la penalización por corrupción. */
   probability: number;
-  /** % de coincidencia ponderada en las medidas respondidas (sin corrupción). */
+  /**
+   * % de coincidencia ponderada en todas las medidas respondidas (sin
+   * corrupción). Donde no se conoce la posición del partido cuenta como 50 %,
+   * igual que en el motor, así que ordena a los partidos igual que la
+   * recomendación cuando la corrupción no pesa.
+   */
   affinity: number;
+  /** % de coincidencia ponderada solo en las medidas con posición conocida. */
+  knownAffinity: number;
   /** Medidas respondidas en las que el partido tiene posición conocida. */
   coverage: number;
   corruptionPenalty: number;
@@ -43,6 +50,8 @@ export interface PartyResult {
 export interface Report {
   isSample: boolean;
   questionsAnswered: number;
+  /** Medidas respondidas con una postura (sin contar "No lo sé"). */
+  measuresRated: number;
   ranking: PartyResult[];
   recommended: PartyResult;
   /**
@@ -83,11 +92,25 @@ function weightedAffinity(matches: MeasureMatch[]): number {
   return w === 0 ? 0 : matches.reduce((a, m) => a + m.weight * m.agreement, 0) / w;
 }
 
+/** Peso total de las medidas respondidas con postura: el denominador común a todos los partidos. */
+function ratedWeight(ds: Dataset, answers: Answers): number {
+  return ds.measures
+    .filter((m) => answers.agreement[m.id] !== undefined && answers.agreement[m.id] !== null)
+    .reduce((a, m) => a + topicWeight(answers, m.topicId), 0);
+}
+
+/** Coincidencia en todas las medidas respondidas; las de posición desconocida cuentan 0,5 (como en el motor). */
+function overallAffinity(matches: MeasureMatch[], totalWeight: number): number {
+  if (totalWeight === 0) return 0;
+  return 0.5 + matches.reduce((a, m) => a + m.weight * (m.agreement - 0.5), 0) / totalWeight;
+}
+
 export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = DEFAULT_CONFIG): Report {
   const b = beliefs(ds, answers, cfg);
   const positions = usablePositions(ds);
   const cases = countableCases(ds);
   const measureTopic = new Map(ds.measures.map((m) => [m.id, m.topicId]));
+  const totalWeight = ratedWeight(ds, answers);
 
   const ranking: PartyResult[] = ds.parties
     .map((party) => {
@@ -102,7 +125,8 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
       return {
         party,
         probability: b.get(party.id) ?? 0,
-        affinity: weightedAffinity(matches),
+        affinity: overallAffinity(matches, totalWeight),
+        knownAffinity: weightedAffinity(matches),
         coverage: matches.length,
         corruptionPenalty: corruptionPenalty(ds, party.id, cfg),
         corruptionCases: cases.filter((c) => c.partyIds.includes(party.id)),
@@ -121,6 +145,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
   return {
     isSample: ds.meta.isSample,
     questionsAnswered: Object.keys(answers.agreement).length,
+    measuresRated: ds.measures.filter((m) => answers.agreement[m.id] !== undefined && answers.agreement[m.id] !== null).length,
     ranking,
     recommended,
     recommendedIgnoringCorruption: alt,

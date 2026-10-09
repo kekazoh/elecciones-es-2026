@@ -45,6 +45,13 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
       <p>
         Coincides en un <strong>{pct(rec.affinity)}</strong> con sus propuestas en las medidas que has valorado, teniendo en
         cuenta la importancia que das a cada tema.
+        {rec.coverage < report.measuresRated && (
+          <>
+            {' '}
+            Conocemos su posición en {rec.coverage} de esas {report.measuresRated} medidas (en esas coincides un{' '}
+            {pct(rec.knownAffinity)}).
+          </>
+        )}
       </p>
 
       {report.recommendedIgnoringCorruption && (
@@ -88,6 +95,7 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
           <tr>
             <th>Partido</th>
             <th>Coincidencia</th>
+            <th>Posición conocida</th>
             <th>Condenas firmes</th>
           </tr>
         </thead>
@@ -97,7 +105,15 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
               <td>
                 <span className="dot" style={{ background: r.party.color }} /> {r.party.name}
               </td>
-              <td>{pct(r.affinity)}</td>
+              <td>
+                {pct(r.affinity)}
+                {r.coverage < report.measuresRated && r.coverage > 0 && (
+                  <div className="muted">{pct(r.knownAffinity)} en las conocidas</div>
+                )}
+              </td>
+              <td>
+                {r.coverage} de {report.measuresRated}
+              </td>
               <td>
                 {r.corruptionCases.length === 0
                   ? '—'
@@ -117,6 +133,11 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
           ))}
         </tbody>
       </table>
+      <p className="muted">
+        Los partidos están ordenados por afinidad contigo. Si un partido no ha fijado posición sobre una medida que has
+        valorado, esa medida le cuenta como un 50 % de coincidencia: un partido que coincide mucho contigo en pocas medidas
+        no supera a otro que coincide algo menos en muchas más.
+      </p>
       <p className="muted">
         Solo se tienen en cuenta condenas por sentencia firme con fuente oficial. Su peso depende de la importancia que
         le diste a la corrupción, de si el condenado es el partido o solo sus cargos, y de la antigüedad de la condena

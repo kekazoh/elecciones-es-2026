@@ -41,7 +41,9 @@ Reglas:
 - Solo los casos con `status: sentencia_firme` penalizan. El resto pueden
   guardarse para seguimiento, pero no cuentan.
 - Si un partido no tiene posición conocida en una medida, esa medida no le suma
-  ni le resta (no se asume neutralidad).
+  ni le resta en la puntuación. En la práctica equivale a un 50 % de coincidencia
+  en esa medida frente a los partidos que sí tienen posición, y así se muestra en
+  el informe.
 
 ## Lógica del cuestionario adaptativo (`src/engine/engine.ts`)
 
@@ -85,7 +87,11 @@ partido recomendado, el informe lo dice y muestra cuál saldría sin ella.
 
 ## Informe (`src/engine/report.ts`)
 
-- Partido recomendado (mayor probabilidad) y % de coincidencia ponderada.
+- Partido recomendado (mayor probabilidad) y % de coincidencia ponderada sobre
+  todas las medidas valoradas, contando como 50 % las que el partido no aborda.
+  Es la misma cuenta que usa el motor, así que el orden de la tabla y el
+  porcentaje coinciden cuando la corrupción no pesa. Se muestra además cuántas
+  medidas tienen posición conocida y la coincidencia solo en esas.
 - **Medidas que lo respaldan**: en las que el usuario y el partido van en la
   misma dirección, ordenadas por peso del tema e intensidad; cada una enlaza la
   fuente del programa.
