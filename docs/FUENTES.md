@@ -53,8 +53,8 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 - Pendiente: ERE (falta reflejar los amparos del TC de 2024).
 - La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
   Filesa y casos autonómicos y municipales.
-- Posiciones: 156 codificadas a partir de los programas, todas `pendiente` de
-  revisión humana (el motor aún no las usa). Detalle, matriz y motivos de cada
+- Posiciones: 156 codificadas a partir de los programas y revisadas por keko
+  el 2026-10-09 (`verificado`; el motor ya las usa). Detalle, matriz y motivos de cada
   una en [REVISION-POSICIONES.md](REVISION-POSICIONES.md). `source.locator` da
   la página del PDF (no la impresa) y el apartado; `source.quote` es literal y se
   ha comprobado automáticamente contra el texto extraído de esa página.

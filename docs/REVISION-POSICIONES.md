@@ -1,6 +1,6 @@
-# Revisión de posiciones (pendiente)
+# Revisión de posiciones
 
-Posiciones codificadas a partir de los programas electorales con la política de [FUENTES.md](FUENTES.md). **Todas están en `verification: pendiente`**: el motor no las usa hasta que una persona las revise y las marque como `verificado`.
+Posiciones codificadas a partir de los programas electorales con la política de [FUENTES.md](FUENTES.md). Revisadas por keko el 2026-10-09 y marcadas como `verificado`. Si una revisión posterior encuentra un error, se corrige `stance` o se borra la posición en `src/data/real/positions.json`.
 
 Cómo revisar cada fila: abrir el PDF en la página indicada (número de página del PDF, no el impreso), comprobar la cita y decidir si la postura (−2 a +2) es fiel al enunciado de la medida. Si no lo es, corregir `stance` o borrar la posición en `src/data/real/positions.json`.
 
