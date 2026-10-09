@@ -3,72 +3,130 @@
     "id": "pp",
     "name": "Partido Popular",
     "shortName": "PP",
-    "color": "#1d84ce"
+    "color": "#1d84ce",
+    "program": {
+      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "date": "2023-07-05"
+    }
   },
   {
     "id": "psoe",
     "name": "Partido Socialista Obrero Español",
     "shortName": "PSOE",
-    "color": "#e1001a"
+    "color": "#e1001a",
+    "program": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "date": "2023-07-06"
+    }
   },
   {
     "id": "vox",
     "name": "Vox",
     "shortName": "Vox",
-    "color": "#5ac035"
+    "color": "#5ac035",
+    "program": {
+      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
+      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "date": "2023-07-07"
+    }
   },
   {
     "id": "sumar",
     "name": "Sumar",
     "shortName": "Sumar",
-    "color": "#e51c55"
+    "color": "#e51c55",
+    "program": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10"
+    }
   },
   {
     "id": "erc",
     "name": "Esquerra Republicana de Catalunya",
     "shortName": "ERC",
-    "color": "#ffb232"
+    "color": "#ffb232",
+    "program": {
+      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
+      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+      "date": "2023-07-11"
+    }
   },
   {
     "id": "junts",
     "name": "Junts per Catalunya",
     "shortName": "Junts",
-    "color": "#00c3b2"
+    "color": "#00c3b2",
+    "program": {
+      "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "date": "2023-07-07"
+    }
   },
   {
     "id": "bildu",
     "name": "EH Bildu",
     "shortName": "EH Bildu",
-    "color": "#00d0b6"
+    "color": "#00d0b6",
+    "program": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06"
+    }
   },
   {
     "id": "pnv",
     "name": "EAJ-PNV",
     "shortName": "PNV",
-    "color": "#008000"
+    "color": "#008000",
+    "program": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "date": "2023-07-07"
+    }
   },
   {
     "id": "podemos",
     "name": "Podemos",
     "shortName": "Podemos",
-    "color": "#6b2e68"
+    "color": "#6b2e68",
+    "program": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf"
+    }
   },
   {
     "id": "bng",
     "name": "Bloque Nacionalista Galego",
     "shortName": "BNG",
-    "color": "#76b3dd"
+    "color": "#76b3dd",
+    "program": {
+      "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "date": "2023-06-22"
+    }
   },
   {
     "id": "cc",
     "name": "Coalición Canaria",
     "shortName": "CC",
-    "color": "#ffd700"
+    "color": "#ffd700",
+    "program": {
+      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
+      "date": "2019-10-11"
+    }
   },
   {
     "id": "upn",
     "name": "Unión del Pueblo Navarro",
     "shortName": "UPN",
-    "color": "#2a52be"
+    "color": "#2a52be",
+    "program": {
+      "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
+      "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf"
+    }
   }
 ]
