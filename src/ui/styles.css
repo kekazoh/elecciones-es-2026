@@ -41,3 +41,4 @@ table { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 
 th, td { text-align: left; padding: 8px 4px; border-bottom: 1px solid var(--border); vertical-align: top; }
 .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }
 a { color: var(--accent); }
+.notice { background: var(--bg); border-left: 3px solid var(--accent); padding: 10px 14px; border-radius: 6px; }

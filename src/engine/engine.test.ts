@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { sampleDataset } from '../data/ejemplo';
 import { validateDataset } from '../data/validate';
 import { CORRUPTION_KEY, type Answers, type Dataset } from '../model/types';
-import { beliefs, nextQuestion } from './engine';
+import { DEFAULT_CONFIG, beliefs, caseRecencyWeight, nextQuestion } from './engine';
 import { buildReport } from './report';
 
 const empty = (): Answers => ({ importance: {}, agreement: {} });
@@ -110,6 +110,28 @@ describe('corrupción', () => {
     a.importance[CORRUPTION_KEY] = 3;
     expect(indifferent).toBe('dalia');
     expect(buildReport(sampleDataset, a).recommended.party.id).toBe('cobalto');
+  });
+});
+
+describe('gravedad de la corrupción', () => {
+  it('una condena pesa la mitad cada 10 años', () => {
+    const c = sampleDataset.corruptionCases[0]!; // sentencia de 2020-01-01
+    expect(caseRecencyWeight(c, { ...DEFAULT_CONFIG, referenceDate: '2020-01-01' })).toBeCloseTo(1);
+    expect(caseRecencyWeight(c, { ...DEFAULT_CONFIG, referenceDate: '2030-01-01' })).toBeCloseTo(0.5, 2);
+  });
+
+  it('el informe dice qué partido saldría sin la corrupción si cambia el resultado', () => {
+    const a = answerAs(sampleDataset, 'dalia', 1);
+    const stance = (pid: string, mid: string) => sampleDataset.positions.find((p) => p.partyId === pid && p.measureId === mid)!.stance;
+    sampleDataset.measures.forEach((m, i) => {
+      a.agreement[m.id] = stance(i % 3 === 0 ? 'cobalto' : 'dalia', m.id);
+    });
+    a.importance[CORRUPTION_KEY] = 3;
+    const r = buildReport(sampleDataset, a);
+    expect(r.recommended.party.id).toBe('cobalto');
+    expect(r.recommendedIgnoringCorruption?.id).toBe('dalia');
+    a.importance[CORRUPTION_KEY] = 0;
+    expect(buildReport(sampleDataset, a).recommendedIgnoringCorruption).toBeUndefined();
   });
 });
 

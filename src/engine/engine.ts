@@ -39,6 +39,10 @@ export interface EngineConfig {
   lambda: number;
   /** Cuánto pesa la corrupción probada a importancia 1 (escala con la importancia). */
   corruptionLambda: number;
+  /** Años tras los que una condena pesa la mitad. */
+  corruptionHalfLifeYears: number;
+  /** Fecha de referencia para la antigüedad (ISO). Por defecto, hoy. */
+  referenceDate?: string;
 }
 
 export const DEFAULT_CONFIG: EngineConfig = {
@@ -47,6 +51,7 @@ export const DEFAULT_CONFIG: EngineConfig = {
   confidenceThreshold: 0.9,
   lambda: 3,
   corruptionLambda: 2,
+  corruptionHalfLifeYears: 10,
 };
 
 const IMPORTANCE_WEIGHT: Record<Importance, number> = { 0: 0, 1: 0.5, 2: 1, 3: 2 };
@@ -88,10 +93,30 @@ export function topicWeight(answers: Answers, topicId: string): number {
   return imp === undefined ? 1 : IMPORTANCE_WEIGHT[imp];
 }
 
-export function corruptionPenalty(ds: Dataset, partyId: string): number {
+/** Fecha de la sentencia más reciente del caso (la que lo hace firme). */
+function caseDate(c: CorruptionCase): Date | null {
+  const dates = c.sources.filter((s) => s.kind === 'sentencia' && s.date).map((s) => new Date(s.date!).getTime());
+  return dates.length ? new Date(Math.max(...dates)) : null;
+}
+
+/** Peso por antigüedad: 1 si es reciente, la mitad cada `corruptionHalfLifeYears`. */
+export function caseRecencyWeight(c: CorruptionCase, cfg: EngineConfig = DEFAULT_CONFIG): number {
+  const date = caseDate(c);
+  if (!date) return 1;
+  const now = cfg.referenceDate ? new Date(cfg.referenceDate) : new Date();
+  const years = Math.max(0, (now.getTime() - date.getTime()) / (365.25 * 24 * 3600 * 1000));
+  return 0.5 ** (years / cfg.corruptionHalfLifeYears);
+}
+
+/** Gravedad de un caso: tipo de implicación del partido × antigüedad. */
+export function caseSeverity(c: CorruptionCase, cfg: EngineConfig = DEFAULT_CONFIG): number {
+  return INVOLVEMENT_WEIGHT[c.involvement] * caseRecencyWeight(c, cfg);
+}
+
+export function corruptionPenalty(ds: Dataset, partyId: string, cfg: EngineConfig = DEFAULT_CONFIG): number {
   const total = countableCases(ds)
     .filter((c) => c.partyIds.includes(partyId))
-    .reduce((acc, c) => acc + INVOLVEMENT_WEIGHT[c.involvement], 0);
+    .reduce((acc, c) => acc + caseSeverity(c, cfg), 0);
   return Math.min(1, total);
 }
 
@@ -107,7 +132,7 @@ function logScores(ds: Dataset, answers: Answers, cfg: EngineConfig, idx: Stance
   const corrW = topicWeight(answers, CORRUPTION_KEY);
   const scores = new Map<string, number>();
   for (const party of ds.parties) {
-    let s = -cfg.corruptionLambda * corrW * corruptionPenalty(ds, party.id);
+    let s = -cfg.corruptionLambda * corrW * corruptionPenalty(ds, party.id, cfg);
     for (const [measureId, user] of Object.entries(answers.agreement)) {
       if (user === null) continue;
       const m = measures.get(measureId);

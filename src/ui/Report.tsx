@@ -47,6 +47,14 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
         cuenta la importancia que das a cada tema.
       </p>
 
+      {report.recommendedIgnoringCorruption && (
+        <p className="notice">
+          Sin tener en cuenta la corrupción, tu partido más afín sería{' '}
+          <strong>{report.recommendedIgnoringCorruption.name}</strong>. El resultado cambia porque indicaste que las
+          condenas firmes por corrupción deben pesar en tu voto.
+        </p>
+      )}
+
       {report.supporting.length > 0 && (
         <>
           <h3>Por qué: medidas en las que coincidís</h3>
@@ -109,8 +117,9 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
         </tbody>
       </table>
       <p className="muted">
-        Solo se tienen en cuenta condenas por sentencia firme con fuente oficial. Su peso en el resultado depende de la
-        importancia que le diste a la corrupción.
+        Solo se tienen en cuenta condenas por sentencia firme con fuente oficial. Su peso depende de la importancia que
+        le diste a la corrupción, de si el condenado es el partido o solo sus cargos, y de la antigüedad de la condena
+        (pesa la mitad cada 10 años).
       </p>
 
       <button className="primary" onClick={onRestart}>

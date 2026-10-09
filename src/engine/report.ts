@@ -2,6 +2,7 @@
  * Informe final. Solo se construye cuando el cuestionario ha terminado: es el
  * único punto en el que la app revela partidos.
  */
+import { CORRUPTION_KEY } from '../model/types';
 import type { Answers, CorruptionCase, Dataset, Party, PartyPosition, SourceRef, Stance } from '../model/types';
 import {
   DEFAULT_CONFIG,
@@ -44,6 +45,11 @@ export interface Report {
   questionsAnswered: number;
   ranking: PartyResult[];
   recommended: PartyResult;
+  /**
+   * Partido que saldría si no se tuviera en cuenta la corrupción, solo cuando
+   * es distinto del recomendado. Se muestra para que el efecto sea transparente.
+   */
+  recommendedIgnoringCorruption?: Party;
   /** Medidas que más respaldan la recomendación. */
   supporting: MeasureMatch[];
   /** Medidas en las que discrepas del partido recomendado. */
@@ -98,7 +104,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
         probability: b.get(party.id) ?? 0,
         affinity: weightedAffinity(matches),
         coverage: matches.length,
-        corruptionPenalty: corruptionPenalty(ds, party.id),
+        corruptionPenalty: corruptionPenalty(ds, party.id, cfg),
         corruptionCases: cases.filter((c) => c.partyIds.includes(party.id)),
         topicAffinity,
       };
@@ -106,6 +112,9 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
     .sort((a, b2) => b2.probability - a.probability);
 
   const recommended = ranking[0]!;
+  const noCorruption = beliefs(ds, { ...answers, importance: { ...answers.importance, [CORRUPTION_KEY]: 0 } }, cfg);
+  const [altId] = [...noCorruption].reduce((best, cur) => (cur[1] > best[1] ? cur : best));
+  const alt = altId !== recommended.party.id ? ds.parties.find((p) => p.id === altId) : undefined;
   const recMatches = matchesFor(ds, answers, recommended.party.id, positions);
   const byImpact = (m: MeasureMatch) => m.weight * (m.agreement - 0.5) * (1 + Math.abs(m.userStance) / 2);
 
@@ -114,6 +123,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
     questionsAnswered: Object.keys(answers.agreement).length,
     ranking,
     recommended,
+    recommendedIgnoringCorruption: alt,
     supporting: recMatches
       .filter((m) => m.weight > 0 && m.userStance !== 0 && Math.sign(m.userStance) === Math.sign(m.partyStance))
       .sort((x, y) => byImpact(y) - byImpact(x))
