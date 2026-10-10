@@ -41,6 +41,8 @@ export interface EngineConfig {
   corruptionLambda: number;
   /** Años tras los que una condena pesa la mitad. */
   corruptionHalfLifeYears: number;
+  /** Tope de la penalización de un partido (suma de la gravedad de sus casos). */
+  corruptionCap: number;
   /** Fecha de referencia para la antigüedad (ISO). Por defecto, hoy. */
   referenceDate?: string;
   /**
@@ -57,6 +59,7 @@ export const DEFAULT_CONFIG: EngineConfig = {
   lambda: 3,
   corruptionLambda: 2,
   corruptionHalfLifeYears: 10,
+  corruptionCap: 2,
   declarationWeight: 0.75,
 };
 
@@ -130,7 +133,7 @@ export function corruptionPenalty(ds: Dataset, partyId: string, cfg: EngineConfi
   const total = countableCases(ds)
     .filter((c) => c.partyIds.includes(partyId))
     .reduce((acc, c) => acc + caseSeverity(c, cfg), 0);
-  return Math.min(1, total);
+  return Math.min(cfg.corruptionCap, total);
 }
 
 export function agreementBetween(user: Stance, party: Stance): number {

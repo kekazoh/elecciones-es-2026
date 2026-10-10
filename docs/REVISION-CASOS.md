@@ -4,8 +4,8 @@ Criterio decidido por keko el 2026-10-10: **cuentan también las condenas firmes
 a cargos del partido aunque el partido no sea condenado** (peso 0,4, que se
 reduce a la mitad cada 10 años).
 
-Todos los casos de esta tabla están en `pendiente`: no cuentan hasta que keko
-los revise y pasen a `verificado`. La sentencia y la nota del CGPJ son fuentes
+keko los revisó el 2026-10-10 y aceptó los nueve. Todos pasan a `verificado`
+salvo Filesa, que sigue pendiente hasta enlazar la sentencia oficial. La sentencia y la nota del CGPJ son fuentes
 oficiales; la filiación de los condenados casi nunca aparece en ellas y se
 explica en `attributionNote`.
 
