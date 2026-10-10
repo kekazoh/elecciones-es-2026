@@ -1,9 +1,9 @@
 import type { MeasureMatch, Report } from '../engine/report';
-import type { CSSProperties } from 'react';
+import type { CSSProperties, ReactNode } from 'react';
 import type { Stance } from '../model/types';
 import { ShareButton } from './ShareButton';
 
-const STANCE_LABEL: Record<Stance, string> = {
+export const STANCE_LABEL: Record<Stance, string> = {
   2: 'muy a favor',
   1: 'a favor',
   0: 'neutral',
@@ -13,15 +13,25 @@ const STANCE_LABEL: Record<Stance, string> = {
 
 const pct = (x: number) => `${Math.round(x * 100)}%`;
 
-function MeasureList({ items }: { items: MeasureMatch[] }) {
+export function MeasureList<T extends MeasureMatch>({
+  items,
+  party = 'Partido',
+  tag,
+}: {
+  items: T[];
+  party?: string;
+  /** Etiqueta opcional junto al tema (p. ej., cuánto resta la medida). */
+  tag?: (m: T) => ReactNode;
+}) {
   return (
     <ul className="measures">
       {items.map((m) => (
         <li key={m.measureId}>
           <span className="topic">{m.topicName}</span>
+          {tag?.(m)}
           <p>{m.statement}</p>
           <p className="muted">
-            Tú: {STANCE_LABEL[m.userStance]} · Partido: {STANCE_LABEL[m.partyStance]}
+            Tú: {STANCE_LABEL[m.userStance]} · {party}: {STANCE_LABEL[m.partyStance]}
             {m.source && (
               <>
                 {' · '}
@@ -48,10 +58,12 @@ export function ReportView({
   report,
   onRestart,
   onReplay,
+  onChoice,
 }: {
   report: Report;
   onRestart: () => void;
   onReplay: () => void;
+  onChoice: () => void;
 }) {
   const rec = report.recommended;
   return (
@@ -172,8 +184,19 @@ export function ReportView({
         (pesa la mitad cada 10 años).
       </p>
 
+      <div className="next-step">
+        <h3>¿Ya sabes a quién vas a votar?</h3>
+        <p>
+          Si no es {rec.party.shortName}, te enseñamos qué medidas de ese partido van contra lo que has respondido y qué
+          condenas le restan.
+        </p>
+        <button className="cta" onClick={onChoice}>
+          Compararlo con tus respuestas <span aria-hidden="true">→</span>
+        </button>
+      </div>
+
       <div className="actions">
-        <button className="cta" onClick={onReplay}>
+        <button className="ghost" onClick={onReplay}>
           Ver el resumen otra vez
         </button>
         <ShareButton report={report} className="ghost" />

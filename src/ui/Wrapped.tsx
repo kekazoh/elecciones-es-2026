@@ -286,10 +286,12 @@ function buildSlides(report: Report): Slide[] {
 export function Wrapped({
   report,
   onDetail,
+  onChoice,
   onRestart,
 }: {
   report: Report;
   onDetail: () => void;
+  onChoice: () => void;
   onRestart: () => void;
 }) {
   const reduced = useReducedMotion();
@@ -408,6 +410,9 @@ export function Wrapped({
                 <ShareButton report={report} className="w-primary" />
                 <button className="w-secondary wide" onClick={onDetail}>
                   Ver el informe completo, con fuentes
+                </button>
+                <button className="w-secondary wide" onClick={onChoice}>
+                  ¿Ya sabes a quién vas a votar?
                 </button>
                 <button className="w-secondary" onClick={() => setI(0)}>
                   Ver otra vez
