@@ -253,3 +253,39 @@ tbody tr:first-child td { font-weight: 700; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; animation-delay: 0s !important; transition-duration: 0.01ms !important; }
 }
+
+/* Panel para compartir (ShareButton.tsx). Va en un portal sobre todo lo demás. */
+.share-backdrop {
+  position: fixed; inset: 0; z-index: 50; display: grid; place-items: end center;
+  background: rgba(5, 5, 6, 0.6); animation: share-fade 0.2s both;
+}
+@media (min-width: 600px) { .share-backdrop { place-items: center; } }
+.share-sheet {
+  box-sizing: border-box; width: min(100%, 560px); max-height: 100dvh; overflow: auto;
+  background: var(--paper); color: var(--ink); padding: 20px 20px 24px;
+  font-family: var(--sans); border-top: 3px solid var(--ink);
+  animation: share-up 0.3s var(--ease-out) both;
+}
+@media (min-width: 600px) { .share-sheet { border: 3px solid var(--ink); box-shadow: 10px 10px 0 var(--ink); } }
+.share-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+.share-head h2 { margin: 0; font-size: 26px; font-weight: 850; font-stretch: 75%; text-transform: uppercase; }
+.share-close { background: none; border: 0; color: var(--ink); font-size: 20px; padding: 6px 10px; }
+.share-body { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 18px; align-items: start; }
+.share-preview { width: 100%; aspect-ratio: 9 / 16; display: block; background: var(--wash); border: 2px solid var(--ink); }
+.share-options { display: grid; gap: 8px; }
+.share-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+.share-link, .share-action {
+  display: block; box-sizing: border-box; width: 100%; text-align: center; padding: 12px 6px; border: 2px solid var(--ink);
+  font-weight: 750; font-size: 13px; text-transform: uppercase; letter-spacing: 0.02em; overflow-wrap: anywhere;
+  color: var(--ink); background: none; text-decoration: none;
+}
+.share-link:hover, .share-action:hover { background: var(--wash); }
+.share-action { background: var(--ink); color: var(--paper); }
+.share-action:hover { background: var(--ink-2); }
+.share-action:disabled { opacity: 0.5; }
+.share-hint { margin: 0 0 6px; font-size: 13px; color: var(--ink-2); line-height: 1.35; }
+.share-privacy { margin: 16px 0 0; font-size: 12px; color: var(--ink-2); }
+@media (max-width: 380px) { .share-body { grid-template-columns: 1fr; } .share-preview { width: 120px; } }
+@keyframes share-fade { from { opacity: 0; } }
+@keyframes share-up { from { transform: translateY(40px); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .share-backdrop, .share-sheet { animation: none; } }
