@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState, type CSSProperties } from 'react';
+import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import { realDataset } from '../data/real';
 import { nextQuestion } from '../engine/engine';
 import { buildReport } from '../engine/report';
@@ -28,6 +28,10 @@ type Step = { question: Question; answers: Answers };
 
 const two = (n: number) => String(n).padStart(2, '0');
 
+/** Lo que dura la confirmación de la opción elegida más la salida de la pregunta (ms). */
+const PICK_MS = 560;
+const prefersReducedMotion = () => window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ?? false;
+
 export function App() {
   const [started, setStarted] = useState(false);
   const [answers, setAnswers] = useState<Answers>({ importance: {}, agreement: {} });
@@ -35,6 +39,10 @@ export function App() {
   const [view, setView] = useState<'story' | 'detail'>('story');
   // Ver el comentario sobre `data-armed` en styles.css.
   const [armedAt, setArmedAt] = useState(-1);
+  // Opción recién elegida: se anima y la respuesta se registra al terminar la animación.
+  const [picked, setPicked] = useState<number | null>(null);
+  const pickTimer = useRef<number>(undefined);
+  useEffect(() => () => window.clearTimeout(pickTimer.current), []);
 
   const question = useMemo(() => nextQuestion(ds, answers), [answers]);
   const report = useMemo(() => (question === null ? buildReport(ds, answers) : null), [question, answers]);
@@ -49,7 +57,20 @@ export function App() {
     );
   };
 
+  const choose = (index: number, value: Importance | Stance | null) => {
+    if (picked !== null) return;
+    setPicked(index);
+    pickTimer.current = window.setTimeout(
+      () => {
+        setPicked(null);
+        answer(value);
+      },
+      prefersReducedMotion() ? 120 : PICK_MS,
+    );
+  };
+
   const back = () => {
+    if (picked !== null) return;
     const prev = history.at(-1);
     if (!prev) return;
     setHistory((h) => h.slice(0, -1));
@@ -57,6 +78,8 @@ export function App() {
   };
 
   const restart = () => {
+    window.clearTimeout(pickTimer.current);
+    setPicked(null);
     setAnswers({ importance: {}, agreement: {} });
     setHistory([]);
     setStarted(false);
@@ -71,7 +94,7 @@ export function App() {
     const onKey = (e: KeyboardEvent) => {
       if (e.metaKey || e.ctrlKey || e.altKey) return;
       const n = Number(e.key);
-      if (Number.isInteger(n) && n >= 1 && n <= options.length) answer(options[n - 1]!.value);
+      if (Number.isInteger(n) && n >= 1 && n <= options.length) choose(n - 1, options[n - 1]!.value);
       else if (e.key === 'Backspace') back();
     };
     window.addEventListener('keydown', onKey);
@@ -142,7 +165,8 @@ export function App() {
             className="question"
             key={n}
             aria-live="polite"
-            data-armed={armed || undefined}
+            data-armed={(armed && picked === null) || undefined}
+            data-picked={picked !== null || undefined}
             onPointerMove={(e) => e.pointerType === 'mouse' && !armed && setArmedAt(n)}
           >
             <p className="eyebrow">
@@ -153,7 +177,13 @@ export function App() {
                 <h2 className="statement">{question.prompt}</h2>
                 <div className="scale" role="group" aria-label="Importancia">
                   {IMPORTANCE_OPTIONS.map((o, i) => (
-                    <button key={o.value} className="level" style={{ '--i': i } as CSSProperties} onClick={() => answer(o.value)}>
+                    <button
+                      key={o.value}
+                      className={picked === i ? 'level picked' : 'level'}
+                      aria-pressed={picked === i}
+                      style={{ '--i': i } as CSSProperties}
+                      onClick={() => choose(i, o.value)}
+                    >
                       <span className="meter" aria-hidden="true">
                         {[0, 1, 2].map((k) => (
                           <i key={k} className={k < o.value ? 'on' : ''} />
@@ -161,6 +191,7 @@ export function App() {
                       </span>
                       <span className="label">{o.label}</span>
                       <kbd>{i + 1}</kbd>
+                      <span className="tick" aria-hidden="true" />
                     </button>
                   ))}
                 </div>
@@ -178,13 +209,15 @@ export function App() {
                   {AGREEMENT_OPTIONS.map((o, i) => (
                     <button
                       key={String(o.value)}
-                      className={o.value === null ? 'choice skip' : 'choice'}
+                      className={`choice${o.value === null ? ' skip' : ''}${picked === i ? ' picked' : ''}`}
+                      aria-pressed={picked === i}
                       data-stance={o.value ?? 'na'}
                       style={{ '--i': i } as CSSProperties}
-                      onClick={() => answer(o.value)}
+                      onClick={() => choose(i, o.value)}
                     >
                       <kbd>{i + 1}</kbd>
                       <span>{o.label}</span>
+                      <span className="tick" aria-hidden="true" />
                     </button>
                   ))}
                 </div>

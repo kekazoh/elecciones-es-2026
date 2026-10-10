@@ -179,6 +179,36 @@ kbd {
   .level:nth-child(-n + 2) { border-bottom: 1px solid var(--line); }
 }
 
+/*
+ * Opción elegida: se rellena de tinta, aparece una marca y las demás
+ * se apagan; después la pregunta sale hacia arriba y entra la siguiente.
+ */
+.choice.picked, .level.picked { color: var(--paper); }
+.choice.picked { padding-left: 16px; }
+.choice.picked::before { transform: scaleX(1); transition-duration: 0.22s; }
+.level.picked::before { transform: scaleY(1); transition-duration: 0.22s; }
+.choice.picked, .level.picked { animation: picked 0.32s var(--ease-out); }
+@keyframes picked { 40% { transform: scale(1.02); } }
+.tick {
+  position: absolute; top: 50%; right: 16px; width: 26px; height: 26px; margin-top: -13px;
+  opacity: 0; transform: scale(0.3) rotate(-20deg);
+}
+.level .tick { top: auto; bottom: 14px; margin-top: 0; }
+.tick::before { content: ''; position: absolute; left: 8px; top: 1px; width: 9px; height: 18px; border: solid currentColor; border-width: 0 3px 3px 0; transform: rotate(45deg); }
+.picked .tick { animation: tick-in 0.3s 0.08s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+@keyframes tick-in { to { opacity: 1; transform: scale(1) rotate(0deg); } }
+.question[data-picked] .choice:not(.picked),
+.question[data-picked] .level:not(.picked) { opacity: 0.3; transition: opacity 0.2s; }
+.question[data-picked] button { pointer-events: none; }
+.question[data-picked] .statement,
+.question[data-picked] .eyebrow,
+.question[data-picked] .explainer,
+.question[data-picked] .choices,
+.question[data-picked] .scale,
+.question[data-picked] .question-foot { animation: leave 0.24s 0.32s cubic-bezier(0.5, 0, 0.75, 0) forwards; }
+.question[data-picked] .statement { animation-delay: 0.3s; }
+@keyframes leave { to { opacity: 0; transform: translateY(-18px); } }
+
 .question-foot { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; }
 .link { background: none; border: 0; padding: 6px 0; font-weight: 600; color: var(--ink-2); }
 .link:hover { color: var(--ink); }
