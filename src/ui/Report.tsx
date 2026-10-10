@@ -1,4 +1,5 @@
 import type { MeasureMatch, Report } from '../engine/report';
+import type { CSSProperties } from 'react';
 import type { Stance } from '../model/types';
 
 const STANCE_LABEL: Record<Stance, string> = {
@@ -42,13 +43,24 @@ function MeasureList({ items }: { items: MeasureMatch[] }) {
   );
 }
 
-export function ReportView({ report, onRestart }: { report: Report; onRestart: () => void }) {
+export function ReportView({
+  report,
+  onRestart,
+  onReplay,
+}: {
+  report: Report;
+  onRestart: () => void;
+  onReplay: () => void;
+}) {
   const rec = report.recommended;
   return (
-    <section className="card report">
-      <p className="step">Tu resultado · {report.questionsAnswered} medidas valoradas</p>
-      <h1 style={{ color: rec.party.color }}>{rec.party.name}</h1>
-      <p>
+    <section className="report" style={{ '--party': rec.party.color } as CSSProperties}>
+      <p className="eyebrow">Informe completo · {report.questionsAnswered} medidas valoradas</p>
+      <h1 className="report-title">
+        <span className="swatch" />
+        {rec.party.name}
+      </h1>
+      <p className="lede">
         Coincides en un <strong>{pct(rec.affinity)}</strong> con sus propuestas en las medidas que has valorado, teniendo en
         cuenta la importancia que das a cada tema.
         {rec.coverage < report.measuresRated && (
@@ -103,6 +115,7 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
       </ul>
 
       <h3>Todos los partidos</h3>
+      <div className="table-wrap">
       <table>
         <thead>
           <tr>
@@ -146,6 +159,7 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
           ))}
         </tbody>
       </table>
+      </div>
       <p className="muted">
         Los partidos están ordenados por afinidad contigo. Si un partido no ha fijado posición sobre una medida que has
         valorado, esa medida le cuenta como un 50 % de coincidencia: un partido que coincide mucho contigo en pocas medidas
@@ -157,9 +171,14 @@ export function ReportView({ report, onRestart }: { report: Report; onRestart: (
         (pesa la mitad cada 10 años).
       </p>
 
-      <button className="primary" onClick={onRestart}>
-        Volver a empezar
-      </button>
+      <div className="actions">
+        <button className="cta" onClick={onReplay}>
+          Ver el resumen otra vez
+        </button>
+        <button className="ghost" onClick={onRestart}>
+          Volver a empezar
+        </button>
+      </div>
     </section>
   );
 }
