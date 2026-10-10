@@ -41,3 +41,7 @@ Cada push a `main` construye la app y la publica en GitHub Pages
 (`.github/workflows/deploy-pages.yml`), en
 https://kekazoh.github.io/elecciones-es-2026/. Requiere una sola vez:
 Settings → Pages → Source: **GitHub Actions**.
+
+Cada PR abierta desde una rama de este repositorio se publica además en
+`https://kekazoh.github.io/elecciones-es-2026/pr-<número>/`, y un comentario
+en la PR enlaza su preview. La preview se retira al cerrar o fusionar la PR.
