@@ -88,7 +88,7 @@
     "partyIds": [
       "psoe"
     ],
-    "summary": "El Tribunal Supremo confirmó en 2022 la mayoría de condenas a ex altos cargos de la Junta de Andalucía. En 2024 el Tribunal Constitucional otorgó amparos que anularon parte de esas condenas.",
+    "summary": "El Tribunal Supremo confirmó en 2022 la mayoría de condenas a ex altos cargos de la Junta de Andalucía, entre ellos los expresidentes Manuel Chaves y José Antonio Griñán, por prevaricación y, en varios casos, malversación. En 2024 el Tribunal Constitucional otorgó amparos parciales (por ejemplo, la STC 100/2024 a Griñán) y ordenó a la Audiencia de Sevilla dictar nuevas sentencias. La Audiencia suspendió en julio de 2025 la ejecución de esos mandatos hasta que responda el TJUE, al que planteó una cuestión prejudicial. El PSOE como partido no fue acusado ni condenado.",
     "status": "sentencia_firme",
     "involvement": "cargos_condenados",
     "sources": [
@@ -104,10 +104,37 @@
         "title": "CGPJ: Nota informativa de la Sala II sobre la sentencia del caso ERE",
         "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/Nota-informativa-de-la-Sala-II-del-Tribunal-Supremo-sobre-la-sentencia-del--caso-ERE--y-voto-particular",
         "date": "2022-09-14"
+      },
+      {
+        "kind": "sentencia",
+        "title": "STC 100/2024, de 16 de julio (amparo de José Antonio Griñán Martínez)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17481",
+        "date": "2024-07-16",
+        "quote": "retrotrae las actuaciones a la Audiencia Provincial de Sevilla para que dicte un nuevo fallo respetuoso con los derechos fundamentales infringidos"
       }
     ],
     "verification": "pendiente",
-    "pendingReason": "Falta reflejar las sentencias de amparo del Tribunal Constitucional (2024) y las nuevas sentencias del Supremo que dictó después, para saber qué condenas siguen vigentes. La nota oficial no menciona al PSOE: hay que documentar la vinculación de los condenados con el partido."
+    "pendingReason": "Las nuevas sentencias que ordenó el Tribunal Constitucional corresponden a la Audiencia de Sevilla (no al Supremo), que las suspendió por auto de 14 de julio de 2025 a la espera del TJUE. Falta decidir si se cuenta ya la parte de las condenas que los amparos no tocan (las prevaricaciones y las condenas de quienes no obtuvieron amparo) y enlazar el resto de sentencias del TC. La nota oficial no menciona al PSOE: hay que documentar la vinculación de los condenados con el partido."
+  },
+  {
+    "id": "psoe-filesa",
+    "name": "Caso Filesa",
+    "partyIds": [
+      "psoe"
+    ],
+    "summary": "El Tribunal Supremo condenó en 1997 a dirigentes del PSOE y del PSC, entre ellos el senador José María Sala y el diputado Carlos Navarro, secretario de finanzas del PSC-PSOE, por falsedad y asociación ilícita en una trama de facturas falsas de las empresas Filesa, Malesa y Time Export que pagó gastos del partido. El fallo no condena al PSOE ni le impone responsabilidad civil.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II, 1/1997 (causa especial 880/1991), copia no oficial en derechos.org",
+        "url": "https://derechos.org/nizkor/espana/doc/filesa.html",
+        "date": "1997-10-28"
+      }
+    ],
+    "verification": "pendiente",
+    "pendingReason": "Falta el enlace oficial en CENDOJ con su ECLI (solo se ha leído una copia no oficial). Por su antigüedad pesaría poco (un 13 % de una condena reciente)."
   },
   {
     "id": "cdc-palau",
