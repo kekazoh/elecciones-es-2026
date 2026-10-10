@@ -1,6 +1,7 @@
 import type { MeasureMatch, Report } from '../engine/report';
 import type { CSSProperties } from 'react';
 import type { Stance } from '../model/types';
+import { ShareButton } from './ShareButton';
 
 const STANCE_LABEL: Record<Stance, string> = {
   2: 'muy a favor',
@@ -175,6 +176,7 @@ export function ReportView({
         <button className="cta" onClick={onReplay}>
           Ver el resumen otra vez
         </button>
+        <ShareButton report={report} className="ghost" />
         <button className="ghost" onClick={onRestart}>
           Volver a empezar
         </button>
