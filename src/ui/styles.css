@@ -134,11 +134,21 @@ kbd {
   content: ''; position: absolute; inset: 0; z-index: -1; background: var(--sweep);
   transform: scaleX(0); transform-origin: left; transition: transform 0.28s var(--ease-out);
 }
-.choice:hover, .choice:focus-visible { color: var(--paper); padding-left: 16px; outline: none; }
-.choice:hover::before, .choice:focus-visible::before { transform: scaleX(1); }
+/*
+ * El resaltado por hover solo se activa cuando el puntero se mueve dentro de la
+ * pregunta: al aparecer una nueva, el dedo o el ratón siguen donde se pulsó la
+ * respuesta anterior y, si no, una opción saldría ya resaltada.
+ */
+.choice:focus-visible { color: var(--paper); padding-left: 16px; outline: none; }
+.choice:focus-visible::before { transform: scaleX(1); }
+@media (hover: hover) {
+  .question[data-armed] .choice:hover { color: var(--paper); padding-left: 16px; }
+  .question[data-armed] .choice:hover::before { transform: scaleX(1); }
+}
 .choice:active::before { transition-duration: 0.08s; }
 .choice.skip { color: var(--ink-2); font-size: 15px; font-weight: 450; border-bottom: 0; }
-.choice.skip:hover, .choice.skip:focus-visible { color: var(--paper); }
+.choice.skip:focus-visible { color: var(--paper); }
+@media (hover: hover) { .question[data-armed] .choice.skip:hover { color: var(--paper); } }
 @keyframes slide-in { from { opacity: 0; transform: translateX(-14px); } }
 
 .scale { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; border: 2px solid var(--ink); }
@@ -150,8 +160,12 @@ kbd {
 }
 .level:last-child { border-right: 0; }
 .level::before { content: ''; position: absolute; inset: 0; z-index: -1; background: var(--ink); transform: scaleY(0); transform-origin: bottom; transition: transform 0.28s var(--ease-out); }
-.level:hover, .level:focus-visible { color: var(--paper); outline: none; }
-.level:hover::before, .level:focus-visible::before { transform: scaleY(1); }
+.level:focus-visible { color: var(--paper); outline: none; }
+.level:focus-visible::before { transform: scaleY(1); }
+@media (hover: hover) {
+  .question[data-armed] .level:hover { color: var(--paper); }
+  .question[data-armed] .level:hover::before { transform: scaleY(1); }
+}
 .level kbd { position: absolute; top: 12px; right: 12px; }
 .meter { display: flex; align-items: flex-end; gap: 4px; height: 30px; }
 .meter i { width: 9px; background: currentColor; opacity: 0.18; transition: opacity 0.2s; }

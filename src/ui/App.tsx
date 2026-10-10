@@ -33,6 +33,8 @@ export function App() {
   const [answers, setAnswers] = useState<Answers>({ importance: {}, agreement: {} });
   const [history, setHistory] = useState<Step[]>([]);
   const [view, setView] = useState<'story' | 'detail'>('story');
+  // Ver el comentario sobre `data-armed` en styles.css.
+  const [armedAt, setArmedAt] = useState(-1);
 
   const question = useMemo(() => nextQuestion(ds, answers), [answers]);
   const report = useMemo(() => (question === null ? buildReport(ds, answers) : null), [question, answers]);
@@ -59,6 +61,7 @@ export function App() {
     setHistory([]);
     setStarted(false);
     setView('story');
+    setArmedAt(-1);
   };
 
   // Atajos de teclado: 1…n eligen opción, Retroceso vuelve a la anterior.
@@ -84,6 +87,7 @@ export function App() {
   }
 
   const n = history.length + 1;
+  const armed = armedAt === n;
 
   return (
     <div className="page">
@@ -134,7 +138,13 @@ export function App() {
         )}
 
         {started && question && (
-          <section className="question" key={n} aria-live="polite">
+          <section
+            className="question"
+            key={n}
+            aria-live="polite"
+            data-armed={armed || undefined}
+            onPointerMove={(e) => e.pointerType === 'mouse' && !armed && setArmedAt(n)}
+          >
             <p className="eyebrow">
               {question.kind === 'agreement' ? question.topicName : 'Antes de nada'}
             </p>
