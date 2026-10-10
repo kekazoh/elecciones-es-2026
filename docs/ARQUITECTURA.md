@@ -82,12 +82,12 @@ partido. El tema de cada medida sí se muestra para dar contexto.
 
 ## Cómo cuenta la corrupción
 
-`penalización_partido = min(2, Σ gravedad_caso)`, con
+`penalización_partido = Σ gravedad_caso`, con
 `gravedad_caso = implicación × 0,5^(años desde la sentencia / 10)`.
 Implicación: partido condenado como persona jurídica 1; comiso al partido 0,8;
 partícipe a título lucrativo o responsable civil subsidiario 0,6; solo cargos
-condenados 0,4. El tope de 2 (`corruptionCap`) deja que un partido con muchas
-tramas pese más que uno con una o dos. La penalización se multiplica por la
+condenados 0,4. No hay tope: cada condena suma, así que un
+partido con muchas tramas pesa más que uno con una o dos. La penalización se multiplica por la
 sensibilidad que indicó el usuario (0 = no cuenta). Si la corrupción cambia el
 partido recomendado, el informe lo dice y muestra cuál saldría sin ella.
 
