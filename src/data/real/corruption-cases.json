@@ -134,7 +134,200 @@
       }
     ],
     "verification": "pendiente",
-    "pendingReason": "Falta el enlace oficial en CENDOJ con su ECLI (solo se ha leído una copia no oficial). Por su antigüedad pesaría poco (un 13 % de una condena reciente)."
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Falta el enlace oficial en CENDOJ con su ECLI (solo se ha leído una copia no oficial). Por su antigüedad pesaría poco (un 13 % de una condena reciente).",
+    "attributionNote": "El fallo no menciona al PSOE. Sala era senador del PSOE y Navarro, secretario de finanzas del PSC-PSOE."
+  },
+  {
+    "id": "psoe-mascarillas",
+    "name": "Caso mascarillas (Ábalos y Koldo García)",
+    "partyIds": [
+      "psoe"
+    ],
+    "summary": "El Tribunal Supremo condena al exministro de Transportes José Luis Ábalos a 24 años y 3 meses de prisión y a su exasesor Koldo García a 19 años y 8 meses por organización criminal, cohecho, malversación y tráfico de influencias en la adjudicación de contratos de mascarillas durante la pandemia.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia (ECLI:ES:TS:2026:2553)",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2026:2553",
+        "ecli": "ECLI:ES:TS:2026:2553",
+        "date": "2026-06-22"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo condena al exministro José Luis Ábalos y a su exasesor Koldo García a 24 años y 19 años de prisión",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias",
+        "date": "2026-06-22",
+        "quote": "El tribunal destaca el grave deterioro de la confianza ciudadana en el sistema político que provoca la corrupción"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La sentencia no menciona al PSOE. Ábalos era secretario de Organización del PSOE y ministro cuando ocurrieron los hechos (2020); el partido lo apartó en 2024.",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Comprobar la firmeza: la nota oficial no la indica y la prensa la da por firme (juicio en única instancia ante el Supremo)."
+  },
+  {
+    "id": "pp-gurtel-fitur",
+    "name": "Caso Gürtel: pieza Fitur (Generalitat Valenciana)",
+    "partyIds": [
+      "pp"
+    ],
+    "summary": "El Tribunal Supremo confirma las condenas de la trama Gürtel y de la exconsejera valenciana de Turismo Milagrosa Martínez (9 años, por malversación, cohecho y prevaricación) por amañar los contratos de la Generalitat para Fitur.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma todas las condenas del caso Gürtel-Fitur, primer juicio a la trama",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama",
+        "date": "2018-05-08"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La nota habla del «partido político que sustentaba el gobierno de la Comunidad autónoma» (el PP). Milagrosa Martínez fue consejera en un gobierno del PP.",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Falta el ECLI de la sentencia del Supremo (8 de mayo de 2018)."
+  },
+  {
+    "id": "pp-gurtel-valencia",
+    "name": "Caso Gürtel: financiación del PP de la Comunidad Valenciana (2007-2008)",
+    "partyIds": [
+      "pp"
+    ],
+    "summary": "La Audiencia Nacional confirma las condenas a 18 personas, entre ellas el exsecretario general del PPCV Ricardo Costa (4 años, firme porque no recurrió), por financiar ilegalmente las campañas del PP valenciano de 2007 y 2008 con pagos de empresarios. El partido no es condenado.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia (ECLI:ES:AN:2019:2750)",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2019:2750",
+        "ecli": "ECLI:ES:AN:2019:2750",
+        "date": "2019-06-18"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: La Audiencia Nacional confirma la sentencia para 18 condenados por financiar ilegalmente campañas electorales del PP de la Comunidad Valenciana en 2007 y 2008",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-confirma-la-sentencia-para-18-condenados-por-financiar-ilegalmente-campanas-electorales-del-PP-de-la-Comunidad-Valenciana-en-2007-y-2008",
+        "date": "2019-06-18",
+        "quote": "no respetaron los límites cuantitativos y requisitos impuestos a la formación"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La sentencia nombra al PPCV como beneficiario de la financiación y condena a su exsecretario general.",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Comprobar si cupo casación ante el Supremo para el resto de condenados; la fecha es la de la nota."
+  },
+  {
+    "id": "pp-gurtel-boadilla",
+    "name": "Caso Gürtel: pieza Boadilla del Monte",
+    "partyIds": [
+      "pp"
+    ],
+    "summary": "El Tribunal Supremo confirma la condena de la Audiencia Nacional al exalcalde de Boadilla del Monte por prevaricación, cohecho y blanqueo en adjudicaciones municipales a la trama Gürtel.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia (ECLI:ES:TS:2023:5060)",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2023:5060",
+        "ecli": "ECLI:ES:TS:2023:5060",
+        "date": "2023-11-20"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma la condena que la Audiencia Nacional impuso al exalcalde de Boadilla en el caso Gürtel",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-que-la-Audiencia-Nacional-impuso-al-exalcalde-de-Boadilla-en-el-caso-Gurtel",
+        "date": "2023-11-22"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La nota no nombra al partido ni al exalcalde (Arturo González Panero, alcalde del PP).",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Documentar con fuente oficial la filiación del exalcalde."
+  },
+  {
+    "id": "pp-punica-granados",
+    "name": "Operación Púnica: filtración a Francisco Granados",
+    "partyIds": [
+      "pp"
+    ],
+    "summary": "El Tribunal Supremo confirma dos años de prisión al exconsejero madrileño Francisco Granados por aprovecharse de una filtración sobre la investigación de la operación Púnica.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia (ECLI:ES:TS:2019:679)",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2019:679",
+        "ecli": "ECLI:ES:TS:2019:679",
+        "date": "2019-03-14"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma la pena de dos años de cárcel a Francisco Granados por una filtración en la investigación de la operación Púnica",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-pena-de-dos-anos-de-carcel-a-Francisco-Granados-por-una-filtracion-en-la-investigacion-de-la--operacion-Punica-",
+        "date": "2019-03-14"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La nota no nombra al partido. Granados fue secretario general del PP de Madrid y consejero en gobiernos del PP.",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Es un delito de revelación de secretos, no de corrupción en sentido estricto: decidir si entra. La fecha es la de la nota."
+  },
+  {
+    "id": "cc-las-teresitas",
+    "name": "Caso Las Teresitas (Santa Cruz de Tenerife)",
+    "partyIds": [
+      "cc"
+    ],
+    "summary": "El Tribunal Supremo confirma 7 años de prisión al exalcalde de Santa Cruz de Tenerife Miguel Zerolo y al exconcejal de Urbanismo por malversación y prevaricación en la compra de los terrenos de la playa de Las Teresitas.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia (ECLI:ES:TS:2019:881)",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2019:881",
+        "ecli": "ECLI:ES:TS:2019:881",
+        "date": "2019-03-26"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma la condena dictada por la Audiencia de Tenerife en el caso Las Teresitas",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-dictada-por-la-Audiencia-de-Tenerife-en-el-caso--Las-Teresitas-",
+        "date": "2019-03-28"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La nota no nombra al partido. Zerolo fue alcalde y senador de Coalición Canaria.",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Documentar con fuente oficial la filiación de los condenados."
+  },
+  {
+    "id": "junts-borras-ilc",
+    "name": "Caso Laura Borràs (Institució de les Lletres Catalanes)",
+    "partyIds": [
+      "junts"
+    ],
+    "summary": "El Tribunal Supremo confirma 4 años y medio de prisión y 13 de inhabilitación a la expresidenta del Parlament Laura Borràs por prevaricación y falsedad al fraccionar contratos de la web de la Institució de les Lletres Catalanes para adjudicarlos a un conocido.",
+    "status": "sentencia_firme",
+    "involvement": "cargos_condenados",
+    "sources": [
+      {
+        "kind": "sentencia",
+        "title": "Sentencia (ECLI:ES:TS:2025:580)",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2025:580",
+        "ecli": "ECLI:ES:TS:2025:580",
+        "date": "2025-02-10"
+      },
+      {
+        "kind": "organo_oficial",
+        "title": "CGPJ: El Tribunal Supremo confirma 4 años y medio de prisión a la expresidenta del Parlament de Catalunya por prevaricación y falsedad",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-confirma-4-anos-y-medio-de-prision-a-la-expresidenta-del-Parlament-de-Catalunya-por-prevaricacion-y-falsedad-al-contratar-a-un-conocido-para-llevar-la-web-de-la-Institucio-de-les-Lletres-Catalanes-por-335-000-euros",
+        "date": "2025-02-12",
+        "quote": "los hechos probados se enmarcan en una conducta inserta en la corrupción de un funcionario público"
+      }
+    ],
+    "verification": "pendiente",
+    "attributionNote": "La nota no nombra al partido. Borràs preside Junts; los hechos (2013-2018) son de su etapa como directora de la ILC, antes de su cargo en el partido.",
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Decidir si cuenta una condena por hechos anteriores a su cargo en el partido."
   },
   {
     "id": "cdc-palau",

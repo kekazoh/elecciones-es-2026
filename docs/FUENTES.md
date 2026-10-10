@@ -66,9 +66,9 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
   lo indica). El texto íntegro
   de las sentencias en CENDOJ no se ha podido abrir desde el entorno de trabajo;
   conviene cotejarlo a mano.
-- Pendientes (no cuentan): ERE (amparos del TC de 2024; la Audiencia de
-  Sevilla suspendió las nuevas sentencias en julio de 2025 a la espera del
-  TJUE) y Filesa (falta el enlace oficial con ECLI).
+- Pendientes (no cuentan hasta su revisión): ERE, Filesa y los casos de
+  condenas a cargos propuestos el 2026-10-10. Detalle en
+  [REVISION-CASOS.md](REVISION-CASOS.md).
 - La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
   Filesa y casos autonómicos y municipales.
 - Posiciones: 156 codificadas a partir de los programas y revisadas por keko
