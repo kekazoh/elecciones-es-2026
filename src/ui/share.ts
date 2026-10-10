@@ -44,22 +44,65 @@ const H = 1920;
 const PAD = 90;
 const FONT = '"Archivo Variable", Archivo, system-ui, sans-serif';
 
-type Ctx = CanvasRenderingContext2D & { letterSpacing?: string; fontStretch?: string };
+type Ctx = CanvasRenderingContext2D;
 
-function setFont(ctx: Ctx, weight: number, size: number, stretch: 'normal' | 'condensed' | 'extra-condensed' = 'normal') {
-  ctx.font = `${weight} ${size}px ${FONT}`;
-  if ('fontStretch' in ctx) ctx.fontStretch = stretch;
+/**
+ * Estilo de texto. El estrechado y el espaciado entre letras se hacen a mano
+ * (escalado horizontal y letra a letra) en vez de con `ctx.fontStretch` y
+ * `ctx.letterSpacing`: Safari en iOS no los aplica igual al medir que al
+ * dibujar y el nombre del partido acababa saliéndose de la imagen.
+ */
+interface TextStyle {
+  weight: number;
+  size: number;
+  /** Factor de estrechado horizontal (1 = normal). */
+  condense?: number;
+  /** Espacio extra entre letras, en px. */
+  track?: number;
 }
 
-function setSpacing(ctx: Ctx, px: number) {
-  if ('letterSpacing' in ctx) ctx.letterSpacing = `${px}px`;
+function setFont(ctx: Ctx, s: TextStyle) {
+  ctx.font = `${s.weight} ${s.size}px ${FONT}`;
+}
+
+/** Ancho sin estrechar, con el espaciado entre letras. */
+function rawWidth(ctx: Ctx, text: string, s: TextStyle): number {
+  setFont(ctx, s);
+  if (!s.track) return ctx.measureText(text).width;
+  const chars = [...text];
+  return chars.reduce((w, ch) => w + ctx.measureText(ch).width, 0) + s.track * (chars.length - 1);
+}
+
+function measure(ctx: Ctx, text: string, s: TextStyle): number {
+  return rawWidth(ctx, text, s) * (s.condense ?? 1);
+}
+
+/** Dibuja `text` sin pasar nunca de `maxWidth` (lo estrecha si hace falta). Devuelve el ancho final. */
+function draw(ctx: Ctx, text: string, x: number, y: number, s: TextStyle, maxWidth = Infinity, align: 'left' | 'right' = 'left'): number {
+  const raw = rawWidth(ctx, text, s);
+  let sx = s.condense ?? 1;
+  if (raw * sx > maxWidth) sx = maxWidth / raw;
+  const w = raw * sx;
+  ctx.save();
+  ctx.translate(align === 'right' ? x - w : x, y);
+  ctx.scale(sx, 1);
+  ctx.textAlign = 'left';
+  if (!s.track) ctx.fillText(text, 0, 0);
+  else {
+    let cx = 0;
+    for (const ch of text) {
+      ctx.fillText(ch, cx, 0);
+      cx += ctx.measureText(ch).width + s.track;
+    }
+  }
+  ctx.restore();
+  return w;
 }
 
 /** Mayor tamaño (hasta `max`) con el que `text` cabe en `width`. */
-function fitSize(ctx: Ctx, text: string, width: number, max: number, weight: number, stretch: 'normal' | 'extra-condensed') {
-  setFont(ctx, weight, max, stretch);
-  const w = ctx.measureText(text).width;
-  return w <= width ? max : Math.floor((max * width) / w);
+function fitSize(ctx: Ctx, text: string, width: number, s: TextStyle): number {
+  const w = measure(ctx, text, s);
+  return w <= width ? s.size : Math.floor((s.size * width) / w);
 }
 
 function wrap(ctx: Ctx, text: string, width: number): string[] {
@@ -117,96 +160,86 @@ export async function renderShareImage(report: Report): Promise<Blob> {
   }
   ctx.restore();
 
+  const inner = W - PAD * 2;
+  const COND = 0.78;
+
   // Cabecera.
   ctx.fillStyle = fg;
-  setFont(ctx, 850, 34, 'condensed');
-  setSpacing(ctx, 3);
-  ctx.fillText('BRÚJULA ELECTORAL', PAD, PAD + 30);
-  ctx.fillRect(PAD, PAD + 54, W - PAD * 2, 4);
+  draw(ctx, 'BRÚJULA ELECTORAL', PAD, PAD + 30, { weight: 850, size: 34, condense: 0.9, track: 3 }, inner);
+  ctx.fillRect(PAD, PAD + 54, inner, 4);
 
   // Etiqueta.
   let y = 400;
-  setFont(ctx, 750, 38);
-  setSpacing(ctx, 5);
+  const labelStyle = { weight: 750, size: 38, track: 5 };
   const label = 'MI PARTIDO MÁS AFÍN ES';
-  const lw = ctx.measureText(label).width;
-  ctx.fillStyle = fg;
+  const lw = Math.min(measure(ctx, label, labelStyle), inner - 36);
   ctx.fillRect(PAD, y - 50, lw + 36, 68);
   ctx.fillStyle = bg;
-  ctx.fillText(label, PAD + 18, y);
+  draw(ctx, label, PAD + 18, y, labelStyle, lw);
 
   // Nombre del partido.
-  setSpacing(ctx, 0);
   const name = party.shortName.toUpperCase();
-  const size = fitSize(ctx, name, W - PAD * 2, 400, 900, 'extra-condensed');
-  y += 40 + size * 0.82;
+  const nameStyle = { weight: 900, size: 400, condense: COND };
+  nameStyle.size = Math.min(400, fitSize(ctx, name, inner, nameStyle));
+  y += 40 + nameStyle.size * 0.82;
   ctx.fillStyle = fg;
-  ctx.fillText(name, PAD - size * 0.03, y);
+  draw(ctx, name, PAD, y, nameStyle, inner);
 
   if (party.name !== party.shortName) {
-    setFont(ctx, 600, 40);
+    const sub = { weight: 600, size: 40 };
+    setFont(ctx, sub);
     ctx.globalAlpha = 0.85;
-    for (const line of wrap(ctx, party.name, W - PAD * 2).slice(0, 2)) {
+    for (const line of wrap(ctx, party.name, inner).slice(0, 2)) {
       y += 54;
-      ctx.fillText(line, PAD, y);
+      draw(ctx, line, PAD, y, sub, inner);
     }
     ctx.globalAlpha = 1;
   }
 
   // Porcentaje.
   y += 230;
-  setFont(ctx, 900, 230, 'extra-condensed');
   const score = `${pct(rec.affinity)}%`;
-  ctx.fillText(score, PAD - 6, y);
-  const sw = ctx.measureText(score).width;
-  setFont(ctx, 600, 44);
-  ctx.fillText('de', PAD + sw + 24, y - 64);
-  ctx.fillText('coincidencia', PAD + sw + 24, y - 12);
+  const sw = draw(ctx, score, PAD - 6, y, { weight: 900, size: 230, condense: COND }, inner / 2);
+  const small = { weight: 600, size: 44 };
+  draw(ctx, 'de', PAD + sw + 24, y - 64, small, inner - sw - 24);
+  draw(ctx, 'coincidencia', PAD + sw + 24, y - 12, small, inner - sw - 24);
 
   // Tarjeta con el podio.
   const podium = report.ranking.slice(0, 3);
   const cardTop = H - 700;
   const cardH = 140 + podium.length * 92;
   ctx.fillStyle = fg;
-  ctx.fillRect(PAD + 16, cardTop + 16, W - PAD * 2, cardH);
+  ctx.fillRect(PAD + 16, cardTop + 16, inner, cardH);
   ctx.fillStyle = PAPER;
-  ctx.fillRect(PAD, cardTop, W - PAD * 2, cardH);
+  ctx.fillRect(PAD, cardTop, inner, cardH);
   ctx.strokeStyle = INK;
   ctx.lineWidth = 5;
-  ctx.strokeRect(PAD, cardTop, W - PAD * 2, cardH);
+  ctx.strokeRect(PAD, cardTop, inner, cardH);
 
   ctx.fillStyle = INK;
-  setFont(ctx, 750, 30);
-  setSpacing(ctx, 4);
-  ctx.fillText(`MI PODIO · ${report.measuresRated} MEDIDAS VALORADAS`, PAD + 40, cardTop + 72);
-  setSpacing(ctx, 0);
+  draw(ctx, `MI PODIO · ${report.measuresRated} MEDIDAS VALORADAS`, PAD + 40, cardTop + 72, { weight: 750, size: 30, track: 4 }, inner - 80);
 
   const nameW = 200;
   const pctW = 130;
   const barX = PAD + 40 + nameW;
-  const barMax = W - PAD * 2 - 80 - nameW - pctW;
+  const barMax = inner - 80 - nameW - pctW;
   const maxAff = Math.max(...podium.map((r) => r.affinity), 0.01);
+  const rowStyle = { weight: 850, size: 46, condense: COND };
   podium.forEach((r, i) => {
     const rowY = cardTop + 130 + i * 92;
     ctx.fillStyle = INK;
-    setFont(ctx, 850, fitSize(ctx, r.party.shortName.toUpperCase(), nameW - 20, 46, 850, 'extra-condensed'), 'extra-condensed');
-    ctx.fillText(r.party.shortName.toUpperCase(), PAD + 40, rowY + 46);
+    draw(ctx, r.party.shortName.toUpperCase(), PAD + 40, rowY + 46, rowStyle, nameW - 20);
     ctx.fillStyle = r.party.color;
     ctx.fillRect(barX, rowY + (i === 0 ? 0 : 8), Math.max(8, (barMax * r.affinity) / maxAff), i === 0 ? 62 : 46);
     ctx.fillStyle = INK;
-    setFont(ctx, 850, 46, 'extra-condensed');
-    ctx.textAlign = 'right';
-    ctx.fillText(`${pct(r.affinity)}%`, W - PAD - 40, rowY + 46);
-    ctx.textAlign = 'left';
+    draw(ctx, `${pct(r.affinity)}%`, W - PAD - 40, rowY + 46, rowStyle, pctW - 10, 'right');
   });
 
   // Pie.
   ctx.fillStyle = fg;
-  setFont(ctx, 850, 52, 'condensed');
-  ctx.fillText('¿Y tú? Haz el test en', PAD, H - PAD - 70);
-  setFont(ctx, 600, 40);
+  draw(ctx, '¿Y tú? Haz el test en', PAD, H - PAD - 70, { weight: 850, size: 52, condense: 0.9 }, inner);
   const host = appUrl().replace(/^https?:\/\//, '').replace(/\/$/, '');
-  ctx.fillText(host, PAD, H - PAD - 10);
+  draw(ctx, host, PAD, H - PAD - 10, { weight: 600, size: 40 }, inner);
 
   return new Promise((resolve, reject) =>
     canvas.toBlob((b) => (b ? resolve(b) : reject(new Error('No se pudo generar la imagen'))), 'image/png'),
