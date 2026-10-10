@@ -84,8 +84,9 @@ partido. El tema de cada medida sí se muestra para dar contexto.
 
 `penalización_partido = min(1, Σ gravedad_caso)`, con
 `gravedad_caso = implicación × 0,5^(años desde la sentencia / 10)`.
-Implicación: partido condenado como persona jurídica 1; partícipe a título
-lucrativo 0,6; solo cargos condenados 0,4. La penalización se multiplica por la
+Implicación: partido condenado como persona jurídica 1; comiso al partido 0,8;
+partícipe a título lucrativo o responsable civil subsidiario 0,6; solo cargos
+condenados 0,4. La penalización se multiplica por la
 sensibilidad que indicó el usuario (0 = no cuenta). Si la corrupción cambia el
 partido recomendado, el informe lo dice y muestra cuál saldría sin ella.
 
