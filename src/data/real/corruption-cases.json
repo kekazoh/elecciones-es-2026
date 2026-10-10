@@ -177,6 +177,13 @@
     "involvement": "cargos_condenados",
     "sources": [
       {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II, 214/2018",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2018:1551",
+        "ecli": "ECLI:ES:TS:2018:1551",
+        "date": "2018-05-08"
+      },
+      {
         "kind": "organo_oficial",
         "title": "CGPJ: El Tribunal Supremo confirma todas las condenas del caso Gürtel-Fitur, primer juicio a la trama",
         "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama",
@@ -185,7 +192,7 @@
     ],
     "verification": "pendiente",
     "attributionNote": "La nota habla del «partido político que sustentaba el gobierno de la Comunidad autónoma» (el PP). Milagrosa Martínez fue consejera en un gobierno del PP.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Falta el ECLI de la sentencia del Supremo (8 de mayo de 2018)."
+    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko."
   },
   {
     "id": "pp-gurtel-valencia",

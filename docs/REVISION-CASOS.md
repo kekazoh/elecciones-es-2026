@@ -14,7 +14,7 @@ explica en `attributionNote`.
 | Mascarillas (Ábalos, Koldo García) | PSOE | ECLI:ES:TS:2026:2553 (22-6-2026) | Confirmar la firmeza (la nota no la indica) |
 | Filesa | PSOE | TS 1/1997 (28-10-1997) | Enlace oficial con ECLI |
 | ERE (pieza política) | PSOE | ECLI:ES:TS:2022:3258 + STC 100/2024 | Nuevas sentencias de la Audiencia de Sevilla, suspendidas a la espera del TJUE |
-| Gürtel Fitur | PP | TS 8-5-2018 | ECLI |
+| Gürtel Fitur | PP | ECLI:ES:TS:2018:1551 (8-5-2018) | Nada más que la revisión |
 | Gürtel financiación PPCV 2007-2008 | PP | ECLI:ES:AN:2019:2750 | Firmeza para todos los condenados |
 | Gürtel Boadilla | PP | ECLI:ES:TS:2023:5060 | Fuente oficial de la filiación |
 | Púnica: filtración a Granados | PP | ECLI:ES:TS:2019:679 | Decidir si la revelación de secretos entra |
