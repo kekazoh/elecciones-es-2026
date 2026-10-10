@@ -113,8 +113,8 @@
         "quote": "retrotrae las actuaciones a la Audiencia Provincial de Sevilla para que dicte un nuevo fallo respetuoso con los derechos fundamentales infringidos"
       }
     ],
-    "verification": "pendiente",
-    "pendingReason": "Las nuevas sentencias que ordenó el Tribunal Constitucional corresponden a la Audiencia de Sevilla (no al Supremo), que las suspendió por auto de 14 de julio de 2025 a la espera del TJUE. Falta decidir si se cuenta ya la parte de las condenas que los amparos no tocan (las prevaricaciones y las condenas de quienes no obtuvieron amparo) y enlazar el resto de sentencias del TC. La nota oficial no menciona al PSOE: hay que documentar la vinculación de los condenados con el partido."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10"
   },
   {
     "id": "psoe-filesa",
@@ -134,7 +134,7 @@
       }
     ],
     "verification": "pendiente",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Falta el enlace oficial en CENDOJ con su ECLI (solo se ha leído una copia no oficial). Por su antigüedad pesaría poco (un 13 % de una condena reciente).",
+    "pendingReason": "Aceptado por keko el 2026-10-10, pero no puede marcarse como verificado hasta enlazar la sentencia oficial en CENDOJ con su ECLI (solo se ha leído una copia no oficial). Por su antigüedad pesaría muy poco.",
     "attributionNote": "El fallo no menciona al PSOE. Sala era senador del PSOE y Navarro, secretario de finanzas del PSC-PSOE."
   },
   {
@@ -162,9 +162,9 @@
         "quote": "El tribunal destaca el grave deterioro de la confianza ciudadana en el sistema político que provoca la corrupción"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La sentencia no menciona al PSOE. Ábalos era secretario de Organización del PSOE y ministro cuando ocurrieron los hechos (2020); el partido lo apartó en 2024.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Comprobar la firmeza: la nota oficial no la indica y la prensa la da por firme (juicio en única instancia ante el Supremo)."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La sentencia no menciona al PSOE. Ábalos era secretario de Organización del PSOE y ministro cuando ocurrieron los hechos (2020); el partido lo apartó en 2024."
   },
   {
     "id": "pp-gurtel-fitur",
@@ -177,15 +177,22 @@
     "involvement": "cargos_condenados",
     "sources": [
       {
+        "kind": "sentencia",
+        "title": "Sentencia del Tribunal Supremo, Sala II, 214/2018",
+        "url": "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2018:1551",
+        "ecli": "ECLI:ES:TS:2018:1551",
+        "date": "2018-05-08"
+      },
+      {
         "kind": "organo_oficial",
         "title": "CGPJ: El Tribunal Supremo confirma todas las condenas del caso Gürtel-Fitur, primer juicio a la trama",
         "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama",
         "date": "2018-05-08"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La nota habla del «partido político que sustentaba el gobierno de la Comunidad autónoma» (el PP). Milagrosa Martínez fue consejera en un gobierno del PP.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Falta el ECLI de la sentencia del Supremo (8 de mayo de 2018)."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La nota habla del «partido político que sustentaba el gobierno de la Comunidad autónoma» (el PP). Milagrosa Martínez fue consejera en un gobierno del PP."
   },
   {
     "id": "pp-gurtel-valencia",
@@ -212,9 +219,9 @@
         "quote": "no respetaron los límites cuantitativos y requisitos impuestos a la formación"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La sentencia nombra al PPCV como beneficiario de la financiación y condena a su exsecretario general.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Comprobar si cupo casación ante el Supremo para el resto de condenados; la fecha es la de la nota."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La sentencia nombra al PPCV como beneficiario de la financiación y condena a su exsecretario general."
   },
   {
     "id": "pp-gurtel-boadilla",
@@ -240,9 +247,9 @@
         "date": "2023-11-22"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La nota no nombra al partido ni al exalcalde (Arturo González Panero, alcalde del PP).",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Documentar con fuente oficial la filiación del exalcalde."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La nota no nombra al partido ni al exalcalde (Arturo González Panero, alcalde del PP)."
   },
   {
     "id": "pp-punica-granados",
@@ -268,9 +275,9 @@
         "date": "2019-03-14"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La nota no nombra al partido. Granados fue secretario general del PP de Madrid y consejero en gobiernos del PP.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Es un delito de revelación de secretos, no de corrupción en sentido estricto: decidir si entra. La fecha es la de la nota."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La nota no nombra al partido. Granados fue secretario general del PP de Madrid y consejero en gobiernos del PP."
   },
   {
     "id": "cc-las-teresitas",
@@ -296,9 +303,9 @@
         "date": "2019-03-28"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La nota no nombra al partido. Zerolo fue alcalde y senador de Coalición Canaria.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Documentar con fuente oficial la filiación de los condenados."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La nota no nombra al partido. Zerolo fue alcalde y senador de Coalición Canaria."
   },
   {
     "id": "junts-borras-ilc",
@@ -325,9 +332,9 @@
         "quote": "los hechos probados se enmarcan en una conducta inserta en la corrupción de un funcionario público"
       }
     ],
-    "verification": "pendiente",
-    "attributionNote": "La nota no nombra al partido. Borràs preside Junts; los hechos (2013-2018) son de su etapa como directora de la ILC, antes de su cargo en el partido.",
-    "pendingReason": "Propuesto el 2026-10-10 tras decidir que cuentan las condenas a cargos; falta la revisión de keko. Decidir si cuenta una condena por hechos anteriores a su cargo en el partido."
+    "verification": "verificado",
+    "lastReviewed": "2026-10-10",
+    "attributionNote": "La nota no nombra al partido. Borràs preside Junts; los hechos (2013-2018) son de su etapa como directora de la ILC, antes de su cargo en el partido."
   },
   {
     "id": "cdc-palau",

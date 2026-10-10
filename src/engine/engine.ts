@@ -127,10 +127,11 @@ export function caseSeverity(c: CorruptionCase, cfg: EngineConfig = DEFAULT_CONF
 }
 
 export function corruptionPenalty(ds: Dataset, partyId: string, cfg: EngineConfig = DEFAULT_CONFIG): number {
-  const total = countableCases(ds)
+  // Sin tope: cada condena suma, para que un partido con muchas tramas no
+  // quede igualado con uno que tiene una o dos.
+  return countableCases(ds)
     .filter((c) => c.partyIds.includes(partyId))
     .reduce((acc, c) => acc + caseSeverity(c, cfg), 0);
-  return Math.min(1, total);
 }
 
 export function agreementBetween(user: Stance, party: Stance): number {
