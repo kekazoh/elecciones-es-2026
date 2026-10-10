@@ -3,7 +3,7 @@ import { sampleDataset } from '../data/ejemplo';
 import { validateDataset } from '../data/validate';
 import { CORRUPTION_KEY, type Answers, type Dataset } from '../model/types';
 import { DEFAULT_CONFIG, beliefs, caseRecencyWeight, nextQuestion } from './engine';
-import { buildReport } from './report';
+import { buildChoiceReport, buildReport } from './report';
 
 const empty = (): Answers => ({ importance: {}, agreement: {} });
 
@@ -205,5 +205,56 @@ describe('posiciones por declaraciones', () => {
     const errors = validateDataset(ds);
     expect(errors.some((e) => e.includes('declaración sin enlace'))).toBe(true);
     expect(errors.some((e) => e.includes('sin tipo de fuente'))).toBe(true);
+  });
+});
+
+describe('informe del partido que piensas votar', () => {
+  const stance = (pid: string, mid: string) =>
+    sampleDataset.positions.find((p) => p.partyId === pid && p.measureId === mid)!.stance;
+
+  it('lista las medidas que contradicen tus respuestas, de más a menos peso', () => {
+    const a = answerAs(sampleDataset, 'cobalto');
+    for (const m of sampleDataset.measures) a.agreement[m.id] = stance('cobalto', m.id);
+    const r = buildChoiceReport(sampleDataset, a, 'ambar');
+    expect(r.rank).toBeGreaterThan(1);
+    expect(r.recommended.party.id).toBe('cobalto');
+    expect(r.contradictions.length).toBeGreaterThan(0);
+    for (const m of r.contradictions) {
+      expect(m.agreement).toBeLessThanOrEqual(0.5);
+      expect(m.userStance).not.toBe(0);
+      expect(m.source).toBeDefined();
+    }
+    for (let i = 1; i < r.contradictions.length; i++) {
+      expect(r.contradictions[i - 1]!.cost).toBeGreaterThanOrEqual(r.contradictions[i]!.cost);
+    }
+  });
+
+  it('pesa más lo que dijiste que te importa más', () => {
+    const a = answerAs(sampleDataset, 'cobalto');
+    for (const m of sampleDataset.measures) a.agreement[m.id] = stance('cobalto', m.id);
+    const base = buildChoiceReport(sampleDataset, a, 'ambar').contradictions[0]!;
+    const topic = sampleDataset.measures.find((m) => m.id === base.measureId)!.topicId;
+    const more = buildChoiceReport(sampleDataset, { ...a, importance: { ...a.importance, [topic]: 3 } }, 'ambar');
+    expect(more.contradictions.find((m) => m.measureId === base.measureId)!.weight).toBeGreaterThan(base.weight);
+  });
+
+  it('explica las condenas que le restan y lo que no cuenta', () => {
+    const a = answerAs(sampleDataset, 'dalia', 1);
+    sampleDataset.measures.forEach((m, i) => {
+      a.agreement[m.id] = stance(i % 3 === 0 ? 'cobalto' : 'dalia', m.id);
+    });
+    a.importance[CORRUPTION_KEY] = 3;
+    const r = buildChoiceReport(sampleDataset, a, 'dalia');
+    expect(r.rank).toBe(2);
+    expect(r.rankIgnoringCorruption).toBe(1);
+    expect(r.cases.map((c) => c.case.id)).toEqual(['caso-ejemplo-1']);
+    expect(buildChoiceReport(sampleDataset, a, 'ambar').otherCases.map((c) => c.id)).toEqual(['caso-ejemplo-3']);
+  });
+
+  it('si eliges tu partido más afín lo dice', () => {
+    const a = answerAs(sampleDataset, 'esmeralda');
+    const r = buildChoiceReport(sampleDataset, a, buildReport(sampleDataset, a).recommended.party.id);
+    expect(r.rank).toBe(1);
+    expect(r.topicGaps).toEqual([]);
   });
 });

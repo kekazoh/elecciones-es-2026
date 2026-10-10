@@ -3,6 +3,7 @@ import { realDataset } from '../data/real';
 import { nextQuestion } from '../engine/engine';
 import { buildReport } from '../engine/report';
 import type { Answers, Importance, Question, Stance } from '../model/types';
+import { ChoicePicker, ChoiceReportView } from './Choice';
 import { ReportView } from './Report';
 import { Wrapped } from './Wrapped';
 
@@ -36,7 +37,9 @@ export function App() {
   const [started, setStarted] = useState(false);
   const [answers, setAnswers] = useState<Answers>({ importance: {}, agreement: {} });
   const [history, setHistory] = useState<Step[]>([]);
-  const [view, setView] = useState<'story' | 'detail'>('story');
+  const [view, setView] = useState<'story' | 'detail' | 'choice'>('story');
+  // Partido que el usuario dice que va a votar (paso opcional tras el resultado).
+  const [chosen, setChosen] = useState<string | null>(null);
   // Ver el comentario sobre `data-armed` en styles.css.
   const [armedAt, setArmedAt] = useState(-1);
   // Opción recién elegida: se anima y la respuesta se registra al terminar la animación.
@@ -84,6 +87,7 @@ export function App() {
     setHistory([]);
     setStarted(false);
     setView('story');
+    setChosen(null);
     setArmedAt(-1);
   };
 
@@ -103,10 +107,15 @@ export function App() {
 
   useEffect(() => {
     window.scrollTo({ top: 0 });
-  }, [history.length, view]);
+  }, [history.length, view, chosen]);
 
   if (started && report && view === 'story') {
-    return <Wrapped report={report} onDetail={() => setView('detail')} onRestart={restart} />;
+    return <Wrapped
+        report={report}
+        onDetail={() => setView('detail')}
+        onChoice={() => setView('choice')}
+        onRestart={restart}
+      />;
   }
 
   const n = history.length + 1;
@@ -237,8 +246,26 @@ export function App() {
         )}
 
         {started && report && view === 'detail' && (
-          <ReportView report={report} onRestart={restart} onReplay={() => setView('story')} />
+          <ReportView
+            report={report}
+            onRestart={restart}
+            onReplay={() => setView('story')}
+            onChoice={() => setView('choice')}
+          />
         )}
+
+        {started && report && view === 'choice' &&
+          (chosen ? (
+            <ChoiceReportView
+              ds={ds}
+              answers={answers}
+              partyId={chosen}
+              onChange={() => setChosen(null)}
+              onBack={() => setView('detail')}
+            />
+          ) : (
+            <ChoicePicker ds={ds} report={report} onPick={setChosen} onBack={() => setView('detail')} />
+          ))}
       </main>
 
       <footer className="colophon">
