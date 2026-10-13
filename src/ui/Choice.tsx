@@ -39,8 +39,11 @@ export function ChoicePicker({
   onPick: (partyId: string) => void;
   onBack: () => void;
 }) {
-  // Orden alfabético, no por afinidad: la lista no debe sugerir nada.
-  const parties = useMemo(() => [...ds.parties].sort((a, b) => a.name.localeCompare(b.name, 'es')), [ds]);
+  // Las de su papeleta, en orden alfabético y no por afinidad: la lista no debe sugerir nada.
+  const parties = useMemo(
+    () => report.ranking.map((r) => r.party).sort((a, b) => a.name.localeCompare(b.name, 'es')),
+    [report],
+  );
   return (
     <section className="report">
       <p className="eyebrow">Un paso más · opcional</p>
@@ -97,7 +100,7 @@ export function ChoiceReportView({
   return (
     <section className="report" style={{ '--party': party.color } as CSSProperties}>
       <p className="eyebrow">
-        Tu voto · {isTop ? 'coincide con tu más afín' : `${r.rank}º de ${ds.parties.length} en tu afinidad`}
+        Tu voto · {isTop ? 'coincide con tu más afín' : `${r.rank}º de ${r.total} en tu afinidad`}
       </p>
       <h1 className="report-title">
         <span className="swatch" />

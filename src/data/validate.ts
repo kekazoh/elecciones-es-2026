@@ -3,6 +3,7 @@
  * Devuelve la lista de problemas; vacía = dataset válido.
  */
 import type { Dataset } from '../model/types';
+import { PROVINCE_NAME } from './provinces';
 
 const OFFICIAL_HOSTS = [
   'poderjudicial.es', // CENDOJ / CGPJ
@@ -30,6 +31,19 @@ export function validateDataset(ds: Dataset): string[] {
   dupes(ds.measures.map((m) => m.id), 'Medida');
   dupes(ds.parties.map((p) => p.id), 'Partido');
 
+  for (const p of ds.parties) {
+    for (const code of p.constituencies ?? []) {
+      if (!PROVINCE_NAME.has(code)) errors.push(`Partido ${p.id}: provincia desconocida ${code}`);
+    }
+    if (p.members && p.kind !== 'coalicion') errors.push(`Partido ${p.id}: tiene miembros pero no es coalición`);
+    if (p.kind === 'coalicion' && !p.members?.length) errors.push(`Coalición ${p.id}: sin miembros`);
+    for (const mid of p.members ?? []) {
+      const member = ds.parties.find((q) => q.id === mid);
+      if (!member) errors.push(`Coalición ${p.id}: miembro desconocido ${mid}`);
+      else if (member.kind === 'coalicion') errors.push(`Coalición ${p.id}: el miembro ${mid} es otra coalición`);
+    }
+  }
+
   for (const m of ds.measures) {
     if (!topicIds.has(m.topicId)) errors.push(`Medida ${m.id}: tema desconocido ${m.topicId}`);
   }
@@ -55,6 +69,7 @@ export function validateDataset(ds: Dataset): string[] {
     if (!partyIds.has(p.partyId)) errors.push(`Posición ${key}: partido desconocido`);
     if (!measureIds.has(p.measureId)) errors.push(`Posición ${key}: medida desconocida`);
     if (seenPos.has(key)) errors.push(`Posición duplicada ${key}`);
+    if (p.inheritedFrom) errors.push(`Posición ${key}: las posiciones heredadas las calcula el motor, no van en los datos`);
     seenPos.add(key);
     if (p.verification === 'verificado' && !p.source?.url) {
       errors.push(`Posición ${key}: marcada como verificada sin fuente`);

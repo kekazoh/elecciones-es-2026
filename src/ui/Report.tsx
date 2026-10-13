@@ -1,6 +1,7 @@
 import type { MeasureMatch, Report } from '../engine/report';
 import type { CSSProperties, ReactNode } from 'react';
 import type { Stance } from '../model/types';
+import { PROVINCE_NAME } from '../data/provinces';
 import { ShareButton } from './ShareButton';
 
 export const STANCE_LABEL: Record<Stance, string> = {
@@ -32,6 +33,11 @@ export function MeasureList<T extends MeasureMatch>({
           <p>{m.statement}</p>
           <p className="muted">
             Tú: {STANCE_LABEL[m.userStance]} · {party}: {STANCE_LABEL[m.partyStance]}
+            {m.inheritedFrom && (
+              <span title="La coalición no tiene posición propia en esta medida: es la mediana de las de sus partidos, y cuenta tres cuartos">
+                {' · '}postura de {m.inheritedFrom.join(', ')} (mediana; la coalición aún no se ha pronunciado)
+              </span>
+            )}
             {m.source && (
               <>
                 {' · '}
@@ -68,7 +74,10 @@ export function ReportView({
   const rec = report.recommended;
   return (
     <section className="report" style={{ '--party': rec.party.color } as CSSProperties}>
-      <p className="eyebrow">Informe completo · {report.questionsAnswered} medidas valoradas</p>
+      <p className="eyebrow">
+        Informe completo · {report.questionsAnswered} medidas valoradas
+        {report.province && ` · Candidaturas en ${PROVINCE_NAME.get(report.province)}`}
+      </p>
       <h1 className="report-title">
         <span className="swatch" />
         {rec.party.name}
@@ -127,7 +136,7 @@ export function ReportView({
         ))}
       </ul>
 
-      <h3>Todos los partidos</h3>
+      <h3>{report.province ? `Todos los partidos que se presentan en ${PROVINCE_NAME.get(report.province)}` : 'Todos los partidos'}</h3>
       <div className="table-wrap">
       <table>
         <thead>
@@ -178,6 +187,34 @@ export function ReportView({
         valorado, esa medida le cuenta como un 50 % de coincidencia: un partido que coincide mucho contigo en pocas medidas
         no supera a otro que coincide algo menos en muchas más.
       </p>
+      {report.others.length > 0 && (
+        <>
+          <h3>Otros partidos que te pueden interesar</h3>
+          <p className="muted">
+            De estas candidaturas sabemos demasiado poco para compararlas con las demás, pero coincides con la mayoría
+            de sus posturas que conocemos. Puede valer la pena que mires su programa.
+          </p>
+          <ul className="others">
+            {report.others.map((o) => (
+              <li key={o.party.id}>
+                <b>{o.party.name}</b>
+                <p className="muted">
+                  Coincides en {o.agreeing} de sus {o.known} posturas conocidas entre las medidas que has valorado.
+                  {o.party.program && (
+                    <>
+                      {' '}
+                      <a href={o.party.program.url} target="_blank" rel="noreferrer">
+                        Su programa
+                      </a>
+                    </>
+                  )}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
       <p className="muted">
         Solo se tienen en cuenta condenas por sentencia firme con fuente oficial. Su peso depende de la importancia que
         le diste a la corrupción, de si el condenado es el partido o solo sus cargos, y de la antigüedad de la condena
