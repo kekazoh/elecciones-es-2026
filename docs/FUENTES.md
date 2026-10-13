@@ -59,7 +59,11 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 ## Estado del dataset real (`src/data/real/`)
 
 - Partidos: los 12 con representación en el Congreso en la XV legislatura
-  (grupos propios y partidos del Grupo Mixto).
+  (grupos propios y partidos del Grupo Mixto). Las provincias en las que se
+  presenta cada partido regional (`constituencies`) son provisionales: las de
+  sus candidaturas de 2023. Se sustituirán por las del BOE (candidaturas
+  presentadas el 28 de octubre de 2026, proclamadas el 3 de noviembre), junto
+  con las coaliciones comunicadas a la Junta Electoral hasta el 16 de octubre.
 - Casos verificados con nota oficial del CGPJ y enlace a la sentencia por ECLI:
   Gürtel época I (PP), obras de Génova (PP), De Miguel (PNV) y Palau (CDC,
   atribuido a Junts como sucesor político por decisión del proyecto; el informe

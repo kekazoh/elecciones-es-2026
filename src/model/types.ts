@@ -45,6 +45,9 @@ export interface Measure {
   explainer?: string;
 }
 
+/** Forma en que concurre una candidatura. */
+export type PartyKind = 'partido' | 'coalicion' | 'agrupacion_electores';
+
 export interface Party {
   id: string;
   name: string;
@@ -52,6 +55,20 @@ export interface Party {
   color: string;
   /** Programa electoral del que se extraen las posiciones. */
   program?: SourceRef;
+  /** Ausente = `partido`. */
+  kind?: PartyKind;
+  /**
+   * Solo en coaliciones: ids de los partidos que la integran. Donde la
+   * coalición no tiene posición propia hereda la mediana de las de sus miembros.
+   */
+  members?: string[];
+  /**
+   * Códigos INE de las provincias (circunscripciones) en las que presenta
+   * candidatura. Ausente = todas. Vacía = no concurre por sí mismo (p. ej., un
+   * partido que solo va dentro de una coalición): se guarda para heredar sus
+   * posiciones, pero no aparece en la recomendación.
+   */
+  constituencies?: string[];
 }
 
 /**
@@ -77,6 +94,12 @@ export interface PartyPosition {
   /** Solo en declaraciones: tipo de fuente y quién habla. */
   declarationKind?: DeclarationKind;
   speaker?: string;
+  /**
+   * Solo en posiciones calculadas por el motor (nunca en los JSON): la
+   * coalición no tiene posición propia y esta es la mediana de las de estos
+   * partidos miembros.
+   */
+  inheritedFrom?: string[];
 }
 
 /** Estado procesal. Solo `sentencia_firme` penaliza en la recomendación. */
@@ -139,6 +162,11 @@ export const CORRUPTION_KEY = '__corrupcion__';
 
 /** Respuestas del usuario. Es todo el estado del cuestionario. */
 export interface Answers {
+  /**
+   * Código INE de la provincia en la que vota. Ausente = no lo ha dicho: se
+   * comparan todas las candidaturas.
+   */
+  province?: string;
   /** Importancia por id de tema (y por CORRUPTION_KEY). */
   importance: Record<string, Importance>;
   /** Acuerdo por id de medida; `null` = "no lo sé / prefiero no responder". */

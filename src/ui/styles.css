@@ -308,3 +308,34 @@ tbody tr:first-child td { font-weight: 700; }
 @keyframes share-fade { from { opacity: 0; } }
 @keyframes share-up { from { transform: translateY(40px); opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { .share-backdrop, .share-sheet { animation: none; } }
+
+/* Provincia: el mapa sigue siendo monocromo, como todo el cuestionario. */
+.province-why { max-width: 58ch; margin: -8px 0 8px; }
+.province-map { margin: 8px 0 0; }
+.province-map svg { display: block; width: 100%; height: auto; max-height: 56vh; }
+.province-map .province {
+  fill: var(--wash); stroke: var(--paper); stroke-width: 0.8; cursor: pointer;
+  transition: fill 0.15s;
+}
+.province-map .province:hover { fill: var(--line); }
+.province-map .province.on { fill: var(--ink); }
+.province-map .province.tiny { stroke: var(--ink-2); stroke-width: 1; }
+.province-map .frame { fill: none; stroke: var(--line); stroke-width: 1; }
+.province-map figcaption {
+  min-height: 1.4em; margin-top: 4px; font-weight: 800; font-stretch: 70%;
+  font-size: 22px; text-transform: uppercase; letter-spacing: 0.02em;
+}
+.province-map .map-credit { display: block; font-size: 11px; color: var(--ink-2); }
+.province-select { display: grid; gap: 6px; margin-top: 16px; max-width: 360px; font-size: 14px; color: var(--ink-2); }
+.province-select select {
+  font: inherit; font-size: 16px; color: var(--ink); background: var(--paper);
+  border: 2px solid var(--ink); padding: 10px 12px;
+}
+.province-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; margin-top: 24px; }
+.cta:disabled { opacity: 0.35; cursor: not-allowed; transform: none; box-shadow: none; }
+
+/* Otros partidos que te pueden interesar */
+.others { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+.others li { padding: 14px 16px; border: 2px solid var(--line); }
+.others li b { font-size: 17px; }
+.others li p { margin: 6px 0 0; }

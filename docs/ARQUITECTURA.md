@@ -30,7 +30,7 @@
 |---|---|---|
 | `Topic` | Tema de los programas (vivienda, sanidad…) | `importancePrompt`: pregunta de sensibilidad |
 | `Measure` | Medida concreta dentro de un tema | `statement` neutral (es la pregunta), `explainer` |
-| `Party` | Partido que concurre | `program`: enlace al programa |
+| `Party` | Candidatura: partido, coalición o agrupación de electores | `program`, `kind`, `members` (coaliciones), `constituencies` (códigos INE de las provincias donde se presenta; ausente = todas, vacía = solo va dentro de una coalición) |
 | `PartyPosition` | Postura de un partido ante una medida, de −2 a +2 | `source` (documento, página, cita), `verification`, `origin` (`programa` o `declaracion`) |
 | `CorruptionCase` | Caso de corrupción | `status` procesal, `involvement` del partido, `sources` (sentencia/BOE/órgano oficial, ECLI), `verification` |
 
@@ -48,6 +48,24 @@ Reglas:
   ni le resta en la puntuación. En la práctica equivale a un 50 % de coincidencia
   en esa medida frente a los partidos que sí tienen posición, y así se muestra en
   el informe.
+
+## Papeleta: provincia, coaliciones y partidos con pocos datos
+
+- **Provincia.** Lo primero que se pregunta (con un mapa o una lista) es en qué
+  provincia vota el usuario. Se guarda en `Answers.province` y nunca sale del
+  navegador. Solo se comparan las candidaturas que se presentan allí. Si
+  prefiere no decirlo, se comparan todas.
+- **Coaliciones.** Una coalición con `members` hereda, en cada medida en la que
+  no tiene posición propia, la **mediana** de las posiciones de sus miembros
+  (redondeada hacia el 0 si cae entre dos). La calcula el motor
+  (`usablePositions`), no se guarda en los JSON, pesa `inheritedWeight` = 0,75
+  y el informe indica de qué partidos sale. La posición propia de la coalición
+  siempre manda.
+- **Partidos con pocos datos.** Solo entran en la recomendación las
+  candidaturas con posición conocida (propia o heredada) en al menos
+  `minCoverage` = 40 % de las medidas. El resto sale aparte, en "Otros
+  partidos que te pueden interesar", si el usuario coincide (como mucho un
+  punto de diferencia) en más de la mitad de sus posturas conocidas.
 
 ## Lógica del cuestionario adaptativo (`src/engine/engine.ts`)
 
@@ -108,5 +126,5 @@ partido recomendado, el informe lo dice y muestra cuál saldría sin ella.
 ## Parámetros a calibrar
 
 `DEFAULT_CONFIG` en `engine.ts`: mínimo/máximo de preguntas, umbral de
-confianza, `λ` (cuánto pesa cada respuesta) y `λc` (cuánto puede pesar la
-corrupción). Conviene recalibrarlos con el dataset real usando el simulador.
+confianza, `λ` (cuánto pesa cada respuesta), `λc` (cuánto puede pesar la
+corrupción), `inheritedWeight` y `minCoverage`. Conviene recalibrarlos con el dataset real usando el simulador.

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
+import { Suspense, lazy, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import { realDataset } from '../data/real';
 import { nextQuestion } from '../engine/engine';
 import { buildReport } from '../engine/report';
@@ -8,6 +8,9 @@ import { ReportView } from './Report';
 import { Wrapped } from './Wrapped';
 
 const ds = realDataset;
+
+// El mapa pesa más que el resto de la app junta: se carga aparte.
+const ProvincePicker = lazy(() => import('./ProvincePicker').then((m) => ({ default: m.ProvincePicker })));
 
 const IMPORTANCE_OPTIONS: { value: Importance; label: string }[] = [
   { value: 0, label: 'Nada' },
@@ -35,6 +38,8 @@ const prefersReducedMotion = () => window.matchMedia?.('(prefers-reduced-motion:
 
 export function App() {
   const [started, setStarted] = useState(false);
+  // Ya ha dicho en qué provincia vota (o que prefiere no decirlo).
+  const [placed, setPlaced] = useState(false);
   const [answers, setAnswers] = useState<Answers>({ importance: {}, agreement: {} });
   const [history, setHistory] = useState<Step[]>([]);
   const [view, setView] = useState<'story' | 'detail' | 'choice'>('story');
@@ -46,6 +51,8 @@ export function App() {
   const [picked, setPicked] = useState<number | null>(null);
   const pickTimer = useRef<number>(undefined);
   useEffect(() => () => window.clearTimeout(pickTimer.current), []);
+  // Se adelanta la descarga del mapa mientras el usuario lee la portada.
+  useEffect(() => void import('./ProvincePicker'), []);
 
   const question = useMemo(() => nextQuestion(ds, answers), [answers]);
   const report = useMemo(() => (question === null ? buildReport(ds, answers) : null), [question, answers]);
@@ -86,6 +93,7 @@ export function App() {
     setAnswers({ importance: {}, agreement: {} });
     setHistory([]);
     setStarted(false);
+    setPlaced(false);
     setView('story');
     setChosen(null);
     setArmedAt(-1);
@@ -93,7 +101,7 @@ export function App() {
 
   // Atajos de teclado: 1…n eligen opción, Retroceso vuelve a la anterior.
   useEffect(() => {
-    if (!started || !question) return;
+    if (!started || !placed || !question) return;
     const options = question.kind === 'importance' ? IMPORTANCE_OPTIONS : AGREEMENT_OPTIONS;
     const onKey = (e: KeyboardEvent) => {
       if (e.metaKey || e.ctrlKey || e.altKey) return;
@@ -109,7 +117,7 @@ export function App() {
     window.scrollTo({ top: 0 });
   }, [history.length, view, chosen]);
 
-  if (started && report && view === 'story') {
+  if (started && placed && report && view === 'story') {
     return <Wrapped
         report={report}
         onDetail={() => setView('detail')}
@@ -127,7 +135,7 @@ export function App() {
         <button className="wordmark" onClick={restart} aria-label="Brújula electoral: volver al inicio">
           Brújula<span>electoral</span>
         </button>
-        {started && question && (
+        {started && placed && question && (
           <span className="counter" aria-label={`Pregunta ${n}`}>
             <small>Pregunta</small>
             <b key={n}>{two(n)}</b>
@@ -169,7 +177,20 @@ export function App() {
           </section>
         )}
 
-        {started && question && (
+        {started && !placed && (
+          <Suspense fallback={null}>
+            <ProvincePicker
+              initial={answers.province}
+              onBack={() => setStarted(false)}
+              onDone={(province) => {
+                setAnswers((a) => ({ ...a, province }));
+                setPlaced(true);
+              }}
+            />
+          </Suspense>
+        )}
+
+        {started && placed && question && (
           <section
             className="question"
             key={n}
@@ -238,7 +259,9 @@ export function App() {
                   ← Anterior
                 </button>
               ) : (
-                <span />
+                <button className="link" onClick={() => setPlaced(false)}>
+                  ← Provincia
+                </button>
               )}
               <span className="hint">Usa las teclas 1–{question.kind === 'importance' ? 4 : 6}</span>
             </div>

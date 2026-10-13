@@ -16,6 +16,7 @@ import type {
 import {
   DEFAULT_CONFIG,
   agreementBetween,
+  ballot,
   beliefs,
   caseSeverity,
   corruptionPenalty,
@@ -39,6 +40,8 @@ export interface MeasureMatch {
   source?: SourceRef;
   origin: PositionOrigin;
   speaker?: string;
+  /** Si la coalición no tiene posición propia: siglas de los miembros de cuya mediana sale. */
+  inheritedFrom?: string[];
 }
 
 export interface PartyResult {
@@ -63,8 +66,24 @@ export interface PartyResult {
   topicAffinity: { topicId: string; topicName: string; affinity: number; weight: number }[];
 }
 
+/**
+ * Candidatura de la que sabemos demasiado poco para puntuarla, pero con la que
+ * coincides en la mayoría de lo que sí sabemos.
+ */
+export interface OtherParty {
+  party: Party;
+  /** Medidas que has valorado en las que conocemos su posición. */
+  known: number;
+  /** De esas, en cuántas coincidís (como mucho un punto de diferencia en la escala). */
+  agreeing: number;
+  knownAffinity: number;
+  matches: MeasureMatch[];
+}
+
 export interface Report {
   isSample: boolean;
+  /** Provincia del usuario (código INE), si la indicó. */
+  province?: string;
   questionsAnswered: number;
   /** Medidas respondidas con una postura (sin contar "No lo sé"). */
   measuresRated: number;
@@ -79,6 +98,8 @@ export interface Report {
   supporting: MeasureMatch[];
   /** Medidas en las que discrepas del partido recomendado. */
   divergences: MeasureMatch[];
+  /** Candidaturas sin datos suficientes con las que coincides en la mayoría de sus posturas conocidas. */
+  others: OtherParty[];
 }
 
 function matchesFor(
@@ -90,6 +111,7 @@ function matchesFor(
 ): MeasureMatch[] {
   const byMeasure = new Map(positions.filter((p) => p.partyId === partyId).map((p) => [p.measureId, p]));
   const topics = new Map(ds.topics.map((t) => [t.id, t]));
+  const shortName = new Map(ds.parties.map((p) => [p.id, p.shortName]));
   const out: MeasureMatch[] = [];
   for (const m of ds.measures) {
     const user = answers.agreement[m.id];
@@ -106,6 +128,7 @@ function matchesFor(
       source: pos.source,
       origin: pos.origin ?? 'programa',
       speaker: pos.speaker,
+      inheritedFrom: pos.inheritedFrom?.map((id) => shortName.get(id) ?? id),
     });
   }
   return out;
@@ -135,8 +158,9 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
   const cases = countableCases(ds);
   const measureTopic = new Map(ds.measures.map((m) => [m.id, m.topicId]));
   const totalWeight = ratedWeight(ds, answers);
+  const { competing, sparse } = ballot(ds, answers, cfg);
 
-  const ranking: PartyResult[] = ds.parties
+  const ranking: PartyResult[] = competing
     .map((party) => {
       const matches = matchesFor(ds, answers, party.id, positions, cfg);
       const topicAffinity = ds.topics
@@ -167,8 +191,23 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
   const recMatches = matchesFor(ds, answers, recommended.party.id, positions, cfg);
   const byImpact = (m: MeasureMatch) => m.weight * (m.agreement - 0.5) * (1 + Math.abs(m.userStance) / 2);
 
+  const others: OtherParty[] = sparse
+    .map((party) => {
+      const matches = matchesFor(ds, answers, party.id, positions, cfg);
+      return {
+        party,
+        known: matches.length,
+        agreeing: matches.filter((m) => m.agreement >= 0.75).length,
+        knownAffinity: weightedAffinity(matches),
+        matches,
+      };
+    })
+    .filter((o) => o.known > 0 && o.agreeing > o.known / 2)
+    .sort((x, y) => y.knownAffinity - x.knownAffinity || y.known - x.known);
+
   return {
     isSample: ds.meta.isSample,
+    province: answers.province,
     questionsAnswered: Object.keys(answers.agreement).length,
     measuresRated: ds.measures.filter((m) => answers.agreement[m.id] !== undefined && answers.agreement[m.id] !== null).length,
     ranking,
@@ -182,6 +221,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
       .filter((m) => m.agreement <= 0.25 && m.weight > 0)
       .sort((x, y) => byImpact(x) - byImpact(y))
       .slice(0, 3),
+    others,
   };
 }
 
@@ -205,6 +245,8 @@ export interface ChoiceReport {
   chosen: PartyResult;
   /** Puesto del partido elegido en tu ranking (1 = el más afín). */
   rank: number;
+  /** Partidos en el ranking. */
+  total: number;
   recommended: PartyResult;
   /** Medidas en las que el partido elegido va contra lo que respondiste, de más a menos peso. */
   contradictions: Contradiction[];
@@ -265,6 +307,7 @@ export function buildChoiceReport(
   return {
     chosen,
     rank: report.ranking.indexOf(chosen) + 1,
+    total: report.ranking.length,
     recommended,
     contradictions,
     topicGaps,

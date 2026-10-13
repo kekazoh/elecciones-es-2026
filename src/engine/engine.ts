@@ -22,6 +22,7 @@ import {
   type Dataset,
   type Importance,
   type Measure,
+  type Party,
   type PartyInvolvement,
   type PartyPosition,
   type Question,
@@ -48,6 +49,14 @@ export interface EngineConfig {
    * (que pesa 1). Menor que 1: el programa es el compromiso formal.
    */
   declarationWeight: number;
+  /** Peso de una posición heredada de los miembros de una coalición. */
+  inheritedWeight: number;
+  /**
+   * Fracción mínima de medidas con posición conocida para entrar en la
+   * recomendación. Por debajo, el partido sale aparte, en "otros partidos que
+   * te pueden interesar", si coincides con la mayoría de lo que sabemos de él.
+   */
+  minCoverage: number;
 }
 
 export const DEFAULT_CONFIG: EngineConfig = {
@@ -58,6 +67,8 @@ export const DEFAULT_CONFIG: EngineConfig = {
   corruptionLambda: 2,
   corruptionHalfLifeYears: 10,
   declarationWeight: 0.75,
+  inheritedWeight: 0.75,
+  minCoverage: 0.4,
 };
 
 const IMPORTANCE_WEIGHT: Record<Importance, number> = { 0: 0, 1: 0.5, 2: 1, 3: 2 };
@@ -73,9 +84,55 @@ const INVOLVEMENT_WEIGHT: Record<PartyInvolvement, number> = {
 // ---------------------------------------------------------------------------
 // Índices y filtros de datos
 
-/** Posiciones utilizables: verificadas, o cualquiera si el dataset es de ejemplo. */
-export function usablePositions(ds: Dataset): PartyPosition[] {
+/** Posiciones propias utilizables: verificadas, o cualquiera si el dataset es de ejemplo. */
+function ownPositions(ds: Dataset): PartyPosition[] {
   return ds.positions.filter((p) => ds.meta.isSample || p.verification === 'verificado');
+}
+
+/** Mediana de las posturas, redondeada hacia el 0 si cae entre dos (la lectura más prudente). */
+export function medianStance(stances: Stance[]): Stance {
+  const s = [...stances].sort((a, b) => a - b);
+  const mid = s.length / 2;
+  const m = s.length % 2 ? s[Math.floor(mid)]! : (s[mid - 1]! + s[mid]!) / 2;
+  return (Math.trunc(m) || 0) as Stance; // sin -0
+}
+
+/**
+ * Posiciones que una coalición hereda de sus miembros: en cada medida en la
+ * que no tiene posición propia, la mediana de las de sus miembros.
+ */
+function inheritedPositions(ds: Dataset, own: PartyPosition[]): PartyPosition[] {
+  const byParty = new Map<string, Map<string, PartyPosition>>();
+  for (const p of own) {
+    if (!byParty.has(p.partyId)) byParty.set(p.partyId, new Map());
+    byParty.get(p.partyId)!.set(p.measureId, p);
+  }
+  const out: PartyPosition[] = [];
+  for (const party of ds.parties) {
+    if (party.kind !== 'coalicion' || !party.members?.length) continue;
+    for (const m of ds.measures) {
+      if (byParty.get(party.id)?.has(m.id)) continue;
+      const from = party.members.map((id) => byParty.get(id)?.get(m.id)).filter((p) => p !== undefined);
+      if (from.length === 0) continue;
+      out.push({
+        partyId: party.id,
+        measureId: m.id,
+        stance: medianStance(from.map((p) => p.stance)),
+        verification: 'verificado',
+        inheritedFrom: from.map((p) => p.partyId),
+      });
+    }
+  }
+  return out;
+}
+
+/**
+ * Posiciones que usa el motor: las propias verificadas (o todas en el dataset
+ * de ejemplo) más las que las coaliciones heredan de sus miembros.
+ */
+export function usablePositions(ds: Dataset): PartyPosition[] {
+  const own = ownPositions(ds);
+  return [...own, ...inheritedPositions(ds, own)];
 }
 
 /** Casos que penalizan: sentencia firme y verificados (o de ejemplo). */
@@ -87,7 +144,37 @@ export function countableCases(ds: Dataset): CorruptionCase[] {
 
 /** Cuánto pesa una posición según su origen: 1 el programa, menos una declaración. */
 export function positionWeight(p: PartyPosition, cfg: EngineConfig = DEFAULT_CONFIG): number {
+  if (p.inheritedFrom) return cfg.inheritedWeight;
   return p.origin === 'declaracion' ? cfg.declarationWeight : 1;
+}
+
+/** ¿Presenta candidatura en la provincia del usuario (o en alguna, si no la ha dicho)? */
+export function isOnBallot(party: Party, province?: string): boolean {
+  if (!party.constituencies) return true;
+  return province === undefined ? party.constituencies.length > 0 : party.constituencies.includes(province);
+}
+
+/** Fracción de medidas en las que se conoce la posición del partido (propia o heredada). */
+export function partyCoverage(ds: Dataset, partyId: string): number {
+  if (ds.measures.length === 0) return 0;
+  const known = new Set(usablePositions(ds).filter((p) => p.partyId === partyId).map((p) => p.measureId));
+  return known.size / ds.measures.length;
+}
+
+/**
+ * Reparte las candidaturas de la papeleta del usuario: las que entran en la
+ * recomendación y las que conocemos demasiado poco para puntuarlas.
+ */
+export function ballot(
+  ds: Dataset,
+  answers: Pick<Answers, 'province'>,
+  cfg: EngineConfig = DEFAULT_CONFIG,
+): { competing: Party[]; sparse: Party[] } {
+  const onBallot = ds.parties.filter((p) => isOnBallot(p, answers.province));
+  const competing = onBallot.filter((p) => partyCoverage(ds, p.id) >= cfg.minCoverage);
+  // Si en una provincia nadie llega al mínimo, se compara a todos antes que a ninguno.
+  if (competing.length === 0) return { competing: onBallot, sparse: [] };
+  return { competing, sparse: onBallot.filter((p) => !competing.includes(p)) };
 }
 
 type StanceIndex = Map<string, Map<string, { stance: Stance; weight: number }>>; // measureId -> partyId -> posición
@@ -145,7 +232,7 @@ function logScores(ds: Dataset, answers: Answers, cfg: EngineConfig, idx: Stance
   const measures = new Map(ds.measures.map((m) => [m.id, m]));
   const corrW = topicWeight(answers, CORRUPTION_KEY);
   const scores = new Map<string, number>();
-  for (const party of ds.parties) {
+  for (const party of ballot(ds, answers, cfg).competing) {
     let s = -cfg.corruptionLambda * corrW * corruptionPenalty(ds, party.id, cfg);
     for (const [measureId, user] of Object.entries(answers.agreement)) {
       if (user === null) continue;

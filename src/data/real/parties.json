@@ -48,6 +48,12 @@
     "name": "Esquerra Republicana de Catalunya",
     "shortName": "ERC",
     "color": "#ffb232",
+    "constituencies": [
+      "08",
+      "17",
+      "25",
+      "43"
+    ],
     "program": {
       "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
       "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
@@ -59,6 +65,12 @@
     "name": "Junts per Catalunya",
     "shortName": "Junts",
     "color": "#00c3b2",
+    "constituencies": [
+      "08",
+      "17",
+      "25",
+      "43"
+    ],
     "program": {
       "title": "Programa electoral de Junts per a les eleccions generals de 2023 («Per Catalunya. Ja n'hi ha prou»)",
       "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
@@ -70,6 +82,12 @@
     "name": "EH Bildu",
     "shortName": "EH Bildu",
     "color": "#00d0b6",
+    "constituencies": [
+      "01",
+      "20",
+      "31",
+      "48"
+    ],
     "program": {
       "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
       "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
@@ -81,6 +99,11 @@
     "name": "EAJ-PNV",
     "shortName": "PNV",
     "color": "#008000",
+    "constituencies": [
+      "01",
+      "20",
+      "48"
+    ],
     "program": {
       "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
       "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
@@ -102,6 +125,12 @@
     "name": "Bloque Nacionalista Galego",
     "shortName": "BNG",
     "color": "#76b3dd",
+    "constituencies": [
+      "15",
+      "27",
+      "32",
+      "36"
+    ],
     "program": {
       "title": "Programa electoral do BNG para as eleccións xerais de 2023 («Que Galiza conte! Con máis forza!»)",
       "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
@@ -113,6 +142,10 @@
     "name": "Coalición Canaria",
     "shortName": "CC",
     "color": "#ffd700",
+    "constituencies": [
+      "35",
+      "38"
+    ],
     "program": {
       "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
       "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
@@ -124,6 +157,9 @@
     "name": "Unión del Pueblo Navarro",
     "shortName": "UPN",
     "color": "#2a52be",
+    "constituencies": [
+      "31"
+    ],
     "program": {
       "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
       "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf"

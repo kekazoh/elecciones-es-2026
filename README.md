@@ -18,6 +18,7 @@ npm run dev            # app en http://localhost:5173
 npm test               # tests del motor
 npm run validate-data  # integridad, neutralidad y fuentes del dataset
 npm run simulate       # aciertos y nº de preguntas con usuarios simulados
+npm run map            # regenera el mapa de provincias (src/ui/province-paths.ts)
 npm run build          # build estático en dist/
 ```
 
@@ -29,6 +30,7 @@ src/engine/engine.ts      cuestionario adaptativo (selección y parada)
 src/engine/report.ts      informe final
 src/data/ejemplo/         dataset ficticio de demostración (JSON)
 src/data/validate.ts      validador de datos
+src/data/provinces.ts     las 52 circunscripciones (código INE)
 src/ui/                   interfaz React
 scripts/                  validate-data, simulate
 docs/ARQUITECTURA.md      arquitectura, modelo y algoritmo

@@ -1,8 +1,8 @@
 import { describe, expect, it } from 'vitest';
 import { sampleDataset } from '../data/ejemplo';
 import { validateDataset } from '../data/validate';
-import { CORRUPTION_KEY, type Answers, type Dataset } from '../model/types';
-import { DEFAULT_CONFIG, beliefs, caseRecencyWeight, nextQuestion } from './engine';
+import { CORRUPTION_KEY, type Answers, type Dataset, type Stance } from '../model/types';
+import { DEFAULT_CONFIG, ballot, beliefs, caseRecencyWeight, medianStance, nextQuestion, usablePositions } from './engine';
 import { buildChoiceReport, buildReport } from './report';
 
 const empty = (): Answers => ({ importance: {}, agreement: {} });
@@ -149,8 +149,8 @@ describe('informe', () => {
 describe('coincidencia y cobertura', () => {
   it('la coincidencia mostrada ordena igual que la recomendación si la corrupción no pesa', () => {
     const ds = structuredClone(sampleDataset);
-    // "esmeralda" solo tiene posición en unas pocas medidas
-    const keep = new Set(ds.measures.slice(0, 3).map((m) => m.id));
+    // "esmeralda" solo tiene posición en 10 de 24 medidas: le faltan muchas, pero llega al mínimo para entrar
+    const keep = new Set(ds.measures.slice(0, 10).map((m) => m.id));
     ds.positions = ds.positions.filter((p) => p.partyId !== 'esmeralda' || keep.has(p.measureId));
     const a = answerAs(sampleDataset, 'esmeralda');
     a.importance[CORRUPTION_KEY] = 0;
@@ -161,7 +161,7 @@ describe('coincidencia y cobertura', () => {
     const r = buildReport(ds, a);
     const esm = r.ranking.find((x) => x.party.id === 'esmeralda')!;
     expect(esm.knownAffinity).toBe(1);
-    expect(esm.coverage).toBe(3);
+    expect(esm.coverage).toBe(10);
     expect(r.measuresRated).toBe(ds.measures.length);
     for (let i = 1; i < r.ranking.length; i++) {
       expect(r.ranking[i - 1]!.affinity).toBeGreaterThanOrEqual(r.ranking[i]!.affinity - 1e-9);
@@ -256,5 +256,95 @@ describe('informe del partido que piensas votar', () => {
     const r = buildChoiceReport(sampleDataset, a, buildReport(sampleDataset, a).recommended.party.id);
     expect(r.rank).toBe(1);
     expect(r.topicGaps).toEqual([]);
+  });
+});
+
+describe('candidaturas con pocos datos', () => {
+  const sparseDataset = () => {
+    const ds = structuredClone(sampleDataset);
+    const keep = new Set(ds.measures.slice(0, 3).map((m) => m.id));
+    ds.positions = ds.positions.filter((p) => p.partyId !== 'esmeralda' || keep.has(p.measureId));
+    return ds;
+  };
+
+  it('no entran en la recomendación', () => {
+    const ds = sparseDataset();
+    expect(ballot(ds, {}).sparse.map((p) => p.id)).toEqual(['esmeralda']);
+    const r = buildReport(ds, answerAs(sampleDataset, 'esmeralda'));
+    expect(r.ranking.some((x) => x.party.id === 'esmeralda')).toBe(false);
+  });
+
+  it('salen como "otros partidos" si coincides en la mayoría de sus posturas conocidas', () => {
+    const ds = sparseDataset();
+    const a = empty();
+    for (const t of ds.topics) a.importance[t.id] = 2;
+    a.importance[CORRUPTION_KEY] = 0;
+    const esm = (id: string) => sampleDataset.positions.find((p) => p.partyId === 'esmeralda' && p.measureId === id)!.stance;
+    for (const m of ds.measures) a.agreement[m.id] = esm(m.id);
+    const r = buildReport(ds, a);
+    expect(r.others.map((o) => o.party.id)).toEqual(['esmeralda']);
+    expect(r.others[0]).toMatchObject({ known: 3, agreeing: 3 });
+
+    // Si discrepas en todas, no se sugiere.
+    for (const m of ds.measures.slice(0, 3)) a.agreement[m.id] = (esm(m.id) >= 0 ? -2 : 2) as Stance;
+    expect(buildReport(ds, a).others).toEqual([]);
+  });
+});
+
+describe('coaliciones', () => {
+  it('la mediana se redondea hacia el 0', () => {
+    expect(medianStance([2, -1, 1])).toBe(1);
+    expect(medianStance([1, 2])).toBe(1);
+    expect(medianStance([-1, 0])).toBe(0);
+    expect(medianStance([-2, -1])).toBe(-1);
+  });
+
+  it('heredan la mediana de sus miembros donde no tienen posición propia', () => {
+    const ds = structuredClone(sampleDataset);
+    const [m1, m2] = ds.measures;
+    ds.parties.push({ id: 'frente', name: 'Frente', shortName: 'Fr', color: '#000', kind: 'coalicion', members: ['ambar', 'brezo', 'cobalto'] });
+    ds.positions.push({ partyId: 'frente', measureId: m1!.id, stance: -2, verification: 'verificado', source: { title: 'P', url: 'https://example.org' } });
+    expect(validateDataset(ds)).toEqual([]);
+
+    const pos = usablePositions(ds).filter((p) => p.partyId === 'frente');
+    // La posición propia manda; no se hereda encima.
+    expect(pos.find((p) => p.measureId === m1!.id)).toMatchObject({ stance: -2 });
+    expect(pos.find((p) => p.measureId === m1!.id)!.inheritedFrom).toBeUndefined();
+    const members = ['ambar', 'brezo', 'cobalto'].map((id) => ds.positions.find((p) => p.partyId === id && p.measureId === m2!.id)!.stance);
+    expect(pos.find((p) => p.measureId === m2!.id)).toMatchObject({ stance: medianStance(members), inheritedFrom: ['ambar', 'brezo', 'cobalto'] });
+    expect(pos).toHaveLength(ds.measures.length);
+  });
+
+  it('un partido que solo va en coalición no aparece en la recomendación', () => {
+    const ds = structuredClone(sampleDataset);
+    ds.parties.find((p) => p.id === 'ambar')!.constituencies = [];
+    ds.parties.push({ id: 'frente', name: 'Frente', shortName: 'Fr', color: '#000', kind: 'coalicion', members: ['ambar'] });
+    const { competing } = ballot(ds, {});
+    expect(competing.map((p) => p.id)).toContain('frente');
+    expect(competing.map((p) => p.id)).not.toContain('ambar');
+  });
+});
+
+describe('provincia', () => {
+  it('solo compara las candidaturas que se presentan en tu provincia', () => {
+    const ds = structuredClone(sampleDataset);
+    ds.parties.find((p) => p.id === 'dalia')!.constituencies = ['08', '17', '25', '43'];
+    expect(ballot(ds, { province: '28' }).competing.map((p) => p.id)).not.toContain('dalia');
+    expect(ballot(ds, { province: '08' }).competing.map((p) => p.id)).toContain('dalia');
+    expect(ballot(ds, {}).competing.map((p) => p.id)).toContain('dalia');
+
+    const a = answerAs(ds, 'dalia');
+    const r = buildReport(ds, { ...a, province: '28' });
+    expect(r.ranking.some((x) => x.party.id === 'dalia')).toBe(false);
+    expect(r.province).toBe('28');
+  });
+
+  it('el validador rechaza provincias y miembros desconocidos', () => {
+    const ds = structuredClone(sampleDataset);
+    ds.parties[0]!.constituencies = ['99'];
+    ds.parties.push({ id: 'x', name: 'X', shortName: 'X', color: '#000', kind: 'coalicion', members: ['nadie'] });
+    const errors = validateDataset(ds);
+    expect(errors.some((e) => e.includes('provincia desconocida'))).toBe(true);
+    expect(errors.some((e) => e.includes('miembro desconocido'))).toBe(true);
   });
 });
