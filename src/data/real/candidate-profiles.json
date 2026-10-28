@@ -6227,5 +6227,310 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "David Serrada Pariente",
+    "lists": [
+      {
+        "province": "37",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado del PSOE por Salamanca en el Congreso (desde enero de 2016)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/David_Serrada"
+        }
+      },
+      {
+        "text": "Secretario general del PSOE de la provincia de Salamanca (desde 2021)",
+        "source": {
+          "title": "El Español, 7 de octubre de 2021",
+          "url": "https://elespanol.com/castilla-y-leon/region/salamanca/20211007/david-serrada-candidato-secretario-general-psoe-salmantino/617689074_0.html"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en 1977. Diputado en las legislaturas XI a XV.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María del Carmen Seguín Kattán",
+    "lists": [
+      {
+        "province": "37",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Laura Magdalena Miguel",
+    "lists": [
+      {
+        "province": "37",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella. Según Vozpópuli (22 de octubre de 2026) sustituye como número uno a Víctor González Coello de Portugal: https://www.vozpopuli.com/espana/politica/vox-elige-a-sus-cabezas-de-lista-para-el-29-n-estos-son-los-lideres-por-cada-provincia.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Aurora Zarco Blanco",
+    "lists": [
+      {
+        "province": "37",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Miriam Ruiz Arias",
+    "lists": [
+      {
+        "province": "37",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jose Antonio Valbuena Alonso",
+    "lists": [
+      {
+        "province": "38",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Senador designado por el Parlamento de Canarias (desde julio de 2023)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Valbuena_Alonso"
+        }
+      },
+      {
+        "text": "Responsable de reto demográfico en la ejecutiva insular del PSOE de Tenerife (desde 2025)",
+        "source": {
+          "title": "Diario de Avisos, enero de 2025",
+          "url": "https://diariodeavisos.elespanol.com/2025/01/tamara-raya-asumira-la-secretaria-del-psoe-de-tenerife-y-el-cartel-al-cabildo/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2023",
+        "text": "Consejero de Transición Ecológica, Lucha contra el Cambio Climático y Planificación Territorial del Gobierno de Canarias",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Valbuena_Alonso"
+        }
+      },
+      {
+        "period": "2019",
+        "text": "Senador por Tenerife (abril–julio)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Valbuena_Alonso"
+        }
+      },
+      {
+        "text": "Doce años de consejero en el Cabildo de Tenerife (Vivienda, Seguridad, Sostenibilidad y Medio Ambiente)",
+        "source": {
+          "title": "Diario de Avisos, junio de 2019 (tribuna del propio Valbuena)",
+          "url": "https://diariodeavisos.elespanol.com/2019/06/comprometido-con-el-futuro-de-tenerife-por-jose-antonio-valbuena/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en 1973. Podemos denunció en 2022 ante la Fiscalía Anticorrupción el proyecto turístico Cuna del Alma; la denuncia se refería al proyecto y no consta dirigida contra él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Cristina Valido García",
+    "lists": [
+      {
+        "province": "38",
+        "partyId": "cc-1can"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada de Coalición Canaria por Santa Cruz de Tenerife en el Congreso (desde agosto de 2023) y portavoz de CC",
+        "source": {
+          "title": "RTVC, 5 de octubre de 2026",
+          "url": "https://rtvc.es/coalicion-canaria-propone-cristina-valido-candidata-congreso-explora-coaliciones-las-palmas-5-octubre-2026/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2023",
+        "text": "Diputada en el Parlamento de Canarias",
+        "source": {
+          "title": "Congreso, declaración de intereses",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_38.pdf"
+        }
+      },
+      {
+        "period": "2017–2019",
+        "text": "Consejera de Empleo, Políticas Sociales y Vivienda del Gobierno de Canarias",
+        "source": {
+          "title": "Diario de Avisos, enero de 2017",
+          "url": "https://diariodeavisos.elespanol.com/2017/01/pablo-rodriguez-baltar-valido-barragan-nuevos-consejeros-del-gobierno-canarias/"
+        }
+      },
+      {
+        "period": "2003–2017",
+        "text": "Consejera del Cabildo de Tenerife",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cristina_Valido_Garc%C3%ADa"
+        }
+      },
+      {
+        "period": "2023",
+        "text": "Candidata a la alcaldía de El Rosario; concejala sin retribución",
+        "source": {
+          "title": "Congreso, declaración de intereses",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_38.pdf"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Estudios de Filología; experta universitaria en gobernanza y desarrollo",
+        "source": {
+          "title": "Diario de Avisos, junio de 2023",
+          "url": "https://diariodeavisos.elespanol.com/2023/06/cc-cristina-valido-congreso/"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacida en Las Palmas de Gran Canaria en 1969.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Gustavo González De Vega",
+    "lists": [
+      {
+        "province": "38",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Viceconsejero de Economía e Internacionalización del Gobierno de Canarias (Decreto 148/2023, de 17 de julio)",
+        "source": {
+          "title": "Gobierno de Canarias, ficha de alto cargo",
+          "url": "https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2012–2019",
+        "text": "Delegado del Ministerio de Hacienda y presidente del Comité Ejecutivo de la Zona Franca de Tenerife; cesado en 2019",
+        "source": {
+          "title": "Gobierno de Canarias, ficha de alto cargo",
+          "url": "https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf"
+        }
+      },
+      {
+        "period": "2007–2012",
+        "text": "Director general de Hacienda, coordinador general de servicios centrales y director general de gestión tributaria en el Ayuntamiento de Santa Cruz de Tenerife",
+        "source": {
+          "title": "Gobierno de Canarias, ficha de alto cargo",
+          "url": "https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf"
+        }
+      },
+      {
+        "period": "2019–2023",
+        "text": "Técnico de acción exterior y coordinador del Plan Director de Innovación en el Cabildo de Tenerife",
+        "source": {
+          "title": "Gobierno de Canarias, ficha de alto cargo",
+          "url": "https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf"
+        }
+      },
+      {
+        "text": "Funcionario de carrera, Técnico de Administración General A1 (desde 2003)",
+        "source": {
+          "title": "Gobierno de Canarias, ficha de alto cargo",
+          "url": "https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho por la Universidad de La Laguna",
+        "source": {
+          "title": "Gobierno de Canarias, ficha de alto cargo",
+          "url": "https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "La ficha es de junio de 2026; no se ha confirmado si dejó el cargo al ser elegido candidato.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Alejandro Santiago Gómez Rodríguez",
+    "lists": [
+      {
+        "province": "38",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Sin confirmar: elDiario.es (hacia 2020) recoge que la dirección de Vox apartó a un «Alejandro Gómez», entonces presidente provincial en Santa Cruz de Tenerife; no consta que sea la misma persona. https://www.eldiario.es/canariasahora/tenerifeahora/politica/vox-preparatoria-santa-cruz-tenerife_1_1051053.amp.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Soledad Collado Mirabal (UPC)",
+    "lists": [
+      {
+        "province": "38",
+        "partyId": "upc"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
   }
 ]

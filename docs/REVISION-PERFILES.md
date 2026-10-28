@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-189 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+199 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2935,3 +2935,149 @@ Podemos en Pontevedra · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## David Serrada Pariente
+
+PSOE en Salamanca · pendiente
+
+**Ahora**
+
+- Diputado del PSOE por Salamanca en el Congreso (desde enero de 2016) ([Wikipedia](https://en.wikipedia.org/wiki/David_Serrada))
+- Secretario general del PSOE de la provincia de Salamanca (desde 2021) ([El Español, 7 de octubre de 2021](https://elespanol.com/castilla-y-leon/region/salamanca/20211007/david-serrada-candidato-secretario-general-psoe-salmantino/617689074_0.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en 1977. Diputado en las legislaturas XI a XV.
+
+## María del Carmen Seguín Kattán
+
+PP en Salamanca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Laura Magdalena Miguel
+
+Vox en Salamanca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella. Según Vozpópuli (22 de octubre de 2026) sustituye como número uno a Víctor González Coello de Portugal: https://www.vozpopuli.com/espana/politica/vox-elige-a-sus-cabezas-de-lista-para-el-29-n-estos-son-los-lideres-por-cada-provincia.html
+
+## María Aurora Zarco Blanco
+
+Podemos en Salamanca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Miriam Ruiz Arias
+
+FA en Salamanca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Jose Antonio Valbuena Alonso
+
+PSOE en Santa Cruz de Tenerife · pendiente
+
+**Ahora**
+
+- Senador designado por el Parlamento de Canarias (desde julio de 2023) ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Valbuena_Alonso))
+- Responsable de reto demográfico en la ejecutiva insular del PSOE de Tenerife (desde 2025) ([Diario de Avisos, enero de 2025](https://diariodeavisos.elespanol.com/2025/01/tamara-raya-asumira-la-secretaria-del-psoe-de-tenerife-y-el-cartel-al-cabildo/))
+
+**Trayectoria**
+
+- 2019–2023: Consejero de Transición Ecológica, Lucha contra el Cambio Climático y Planificación Territorial del Gobierno de Canarias ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Valbuena_Alonso))
+- 2019: Senador por Tenerife (abril–julio) ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Valbuena_Alonso))
+- Doce años de consejero en el Cabildo de Tenerife (Vivienda, Seguridad, Sostenibilidad y Medio Ambiente) ([Diario de Avisos, junio de 2019 (tribuna del propio Valbuena)](https://diariodeavisos.elespanol.com/2019/06/comprometido-con-el-futuro-de-tenerife-por-jose-antonio-valbuena/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en 1973. Podemos denunció en 2022 ante la Fiscalía Anticorrupción el proyecto turístico Cuna del Alma; la denuncia se refería al proyecto y no consta dirigida contra él.
+
+## Cristina Valido García
+
+CCa-1.ºCAN en Santa Cruz de Tenerife · pendiente
+
+**Ahora**
+
+- Diputada de Coalición Canaria por Santa Cruz de Tenerife en el Congreso (desde agosto de 2023) y portavoz de CC ([RTVC, 5 de octubre de 2026](https://rtvc.es/coalicion-canaria-propone-cristina-valido-candidata-congreso-explora-coaliciones-las-palmas-5-octubre-2026/))
+
+**Trayectoria**
+
+- 2019–2023: Diputada en el Parlamento de Canarias ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_38.pdf))
+- 2017–2019: Consejera de Empleo, Políticas Sociales y Vivienda del Gobierno de Canarias ([Diario de Avisos, enero de 2017](https://diariodeavisos.elespanol.com/2017/01/pablo-rodriguez-baltar-valido-barragan-nuevos-consejeros-del-gobierno-canarias/))
+- 2003–2017: Consejera del Cabildo de Tenerife ([Wikipedia](https://en.wikipedia.org/wiki/Cristina_Valido_Garc%C3%ADa))
+- 2023: Candidata a la alcaldía de El Rosario; concejala sin retribución ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_38.pdf))
+
+**Formación**
+
+- Estudios de Filología; experta universitaria en gobernanza y desarrollo ([Diario de Avisos, junio de 2023](https://diariodeavisos.elespanol.com/2023/06/cc-cristina-valido-congreso/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en Las Palmas de Gran Canaria en 1969.
+
+## Gustavo González De Vega
+
+PP en Santa Cruz de Tenerife · pendiente
+
+**Ahora**
+
+- Viceconsejero de Economía e Internacionalización del Gobierno de Canarias (Decreto 148/2023, de 17 de julio) ([Gobierno de Canarias, ficha de alto cargo](https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf))
+
+**Trayectoria**
+
+- 2012–2019: Delegado del Ministerio de Hacienda y presidente del Comité Ejecutivo de la Zona Franca de Tenerife; cesado en 2019 ([Gobierno de Canarias, ficha de alto cargo](https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf))
+- 2007–2012: Director general de Hacienda, coordinador general de servicios centrales y director general de gestión tributaria en el Ayuntamiento de Santa Cruz de Tenerife ([Gobierno de Canarias, ficha de alto cargo](https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf))
+- 2019–2023: Técnico de acción exterior y coordinador del Plan Director de Innovación en el Cabildo de Tenerife ([Gobierno de Canarias, ficha de alto cargo](https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf))
+- Funcionario de carrera, Técnico de Administración General A1 (desde 2003) ([Gobierno de Canarias, ficha de alto cargo](https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf))
+
+**Formación**
+
+- Licenciado en Derecho por la Universidad de La Laguna ([Gobierno de Canarias, ficha de alto cargo](https://transparencia.proexca.es/wp-content/uploads/2026/06/1024-Ficha-37364.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* La ficha es de junio de 2026; no se ha confirmado si dejó el cargo al ser elegido candidato.
+
+## Alejandro Santiago Gómez Rodríguez
+
+Vox en Santa Cruz de Tenerife · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sin confirmar: elDiario.es (hacia 2020) recoge que la dirección de Vox apartó a un «Alejandro Gómez», entonces presidente provincial en Santa Cruz de Tenerife; no consta que sea la misma persona. https://www.eldiario.es/canariasahora/tenerifeahora/politica/vox-preparatoria-santa-cruz-tenerife_1_1051053.amp.html
+
+## María Soledad Collado Mirabal (UPC)
+
+UPC en Santa Cruz de Tenerife · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
