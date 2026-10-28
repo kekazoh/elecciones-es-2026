@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-183 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+189 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2813,7 +2813,7 @@ CCa-1.ºCAN en Las Palmas · pendiente
 
 **Ahora**
 
-- Alcalde de Gáldar (elegido cinco veces; mayoría absoluta en 2015, 2019 y 2023) ([Biografía en el portal de transparencia de Gáldar](https://transparencia.galdar.es/storage/uploads/1689507912CV Teodoro Claret Sosa Monzón.odt))
+- Alcalde de Gáldar (elegido cinco veces; mayoría absoluta en 2015, 2019 y 2023) ([Biografía en el portal de transparencia de Gáldar](https://transparencia.galdar.es/storage/uploads/1689507912CV%20Teodoro%20Claret%20Sosa%20Monz%C3%B3n.odt))
 
 **Trayectoria**
 
@@ -2839,3 +2839,99 @@ UPC en Las Palmas · pendiente
 **Procedimientos judiciales** (sin buscar)
 
 - No se han buscado.
+
+## Álvaro José Díaz-Mella López
+
+Vox en Pontevedra · pendiente
+
+**Ahora**
+
+- Presidente provincial de Vox en Pontevedra (desde 2019) ([El Debate, 10 de enero de 2024](https://www.eldebate.com/espana/galicia/20240110/vox-elige-como-candidato-xunta-vigues-alvaro-diazmella_165999.html))
+
+**Trayectoria**
+
+- 2024: Candidato de Vox a la presidencia de la Xunta ([El Debate, 10 de enero de 2024](https://www.eldebate.com/espana/galicia/20240110/vox-elige-como-candidato-xunta-vigues-alvaro-diazmella_165999.html))
+- 2023: Candidato a la alcaldía de Vigo (sin concejal) y cabeza de lista al Congreso por Pontevedra (sin escaño) ([Vozpópuli](https://www.vozpopuli.com/espana/galicia/vox-presenta-alvaro-j-diaz-mella-candidato-elecciones-gallegas.html))
+- Unos veinte años en Telefónica; docente y asesor de empresas ([Vozpópuli](https://www.vozpopuli.com/espana/galicia/vox-presenta-alvaro-j-diaz-mella-candidato-elecciones-gallegas.html))
+
+**Formación**
+
+- Licenciado en Derecho; MBA ([Vozpópuli](https://www.vozpopuli.com/espana/galicia/vox-presenta-alvaro-j-diaz-mella-candidato-elecciones-gallegas.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Abel Fermín Losada Álvarez
+
+PSOE en Pontevedra · pendiente
+
+**Ahora**
+
+- Subdelegado del Gobierno en Pontevedra (desde finales de 2023) ([Vigoé](https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra))
+
+**Trayectoria**
+
+- 2005–2019: Diputado del PSdeG en el Parlamento de Galicia ([Vigoé](https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra))
+- 2008–2009: Director general del Gabinete del presidente de la Xunta ([Vigoé](https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra))
+- 2018–2022: Secretario general del PSOE de Vigo; concejal en Vigo (2006–2007 y desde 2019) ([Vigoé](https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra))
+- Profesor de Historia e Instituciones Económicas en la Universidad de Vigo ([Vigoé](https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra))
+
+**Formación**
+
+- Doctor en Ciencias Económicas por la Universidad de Santiago de Compostela ([Vigoé](https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Ourense en 1964. Cabeza de lista por Pontevedra también en 2016.
+
+## Julio García Comesaña
+
+PP en Pontevedra · pendiente
+
+**Trayectoria**
+
+- desde 2024: Viceportavoz del PPdeG en el Parlamento de Galicia ([El Español – Quincemil, 21 de abril de 2024](https://elespanol.com/quincemil/actualidad/galicia/20240421/comesana-exconselleiro-sanidade-viceportavoz-ppdeg-parlamento/849415231_0.html))
+- 2020–2024: Conselleiro de Sanidade de la Xunta; antes gerente del área sanitaria de Vigo ([El Español – Quincemil, 21 de abril de 2024](https://elespanol.com/quincemil/actualidad/galicia/20240421/comesana-exconselleiro-sanidade-viceportavoz-ppdeg-parlamento/849415231_0.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Gloria Alonso Domínguez
+
+FA en Pontevedra · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## María Carme da Silva Méndez
+
+BNG en Pontevedra · pendiente
+
+**Ahora**
+
+- Senadora de designación autonómica por el BNG ([Moncloa.com, 25 de octubre de 2026](https://www.moncloa.com/2026/10/25/bng-listas-29n-olalla-rodil-lugo-3455123/))
+
+**Trayectoria**
+
+- Concejala en el gobierno municipal de Pontevedra durante más de 24 años; cabeza de lista al Congreso en 2023 ([Moncloa.com, 25 de octubre de 2026](https://www.moncloa.com/2026/10/25/bng-listas-29n-olalla-rodil-lugo-3455123/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Lucas Meda Herbojo
+
+Podemos en Pontevedra · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.

@@ -5960,7 +5960,7 @@
         "text": "Alcalde de Gáldar (elegido cinco veces; mayoría absoluta en 2015, 2019 y 2023)",
         "source": {
           "title": "Biografía en el portal de transparencia de Gáldar",
-          "url": "https://transparencia.galdar.es/storage/uploads/1689507912CV Teodoro Claret Sosa Monzón.odt"
+          "url": "https://transparencia.galdar.es/storage/uploads/1689507912CV%20Teodoro%20Claret%20Sosa%20Monz%C3%B3n.odt"
         }
       }
     ],
@@ -6015,6 +6015,217 @@
     ],
     "education": [],
     "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Álvaro José Díaz-Mella López",
+    "lists": [
+      {
+        "province": "36",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Presidente provincial de Vox en Pontevedra (desde 2019)",
+        "source": {
+          "title": "El Debate, 10 de enero de 2024",
+          "url": "https://www.eldebate.com/espana/galicia/20240110/vox-elige-como-candidato-xunta-vigues-alvaro-diazmella_165999.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2024",
+        "text": "Candidato de Vox a la presidencia de la Xunta",
+        "source": {
+          "title": "El Debate, 10 de enero de 2024",
+          "url": "https://www.eldebate.com/espana/galicia/20240110/vox-elige-como-candidato-xunta-vigues-alvaro-diazmella_165999.html"
+        }
+      },
+      {
+        "period": "2023",
+        "text": "Candidato a la alcaldía de Vigo (sin concejal) y cabeza de lista al Congreso por Pontevedra (sin escaño)",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/galicia/vox-presenta-alvaro-j-diaz-mella-candidato-elecciones-gallegas.html"
+        }
+      },
+      {
+        "text": "Unos veinte años en Telefónica; docente y asesor de empresas",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/galicia/vox-presenta-alvaro-j-diaz-mella-candidato-elecciones-gallegas.html"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho; MBA",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/galicia/vox-presenta-alvaro-j-diaz-mella-candidato-elecciones-gallegas.html"
+        }
+      }
+    ],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Abel Fermín Losada Álvarez",
+    "lists": [
+      {
+        "province": "36",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Subdelegado del Gobierno en Pontevedra (desde finales de 2023)",
+        "source": {
+          "title": "Vigoé",
+          "url": "https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2005–2019",
+        "text": "Diputado del PSdeG en el Parlamento de Galicia",
+        "source": {
+          "title": "Vigoé",
+          "url": "https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra"
+        }
+      },
+      {
+        "period": "2008–2009",
+        "text": "Director general del Gabinete del presidente de la Xunta",
+        "source": {
+          "title": "Vigoé",
+          "url": "https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra"
+        }
+      },
+      {
+        "period": "2018–2022",
+        "text": "Secretario general del PSOE de Vigo; concejal en Vigo (2006–2007 y desde 2019)",
+        "source": {
+          "title": "Vigoé",
+          "url": "https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra"
+        }
+      },
+      {
+        "text": "Profesor de Historia e Instituciones Económicas en la Universidad de Vigo",
+        "source": {
+          "title": "Vigoé",
+          "url": "https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Doctor en Ciencias Económicas por la Universidad de Santiago de Compostela",
+        "source": {
+          "title": "Vigoé",
+          "url": "https://www.vigoe.es/vigo/local/abel-losada-nuevo-subdelegado-del-gobierno-en-la-provincia-de-pontevedra"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Ourense en 1964. Cabeza de lista por Pontevedra también en 2016.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Julio García Comesaña",
+    "lists": [
+      {
+        "province": "36",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "desde 2024",
+        "text": "Viceportavoz del PPdeG en el Parlamento de Galicia",
+        "source": {
+          "title": "El Español – Quincemil, 21 de abril de 2024",
+          "url": "https://elespanol.com/quincemil/actualidad/galicia/20240421/comesana-exconselleiro-sanidade-viceportavoz-ppdeg-parlamento/849415231_0.html"
+        }
+      },
+      {
+        "period": "2020–2024",
+        "text": "Conselleiro de Sanidade de la Xunta; antes gerente del área sanitaria de Vigo",
+        "source": {
+          "title": "El Español – Quincemil, 21 de abril de 2024",
+          "url": "https://elespanol.com/quincemil/actualidad/galicia/20240421/comesana-exconselleiro-sanidade-viceportavoz-ppdeg-parlamento/849415231_0.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Gloria Alonso Domínguez",
+    "lists": [
+      {
+        "province": "36",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Carme da Silva Méndez",
+    "lists": [
+      {
+        "province": "36",
+        "partyId": "bng"
+      }
+    ],
+    "current": [
+      {
+        "text": "Senadora de designación autonómica por el BNG",
+        "source": {
+          "title": "Moncloa.com, 25 de octubre de 2026",
+          "url": "https://www.moncloa.com/2026/10/25/bng-listas-29n-olalla-rodil-lugo-3455123/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Concejala en el gobierno municipal de Pontevedra durante más de 24 años; cabeza de lista al Congreso en 2023",
+        "source": {
+          "title": "Moncloa.com, 25 de octubre de 2026",
+          "url": "https://www.moncloa.com/2026/10/25/bng-listas-29n-olalla-rodil-lugo-3455123/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Lucas Meda Herbojo",
+    "lists": [
+      {
+        "province": "36",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
   }
 ]
