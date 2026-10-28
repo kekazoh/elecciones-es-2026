@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-173 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+183 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2639,7 +2639,7 @@ Vox en Asturias · pendiente
 
 **Ahora**
 
-- Secretario general y portavoz adjunto del Grupo Vox en el Congreso ([Madrid Actual](https://www.madridactual.es/nacional/politica-nacional/?start=25))
+- Secretario general del Grupo Vox en el Congreso ([Madrid Actual](https://www.madridactual.es/nacional/politica-nacional/?start=25))
 
 **Trayectoria**
 
@@ -2690,3 +2690,152 @@ FA en Asturias · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## María Luz Martínez Seijo
+
+PSOE en Palencia · pendiente
+
+**Ahora**
+
+- Portavoz de Educación del Grupo Socialista en el Congreso ([Demócrata](https://www.democrata.es/politicos/maria-luz-martinez-seijo-348))
+
+**Trayectoria**
+
+- 2016–2026: Diputada del PSOE por Palencia desde enero de 2016 ([Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_Luz_Mart%C3%ADnez_Seijo))
+- desde 2022: Miembro de la Asamblea Parlamentaria del Consejo de Europa ([Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_Luz_Mart%C3%ADnez_Seijo))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* La dirección federal la impuso como número uno en lugar de Álvaro Bilbao, elegido por la militancia, y el resto de la lista dimitió en bloque (https://www.vozpopuli.com/espana/politica/rebelion-contra-ferraz-renuncia-toda-la-lista-del-psoe-de-palencia-tras-imponer-sanchez-al-numero-uno.html).
+
+## Matías Recio Juárez
+
+Vox en Palencia · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Asesor del Grupo Vox en las Cortes de Castilla y León (nombrado en 2023 y de nuevo en abril de 2026; cesado el 28 de junio de 2026) ([Boletín de las Cortes de Castilla y León](https://sirdoc.ccyl.es/sirdoc/PDF/PUBLOFI/BO/CCL/12L/BOCCL1200017/BOCCL-12-000292.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Alberto Pozo Díez
+
+Podemos en Palencia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Milagros Marcos Ortega
+
+PP en Palencia · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputada del PP por Palencia desde mayo de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Milagros_Marcos))
+- hasta 2019: Consejera de Agricultura y Ganadería de la Junta de Castilla y León y portavoz de la Junta (2016–2019); antes consejera de Familia e Igualdad ([El Español, 22 de marzo de 2019](https://www.elespanol.com/castilla-y-leon/region/20190322/santiago-juarez-asume-portavocia-junta-castilla-leon/385213198_0.html))
+
+**Formación**
+
+- Licenciada en Filosofía y Letras (Universidad de Valladolid); posgrado en Documentación (Universidad de Salamanca) ([Wikipedia](https://en.wikipedia.org/wiki/Milagros_Marcos))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Ana Belén Collantes Martín
+
+FA en Palencia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## María Dolores Corujo Berriel
+
+PSOE en Las Palmas · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputada del PSOE por Las Palmas; la primera cabeza de lista socialista por Las Palmas de una isla no capitalina ([RTVC](https://rtvc.es/gomez-y-corujo-cabezas-de-lista-del-psoe-al-congreso/))
+- hasta 2023: Presidenta del Cabildo de Lanzarote ([Diario de Avisos, junio de 2023](https://diariodeavisos.elespanol.com/2023/06/hector-gomez-y-dolores-corujo-candidatos-del-psoe-al-congreso-por-las-dos-provincias-canarias/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2026 la Fiscalía de Arrecife abrió diligencias por una denuncia de un cargo de CC sobre las dietas de un consejero durante su mandato; pasaron a la Fiscalía del Supremo, que las archivó sin llegar a juzgado (https://www.lavozdelanzarote.com/en/news/politics/the-prosecutor-office-of-the-supreme-court-dismisses-the-complaint-filed-by-oswaldo-betancort-against-loli-corujo_245072_102.html).
+
+## Sergio Ramos Acosta
+
+PP en Las Palmas · pendiente
+
+**Trayectoria**
+
+- Senador del PP por Gran Canaria; portavoz de Migraciones del PP en el Senado ([La Voz de Lanzarote](https://www.lavozdelanzarote.com/en/canary-islands/a-pp-senator-calls-sanchez-cocky-for-not-receiving-clavijo-in-lanzarote_228671_102.html))
+- desde 2023: Vicealcalde de Telde ([RTVC](https://rtvc.es/el-alcalde-de-telde-desea-una-pronta-recuperacion-a-sergio-ramos/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* RTVC informó de que renunciaba como primer teniente de alcalde de Telde por motivos de salud (sin fecha clara en la fuente).
+
+## Andrés Alberto Rodríguez Almeida
+
+Vox en Las Palmas · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por Las Palmas desde diciembre de 2019 ([RTVC, 21 de octubre de 2026](https://rtvc.es/diputado-alberto-rodriguez-repite-cabeza-lista-vox-congreso-palmas-21-octubre-2026/))
+- 2023: Candidato de Vox a la alcaldía de Las Palmas de Gran Canaria ([Vozpópuli](https://www.vozpopuli.com/espana/vox-desvela-candidaturas-canizares-alcaldia-toledo-rodriguez-palmas-gran-canaria.html))
+- Tesorero de la Federación Española de Familias Numerosas; presidente de la asociación de empresas de alojamiento turístico de Las Palmas ([Wikipedia](https://en.wikipedia.org/wiki/Alberto_Rodr%C3%ADguez_Almeida))
+
+**Formación**
+
+- Licenciado en Derecho; maestro de Educación Infantil ([Wikipedia](https://en.wikipedia.org/wiki/Alberto_Rodr%C3%ADguez_Almeida))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Teodoro Claret Sosa Monzón
+
+CCa-1.ºCAN en Las Palmas · pendiente
+
+**Ahora**
+
+- Alcalde de Gáldar (elegido cinco veces; mayoría absoluta en 2015, 2019 y 2023) ([Biografía en el portal de transparencia de Gáldar](https://transparencia.galdar.es/storage/uploads/1689507912CV Teodoro Claret Sosa Monzón.odt))
+
+**Trayectoria**
+
+- 2025: Dejó Nueva Canarias y fundó con Óscar Hernández Primero Canarias ([RTVC, mayo de 2025](https://rtvc.es/sosa-hernandez-nombre-19-mayo-2025/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Luis Alberto Campos Jiménez
+
+UPC en Las Palmas · pendiente
+
+**Ahora**
+
+- Secretario general de Nueva Canarias (desde julio de 2025) ([RTVC, 27 de julio de 2025](https://rtvc.es/luis-campos-nuevo-secretario-general-nueva-canarias-nc-27-julio-2025/))
+- Diputado y portavoz de NC-BC en el Parlamento de Canarias ([RTVC, 4 de diciembre de 2025](https://rtvc.es/peticion-de-nc-a-clavijo-4-de-diciembre-de-2025/))
+
+**Trayectoria**
+
+- 2023: Cabeza de lista de NC-BC al Congreso por Las Palmas, sin escaño ([RTVC](https://rtvc.es/luis-campos-y-teodoro-sosa-en-la-lista-al-congreso-de-nc/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.

@@ -5602,7 +5602,7 @@
     ],
     "current": [
       {
-        "text": "Secretario general y portavoz adjunto del Grupo Vox en el Congreso",
+        "text": "Secretario general del Grupo Vox en el Congreso",
         "source": {
           "title": "Madrid Actual",
           "url": "https://www.madridactual.es/nacional/politica-nacional/?start=25"
@@ -5700,6 +5700,321 @@
     "education": [],
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Luz Martínez Seijo",
+    "lists": [
+      {
+        "province": "34",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz de Educación del Grupo Socialista en el Congreso",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/maria-luz-martinez-seijo-348"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2016–2026",
+        "text": "Diputada del PSOE por Palencia desde enero de 2016",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Luz_Mart%C3%ADnez_Seijo"
+        }
+      },
+      {
+        "period": "desde 2022",
+        "text": "Miembro de la Asamblea Parlamentaria del Consejo de Europa",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Luz_Mart%C3%ADnez_Seijo"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "La dirección federal la impuso como número uno en lugar de Álvaro Bilbao, elegido por la militancia, y el resto de la lista dimitió en bloque (https://www.vozpopuli.com/espana/politica/rebelion-contra-ferraz-renuncia-toda-la-lista-del-psoe-de-palencia-tras-imponer-sanchez-al-numero-uno.html).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Matías Recio Juárez",
+    "lists": [
+      {
+        "province": "34",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Asesor del Grupo Vox en las Cortes de Castilla y León (nombrado en 2023 y de nuevo en abril de 2026; cesado el 28 de junio de 2026)",
+        "source": {
+          "title": "Boletín de las Cortes de Castilla y León",
+          "url": "https://sirdoc.ccyl.es/sirdoc/PDF/PUBLOFI/BO/CCL/12L/BOCCL1200017/BOCCL-12-000292.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Alberto Pozo Díez",
+    "lists": [
+      {
+        "province": "34",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Milagros Marcos Ortega",
+    "lists": [
+      {
+        "province": "34",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputada del PP por Palencia desde mayo de 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Milagros_Marcos"
+        }
+      },
+      {
+        "period": "hasta 2019",
+        "text": "Consejera de Agricultura y Ganadería de la Junta de Castilla y León y portavoz de la Junta (2016–2019); antes consejera de Familia e Igualdad",
+        "source": {
+          "title": "El Español, 22 de marzo de 2019",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/20190322/santiago-juarez-asume-portavocia-junta-castilla-leon/385213198_0.html"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Filosofía y Letras (Universidad de Valladolid); posgrado en Documentación (Universidad de Salamanca)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Milagros_Marcos"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ana Belén Collantes Martín",
+    "lists": [
+      {
+        "province": "34",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Dolores Corujo Berriel",
+    "lists": [
+      {
+        "province": "35",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputada del PSOE por Las Palmas; la primera cabeza de lista socialista por Las Palmas de una isla no capitalina",
+        "source": {
+          "title": "RTVC",
+          "url": "https://rtvc.es/gomez-y-corujo-cabezas-de-lista-del-psoe-al-congreso/"
+        }
+      },
+      {
+        "period": "hasta 2023",
+        "text": "Presidenta del Cabildo de Lanzarote",
+        "source": {
+          "title": "Diario de Avisos, junio de 2023",
+          "url": "https://diariodeavisos.elespanol.com/2023/06/hector-gomez-y-dolores-corujo-candidatos-del-psoe-al-congreso-por-las-dos-provincias-canarias/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2026 la Fiscalía de Arrecife abrió diligencias por una denuncia de un cargo de CC sobre las dietas de un consejero durante su mandato; pasaron a la Fiscalía del Supremo, que las archivó sin llegar a juzgado (https://www.lavozdelanzarote.com/en/news/politics/the-prosecutor-office-of-the-supreme-court-dismisses-the-complaint-filed-by-oswaldo-betancort-against-loli-corujo_245072_102.html).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Sergio Ramos Acosta",
+    "lists": [
+      {
+        "province": "35",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "text": "Senador del PP por Gran Canaria; portavoz de Migraciones del PP en el Senado",
+        "source": {
+          "title": "La Voz de Lanzarote",
+          "url": "https://www.lavozdelanzarote.com/en/canary-islands/a-pp-senator-calls-sanchez-cocky-for-not-receiving-clavijo-in-lanzarote_228671_102.html"
+        }
+      },
+      {
+        "period": "desde 2023",
+        "text": "Vicealcalde de Telde",
+        "source": {
+          "title": "RTVC",
+          "url": "https://rtvc.es/el-alcalde-de-telde-desea-una-pronta-recuperacion-a-sergio-ramos/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "RTVC informó de que renunciaba como primer teniente de alcalde de Telde por motivos de salud (sin fecha clara en la fuente).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Andrés Alberto Rodríguez Almeida",
+    "lists": [
+      {
+        "province": "35",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputado de Vox por Las Palmas desde diciembre de 2019",
+        "source": {
+          "title": "RTVC, 21 de octubre de 2026",
+          "url": "https://rtvc.es/diputado-alberto-rodriguez-repite-cabeza-lista-vox-congreso-palmas-21-octubre-2026/"
+        }
+      },
+      {
+        "period": "2023",
+        "text": "Candidato de Vox a la alcaldía de Las Palmas de Gran Canaria",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/vox-desvela-candidaturas-canizares-alcaldia-toledo-rodriguez-palmas-gran-canaria.html"
+        }
+      },
+      {
+        "text": "Tesorero de la Federación Española de Familias Numerosas; presidente de la asociación de empresas de alojamiento turístico de Las Palmas",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Rodr%C3%ADguez_Almeida"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho; maestro de Educación Infantil",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Rodr%C3%ADguez_Almeida"
+        }
+      }
+    ],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Teodoro Claret Sosa Monzón",
+    "lists": [
+      {
+        "province": "35",
+        "partyId": "cc-1can"
+      }
+    ],
+    "current": [
+      {
+        "text": "Alcalde de Gáldar (elegido cinco veces; mayoría absoluta en 2015, 2019 y 2023)",
+        "source": {
+          "title": "Biografía en el portal de transparencia de Gáldar",
+          "url": "https://transparencia.galdar.es/storage/uploads/1689507912CV Teodoro Claret Sosa Monzón.odt"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2025",
+        "text": "Dejó Nueva Canarias y fundó con Óscar Hernández Primero Canarias",
+        "source": {
+          "title": "RTVC, mayo de 2025",
+          "url": "https://rtvc.es/sosa-hernandez-nombre-19-mayo-2025/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Luis Alberto Campos Jiménez",
+    "lists": [
+      {
+        "province": "35",
+        "partyId": "upc"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretario general de Nueva Canarias (desde julio de 2025)",
+        "source": {
+          "title": "RTVC, 27 de julio de 2025",
+          "url": "https://rtvc.es/luis-campos-nuevo-secretario-general-nueva-canarias-nc-27-julio-2025/"
+        }
+      },
+      {
+        "text": "Diputado y portavoz de NC-BC en el Parlamento de Canarias",
+        "source": {
+          "title": "RTVC, 4 de diciembre de 2025",
+          "url": "https://rtvc.es/peticion-de-nc-a-clavijo-4-de-diciembre-de-2025/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023",
+        "text": "Cabeza de lista de NC-BC al Congreso por Las Palmas, sin escaño",
+        "source": {
+          "title": "RTVC",
+          "url": "https://rtvc.es/luis-campos-y-teodoro-sosa-en-la-lista-al-congreso-de-nc/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
     "verification": "pendiente"
   }
 ]
