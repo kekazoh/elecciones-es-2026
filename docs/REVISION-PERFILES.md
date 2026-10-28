@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-243 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+250 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3843,3 +3843,117 @@ FA en Valladolid · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## Idoia Sagastizabal Unzetabarrenetxea
+
+PNV en Bizkaia · pendiente
+
+**Ahora**
+
+- Diputada del PNV en el Congreso, especializada en asuntos presupuestarios y fiscales ([Ondavasca](https://www.ondavasca.com/el-pnv-afronta-las-generales-con-sagastizabal-lopez-vaquero-goia-y-urtaran/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacida en Eibar; estudió en la Universidad del País Vasco (según Wikidata). Ratificada por el PNV como cabeza de lista por Bizkaia el 17 de octubre de 2026: https://orain.eus/es/politica/2026/10/17/el-pnv-ratifica-unanimidad-maribel-vaquero-idoia-sagastizabal-gorka-urtaran-candidatos-al-congreso/
+
+## Patxi López Alvarez
+
+PSOE en Bizkaia · pendiente
+
+**Ahora**
+
+- Portavoz del Grupo Socialista en el Congreso (desde julio de 2022, sustituyendo a Héctor Gómez) ([Valencia Plaza](https://valenciaplaza.com/patxi-lopez-releva-a-hector-gomez-y-sera-el-nuevo-portavoz-del-psoe-en-el-congreso))
+
+**Trayectoria**
+
+- 2009–2012: Lehendakari del Gobierno Vasco ([Ondavasca](https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/))
+- 2016: Presidente del Congreso durante la breve XI legislatura ([Ondavasca](https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/))
+- desde 2002: Secretario general del PSE-EE ([Ondavasca](https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/))
+- Diputado en el Congreso desde los 28 años; dejó los estudios de Ingeniería Industrial ([Ondavasca](https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Portugalete en 1959.
+
+## Oskar Matute Garcia de Jalón
+
+EH Bildu en Bizkaia · pendiente
+
+**Ahora**
+
+- Diputado de EH Bildu por Bizkaia en el Congreso (desde 2016) y portavoz adjunto ([elDiario.es](https://www.eldiario.es/1_9e6404))
+
+**Trayectoria**
+
+- 2002–2009: Parlamentario vasco por Ezker Batua (IU) ([elDiario.es](https://www.eldiario.es/1_9e6404))
+- desde 2012: Parlamentario vasco por EH Bildu (Alternatiba) ([elDiario.es](https://www.eldiario.es/1_9e6404))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacido en Barakaldo en 1972.
+
+## Esther Martínez Fernández
+
+PP en Bizkaia · pendiente
+
+**Ahora**
+
+- Concejala del PP en Bilbao y candidata a la alcaldía en 2027 ([El Español, 21 de julio de 2026](https://www.elespanol.com/reportajes/20260721/esther-martinez-concejal-pp-bilbao-desafio-abanico-radicales-plena-final-llevan-delante/1003744327990_0.html))
+
+**Trayectoria**
+
+- Unas tres décadas en la política vasca con el PP; candidata a la alcaldía de Bilbao ([El Español, 21 de julio de 2026](https://www.elespanol.com/reportajes/20260721/esther-martinez-concejal-pp-bilbao-desafio-abanico-radicales-plena-final-llevan-delante/1003744327990_0.html))
+
+**Formación**
+
+- Licenciada en Derecho ([El Español, 21 de julio de 2026](https://www.elespanol.com/reportajes/20260721/esther-martinez-concejal-pp-bilbao-desafio-abanico-radicales-plena-final-llevan-delante/1003744327990_0.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Natural de Barakaldo.
+
+## Lander Martínez Hierro
+
+FA en Bizkaia · pendiente
+
+**Ahora**
+
+- Diputado de Sumar por Bizkaia en el Congreso (desde agosto de 2023) ([Wikipedia](https://en.wikipedia.org/wiki/Lander_Mart%C3%ADnez))
+
+**Trayectoria**
+
+- 2016–2020: Parlamentario vasco (Elkarrekin Podemos) ([Wikipedia](https://en.wikipedia.org/wiki/Lander_Mart%C3%ADnez))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacido en Vitoria-Gasteiz.
+
+## Marco Antonio Moreno Asla
+
+Vox en Bizkaia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Jose Manuel de Pablos Bajo
+
+Podemos en Bizkaia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Solo aparece como firmante («SGM Santurtzi») de un pronunciamiento sobre las candidaturas vascas a las generales: https://www.naiz.eus/media/asset_publics/resources/000/231/645/original/PRONUNCIAMIENTO_Y_PROPUESTA_DE_MODIFICACION_DE_LAS_CANDIDATURAS_VASCAS_A_LAS_ELECCIONES_GENERALES_Y_NUESTRO_DERECHO_A_DECIDIR.pdf

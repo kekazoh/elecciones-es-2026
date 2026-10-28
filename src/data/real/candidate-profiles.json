@@ -8146,5 +8146,225 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Idoia Sagastizabal Unzetabarrenetxea",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "pnv"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada del PNV en el Congreso, especializada en asuntos presupuestarios y fiscales",
+        "source": {
+          "title": "Ondavasca",
+          "url": "https://www.ondavasca.com/el-pnv-afronta-las-generales-con-sagastizabal-lopez-vaquero-goia-y-urtaran/"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Nacida en Eibar; estudió en la Universidad del País Vasco (según Wikidata). Ratificada por el PNV como cabeza de lista por Bizkaia el 17 de octubre de 2026: https://orain.eus/es/politica/2026/10/17/el-pnv-ratifica-unanimidad-maribel-vaquero-idoia-sagastizabal-gorka-urtaran-candidatos-al-congreso/",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Patxi López Alvarez",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz del Grupo Socialista en el Congreso (desde julio de 2022, sustituyendo a Héctor Gómez)",
+        "source": {
+          "title": "Valencia Plaza",
+          "url": "https://valenciaplaza.com/patxi-lopez-releva-a-hector-gomez-y-sera-el-nuevo-portavoz-del-psoe-en-el-congreso"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2009–2012",
+        "text": "Lehendakari del Gobierno Vasco",
+        "source": {
+          "title": "Ondavasca",
+          "url": "https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/"
+        }
+      },
+      {
+        "period": "2016",
+        "text": "Presidente del Congreso durante la breve XI legislatura",
+        "source": {
+          "title": "Ondavasca",
+          "url": "https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/"
+        }
+      },
+      {
+        "period": "desde 2002",
+        "text": "Secretario general del PSE-EE",
+        "source": {
+          "title": "Ondavasca",
+          "url": "https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/"
+        }
+      },
+      {
+        "text": "Diputado en el Congreso desde los 28 años; dejó los estudios de Ingeniería Industrial",
+        "source": {
+          "title": "Ondavasca",
+          "url": "https://www.ondavasca.com/patxi-lopez-sera-el-portavoz-del-psoe-en-el-congreso/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Portugalete en 1959.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Oskar Matute Garcia de Jalón",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "bildu"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de EH Bildu por Bizkaia en el Congreso (desde 2016) y portavoz adjunto",
+        "source": {
+          "title": "elDiario.es",
+          "url": "https://www.eldiario.es/1_9e6404"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2002–2009",
+        "text": "Parlamentario vasco por Ezker Batua (IU)",
+        "source": {
+          "title": "elDiario.es",
+          "url": "https://www.eldiario.es/1_9e6404"
+        }
+      },
+      {
+        "period": "desde 2012",
+        "text": "Parlamentario vasco por EH Bildu (Alternatiba)",
+        "source": {
+          "title": "elDiario.es",
+          "url": "https://www.eldiario.es/1_9e6404"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Nacido en Barakaldo en 1972.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Esther Martínez Fernández",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Concejala del PP en Bilbao y candidata a la alcaldía en 2027",
+        "source": {
+          "title": "El Español, 21 de julio de 2026",
+          "url": "https://www.elespanol.com/reportajes/20260721/esther-martinez-concejal-pp-bilbao-desafio-abanico-radicales-plena-final-llevan-delante/1003744327990_0.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Unas tres décadas en la política vasca con el PP; candidata a la alcaldía de Bilbao",
+        "source": {
+          "title": "El Español, 21 de julio de 2026",
+          "url": "https://www.elespanol.com/reportajes/20260721/esther-martinez-concejal-pp-bilbao-desafio-abanico-radicales-plena-final-llevan-delante/1003744327990_0.html"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Derecho",
+        "source": {
+          "title": "El Español, 21 de julio de 2026",
+          "url": "https://www.elespanol.com/reportajes/20260721/esther-martinez-concejal-pp-bilbao-desafio-abanico-radicales-plena-final-llevan-delante/1003744327990_0.html"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "Natural de Barakaldo.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Lander Martínez Hierro",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de Sumar por Bizkaia en el Congreso (desde agosto de 2023)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lander_Mart%C3%ADnez"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2016–2020",
+        "text": "Parlamentario vasco (Elkarrekin Podemos)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lander_Mart%C3%ADnez"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Nacido en Vitoria-Gasteiz.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Marco Antonio Moreno Asla",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jose Manuel de Pablos Bajo",
+    "lists": [
+      {
+        "province": "48",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Solo aparece como firmante («SGM Santurtzi») de un pronunciamiento sobre las candidaturas vascas a las generales: https://www.naiz.eus/media/asset_publics/resources/000/231/645/original/PRONUNCIAMIENTO_Y_PROPUESTA_DE_MODIFICACION_DE_LAS_CANDIDATURAS_VASCAS_A_LAS_ELECCIONES_GENERALES_Y_NUESTRO_DERECHO_A_DECIDIR.pdf",
+    "verification": "pendiente"
   }
 ]
