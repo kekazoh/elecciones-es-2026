@@ -370,6 +370,11 @@
     "name": "Frente Obrero",
     "shortName": "FO",
     "color": "#8a8a8a",
+    "program": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07"
+    },
     "constituencies": [
       "01",
       "02",
@@ -430,6 +435,11 @@
     "name": "Se Acabó la Fiesta",
     "shortName": "SALF",
     "color": "#8a8a8a",
+    "program": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04"
+    },
     "constituencies": [
       "01",
       "02",
@@ -484,6 +494,11 @@
     "name": "Por un Mundo Más Justo",
     "shortName": "MUNDO+JUSTO",
     "color": "#8a8a8a",
+    "program": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16"
+    },
     "constituencies": [
       "01",
       "02",
@@ -521,6 +536,11 @@
     "name": "Partido Animalista con el Medio Ambiente",
     "shortName": "PACMA",
     "color": "#8a8a8a",
+    "program": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
+      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "date": "2023-07-06"
+    },
     "constituencies": [
       "01",
       "02",
@@ -634,6 +654,11 @@
     "name": "Partido Comunista de los Trabajadores de España",
     "shortName": "PCTE",
     "color": "#8a8a8a",
+    "program": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09"
+    },
     "constituencies": [
       "01",
       "03",

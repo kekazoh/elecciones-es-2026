@@ -72,7 +72,9 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
     importar el BOE: no hay cambios respecto al JSON.
   - Posiciones solo tienen los 12 partidos con representación en la XV
     legislatura. Las 45 candidaturas nuevas entran sin posiciones: la app dice
-    que se presentan, pero no las compara.
+    que se presentan, pero no las compara. Las cinco con más provincias
+    (Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo) ya tienen
+    posiciones codificadas, `pendiente` de revisión.
   - Coaliciones: el BOE da su nombre, no sus miembros. Los miembros
     (`members`) salen de la denominación de la candidatura o de la prensa del
     16 y 17 de octubre: Frente Amplio y sus variantes autonómicas (Sumar, IU,
@@ -101,6 +103,13 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 - Compromís: Front Valencià: 16 posiciones de su programa de 2019
   («Imparables», en valenciano), `pendiente` de revisión; mientras tanto hereda
   de Podemos. Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
+- Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo: 57 posiciones,
+  `pendiente` de revisión. Frente Obrero, de su programa político de octubre de
+  2026; PCTE, PACMA y Por un Mundo Más Justo, de sus programas de las generales
+  de 2023. SALF no ha publicado programa de generales: se usa el de las
+  autonómicas de Castilla y León de 2026 como `declaracion` (copia de
+  theobjective.com, porque su web bloquea las descargas). Detalle y salvedades
+  en [REVISION-NUEVOS-PARTIDOS.md](REVISION-NUEVOS-PARTIDOS.md).
 - Programas usados y salvedades:
   - PP, Sumar, ERC, PNV y BNG: PDF oficial del partido, generales de 2023.
   - PSOE y Vox: la web del partido bloquea las descargas automáticas. Se citan
