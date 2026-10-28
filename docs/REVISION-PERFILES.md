@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-140 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+151 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2199,3 +2199,169 @@ PP en La Rioja · pendiente
 - No consta ninguno.
 
 *Notas:* Conocida como Cuca Gamarra. Dejó la secretaría general en el congreso del PP de julio de 2025, cuando la asumió Miguel Tellado.
+
+## Patricia Otero Rodríguez
+
+PSOE en Lugo · pendiente
+
+**Ahora**
+
+- Secretaria de Pesca de la Ejecutiva Nacional del PSdeG ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_377.pdf))
+
+**Trayectoria**
+
+- 2024–2026: Diputada por Lugo desde marzo de 2024, en el escaño que dejó José Ramón Gómez Besteiro ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_377.pdf))
+- hasta 2024: Diputada en el Parlamento de Galicia (renunció el 11 de marzo de 2024) ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_377.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Ximena Cheda Tuya
+
+Podemos en Lugo · pendiente
+
+**Trayectoria**
+
+- 2023: Cabeza de lista de Podemos Lugo, en coalición con Esquerda Unida, para las municipales de 2023 ([Lugo Galicia Xa, marzo de 2023](https://galiciaxa.com/wp-content/uploads/2023/03/LGX_MARZO-2023_NUMERO_23_web.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Jesús Primitivo Rodríguez González
+
+Vox en Lugo · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Olalla Rodil Fernández
+
+BNG en Lugo · pendiente
+
+**Ahora**
+
+- Diputada del BNG en el Parlamento de Galicia ([Moncloa.com, 25 de octubre de 2026](https://www.moncloa.com/2026/10/25/bng-listas-29n-olalla-rodil-lugo-3455123/))
+
+**Trayectoria**
+
+- 2015 y 2019: Candidata del BNG al Congreso por Lugo ([Moncloa.com, 25 de octubre de 2026](https://www.moncloa.com/2026/10/25/bng-listas-29n-olalla-rodil-lugo-3455123/))
+- desde 2012: Periodista parlamentaria en Sermos Galiza ([El Salto](https://www.elsaltodiario.com/olalla-rodil/puxeronse-demasiadas-esperanzas-nas-urnas-e-nas-posibilidades-de-cambio-que-ofrecen-os-procesos-electorais))
+
+**Formación**
+
+- Licenciada en Publicidad y Relaciones Públicas; máster en Estudios Internacionales ([El Salto](https://www.elsaltodiario.com/olalla-rodil/puxeronse-demasiadas-esperanzas-nas-urnas-e-nas-posibilidades-de-cambio-que-ofrecen-os-procesos-electorais))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en Lugo en 1989.
+
+## Francisco José Conde López
+
+PP en Lugo · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputado por Lugo; presidente de la Comisión de Defensa desde 2025 ([Wikipedia](https://en.wikipedia.org/wiki/Francisco_Conde))
+- hasta 2023: Vicepresidente primero de la Xunta y conselleiro de Economía e Industria ([Vozpópuli](https://www.vozpopuli.com/economia/francisco-conde-uno-mejores-consejeros-feijoo-apunta-ministro-economia.html))
+
+**Formación**
+
+- Licenciado en Ciencias Económicas y Empresariales ([Vozpópuli](https://www.vozpopuli.com/economia/francisco-conde-uno-mejores-consejeros-feijoo-apunta-ministro-economia.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Monforte de Lemos en 1968.
+
+## Reyes Rodríguez García
+
+FA en Lugo · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él o ella.
+
+## José Bernal Gutiérrez
+
+PSOE en Málaga · pendiente
+
+**Trayectoria**
+
+- 2015–2017: Alcalde de Marbella; concejal desde 2011 y después portavoz socialista ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Bernal_(politician)))
+- 2012–2016: Diputado en el Parlamento de Andalucía ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Bernal_(politician)))
+
+**Formación**
+
+- Historiador ([The Olive Press, 19 de junio de 2015](https://theolivepress.es/spain-news/2015/06/19/mayor-of-marbella-to-remove-all-signs-of-franco-and-corruption))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Carlos Hernández Quero
+
+Vox en Málaga · pendiente
+
+**Ahora**
+
+- Portavoz adjunto de Vox en el Congreso (desde noviembre de 2025) y miembro del Comité Ejecutivo de Vox (desde 2025) ([El Debate, 3 de noviembre de 2025](https://www.eldebate.com/espana/20251103/vox-aparta-ortega-smith-como-portavoz-adjunto-congreso-nombra-carlos-hernandez-quero_351409.html))
+
+**Trayectoria**
+
+- 2023–2026: Diputado de Vox por Málaga ([Wikipedia](https://en.wikipedia.org/wiki/Carlos_Hern%C3%A1ndez_Quero))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Elías Bendodo Benasayag
+
+PP en Málaga · pendiente
+
+**Ahora**
+
+- Vicesecretario de Política Autonómica, Municipal y Análisis Electoral del PP; diputado por Málaga ([Demócrata](https://www.democrata.es/politicos/elias-bendodo-benasayag-175))
+
+**Trayectoria**
+
+- 2022: Coordinador general del PP ([Última Hora, 1 de abril de 2022](https://www.ultimahora.es/noticias/nacional/2022/04/01/1717451/congreso-del-elias-bendodo-nuevo-coordinador-general.html))
+- 2022–2023: Senador por Málaga ([Demócrata](https://www.democrata.es/politicos/elias-bendodo-benasayag-175))
+- Consejero de la Presidencia y portavoz de la Junta de Andalucía; antes presidente de la Diputación de Málaga y concejal de Málaga ([ESdiario](https://www.esdiario.com/andalucia/220402/91061/feijoo-suma-andaluces-a-proyecto-aumenta-fuerza-moreno_amp.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2023 un juzgado de Sevilla archivó su querella contra Amparo Rubiales por llamarle «judío nazi» (https://theobjective.com/espana/politica/2023-09-20/archivada-querella-bendodo-judio-nazi/). Anticorrupción investigó contratos de emergencia de la Junta durante la pandemia, cuando él era consejero, pero no consta que esté investigado personalmente.
+
+## Micaela Jiménez Fortes
+
+Podemos en Málaga · pendiente
+
+**Trayectoria**
+
+- 2026: Número dos de Por Andalucía en las elecciones andaluzas de mayo de 2026 ([The Objective, 28 de abril de 2026](https://theobjective.com/espana/politica/2026-04-28/lista-elecciones-andalucia-malaga/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Rafael Borrego Peña
+
+FA en Málaga · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
