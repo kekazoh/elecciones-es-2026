@@ -1016,5 +1016,1306 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Antonio Alfonso Francés Pérez",
+    "lists": [
+      {
+        "province": "03",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "period": "2011-actualidad",
+        "text": "Alcalde de Alcoy",
+        "source": {
+          "title": "El PSOE y Compromís en Alcoy: Toni Francés encadenará legislaturas (El Español)",
+          "url": "https://www.elespanol.com/alacant/alcoi/20230616/psoe-compromis-alcoy-toni-frances-encadenara-legislaturas/771923068_0.html",
+          "date": "2023-06-16"
+        }
+      },
+      {
+        "text": "Portavoz del Grupo Socialista en la Diputación de Alicante",
+        "source": {
+          "title": "El PSPV de la provincia de Alicante ratifica a Francés como portavoz en la Diputación (Valencia Plaza)",
+          "url": "https://valenciaplaza.com/valenciaplaza/el-pspv-de-la-provincia-de-alicante-ratifica-a-frances-como-portavoz-en-la-diputacion"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Conocido como Toni Francés. El año de llegada a la alcaldía (2011) sale de OpenSanctions; falta fuente oficial. En 2026 la prensa recoge contratos adjudicados por su Junta de Gobierno a la empresa del marido de una técnica municipal, sancionada; no consta procedimiento contra él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Teresa Pérez Díaz",
+    "lists": [
+      {
+        "province": "03",
+        "partyId": "compromis-fv"
+      }
+    ],
+    "current": [
+      {
+        "period": "2024-actualidad",
+        "text": "Coordinadora general de Podem en la Comunitat Valenciana",
+        "source": {
+          "title": "María Teresa Pérez, elegida nueva coordinadora general de Podem (Valencia Plaza)",
+          "url": "https://valenciaplaza.com/valenciaplaza/noticia6230"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019",
+        "text": "Diputada por Alicante en el Congreso (XIII legislatura, mayo-septiembre)",
+        "source": {
+          "title": "María Teresa Pérez (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Teresa_P%C3%A9rez_(Spanish_politician)"
+        }
+      },
+      {
+        "text": "Directora general del Instituto de la Juventud y coportavoz estatal de Podemos",
+        "source": {
+          "title": "Podemos quiere que la coportavoz María Teresa Pérez sea su referente (Valencia Plaza)",
+          "url": "https://valenciaplaza.com/valenciaplaza/podemosquierequelacoportavozmariateresaperezseasureferenteparalaslistasconsumar"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Encabeza la lista de Compromís: Front Valencià como dirigente de Podem. Falta la ficha del Congreso de la XIII legislatura.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "David García Gomis",
+    "lists": [
+      {
+        "province": "03",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Responsable nacional del sindicato Solidaridad, vinculado a Vox",
+        "source": {
+          "title": "David García Gomis (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/David_Garc%C3%ADa_Gomis"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Alicante en el Congreso; portavoz de Vox en la Comisión de Sanidad",
+        "source": {
+          "title": "García Gomis, auxiliar de ambulancia, pilar sanitario de Vox en el Congreso (Redacción Médica)",
+          "url": "https://www.redaccionmedica.com/politica/20231128/garcia-gomis-auxiliar-de-ambulancia-pilar-sanitario-vox-en-el-congreso/220792_0.html",
+          "date": "2023-11-28"
+        }
+      },
+      {
+        "period": "2019-2023",
+        "text": "Diputado en las Corts Valencianes",
+        "source": {
+          "title": "David García Gomis (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/David_Garc%C3%ADa_Gomis"
+        }
+      },
+      {
+        "text": "Concejal en San Vicente del Raspeig; auxiliar de ambulancia",
+        "source": {
+          "title": "David García Gomis (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/David_Garc%C3%ADa_Gomis"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Es denunciante, no acusado, en el juicio por la agresión que sufrió en la Universidad de Alicante en 2021 (ESdiario, septiembre de 2026). Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Macarena Montesinos De Miguel",
+    "lists": [
+      {
+        "province": "03",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "period": "2023-actualidad",
+        "text": "Secretaria general del Grupo Parlamentario Popular en el Congreso",
+        "source": {
+          "title": "Intervención de Macarena Montesinos en la sesión de control (PP)",
+          "url": "https://www.pp.es/storage/2024/10/20241009-Macarena-Montesinos_Sesion-de-control.pdf",
+          "date": "2024-10-09"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019-2026",
+        "text": "Diputada por Alicante en el Congreso (también en 2004-2016)",
+        "source": {
+          "title": "Macarena Montesinos (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Macarena_Montesinos"
+        }
+      },
+      {
+        "period": "1995-2003",
+        "text": "Diputada en las Corts Valencianes",
+        "source": {
+          "title": "Macarena Montesinos (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Macarena_Montesinos"
+        }
+      },
+      {
+        "period": "1991-1995",
+        "text": "Concejala del Ayuntamiento de Alicante",
+        "source": {
+          "title": "Macarena Montesinos (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Macarena_Montesinos"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Falta su ficha del Congreso para confirmar fechas.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Anabel Mateos Sánchez",
+    "lists": [
+      {
+        "province": "04",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "period": "2025-actualidad",
+        "text": "Secretaria adjunta de Organización y Coordinación Territorial del PSOE (elegida el 4 de julio de 2025)",
+        "source": {
+          "title": "Los dos de Organización del PSOE (The Objective)",
+          "url": "https://theobjective.com/espana/politica/2025-08-05/dos-organizacion-psoe-lider-pp-navarra-curriculums/",
+          "date": "2025-08-05"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "hasta 2023",
+        "text": "Diputada provincial en la Diputación de Almería y concejala en Roquetas de Mar",
+        "source": {
+          "title": "Anabel Mateos, número tres del PSOE (Vozpópuli)",
+          "url": "https://www.vozpopuli.com/espana/anabel-mateos-numero-tres-del-psoe-colaboradora-de-zarrias-con-leire-diez.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2025 corrigió en su currículum un máster cuyo trabajo final no había presentado (The Objective). Vozpópuli la vincula profesionalmente a Gaspar Zarrías; no consta procedimiento contra ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Rocío de Meer Méndez",
+    "lists": [
+      {
+        "province": "04",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019-2026",
+        "text": "Diputada por Almería en las legislaturas XIII, XIV y XV; vocal suplente de la Diputación Permanente desde 2023",
+        "source": {
+          "title": "Rocío de Meer (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Roc%C3%ADo_de_Meer"
+        }
+      },
+      {
+        "text": "Abogada",
+        "source": {
+          "title": "Rocío de Meer (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Roc%C3%ADo_de_Meer"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Derecho (Universidad Complutense de Madrid)",
+        "source": {
+          "title": "Rocío de Meer (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Roc%C3%ADo_de_Meer"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Carmen Crespo Díaz",
+    "lists": [
+      {
+        "province": "04",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "period": "2024-actualidad",
+        "text": "Eurodiputada (PP) y presidenta de la Comisión de Pesca del Parlamento Europeo",
+        "source": {
+          "title": "Carmen Crespo Díaz (Parltrack)",
+          "url": "https://parltrack.org/mep/Carmen CRESPO DÍAZ"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "hasta 2024",
+        "text": "Consejera de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía",
+        "source": {
+          "title": "Fernández-Pacheco sustituye a Crespo en Agricultura (The Objective)",
+          "url": "https://theobjective.com/espana/politica/2024-05-03/fernandez-pacheco-agricultura-pesca-agua-rural/",
+          "date": "2024-05-03"
+        }
+      },
+      {
+        "text": "Alcaldesa de Adra y diputada en el Parlamento de Andalucía",
+        "source": {
+          "title": "Carmen Crespo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Carmen_Crespo"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En diciembre de 2021 un juzgado de Almería la citó como investigada en el caso Hispano Almería, pero el TSJA aclaró que fue un error y la citación se suspendió (Newtral, junio de 2022), así que no consta. Faltan fechas de la alcaldía de Adra y del Parlamento andaluz.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jésica Jiménez Gómez",
+    "lists": [
+      {
+        "province": "04",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Responsable de Feminismos, LGTBIQA+ y Sociedad Civil de Podemos Almería",
+        "source": {
+          "title": "Candidaturas de Podemos en Andalucía (elDiario.es)",
+          "url": "https://www.eldiario.es/1_cfab9a"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Técnica en Electrónica; cinco años en la Armada y después trabajadora del sector hortofrutícola",
+        "source": {
+          "title": "Candidaturas de Podemos en Andalucía (elDiario.es)",
+          "url": "https://www.eldiario.es/1_cfab9a"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Sin cargo público conocido.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Zacarías Lucas Lekal Villegas",
+    "lists": [
+      {
+        "province": "04",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Manuel Arribas Maroto",
+    "lists": [
+      {
+        "province": "05",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "period": "2023-actualidad",
+        "text": "Alcalde de Sanchidrián (Ávila)",
+        "source": {
+          "title": "La vida del alcalde Manuel Arribas, único diputado del caso Mediador que sigue en el Congreso (El Español)",
+          "url": "https://www.elespanol.com/reportajes/20230918/vida-alcalde-manuel-arribas-unico-diputado-caso-mediador-sigue-congreso/795170513_0.amp.html",
+          "date": "2023-09-18"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2020-2026",
+        "text": "Diputado por Ávila en el Congreso (sustituyó a Margarita Robles en 2020)",
+        "source": {
+          "title": "Manuel Arribas (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Manuel_Arribas"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "El comisionista del caso Mediador lo citó entre los diputados que asistieron a cenas en un restaurante de Madrid; no consta que se le haya investigado. Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Samuel Vázquez Álvarez",
+    "lists": [
+      {
+        "province": "05",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "period": "2024-actualidad",
+        "text": "Portavoz nacional de Seguridad, Inmigración e Interior de Vox",
+        "source": {
+          "title": "Vox nombra portavoz nacional de Inmigración al policía Samuel Vázquez (Vozpópuli)",
+          "url": "https://www.vozpopuli.com/espana/politica/vox-nombra-portavoz-nacional-inmigracion-mediatico-policia-samuel-vazquez.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Policía nacional y criminólogo; asesor parlamentario de Vox antes de ser portavoz",
+        "source": {
+          "title": "Vox elige como portavoz de Inmigración a un policía (The Objective)",
+          "url": "https://theobjective.com/espana/politica/2024-09-16/vox-portavoz-inmigracion-policia-perseguido-marlaska/",
+          "date": "2024-09-16"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [
+      {
+        "name": "Delito electoral por participar en un mitin siendo policía en activo",
+        "kind": "penal",
+        "corruption": false,
+        "stage": "absuelto",
+        "summary": "Un juzgado de Móstoles lo condenó en marzo de 2026 por participar en un mitin de Vox en 2023 siendo policía en activo. La Audiencia Provincial de Madrid lo absolvió en apelación en junio de 2026: asistió como invitado, no para captar votos.",
+        "sources": [
+          {
+            "title": "La Audiencia corrige al juez y absuelve al portavoz de Vox (El Español)",
+            "url": "https://www.elespanol.com/espana/tribunales/20260630/audiencia-corrige-juez-absuelve-portavoz-vox-delito-electoral-participar-mitin-policia/1003744305489_0.html",
+            "date": "2026-06-30"
+          }
+        ]
+      }
+    ],
+    "judicialChecked": "2026-10-28",
+    "notes": "Solo hay una fuente para la absolución; falta una segunda o la sentencia.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Laura Ruiz Ginés",
+    "lists": [
+      {
+        "province": "05",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Héctor Palencia Rubio",
+    "lists": [
+      {
+        "province": "05",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Vicesecretario de Organización y Territorial del PP de Castilla y León",
+        "source": {
+          "title": "Declaración de actividades, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_1.pdf"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Ávila en el Congreso",
+        "source": {
+          "title": "Declaración de actividades, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_1.pdf"
+        }
+      },
+      {
+        "period": "2022-2023",
+        "text": "Jefe de gabinete del presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco",
+        "source": {
+          "title": "Héctor Palencia Rubio (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Palencia_Rubio"
+        }
+      },
+      {
+        "text": "Director general de Administración Local de la Junta de Castilla y León y teniente de alcalde de Ávila",
+        "source": {
+          "title": "Héctor Palencia sigue como director de Administración Local (Ávila Red)",
+          "url": "https://avilared.com/art/61984/hector-palencia-sigue-como-director-de-administracion-local-de-castilla-y-leon"
+        }
+      },
+      {
+        "text": "Gerente del centro comercial El Bulevar de Ávila (en excedencia desde 2023); presidente del Óbila Club de Basket hasta 2012",
+        "source": {
+          "title": "Declaración de actividades, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_1.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Faltan las fechas de sus cargos en la Junta y en el Ayuntamiento de Ávila.",
+    "verification": "pendiente",
+    "judicialChecked": "2026-10-28"
+  },
+  {
+    "name": "Pablo Garcinuño García",
+    "lists": [
+      {
+        "province": "05",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Yolanda García Seco",
+    "lists": [
+      {
+        "province": "06",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "hasta 2012",
+        "text": "Subdelegada del Gobierno en Badajoz",
+        "source": {
+          "title": "Real Decreto de cese de la subdelegada del Gobierno en Badajoz (BOE-A-2012-2031)",
+          "url": "https://boe.gob.es/boe/dias/2012/02/10/pdfs/BOE-A-2012-2031.pdf",
+          "date": "2012-02-10"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha podido confirmar su cargo actual; la prensa de 2025 habla de cambios en la Subdelegación del Gobierno en Badajoz sin nombrarla.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ignacio Hoces Iñiguez",
+    "lists": [
+      {
+        "province": "06",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Badajoz en el Congreso",
+        "source": {
+          "title": "Ignacio Hoces Íñiguez (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ignacio_Hoces_%C3%8D%C3%B1iguez"
+        }
+      },
+      {
+        "period": "2011-2021",
+        "text": "Jefe de la asesoría jurídica del Consejo Económico y Social",
+        "source": {
+          "title": "Ignacio Hoces Íñiguez (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ignacio_Hoces_%C3%8D%C3%B1iguez"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En diciembre de 2025 la prensa publicó acusaciones de una compañera de grupo por presunto acoso; no consta denuncia ni procedimiento judicial. Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Teresa Tortonda Gordillo",
+    "lists": [
+      {
+        "province": "06",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada en la Asamblea de Extremadura y secretaria general del Grupo Parlamentario Popular",
+        "source": {
+          "title": "Una diputada del PP cobró ayudas al viñedo (elDiario.es)",
+          "url": "https://www.eldiario.es/1_b9204e",
+          "date": "2025-03"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En marzo de 2025 elDiario.es publicó que recibió ayudas al viñedo de secano por una parcela que no figuraba en su declaración de bienes; no consta procedimiento judicial. Falta su ficha de la Asamblea de Extremadura (y confirmar el cargo tras las elecciones autonómicas de diciembre de 2025).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María del Pilar Ramos Duro",
+    "lists": [
+      {
+        "province": "06",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Amparo Botejara Sanz",
+    "lists": [
+      {
+        "province": "06",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Responsable del área estatal de Sanidad de Podemos (en mayo de 2024)",
+        "source": {
+          "title": "Podemos saca músculo sanitario con tres candidatas para las europeas (Redacción Médica)",
+          "url": "https://www.redaccionmedica.com/politica/20240522/podemos-saca-musculo-sanitario-con-tres-candidatas-del-ramo-para-el/231927_0.html",
+          "date": "2024-05-22"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2016-2019",
+        "text": "Diputada por Badajoz en el Congreso y portavoz adjunta de Podemos en la Comisión de Sanidad",
+        "source": {
+          "title": "Podemos: el resultado demuestra que conectamos con los sanitarios (Redacción Médica)",
+          "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20160622/podemos-el-resultado-demuestra-que-conectamos-con-los-sanitarios/16635_0.html"
+        }
+      },
+      {
+        "text": "Médica de familia en el centro de salud San Roque de Badajoz, profesora de la Facultad de Medicina y presidenta de la Sociedad Extremeña de Medicina de Familia durante diez años",
+        "source": {
+          "title": "Amparo Botejara asume el mando del área de Sanidad de Podemos (Redacción Médica)",
+          "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20191202/amparo-botejara-asume-el-mando-del-area-de-sanidad-podemos/136842_0.html",
+          "date": "2019-12-02"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Falta la ficha del Congreso para fechar su etapa de diputada.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Francesca Lluch Armengol Socias",
+    "lists": [
+      {
+        "province": "07",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Presidenta del Congreso de los Diputados y diputada por Illes Balears (hasta la disolución del 6 de octubre de 2026)",
+        "source": {
+          "title": "Ficha de diputada, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=185&idLegislatura=XV"
+        }
+      },
+      {
+        "period": "2015-2023",
+        "text": "Presidenta del Govern de les Illes Balears",
+        "source": {
+          "title": "Biografía de la presidenta (Congreso)",
+          "url": "https://www.congreso.es/es/web/presidencia/biografia"
+        }
+      },
+      {
+        "period": "2007-2011",
+        "text": "Presidenta del Consell de Mallorca",
+        "source": {
+          "title": "Biografía de la presidenta (Congreso)",
+          "url": "https://www.congreso.es/es/web/presidencia/biografia"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Farmacia",
+        "source": {
+          "title": "Ficha de diputada, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=185&idLegislatura=XV"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "El Supremo inadmitió en julio de 2025 la querella de Vox por la compra de mascarillas del Govern balear (caso Koldo) y en abril de 2026 rechazó citarla como testigo en el juicio de Ábalos, así que no consta. Los hechos de Baleares se investigan sin que ella sea parte.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Maria Isabel Cerezo Sánchez",
+    "lists": [
+      {
+        "province": "07",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "text": "Afiliada a Vox desde 2019; reside en Baleares desde hace 16 años",
+        "source": {
+          "title": "Vox pension pledge in Menorca (Mallorca.com)",
+          "url": "https://www.mallorca.com/en/magazin/news/vox-pension-pledge-menorca"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Conocida como Maribel Cerezo. Sin cargo público conocido.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Vicente Marí Bosó",
+    "lists": [
+      {
+        "province": "07",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Presidente del PP de Ibiza (reelegido en abril de 2026)",
+        "source": {
+          "title": "Marí Bosó encara la reelección al frente del PP de Ibiza (El Debate)",
+          "url": "https://www.eldebate.com/espana/baleares/20260414/mari-boso-encara-reeleccion-frente-pp-ibiza-familia-como-bandera-frente-izquierda_406202.html",
+          "date": "2026-04-14"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Illes Balears en el Congreso y portavoz adjunto del Grupo Popular",
+        "source": {
+          "title": "Marí Bosó renueva como portavoz adjunto del PP en el Congreso (Noudiari)",
+          "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/mari-boso-renueva-como-portavoz-adjunto-del-pp-en-el-congreso/"
+        }
+      },
+      {
+        "period": "2019-2023",
+        "text": "Senador por designación autonómica y portavoz del PP en el Ayuntamiento de Ibiza",
+        "source": {
+          "title": "Elecciones 23J: perfil de José Vicente Marí (Última Hora)",
+          "url": "https://www.ultimahora.es/noticias/elecciones-23j/2023/07/10/1966139/elecciones-23j-perfil-jose-vicente-mari.html",
+          "date": "2023-07-10"
+        }
+      },
+      {
+        "period": "2016-2019",
+        "text": "Diputado por Illes Balears en el Congreso",
+        "source": {
+          "title": "Elecciones 23J: perfil de José Vicente Marí (Última Hora)",
+          "url": "https://www.ultimahora.es/noticias/elecciones-23j/2023/07/10/1966139/elecciones-23j-perfil-jose-vicente-mari.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Falta su ficha del Congreso para confirmar fechas. No confundir con Vicent Marí Torres, presidente del Consell d'Eivissa, investigado y luego con causa sobreseída en el caso «La vida islados».",
+    "verification": "pendiente",
+    "judicialChecked": "2026-10-28"
+  },
+  {
+    "name": "Carmen Gomila Domínguez (ARAMÉS-EU-MS)",
+    "lists": [
+      {
+        "province": "07",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [
+      {
+        "period": "2025-actualidad",
+        "text": "Presidenta de Esquerra Republicana en Illes Balears; responsable de estrategia de MÉS per Mallorca",
+        "source": {
+          "title": "Carme Gomila, nueva presidenta de Esquerra en Baleares (Ara Balears)",
+          "url": "https://en.arabalears.cat/politics/carme-gomila-from-manacor-is-the-new-president-of-the-republican-left-in-the-balearic-islands_1_5543436.html",
+          "date": "2025-10"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "hasta 2026",
+        "text": "Concejala de Servicios Sociales y Educación del Ayuntamiento de Manacor (dejó el cargo en febrero de 2026)",
+        "source": {
+          "title": "Carme Gomila deja el Ayuntamiento de Manacor (Ara Balears)",
+          "url": "https://en.arabalears.cat/politics/carme-gomila-leaves-the-manacor-city-council-to-seek-new-professional-challenges_1_5623156.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Conocida como Carme Gomila. Va por Ara Més-Front Ampli (ARAMÉS-EU-MS).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Esther Peña Camarero",
+    "lists": [
+      {
+        "province": "09",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretaria general del PSOE de Burgos (reelegida en diciembre de 2021)",
+        "source": {
+          "title": "Quién es Esther Peña, nueva portavoz del PSOE (El Debate)",
+          "url": "https://www.eldebate.com/espana/20240119/quien-esther-pena-nueva-portavoz-psoe_168161.html",
+          "date": "2024-01-19"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2016-2026",
+        "text": "Diputada por Burgos en el Congreso",
+        "source": {
+          "title": "Esther Peña (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Esther_Pe%C3%B1a"
+        }
+      },
+      {
+        "period": "2024",
+        "text": "Portavoz de la Ejecutiva Federal del PSOE (después la sustituyó Montse Mínguez)",
+        "source": {
+          "title": "La diputada por Burgos Esther Peña será la nueva portavoz del PSOE (Valencia Plaza)",
+          "url": "https://valenciaplaza.com/valenciaplaza/la-diputada-por-burgos-esther-pena-sera-la-nueva-portavoz-del-psoe"
+        }
+      },
+      {
+        "text": "Técnica del Instituto Nacional de Estadística durante una década",
+        "source": {
+          "title": "Quién es Esther Peña, nueva portavoz del PSOE (El Debate)",
+          "url": "https://www.eldebate.com/espana/20240119/quien-esther-pena-nueva-portavoz-psoe_168161.html"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Sociología (Universidad de Salamanca)",
+        "source": {
+          "title": "Quién es Esther Peña, nueva portavoz del PSOE (El Debate)",
+          "url": "https://www.eldebate.com/espana/20240119/quien-esther-pena-nueva-portavoz-psoe_168161.html"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "Falta su ficha del Congreso y la fecha en que dejó la portavocía federal.",
+    "verification": "pendiente",
+    "judicialChecked": "2026-10-28"
+  },
+  {
+    "name": "Isabel Lara Benitez",
+    "lists": [
+      {
+        "province": "09",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Eugenia Landaluce Miranda",
+    "lists": [
+      {
+        "province": "09",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ángel Mariano Ibáñez Hernando",
+    "lists": [
+      {
+        "province": "09",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Burgos en el Congreso (Grupo Popular)",
+        "source": {
+          "title": "Intervención del diputado Ángel Ibáñez en la Comisión de Política Territorial (PP)",
+          "url": "https://www.pp.es/storage/2024/06/20240611_ange_ibanez_-_pnl_buen_gobierno.pdf",
+          "date": "2024-06-11"
+        }
+      },
+      {
+        "period": "2019-2023",
+        "text": "Presidente de las Cortes de Castilla y León y procurador por Burgos (renunció al escaño el 16 de agosto de 2023)",
+        "source": {
+          "title": "Renuncia de Ángel Mariano Ibáñez Hernando como procurador (BOCCL)",
+          "url": "https://sirdoc.ccyl.es/sirdoc/pdf/PUBLOFI/BO/CCL/11L/BOCCL1100182/BOCCL-11-006311.pdf",
+          "date": "2023-08"
+        }
+      },
+      {
+        "period": "2011-2015",
+        "text": "Teniente de alcalde y concejal de Fomento y Deportes del Ayuntamiento de Burgos (concejal de Hacienda en 2003-2011)",
+        "source": {
+          "title": "Ángel Ibáñez Hernando (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Ib%C3%A1%C3%B1ez_Hernando"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Ciencias Químicas (Universidad de Burgos)",
+        "source": {
+          "title": "Ángel Ibáñez Hernando (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Ib%C3%A1%C3%B1ez_Hernando"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "Falta su ficha del Congreso para fechar su alta como diputado.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Fernando José Saiz Martínez",
+    "lists": [
+      {
+        "province": "09",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Irene Pozas García",
+    "lists": [
+      {
+        "province": "10",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Marcela Reigía Vales",
+    "lists": [
+      {
+        "province": "10",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Cristina Elena Teniente Sánchez",
+    "lists": [
+      {
+        "province": "10",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputada por Cáceres en el Congreso (alta el 2 de agosto de 2023)",
+        "source": {
+          "title": "Declaración de actividades, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_47.pdf"
+        }
+      },
+      {
+        "period": "2003-2023",
+        "text": "Diputada en la Asamblea de Extremadura",
+        "source": {
+          "title": "Cristina Teniente (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Cristina_Teniente"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Falta su ficha del Congreso y de la Asamblea de Extremadura.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Álvaro Jaén Barbado",
+    "lists": [
+      {
+        "province": "10",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Concejal de Podemos en el Ayuntamiento de Cáceres (en febrero de 2025)",
+        "source": {
+          "title": "Un concejal de Podemos puede rematar la acusación contra el hermano de Sánchez (Moncloa.com)",
+          "url": "https://www.moncloa.com/2025/02/01/podemos-david-sanchez-3123612/",
+          "date": "2025-02-01"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2015-2020",
+        "text": "Secretario general de Podemos Extremadura y candidato a la Presidencia de la Junta en 2015",
+        "source": {
+          "title": "Álvaro Jaén (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n"
+        }
+      },
+      {
+        "period": "2015",
+        "text": "Diputado en la Asamblea de Extremadura por Cáceres desde 2015",
+        "source": {
+          "title": "Álvaro Jaén (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n"
+        }
+      },
+      {
+        "text": "Jornalero agrícola y profesor interino antes de entrar en política",
+        "source": {
+          "title": "Álvaro Jaén (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Ciencias Políticas (Universidad Complutense de Madrid)",
+        "source": {
+          "title": "Álvaro Jaén (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "En 2025 declaró como testigo en la causa contra David Sánchez, hermano del presidente, porque en 2017 denunció en la Asamblea la creación del puesto investigado. Falta la fecha de fin de su escaño autonómico.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Antonio Moreno Pérez",
+    "lists": [
+      {
+        "province": "10",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Manuel Albares Bueno",
+    "lists": [
+      {
+        "province": "11",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "period": "2021-actualidad",
+        "text": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+        "source": {
+          "title": "Biografía del ministro (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Madrid en el Congreso",
+        "source": {
+          "title": "Biografía del ministro (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx"
+        }
+      },
+      {
+        "period": "2020-2021",
+        "text": "Embajador en Francia y Mónaco",
+        "source": {
+          "title": "Biografía del ministro (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx"
+        }
+      },
+      {
+        "period": "2018-2020",
+        "text": "Secretario general de Asuntos Internacionales, UE, G20 y Seguridad Global en la Presidencia del Gobierno",
+        "source": {
+          "title": "Biografía del ministro (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx"
+        }
+      },
+      {
+        "period": "2000",
+        "text": "Diplomático de carrera desde 2000 (cónsul en Bogotá, Representación ante la OCDE, subdirector general de África Subsahariana)",
+        "source": {
+          "title": "Biografía del ministro (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho y diplomado en Ciencias Empresariales (Universidad de Deusto)",
+        "source": {
+          "title": "Biografía del ministro (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2023 fue elegido por Madrid; ahora encabeza la lista por Cádiz.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Blanca Armario González",
+    "lists": [
+      {
+        "province": "11",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputada por Cádiz en el Congreso",
+        "source": {
+          "title": "Blanca Armario (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Blanca_Armario"
+        }
+      },
+      {
+        "period": "2022-2023",
+        "text": "Diputada en el Parlamento de Andalucía y presidenta del grupo parlamentario de Vox",
+        "source": {
+          "title": "Gavira sustituye a Olona en Vox Andalucía (The Objective)",
+          "url": "https://theobjective.com/espana/2022-08-10/vox-gavira-olona-andalucia/",
+          "date": "2022-08-10"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Esther Francisca Gil de Reboleño Lastortres (Movimiento Sumar)",
+    "lists": [
+      {
+        "province": "11",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputada por Cádiz (independiente en las listas de Sumar) y vicepresidenta tercera del Congreso",
+        "source": {
+          "title": "Conoce a tu diputada: Esther Gil (Artículo 14)",
+          "url": "https://www.articulo14.es/politica/ester-gil-sumar-20260321.html",
+          "date": "2026-03-21"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Ciencias Políticas; máster en Género, Identidad y Ciudadanía",
+        "source": {
+          "title": "Conoce a tu diputada: Esther Gil (Artículo 14)",
+          "url": "https://www.articulo14.es/politica/ester-gil-sumar-20260321.html"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "El BOE añade «(Movimiento Sumar)» al nombre. Investigadora de la Universidad de Cádiz. Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Julio de la Torre Lorenzo",
+    "lists": [
+      {
+        "province": "11",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado más información que su candidatura (elDiario.es).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María José García-Pelayo Jurado",
+    "lists": [
+      {
+        "province": "11",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "period": "2023-actualidad",
+        "text": "Alcaldesa de Jerez de la Frontera y senadora",
+        "source": {
+          "title": "María José García-Pelayo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Alcaldesa de Jerez también en 2003-2005 y 2011-2013; concejala desde 1995",
+        "source": {
+          "title": "María José García-Pelayo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo"
+        }
+      },
+      {
+        "text": "Senadora (2011-2015 y 2022-2023), diputada por Cádiz en el Congreso desde 2015 y diputada en el Parlamento de Andalucía (1996-2011)",
+        "source": {
+          "title": "María José García-Pelayo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Derecho (Universidad de Cádiz)",
+        "source": {
+          "title": "María José García-Pelayo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo"
+        }
+      }
+    ],
+    "judicial": [
+      {
+        "name": "Gürtel: contratos del Ayuntamiento de Jerez para Fitur 2004",
+        "kind": "penal",
+        "corruption": true,
+        "stage": "archivado",
+        "summary": "Investigada en el Supremo, como aforada, por prevaricación y falsedad por contratos de 355.000 euros adjudicados a empresas de la trama Gürtel. El instructor, Antonio del Moral, archivó la causa por falta de indicios de responsabilidad penal.",
+        "sources": [
+          {
+            "title": "El Supremo archiva la causa contra la exalcaldesa de Jerez (elDiario.es)",
+            "url": "https://www.eldiario.es/andalucia/Supremo-archiva-causa-exalcaldesa-Jerez_0_510599452.html"
+          },
+          {
+            "title": "La exalcaldesa niega ante el Supremo que firmara los contratos con la Gürtel (Diario Bahía de Cádiz)",
+            "url": "https://www.diariobahiadecadiz.com/jerez/la-exalcaldesa-y-ahora-diputada-del-pp-garcia-pelayo-niega-ante-el-supremo-que-firmara-los-contratos-del-ayuntamiento-jerezano-con-la-gurtel"
+          }
+        ]
+      }
+    ],
+    "judicialChecked": "2026-10-28",
+    "notes": "Falta la fecha del auto de archivo (hacia 2016) y fuentes oficiales de sus cargos.",
+    "verification": "pendiente"
   }
 ]

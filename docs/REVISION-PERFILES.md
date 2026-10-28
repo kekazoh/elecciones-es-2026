@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-23 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+61 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -425,3 +425,616 @@ FA en Albacete · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## Antonio Alfonso Francés Pérez
+
+PSOE en Alicante/Alacant · pendiente
+
+**Ahora**
+
+- 2011-actualidad: Alcalde de Alcoy ([El PSOE y Compromís en Alcoy: Toni Francés encadenará legislaturas (El Español)](https://www.elespanol.com/alacant/alcoi/20230616/psoe-compromis-alcoy-toni-frances-encadenara-legislaturas/771923068_0.html))
+- Portavoz del Grupo Socialista en la Diputación de Alicante ([El PSPV de la provincia de Alicante ratifica a Francés como portavoz en la Diputación (Valencia Plaza)](https://valenciaplaza.com/valenciaplaza/el-pspv-de-la-provincia-de-alicante-ratifica-a-frances-como-portavoz-en-la-diputacion))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Conocido como Toni Francés. El año de llegada a la alcaldía (2011) sale de OpenSanctions; falta fuente oficial. En 2026 la prensa recoge contratos adjudicados por su Junta de Gobierno a la empresa del marido de una técnica municipal, sancionada; no consta procedimiento contra él.
+
+## María Teresa Pérez Díaz
+
+Compromís en Alicante/Alacant · pendiente
+
+**Ahora**
+
+- 2024-actualidad: Coordinadora general de Podem en la Comunitat Valenciana ([María Teresa Pérez, elegida nueva coordinadora general de Podem (Valencia Plaza)](https://valenciaplaza.com/valenciaplaza/noticia6230))
+
+**Trayectoria**
+
+- 2019: Diputada por Alicante en el Congreso (XIII legislatura, mayo-septiembre) ([María Teresa Pérez (Wikipedia)](https://en.wikipedia.org/wiki/Mar%C3%ADa_Teresa_P%C3%A9rez_(Spanish_politician)))
+- Directora general del Instituto de la Juventud y coportavoz estatal de Podemos ([Podemos quiere que la coportavoz María Teresa Pérez sea su referente (Valencia Plaza)](https://valenciaplaza.com/valenciaplaza/podemosquierequelacoportavozmariateresaperezseasureferenteparalaslistasconsumar))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Encabeza la lista de Compromís: Front Valencià como dirigente de Podem. Falta la ficha del Congreso de la XIII legislatura.
+
+## David García Gomis
+
+Vox en Alicante/Alacant · pendiente
+
+**Ahora**
+
+- Responsable nacional del sindicato Solidaridad, vinculado a Vox ([David García Gomis (Wikipedia)](https://en.wikipedia.org/wiki/David_Garc%C3%ADa_Gomis))
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Alicante en el Congreso; portavoz de Vox en la Comisión de Sanidad ([García Gomis, auxiliar de ambulancia, pilar sanitario de Vox en el Congreso (Redacción Médica)](https://www.redaccionmedica.com/politica/20231128/garcia-gomis-auxiliar-de-ambulancia-pilar-sanitario-vox-en-el-congreso/220792_0.html))
+- 2019-2023: Diputado en las Corts Valencianes ([David García Gomis (Wikipedia)](https://en.wikipedia.org/wiki/David_Garc%C3%ADa_Gomis))
+- Concejal en San Vicente del Raspeig; auxiliar de ambulancia ([David García Gomis (Wikipedia)](https://en.wikipedia.org/wiki/David_Garc%C3%ADa_Gomis))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Es denunciante, no acusado, en el juicio por la agresión que sufrió en la Universidad de Alicante en 2021 (ESdiario, septiembre de 2026). Falta su ficha del Congreso.
+
+## Macarena Montesinos De Miguel
+
+PP en Alicante/Alacant · pendiente
+
+**Ahora**
+
+- 2023-actualidad: Secretaria general del Grupo Parlamentario Popular en el Congreso ([Intervención de Macarena Montesinos en la sesión de control (PP)](https://www.pp.es/storage/2024/10/20241009-Macarena-Montesinos_Sesion-de-control.pdf))
+
+**Trayectoria**
+
+- 2019-2026: Diputada por Alicante en el Congreso (también en 2004-2016) ([Macarena Montesinos (Wikipedia)](https://en.wikipedia.org/wiki/Macarena_Montesinos))
+- 1995-2003: Diputada en las Corts Valencianes ([Macarena Montesinos (Wikipedia)](https://en.wikipedia.org/wiki/Macarena_Montesinos))
+- 1991-1995: Concejala del Ayuntamiento de Alicante ([Macarena Montesinos (Wikipedia)](https://en.wikipedia.org/wiki/Macarena_Montesinos))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta su ficha del Congreso para confirmar fechas.
+
+## Anabel Mateos Sánchez
+
+PSOE en Almería · pendiente
+
+**Ahora**
+
+- 2025-actualidad: Secretaria adjunta de Organización y Coordinación Territorial del PSOE (elegida el 4 de julio de 2025) ([Los dos de Organización del PSOE (The Objective)](https://theobjective.com/espana/politica/2025-08-05/dos-organizacion-psoe-lider-pp-navarra-curriculums/))
+
+**Trayectoria**
+
+- hasta 2023: Diputada provincial en la Diputación de Almería y concejala en Roquetas de Mar ([Anabel Mateos, número tres del PSOE (Vozpópuli)](https://www.vozpopuli.com/espana/anabel-mateos-numero-tres-del-psoe-colaboradora-de-zarrias-con-leire-diez.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2025 corrigió en su currículum un máster cuyo trabajo final no había presentado (The Objective). Vozpópuli la vincula profesionalmente a Gaspar Zarrías; no consta procedimiento contra ella.
+
+## Rocío de Meer Méndez
+
+Vox en Almería · pendiente
+
+**Trayectoria**
+
+- 2019-2026: Diputada por Almería en las legislaturas XIII, XIV y XV; vocal suplente de la Diputación Permanente desde 2023 ([Rocío de Meer (Wikipedia)](https://en.wikipedia.org/wiki/Roc%C3%ADo_de_Meer))
+- Abogada ([Rocío de Meer (Wikipedia)](https://en.wikipedia.org/wiki/Roc%C3%ADo_de_Meer))
+
+**Formación**
+
+- Licenciada en Derecho (Universidad Complutense de Madrid) ([Rocío de Meer (Wikipedia)](https://en.wikipedia.org/wiki/Roc%C3%ADo_de_Meer))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta su ficha del Congreso.
+
+## María Carmen Crespo Díaz
+
+PP en Almería · pendiente
+
+**Ahora**
+
+- 2024-actualidad: Eurodiputada (PP) y presidenta de la Comisión de Pesca del Parlamento Europeo ([Carmen Crespo Díaz (Parltrack)](https://parltrack.org/mep/Carmen CRESPO DÍAZ))
+
+**Trayectoria**
+
+- hasta 2024: Consejera de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía ([Fernández-Pacheco sustituye a Crespo en Agricultura (The Objective)](https://theobjective.com/espana/politica/2024-05-03/fernandez-pacheco-agricultura-pesca-agua-rural/))
+- Alcaldesa de Adra y diputada en el Parlamento de Andalucía ([Carmen Crespo (Wikipedia)](https://en.wikipedia.org/wiki/Carmen_Crespo))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En diciembre de 2021 un juzgado de Almería la citó como investigada en el caso Hispano Almería, pero el TSJA aclaró que fue un error y la citación se suspendió (Newtral, junio de 2022), así que no consta. Faltan fechas de la alcaldía de Adra y del Parlamento andaluz.
+
+## Jésica Jiménez Gómez
+
+Podemos en Almería · pendiente
+
+**Ahora**
+
+- Responsable de Feminismos, LGTBIQA+ y Sociedad Civil de Podemos Almería ([Candidaturas de Podemos en Andalucía (elDiario.es)](https://www.eldiario.es/1_cfab9a))
+
+**Trayectoria**
+
+- Técnica en Electrónica; cinco años en la Armada y después trabajadora del sector hortofrutícola ([Candidaturas de Podemos en Andalucía (elDiario.es)](https://www.eldiario.es/1_cfab9a))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sin cargo público conocido.
+
+## Zacarías Lucas Lekal Villegas
+
+FA en Almería · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Manuel Arribas Maroto
+
+PSOE en Ávila · pendiente
+
+**Ahora**
+
+- 2023-actualidad: Alcalde de Sanchidrián (Ávila) ([La vida del alcalde Manuel Arribas, único diputado del caso Mediador que sigue en el Congreso (El Español)](https://www.elespanol.com/reportajes/20230918/vida-alcalde-manuel-arribas-unico-diputado-caso-mediador-sigue-congreso/795170513_0.amp.html))
+
+**Trayectoria**
+
+- 2020-2026: Diputado por Ávila en el Congreso (sustituyó a Margarita Robles en 2020) ([Manuel Arribas (Wikipedia)](https://en.wikipedia.org/wiki/Manuel_Arribas))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* El comisionista del caso Mediador lo citó entre los diputados que asistieron a cenas en un restaurante de Madrid; no consta que se le haya investigado. Falta su ficha del Congreso.
+
+## Samuel Vázquez Álvarez
+
+Vox en Ávila · pendiente
+
+**Ahora**
+
+- 2024-actualidad: Portavoz nacional de Seguridad, Inmigración e Interior de Vox ([Vox nombra portavoz nacional de Inmigración al policía Samuel Vázquez (Vozpópuli)](https://www.vozpopuli.com/espana/politica/vox-nombra-portavoz-nacional-inmigracion-mediatico-policia-samuel-vazquez.html))
+
+**Trayectoria**
+
+- Policía nacional y criminólogo; asesor parlamentario de Vox antes de ser portavoz ([Vox elige como portavoz de Inmigración a un policía (The Objective)](https://theobjective.com/espana/politica/2024-09-16/vox-portavoz-inmigracion-policia-perseguido-marlaska/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- Delito electoral por participar en un mitin siendo policía en activo: penal, absuelto. Un juzgado de Móstoles lo condenó en marzo de 2026 por participar en un mitin de Vox en 2023 siendo policía en activo. La Audiencia Provincial de Madrid lo absolvió en apelación en junio de 2026: asistió como invitado, no para captar votos. ([La Audiencia corrige al juez y absuelve al portavoz de Vox (El Español)](https://www.elespanol.com/espana/tribunales/20260630/audiencia-corrige-juez-absuelve-portavoz-vox-delito-electoral-participar-mitin-policia/1003744305489_0.html))
+
+*Notas:* Solo hay una fuente para la absolución; falta una segunda o la sentencia.
+
+## Laura Ruiz Ginés
+
+Podemos en Ávila · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Héctor Palencia Rubio
+
+PP en Ávila · pendiente
+
+**Ahora**
+
+- Vicesecretario de Organización y Territorial del PP de Castilla y León ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_1.pdf))
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Ávila en el Congreso ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_1.pdf))
+- 2022-2023: Jefe de gabinete del presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco ([Héctor Palencia Rubio (Wikipedia)](https://en.wikipedia.org/wiki/H%C3%A9ctor_Palencia_Rubio))
+- Director general de Administración Local de la Junta de Castilla y León y teniente de alcalde de Ávila ([Héctor Palencia sigue como director de Administración Local (Ávila Red)](https://avilared.com/art/61984/hector-palencia-sigue-como-director-de-administracion-local-de-castilla-y-leon))
+- Gerente del centro comercial El Bulevar de Ávila (en excedencia desde 2023); presidente del Óbila Club de Basket hasta 2012 ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_1.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Faltan las fechas de sus cargos en la Junta y en el Ayuntamiento de Ávila.
+
+## Pablo Garcinuño García
+
+FA en Ávila · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## María Yolanda García Seco
+
+PSOE en Badajoz · pendiente
+
+**Trayectoria**
+
+- hasta 2012: Subdelegada del Gobierno en Badajoz ([Real Decreto de cese de la subdelegada del Gobierno en Badajoz (BOE-A-2012-2031)](https://boe.gob.es/boe/dias/2012/02/10/pdfs/BOE-A-2012-2031.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha podido confirmar su cargo actual; la prensa de 2025 habla de cambios en la Subdelegación del Gobierno en Badajoz sin nombrarla.
+
+## Ignacio Hoces Iñiguez
+
+Vox en Badajoz · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Badajoz en el Congreso ([Ignacio Hoces Íñiguez (Wikipedia)](https://en.wikipedia.org/wiki/Ignacio_Hoces_%C3%8D%C3%B1iguez))
+- 2011-2021: Jefe de la asesoría jurídica del Consejo Económico y Social ([Ignacio Hoces Íñiguez (Wikipedia)](https://en.wikipedia.org/wiki/Ignacio_Hoces_%C3%8D%C3%B1iguez))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En diciembre de 2025 la prensa publicó acusaciones de una compañera de grupo por presunto acoso; no consta denuncia ni procedimiento judicial. Falta su ficha del Congreso.
+
+## María Teresa Tortonda Gordillo
+
+PP en Badajoz · pendiente
+
+**Ahora**
+
+- Diputada en la Asamblea de Extremadura y secretaria general del Grupo Parlamentario Popular ([Una diputada del PP cobró ayudas al viñedo (elDiario.es)](https://www.eldiario.es/1_b9204e))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En marzo de 2025 elDiario.es publicó que recibió ayudas al viñedo de secano por una parcela que no figuraba en su declaración de bienes; no consta procedimiento judicial. Falta su ficha de la Asamblea de Extremadura (y confirmar el cargo tras las elecciones autonómicas de diciembre de 2025).
+
+## María del Pilar Ramos Duro
+
+FA en Badajoz · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Amparo Botejara Sanz
+
+Podemos en Badajoz · pendiente
+
+**Ahora**
+
+- Responsable del área estatal de Sanidad de Podemos (en mayo de 2024) ([Podemos saca músculo sanitario con tres candidatas para las europeas (Redacción Médica)](https://www.redaccionmedica.com/politica/20240522/podemos-saca-musculo-sanitario-con-tres-candidatas-del-ramo-para-el/231927_0.html))
+
+**Trayectoria**
+
+- 2016-2019: Diputada por Badajoz en el Congreso y portavoz adjunta de Podemos en la Comisión de Sanidad ([Podemos: el resultado demuestra que conectamos con los sanitarios (Redacción Médica)](https://www.redaccionmedica.com/politica/sanidad-hoy/20160622/podemos-el-resultado-demuestra-que-conectamos-con-los-sanitarios/16635_0.html))
+- Médica de familia en el centro de salud San Roque de Badajoz, profesora de la Facultad de Medicina y presidenta de la Sociedad Extremeña de Medicina de Familia durante diez años ([Amparo Botejara asume el mando del área de Sanidad de Podemos (Redacción Médica)](https://www.redaccionmedica.com/politica/sanidad-hoy/20191202/amparo-botejara-asume-el-mando-del-area-de-sanidad-podemos/136842_0.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Falta la ficha del Congreso para fechar su etapa de diputada.
+
+## Francesca Lluch Armengol Socias
+
+PSOE en Illes Balears · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Presidenta del Congreso de los Diputados y diputada por Illes Balears (hasta la disolución del 6 de octubre de 2026) ([Ficha de diputada, XV legislatura (Congreso)](https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=185&idLegislatura=XV))
+- 2015-2023: Presidenta del Govern de les Illes Balears ([Biografía de la presidenta (Congreso)](https://www.congreso.es/es/web/presidencia/biografia))
+- 2007-2011: Presidenta del Consell de Mallorca ([Biografía de la presidenta (Congreso)](https://www.congreso.es/es/web/presidencia/biografia))
+
+**Formación**
+
+- Licenciada en Farmacia ([Ficha de diputada, XV legislatura (Congreso)](https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=185&idLegislatura=XV))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* El Supremo inadmitió en julio de 2025 la querella de Vox por la compra de mascarillas del Govern balear (caso Koldo) y en abril de 2026 rechazó citarla como testigo en el juicio de Ábalos, así que no consta. Los hechos de Baleares se investigan sin que ella sea parte.
+
+## Maria Isabel Cerezo Sánchez
+
+Vox en Illes Balears · pendiente
+
+**Trayectoria**
+
+- Afiliada a Vox desde 2019; reside en Baleares desde hace 16 años ([Vox pension pledge in Menorca (Mallorca.com)](https://www.mallorca.com/en/magazin/news/vox-pension-pledge-menorca))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Conocida como Maribel Cerezo. Sin cargo público conocido.
+
+## José Vicente Marí Bosó
+
+PP en Illes Balears · pendiente
+
+**Ahora**
+
+- Presidente del PP de Ibiza (reelegido en abril de 2026) ([Marí Bosó encara la reelección al frente del PP de Ibiza (El Debate)](https://www.eldebate.com/espana/baleares/20260414/mari-boso-encara-reeleccion-frente-pp-ibiza-familia-como-bandera-frente-izquierda_406202.html))
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Illes Balears en el Congreso y portavoz adjunto del Grupo Popular ([Marí Bosó renueva como portavoz adjunto del PP en el Congreso (Noudiari)](https://www.noudiari.es/noticias-ibiza-formentera-sidebar/mari-boso-renueva-como-portavoz-adjunto-del-pp-en-el-congreso/))
+- 2019-2023: Senador por designación autonómica y portavoz del PP en el Ayuntamiento de Ibiza ([Elecciones 23J: perfil de José Vicente Marí (Última Hora)](https://www.ultimahora.es/noticias/elecciones-23j/2023/07/10/1966139/elecciones-23j-perfil-jose-vicente-mari.html))
+- 2016-2019: Diputado por Illes Balears en el Congreso ([Elecciones 23J: perfil de José Vicente Marí (Última Hora)](https://www.ultimahora.es/noticias/elecciones-23j/2023/07/10/1966139/elecciones-23j-perfil-jose-vicente-mari.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta su ficha del Congreso para confirmar fechas. No confundir con Vicent Marí Torres, presidente del Consell d'Eivissa, investigado y luego con causa sobreseída en el caso «La vida islados».
+
+## Carmen Gomila Domínguez (ARAMÉS-EU-MS)
+
+FA en Illes Balears · pendiente
+
+**Ahora**
+
+- 2025-actualidad: Presidenta de Esquerra Republicana en Illes Balears; responsable de estrategia de MÉS per Mallorca ([Carme Gomila, nueva presidenta de Esquerra en Baleares (Ara Balears)](https://en.arabalears.cat/politics/carme-gomila-from-manacor-is-the-new-president-of-the-republican-left-in-the-balearic-islands_1_5543436.html))
+
+**Trayectoria**
+
+- hasta 2026: Concejala de Servicios Sociales y Educación del Ayuntamiento de Manacor (dejó el cargo en febrero de 2026) ([Carme Gomila deja el Ayuntamiento de Manacor (Ara Balears)](https://en.arabalears.cat/politics/carme-gomila-leaves-the-manacor-city-council-to-seek-new-professional-challenges_1_5623156.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Conocida como Carme Gomila. Va por Ara Més-Front Ampli (ARAMÉS-EU-MS).
+
+## Esther Peña Camarero
+
+PSOE en Burgos · pendiente
+
+**Ahora**
+
+- Secretaria general del PSOE de Burgos (reelegida en diciembre de 2021) ([Quién es Esther Peña, nueva portavoz del PSOE (El Debate)](https://www.eldebate.com/espana/20240119/quien-esther-pena-nueva-portavoz-psoe_168161.html))
+
+**Trayectoria**
+
+- 2016-2026: Diputada por Burgos en el Congreso ([Esther Peña (Wikipedia)](https://en.wikipedia.org/wiki/Esther_Pe%C3%B1a))
+- 2024: Portavoz de la Ejecutiva Federal del PSOE (después la sustituyó Montse Mínguez) ([La diputada por Burgos Esther Peña será la nueva portavoz del PSOE (Valencia Plaza)](https://valenciaplaza.com/valenciaplaza/la-diputada-por-burgos-esther-pena-sera-la-nueva-portavoz-del-psoe))
+- Técnica del Instituto Nacional de Estadística durante una década ([Quién es Esther Peña, nueva portavoz del PSOE (El Debate)](https://www.eldebate.com/espana/20240119/quien-esther-pena-nueva-portavoz-psoe_168161.html))
+
+**Formación**
+
+- Licenciada en Sociología (Universidad de Salamanca) ([Quién es Esther Peña, nueva portavoz del PSOE (El Debate)](https://www.eldebate.com/espana/20240119/quien-esther-pena-nueva-portavoz-psoe_168161.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta su ficha del Congreso y la fecha en que dejó la portavocía federal.
+
+## Isabel Lara Benitez
+
+Podemos en Burgos · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Eugenia Landaluce Miranda
+
+Vox en Burgos · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Ángel Mariano Ibáñez Hernando
+
+PP en Burgos · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Burgos en el Congreso (Grupo Popular) ([Intervención del diputado Ángel Ibáñez en la Comisión de Política Territorial (PP)](https://www.pp.es/storage/2024/06/20240611_ange_ibanez_-_pnl_buen_gobierno.pdf))
+- 2019-2023: Presidente de las Cortes de Castilla y León y procurador por Burgos (renunció al escaño el 16 de agosto de 2023) ([Renuncia de Ángel Mariano Ibáñez Hernando como procurador (BOCCL)](https://sirdoc.ccyl.es/sirdoc/pdf/PUBLOFI/BO/CCL/11L/BOCCL1100182/BOCCL-11-006311.pdf))
+- 2011-2015: Teniente de alcalde y concejal de Fomento y Deportes del Ayuntamiento de Burgos (concejal de Hacienda en 2003-2011) ([Ángel Ibáñez Hernando (Wikipedia)](https://en.wikipedia.org/wiki/%C3%81ngel_Ib%C3%A1%C3%B1ez_Hernando))
+
+**Formación**
+
+- Licenciado en Ciencias Químicas (Universidad de Burgos) ([Ángel Ibáñez Hernando (Wikipedia)](https://en.wikipedia.org/wiki/%C3%81ngel_Ib%C3%A1%C3%B1ez_Hernando))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Falta su ficha del Congreso para fechar su alta como diputado.
+
+## Fernando José Saiz Martínez
+
+FA en Burgos · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Irene Pozas García
+
+PSOE en Cáceres · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Marcela Reigía Vales
+
+Vox en Cáceres · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Cristina Elena Teniente Sánchez
+
+PP en Cáceres · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Diputada por Cáceres en el Congreso (alta el 2 de agosto de 2023) ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_47.pdf))
+- 2003-2023: Diputada en la Asamblea de Extremadura ([Cristina Teniente (Wikipedia)](https://en.wikipedia.org/wiki/Cristina_Teniente))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta su ficha del Congreso y de la Asamblea de Extremadura.
+
+## Álvaro Jaén Barbado
+
+Podemos en Cáceres · pendiente
+
+**Ahora**
+
+- Concejal de Podemos en el Ayuntamiento de Cáceres (en febrero de 2025) ([Un concejal de Podemos puede rematar la acusación contra el hermano de Sánchez (Moncloa.com)](https://www.moncloa.com/2025/02/01/podemos-david-sanchez-3123612/))
+
+**Trayectoria**
+
+- 2015-2020: Secretario general de Podemos Extremadura y candidato a la Presidencia de la Junta en 2015 ([Álvaro Jaén (Wikipedia)](https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n))
+- 2015: Diputado en la Asamblea de Extremadura por Cáceres desde 2015 ([Álvaro Jaén (Wikipedia)](https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n))
+- Jornalero agrícola y profesor interino antes de entrar en política ([Álvaro Jaén (Wikipedia)](https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n))
+
+**Formación**
+
+- Ciencias Políticas (Universidad Complutense de Madrid) ([Álvaro Jaén (Wikipedia)](https://en.wikipedia.org/wiki/%C3%81lvaro_Ja%C3%A9n))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* En 2025 declaró como testigo en la causa contra David Sánchez, hermano del presidente, porque en 2017 denunció en la Asamblea la creación del puesto investigado. Falta la fecha de fin de su escaño autonómico.
+
+## Antonio Moreno Pérez
+
+FA en Cáceres · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## José Manuel Albares Bueno
+
+PSOE en Cádiz · pendiente
+
+**Ahora**
+
+- 2021-actualidad: Ministro de Asuntos Exteriores, Unión Europea y Cooperación ([Biografía del ministro (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx))
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Madrid en el Congreso ([Biografía del ministro (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx))
+- 2020-2021: Embajador en Francia y Mónaco ([Biografía del ministro (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx))
+- 2018-2020: Secretario general de Asuntos Internacionales, UE, G20 y Seguridad Global en la Presidencia del Gobierno ([Biografía del ministro (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx))
+- 2000: Diplomático de carrera desde 2000 (cónsul en Bogotá, Representación ante la OCDE, subdirector general de África Subsahariana) ([Biografía del ministro (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx))
+
+**Formación**
+
+- Licenciado en Derecho y diplomado en Ciencias Empresariales (Universidad de Deusto) ([Biografía del ministro (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/paginas/biografias-xv-legislatura/ministro-jose-manuel-albares.aspx))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2023 fue elegido por Madrid; ahora encabeza la lista por Cádiz.
+
+## Blanca Armario González
+
+Vox en Cádiz · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Diputada por Cádiz en el Congreso ([Blanca Armario (Wikipedia)](https://en.wikipedia.org/wiki/Blanca_Armario))
+- 2022-2023: Diputada en el Parlamento de Andalucía y presidenta del grupo parlamentario de Vox ([Gavira sustituye a Olona en Vox Andalucía (The Objective)](https://theobjective.com/espana/2022-08-10/vox-gavira-olona-andalucia/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Falta su ficha del Congreso.
+
+## Esther Francisca Gil de Reboleño Lastortres (Movimiento Sumar)
+
+FA en Cádiz · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Diputada por Cádiz (independiente en las listas de Sumar) y vicepresidenta tercera del Congreso ([Conoce a tu diputada: Esther Gil (Artículo 14)](https://www.articulo14.es/politica/ester-gil-sumar-20260321.html))
+
+**Formación**
+
+- Licenciada en Ciencias Políticas; máster en Género, Identidad y Ciudadanía ([Conoce a tu diputada: Esther Gil (Artículo 14)](https://www.articulo14.es/politica/ester-gil-sumar-20260321.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* El BOE añade «(Movimiento Sumar)» al nombre. Investigadora de la Universidad de Cádiz. Falta su ficha del Congreso.
+
+## Julio de la Torre Lorenzo
+
+Podemos en Cádiz · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado más información que su candidatura (elDiario.es).
+
+## María José García-Pelayo Jurado
+
+PP en Cádiz · pendiente
+
+**Ahora**
+
+- 2023-actualidad: Alcaldesa de Jerez de la Frontera y senadora ([María José García-Pelayo (Wikipedia)](https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo))
+
+**Trayectoria**
+
+- Alcaldesa de Jerez también en 2003-2005 y 2011-2013; concejala desde 1995 ([María José García-Pelayo (Wikipedia)](https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo))
+- Senadora (2011-2015 y 2022-2023), diputada por Cádiz en el Congreso desde 2015 y diputada en el Parlamento de Andalucía (1996-2011) ([María José García-Pelayo (Wikipedia)](https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo))
+
+**Formación**
+
+- Licenciada en Derecho (Universidad de Cádiz) ([María José García-Pelayo (Wikipedia)](https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa-Pelayo))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- Gürtel: contratos del Ayuntamiento de Jerez para Fitur 2004: penal, corrupción, archivado. Investigada en el Supremo, como aforada, por prevaricación y falsedad por contratos de 355.000 euros adjudicados a empresas de la trama Gürtel. El instructor, Antonio del Moral, archivó la causa por falta de indicios de responsabilidad penal. ([El Supremo archiva la causa contra la exalcaldesa de Jerez (elDiario.es)](https://www.eldiario.es/andalucia/Supremo-archiva-causa-exalcaldesa-Jerez_0_510599452.html); [La exalcaldesa niega ante el Supremo que firmara los contratos con la Gürtel (Diario Bahía de Cádiz)](https://www.diariobahiadecadiz.com/jerez/la-exalcaldesa-y-ahora-diputada-del-pp-garcia-pelayo-niega-ante-el-supremo-que-firmara-los-contratos-del-ayuntamiento-jerezano-con-la-gurtel))
+
+*Notas:* Falta la fecha del auto de archivo (hacia 2016) y fuentes oficiales de sus cargos.
