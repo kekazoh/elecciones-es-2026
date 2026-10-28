@@ -339,3 +339,9 @@ tbody tr:first-child td { font-weight: 700; }
 .others li { padding: 14px 16px; border: 2px solid var(--line); }
 .others li b { font-size: 17px; }
 .others li p { margin: 6px 0 0; }
+
+/* Lista de candidatos (BOE) */
+.candidate-list ol { margin: 8px 0 0; padding-left: 2.2em; columns: 2 16em; column-gap: 32px; line-height: 1.6; }
+.candidate-list li { break-inside: avoid; }
+.candidate-list details { margin-top: 12px; }
+.candidate-list summary { cursor: pointer; font-weight: 600; color: var(--ink-2); }

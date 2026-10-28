@@ -348,3 +348,14 @@ describe('provincia', () => {
     expect(errors.some((e) => e.includes('miembro desconocido'))).toBe(true);
   });
 });
+
+describe('candidaturas sin ningún dato', () => {
+  it('se listan aparte para que se sepa que se presentan', () => {
+    const ds = structuredClone(sampleDataset);
+    ds.parties.push({ id: 'nueva', name: 'Nueva', shortName: 'N', color: '#888', constituencies: ['28'] });
+    const r = buildReport(ds, { ...answerAs(sampleDataset, 'ambar'), province: '28' });
+    expect(r.unscored.map((p) => p.id)).toEqual(['nueva']);
+    expect(r.ranking.some((x) => x.party.id === 'nueva')).toBe(false);
+    expect(buildReport(ds, { ...answerAs(sampleDataset, 'ambar'), province: '08' }).unscored).toEqual([]);
+  });
+});

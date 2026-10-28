@@ -58,12 +58,23 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 
 ## Estado del dataset real (`src/data/real/`)
 
-- Partidos: los 12 con representación en el Congreso en la XV legislatura
-  (grupos propios y partidos del Grupo Mixto). Las provincias en las que se
-  presenta cada partido regional (`constituencies`) son provisionales: las de
-  sus candidaturas de 2023. Se sustituirán por las del BOE (candidaturas
-  presentadas el 28 de octubre de 2026, proclamadas el 3 de noviembre), junto
-  con las coaliciones comunicadas a la Junta Electoral hasta el 16 de octubre.
+- Candidaturas: las presentadas al Congreso según el BOE del 28 de octubre de
+  2026 ([BOE-A-2026-22607](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607)),
+  importadas con `npm run import-candidaturas`: 556 listas en las 52
+  provincias. `constituencies` de cada partido sale de ahí y las listas de
+  candidatos están en `src/data/real/candidacies.json`. Se volverá a importar
+  con las proclamadas (BOE del 3 de noviembre).
+  - Posiciones solo tienen los 12 partidos con representación en la XV
+    legislatura. Las 45 candidaturas nuevas entran sin posiciones: la app dice
+    que se presentan, pero no las compara.
+  - Coaliciones: el BOE da su nombre, no sus miembros. Los miembros
+    (`members`) salen de la denominación de la candidatura o de la prensa del
+    16 y 17 de octubre: Frente Amplio y sus variantes autonómicas (Sumar, IU,
+    Más Madrid, Comuns y socios en cada comunidad), Unidad del Pueblo Canario
+    (NC-BC, Podemos, IU y Sumar), UPN en coalición con el PP y Coalición
+    Canaria-Municipalistas Primero Canarias. Compromís: Front Valencià
+    (Compromís, EUPV, Podem y ERPV) queda sin miembros del dataset hasta
+    decidir si hereda de Podemos.
 - Casos verificados con nota oficial del CGPJ y enlace a la sentencia por ECLI:
   Gürtel época I (PP), obras de Génova (PP), De Miguel (PNV) y Palau (CDC,
   atribuido a Junts como sucesor político por decisión del proyecto; el informe

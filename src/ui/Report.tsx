@@ -2,6 +2,7 @@ import type { MeasureMatch, Report } from '../engine/report';
 import type { CSSProperties, ReactNode } from 'react';
 import type { Stance } from '../model/types';
 import { PROVINCE_NAME } from '../data/provinces';
+import { CandidateList } from './CandidateList';
 import { ShareButton } from './ShareButton';
 
 export const STANCE_LABEL: Record<Stance, string> = {
@@ -136,6 +137,9 @@ export function ReportView({
         ))}
       </ul>
 
+      <h3>{report.province ? `Su lista en ${PROVINCE_NAME.get(report.province)}` : 'Su lista'}</h3>
+      <CandidateList party={rec.party} province={report.province} />
+
       <h3>{report.province ? `Todos los partidos que se presentan en ${PROVINCE_NAME.get(report.province)}` : 'Todos los partidos'}</h3>
       <div className="table-wrap">
       <table>
@@ -212,6 +216,16 @@ export function ReportView({
               </li>
             ))}
           </ul>
+        </>
+      )}
+
+      {report.unscored.length > 0 && (
+        <>
+          <h3>{report.province ? `También se presentan en ${PROVINCE_NAME.get(report.province)}` : 'También se presentan'}</h3>
+          <p className="muted">
+            {report.unscored.map((p) => p.name).join(' · ')}. Todavía no tenemos sus posturas, así que no podemos
+            compararlas contigo.
+          </p>
         </>
       )}
 

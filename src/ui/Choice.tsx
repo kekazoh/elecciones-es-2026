@@ -7,6 +7,8 @@
 import { useMemo, type CSSProperties } from 'react';
 import { buildChoiceReport, type Report } from '../engine/report';
 import type { Answers, CaseStatus, Dataset, PartyInvolvement } from '../model/types';
+import { PROVINCE_NAME } from '../data/provinces';
+import { CandidateList } from './CandidateList';
 import { MeasureList } from './Report';
 
 const pct = (x: number) => `${Math.round(x * 100)}%`;
@@ -239,6 +241,9 @@ export function ChoiceReportView({
           Solo restan las sentencias firmes con fuente oficial verificada.
         </p>
       )}
+
+      <h3>{answers.province ? `Su lista en ${PROVINCE_NAME.get(answers.province)}` : 'Su lista'}</h3>
+      <CandidateList party={party} province={answers.province} />
 
       <div className="actions">
         <button className="cta" onClick={onBack}>

@@ -19,6 +19,7 @@ npm test               # tests del motor
 npm run validate-data  # integridad, neutralidad y fuentes del dataset
 npm run simulate       # aciertos y nº de preguntas con usuarios simulados
 npm run map            # regenera el mapa de provincias (src/ui/province-paths.ts)
+npm run import-candidaturas -- BOE-A-2026-22607  # candidaturas y listas del BOE
 npm run build          # build estático en dist/
 ```
 

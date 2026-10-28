@@ -100,6 +100,8 @@ export interface Report {
   divergences: MeasureMatch[];
   /** Candidaturas sin datos suficientes con las que coincides en la mayoría de sus posturas conocidas. */
   others: OtherParty[];
+  /** El resto de candidaturas de tu papeleta, de las que no sabemos lo bastante para decir nada. */
+  unscored: Party[];
 }
 
 function matchesFor(
@@ -204,6 +206,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
     })
     .filter((o) => o.known > 0 && o.agreeing > o.known / 2)
     .sort((x, y) => y.knownAffinity - x.knownAffinity || y.known - x.known);
+  const shown = new Set(others.map((o) => o.party.id));
 
   return {
     isSample: ds.meta.isSample,
@@ -222,6 +225,7 @@ export function buildReport(ds: Dataset, answers: Answers, cfg: EngineConfig = D
       .sort((x, y) => byImpact(x) - byImpact(y))
       .slice(0, 3),
     others,
+    unscored: sparse.filter((p) => !shown.has(p.id)).sort((a, b) => a.name.localeCompare(b.name, 'es')),
   };
 }
 
