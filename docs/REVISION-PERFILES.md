@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-11 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+23 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -227,3 +227,201 @@ PP en Barcelona · pendiente
 - Folletos sobre gitanos rumanos (2010): penal, absuelto. Juzgado por incitación al odio por unos folletos del PP de Badalona de 2010 que asociaban a gitanos rumanos con la delincuencia. Fue absuelto. ([Sentencia (Fundación Secretariado Gitano)](https://www.gitanos.org/upload/67/86/Sentencia_Albiol.pdf); [La Audiencia de Barcelona reabre el caso contra García Albiol (La Marea)](https://lamarea.com/2012/09/13/la-audiencia-de-barcelona-reabre-el-caso-contra-garcia-albiol-por-repartir-folletos-xenofobos))
 
 *Notas:* En marzo de 2023 un juzgado de Badalona reabrió una causa por un presunto delito leve de lesiones a una asesora del PSC; no se ha encontrado cómo acabó. Falta fuente oficial de los cargos (Ajuntament de Badalona).
+
+## Javier Hurtado Domínguez
+
+PSOE en Araba/Álava · pendiente
+
+**Ahora**
+
+- 2020-actualidad: Consejero de Turismo, Comercio y Consumo del Gobierno Vasco ([Notas del consejero Javier Hurtado (Irekia, Gobierno Vasco)](https://www.irekia.euskadi.eus/en/news/109477-consejero-javier-hurtado-gobernamos-turismo-miramos-otro-lado))
+- Secretario general del PSE-EE de Álava ([Hurtado dice que el PNV ha roto los consensos sobre el euskera (Última Hora)](https://www.ultimahora.es/noticias/comunidades/2025/10/11/2488823/hurtado-dice-pnv-roto-consensos-sobre-euskera-denuncia-abuso-pretende-administracion.html))
+
+**Trayectoria**
+
+- 2019-2020: Diputado foral de Infraestructuras Viarias y Movilidad de Álava ([Javier Hurtado (Wikipedia)](https://en.wikipedia.org/wiki/Javier_Hurtado))
+- 2013-2019: Abogado ([Javier Hurtado (Wikipedia)](https://en.wikipedia.org/wiki/Javier_Hurtado))
+- 2009-2011: Jefe de gabinete en el Ministerio de Fomento ([Javier Hurtado (Wikipedia)](https://en.wikipedia.org/wiki/Javier_Hurtado))
+
+**Formación**
+
+- Licenciado en Derecho y Ciencias Políticas (Universidad Autónoma de Madrid) ([Javier Hurtado (Wikipedia)](https://en.wikipedia.org/wiki/Javier_Hurtado))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* La trayectoria anterior a 2020 solo está en Wikipedia; falta una biografía oficial del Gobierno Vasco. Si sale elegido debe dejar la consejería.
+
+## Mikel Otero Gabirondo
+
+EH Bildu en Araba/Álava · pendiente
+
+**Ahora**
+
+- Secretario de Transición Ecológica de EH Bildu ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_398.pdf))
+
+**Trayectoria**
+
+- 2025-2026: Diputado por Álava en el Congreso (alta el 18 de febrero de 2025) ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_398.pdf))
+- 2016-2024: Parlamentario vasco por Álava ([El trabajador de Mercedes que se estrena como parlamentario vasco (Gasteiz Hoy)](https://www.gasteizhoy.com/el-trabajador-de-mercedes-que-se-estrena-como-parlamentario-vasco/))
+- Bombero; activista ecologista contra el fracking ([EH Bildu completa su lista electoral por Álava (Gasteiz Hoy)](https://www.gasteizhoy.com/eh-bildu-lista-electoral-alava-elecciones-euskadi/))
+
+**Formación**
+
+- Estudios de Filosofía e Historia ([EH Bildu completa su lista electoral por Álava (Gasteiz Hoy)](https://www.gasteizhoy.com/eh-bildu-lista-electoral-alava-elecciones-euskadi/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* El fin de su etapa en el Parlamento Vasco (2024) se deduce de su alta en el Congreso; falta confirmarlo con la ficha del Parlamento Vasco.
+
+## Gorka Urtaran Agirre
+
+PNV en Araba/Álava · pendiente
+
+**Ahora**
+
+- Diputado foral de Políticas Sociales de Álava (en octubre de 2024) ([Urtaran: candidatura de unidad (Deia)](https://www.deia.eus/politica/2024/10/30/urtaran-candidatura-unidad-constructiva-nadie-8869339.html))
+
+**Trayectoria**
+
+- 2015-2023: Alcalde de Vitoria-Gasteiz ([Urtaran es proclamado alcalde en Vitoria (Orain)](https://orain.eus/es/politica/elecciones/municipales-forales/2015/06/13/urtaran-alcalde-vitoria--el-candidato-jeltzale-gobernara-gasteiz/))
+- Sociólogo; afiliado al PNV desde 1994 ([Candidatura de EAJ-PNV al Ayuntamiento de Vitoria (EAJ-PNV)](https://eaj-pnv.eus/es/adjuntos-documentos/17370/pdf/candidatura-de-eaj-pnv-al-ayuntamiento-de-vitoria-))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* No se ha confirmado si sigue en la Diputación Foral en 2026; falta la web de la Diputación Foral de Álava.
+
+## Jonathan Romero Gámiz
+
+Vox en Araba/Álava · pendiente
+
+**Trayectoria**
+
+- 2019-2020: Candidato de Vox por Álava al Congreso (número 2 en 2019) y al Parlamento Vasco (2019 y 2020) ([11 candidaturas se presentan por Álava (Gasteiz Hoy)](https://www.gasteizhoy.com/candidaturas-10n-alava-congreso/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sin cargo público conocido. En 2021 fue portavoz de una recogida de firmas contra el pasaporte covid, a título personal según Vox (Gasteiz Hoy).
+
+## Garbiñe Ruiz Noriega
+
+Podemos en Araba/Álava · pendiente
+
+**Trayectoria**
+
+- 2023: Candidata de Elkarrekin Podemos-IU-Alianza Verde a la alcaldía de Vitoria-Gasteiz ([Garbiñe Ruiz lanza su candidatura de Podemos a la alcaldía de Vitoria (Gasteiz Hoy)](https://www.gasteizhoy.com/garbine-ruiz-elecciones-vitora-2023/))
+- Concejala y portavoz de Podemos en el Ayuntamiento de Vitoria-Gasteiz (mandato 2019-2023) ([Garbiñe Ruiz y David Rodríguez se presentan a las primarias de Podemos (Orain)](https://orain.eus/es/politica/2022/10/03/garbine-ruiz-y-david-rodriguez-se-presentan-a-primarias-de-podemos-para-vitoria-y-diputacion-de-alava/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado su cargo actual.
+
+## Iñaki Oyarzábal de Miguel
+
+PP en Araba/Álava · pendiente
+
+**Ahora**
+
+- Presidente del PP de Álava ([Iñaki Oyarzabal es el único candidato a presidir el PP alavés (Gasteiz Hoy)](https://www.gasteizhoy.com/inaki-oyarzabal-es-el-unico-candidato-a-presidir-el-pp-alaves/))
+
+**Trayectoria**
+
+- 2015-2019: Senador por Álava ([Iñaki Oyarzabal (Wikipedia)](https://en.wikipedia.org/wiki/I%C3%B1aki_Oyarzabal))
+- 1996-2016: Parlamentario vasco ([Iñaki Oyarzabal (Wikipedia)](https://en.wikipedia.org/wiki/I%C3%B1aki_Oyarzabal))
+- 2012: Miembro del Comité Ejecutivo Nacional del PP desde 2012 ([Iñaki Oyarzabal (Wikipedia)](https://en.wikipedia.org/wiki/I%C3%B1aki_Oyarzabal))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* No se ha podido comprobar si tiene cargo institucional después de 2019 (la web del Senado no se ha podido consultar).
+
+## José Damián García-Moreno López
+
+FA en Araba/Álava · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Amparo Torres Valencoso
+
+PSOE en Albacete · pendiente
+
+**Ahora**
+
+- 2023-actualidad: Senadora por Albacete ([Declaración de bienes y rentas de Amparo Torres Valencoso (BOCG Senado)](https://www.senado.es/legis15/publicaciones/pdf/senado/bocg/BOCG_D_15_444_3745.PDF))
+
+**Trayectoria**
+
+- 2019-2023: Vicepresidenta segunda de la Diputación Provincial de Albacete (Medio Ambiente y Desarrollo Rural) ([Amparo Torres (Wikipedia)](https://en.wikipedia.org/wiki/Amparo_Torres))
+- Concejala del Ayuntamiento de Albacete y portavoz del grupo socialista (enero de 2024) ([Amparo Torres (Wikipedia)](https://en.wikipedia.org/wiki/Amparo_Torres))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Faltan fechas de sus cargos municipales y fuente oficial del Ayuntamiento y la Diputación.
+
+## Rubén Herrero de Castro
+
+Vox en Albacete · pendiente
+
+**Ahora**
+
+- Profesor de Relaciones Internacionales en la Universidad Complutense de Madrid; miembro del Instituto Franklin (Universidad de Alcalá) y de UNISCI; analista en medios ([Candidatura de Vox por Albacete (elDiario.es)](https://www.eldiario.es/1_cf96ab))
+
+**Formación**
+
+- Doctor en Ciencias Políticas (Universidad Complutense de Madrid) ([Candidatura de Vox por Albacete (elDiario.es)](https://www.eldiario.es/1_cf96ab))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sin cargo público conocido ni vínculo conocido con Albacete, según elDiario.es.
+
+## Luisa María García Tárraga
+
+Podemos en Albacete · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Francisco Navarro Cebrián
+
+PP en Albacete · pendiente
+
+**Ahora**
+
+- Concejal del PP en el Ayuntamiento de Albacete (Feria y, antes, Movilidad y Deportes) y viceportavoz del grupo popular en la Diputación de Albacete ([Noticias de Albacete (Más que Alba)](https://masquealba.com/category/noticias/albacete/page/838))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Las fuentes son noticias locales sin fecha clara; falta confirmar su cargo actual en la web del Ayuntamiento o la Diputación.
+
+## Juan Blanco Castellanos
+
+FA en Albacete · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.

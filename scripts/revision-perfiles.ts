@@ -68,8 +68,11 @@ function render(): string {
     section('Ahora', p.current);
     section('Trayectoria', p.career);
     section('Formación', p.education);
-    out.push(`**Procedimientos judiciales** (búsqueda del ${p.judicialChecked})`, '');
-    if (!p.judicial.length) out.push('- No consta ninguno.');
+    out.push(
+      `**Procedimientos judiciales** (${p.judicialChecked ? `búsqueda del ${p.judicialChecked}` : 'sin buscar'})`,
+      '',
+    );
+    if (!p.judicial.length) out.push(p.judicialChecked ? '- No consta ninguno.' : '- No se han buscado.');
     for (const j of p.judicial) {
       out.push(
         `- ${j.name}: ${j.kind}${j.corruption ? ', corrupción' : ''}, ${STAGE[j.stage]}. ${j.summary} ` +

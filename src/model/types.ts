@@ -164,8 +164,8 @@ export interface CandidateProfile {
   career: ProfileItem[];
   education: ProfileItem[];
   judicial: JudicialMatter[];
-  /** Fecha (ISO) de la última búsqueda de procedimientos judiciales. */
-  judicialChecked: string;
+  /** Fecha (ISO) de la última búsqueda de procedimientos judiciales. Ausente = no se ha buscado. */
+  judicialChecked?: string;
   /** Lo que no se ha podido comprobar. */
   notes?: string;
   verification: Verification;
