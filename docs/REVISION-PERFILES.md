@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-204 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+209 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3127,8 +3127,8 @@ Vox en Cantabria · pendiente
 
 **Ahora**
 
-- Diputado de Vox por Cantabria en el Congreso (desde 2019) ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_124.pdf))
-- Presidente de Vox en Cantabria (desde 2022) y concejal en Santander ([The Objective, abril de 2023](https://theobjective.com/espana/politica/2023-04-18/vox-dimisiones-cantabria-listas/))
+- Diputado de Vox por Cantabria en el Congreso (desde 2019); su declaración de intereses lo recoge también como concejal en Santander ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_124.pdf))
+- Presidente de Vox en Cantabria (desde 2022) ([The Objective, abril de 2023](https://theobjective.com/espana/politica/2023-04-18/vox-dimisiones-cantabria-listas/))
 
 **Trayectoria**
 
@@ -3158,3 +3158,77 @@ FA en Cantabria · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre ella.
+
+## Jose Luis Aceves Galindo
+
+PSOE en Segovia · pendiente
+
+**Ahora**
+
+- Diputado del PSOE por Segovia en el Congreso (desde mayo de 2019) ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves))
+- Secretario general del PSOE de Segovia (elegido en primarias en octubre de 2017) ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves))
+
+**Trayectoria**
+
+- 2015–2019: Procurador en las Cortes de Castilla y León ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves))
+- Concejal en Coca y diputado provincial en Segovia; agente medioambiental ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En enero de 2020 denunció ante la policía presiones y amenazas para que cambiara su voto en la investidura; fue denunciante, no investigado: https://www.elindependiente.com/politica/2020/01/06/psoe-podemos-y-teruel-existe-denuncian-una-campana-de-acoso-ante-la-investidura/amp/
+
+## Pablo Pérez Coronado
+
+PP en Segovia · pendiente
+
+**Ahora**
+
+- Diputado del PP por Segovia en el Congreso (desde 2023) ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado))
+
+**Trayectoria**
+
+- 2019–2023: Senador por Segovia ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado))
+- 2009–2023: Concejal en el Ayuntamiento de Segovia y candidato del PP a la alcaldía ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado))
+- Economista y profesor; trabajó en Bankinter (banca privada, 2007–2008) y Renta 4 Banco ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado))
+
+**Formación**
+
+- Licenciado en Administración y Dirección de Empresas por la Universidad de Valladolid; asesor financiero certificado EFA ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Salamanca en 1984.
+
+## Gonzalo Babe Romero
+
+Vox en Segovia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## María Soledad Alba Monfort
+
+Podemos en Segovia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Víctor Javier Borreguero García
+
+FA en Segovia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.

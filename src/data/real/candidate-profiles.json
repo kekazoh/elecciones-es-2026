@@ -6696,5 +6696,153 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre ella.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Jose Luis Aceves Galindo",
+    "lists": [
+      {
+        "province": "40",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado del PSOE por Segovia en el Congreso (desde mayo de 2019)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves"
+        }
+      },
+      {
+        "text": "Secretario general del PSOE de Segovia (elegido en primarias en octubre de 2017)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2015–2019",
+        "text": "Procurador en las Cortes de Castilla y León",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves"
+        }
+      },
+      {
+        "text": "Concejal en Coca y diputado provincial en Segovia; agente medioambiental",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Aceves"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En enero de 2020 denunció ante la policía presiones y amenazas para que cambiara su voto en la investidura; fue denunciante, no investigado: https://www.elindependiente.com/politica/2020/01/06/psoe-podemos-y-teruel-existe-denuncian-una-campana-de-acoso-ante-la-investidura/amp/",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Pablo Pérez Coronado",
+    "lists": [
+      {
+        "province": "40",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado del PP por Segovia en el Congreso (desde 2023)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2023",
+        "text": "Senador por Segovia",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado"
+        }
+      },
+      {
+        "period": "2009–2023",
+        "text": "Concejal en el Ayuntamiento de Segovia y candidato del PP a la alcaldía",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado"
+        }
+      },
+      {
+        "text": "Economista y profesor; trabajó en Bankinter (banca privada, 2007–2008) y Renta 4 Banco",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Administración y Dirección de Empresas por la Universidad de Valladolid; asesor financiero certificado EFA",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_P%C3%A9rez_Coronado"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Salamanca en 1984.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Gonzalo Babe Romero",
+    "lists": [
+      {
+        "province": "40",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Soledad Alba Monfort",
+    "lists": [
+      {
+        "province": "40",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Víctor Javier Borreguero García",
+    "lists": [
+      {
+        "province": "40",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
   }
 ]
