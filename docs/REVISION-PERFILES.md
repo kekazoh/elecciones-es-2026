@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-229 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+234 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3575,6 +3575,93 @@ Vox en Teruel · pendiente
 ## Rafael Carlos Esteban Martín
 
 Podemos en Teruel · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Milagros Tolón Jaime
+
+PSOE en Toledo · pendiente
+
+**Ahora**
+
+- Ministra de Educación, Formación Profesional y Deportes (desde diciembre de 2025) ([La Moncloa, biografía](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx))
+
+**Trayectoria**
+
+- 2023–2025: Delegada del Gobierno en Castilla-La Mancha ([La Moncloa, biografía](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx))
+- 2023: Diputada del PSOE por Toledo en el Congreso ([La Moncloa, biografía](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx))
+- 2015–2023: Alcaldesa de Toledo; vicepresidenta segunda de la FEMP (2019–2023) ([La Moncloa, biografía](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx))
+- Profesora en la Escuela de Adultos de Toledo ([La Moncloa, biografía](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx))
+
+**Formación**
+
+- Licenciada en Geografía e Historia (Complutense); diplomada en Magisterio (Universidad de Castilla-La Mancha) ([La Moncloa, biografía](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en Toledo en 1968.
+
+## Carlos Velázquez Romo
+
+PP en Toledo · pendiente
+
+**Ahora**
+
+- Alcalde de Toledo (desde 2023, con apoyo de Vox) ([El Español, 29 de mayo de 2023](https://elespanol.com/eldigitalcastillalamancha/region/toledo/20230529/velazquez-pp-nuevo-alcalde-toledo-votado-cambio/767423259_0.html))
+
+**Trayectoria**
+
+- 2011–2019: Alcalde de Seseña (concejal desde 2007) ([Wikipedia](https://en.wikipedia.org/wiki/Carlos_Vel%C3%A1zquez_(politician)))
+- 2012–2019: Diputado en las Cortes de Castilla-La Mancha ([Wikipedia](https://en.wikipedia.org/wiki/Carlos_Vel%C3%A1zquez_(politician)))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Como alcalde de Seseña archivó el expediente para retirar a El Pocero la condición de agente urbanizador, y la oposición le acusó de trato de favor; no consta ninguna causa judicial: https://www.vozpopuli.com/economia/empresas/macro-urbanizacion-paco-pocero-vuelve-sesena_0_1238276233.html
+
+## Manuel Mariscal Zabala
+
+Vox en Toledo · pendiente
+
+**Ahora**
+
+- Diputado de Vox por Toledo en el Congreso (desde mayo de 2019) ([Wikipedia](https://en.wikipedia.org/wiki/Manuel_Mariscal_Zabala))
+- Responsable de comunicación de Vox (vicesecretario) ([Ara](https://es.ara.cat/politica/manuel-mariscal-joven-propagandista-abascal-exalta-franquismo-congreso_1_5217954.html))
+
+**Trayectoria**
+
+- Asistente de campaña y coordinador de redes sociales de Esperanza Aguirre en el PP ([Wikipedia](https://en.wikipedia.org/wiki/Manuel_Mariscal_Zabala))
+
+**Formación**
+
+- Periodismo y máster en Comunicación por la Universidad Complutense ([Wikipedia](https://en.wikipedia.org/wiki/Manuel_Mariscal_Zabala))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Talavera de la Reina en 1992. En 2025 dijo que un Gobierno de Vox despediría a presentadores de RTVE: https://es.ara.cat/media/diputado-vox-amenaza-marc-giro-le-despediremos-fulminantemente_1_5508651.amp.html
+
+## María Ángeles Castellanos Valverde
+
+Podemos en Toledo · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sin confirmar: en 2019 una María Ángeles Castellanos era secretaria regional de Empleo y Políticas Sociales de CCOO en Castilla-La Mancha; no consta que sea la misma persona. https://www.elespanol.com/eldigitalcastillalamancha/region/20191023/agenda-cortes-pedro-sanchez-ministras-castilla-la-mancha/438957803_0.html
+
+## José Alejandro Ávila Sánchez
+
+FA en Toledo · pendiente
 
 **Procedimientos judiciales** (sin buscar)
 

@@ -7562,5 +7562,187 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Milagros Tolón Jaime",
+    "lists": [
+      {
+        "province": "45",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Ministra de Educación, Formación Profesional y Deportes (desde diciembre de 2025)",
+        "source": {
+          "title": "La Moncloa, biografía",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023–2025",
+        "text": "Delegada del Gobierno en Castilla-La Mancha",
+        "source": {
+          "title": "La Moncloa, biografía",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx"
+        }
+      },
+      {
+        "period": "2023",
+        "text": "Diputada del PSOE por Toledo en el Congreso",
+        "source": {
+          "title": "La Moncloa, biografía",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx"
+        }
+      },
+      {
+        "period": "2015–2023",
+        "text": "Alcaldesa de Toledo; vicepresidenta segunda de la FEMP (2019–2023)",
+        "source": {
+          "title": "La Moncloa, biografía",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx"
+        }
+      },
+      {
+        "text": "Profesora en la Escuela de Adultos de Toledo",
+        "source": {
+          "title": "La Moncloa, biografía",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Geografía e Historia (Complutense); diplomada en Magisterio (Universidad de Castilla-La Mancha)",
+        "source": {
+          "title": "La Moncloa, biografía",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-milagros-tolon.aspx"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacida en Toledo en 1968.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Carlos Velázquez Romo",
+    "lists": [
+      {
+        "province": "45",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Alcalde de Toledo (desde 2023, con apoyo de Vox)",
+        "source": {
+          "title": "El Español, 29 de mayo de 2023",
+          "url": "https://elespanol.com/eldigitalcastillalamancha/region/toledo/20230529/velazquez-pp-nuevo-alcalde-toledo-votado-cambio/767423259_0.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2011–2019",
+        "text": "Alcalde de Seseña (concejal desde 2007)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Vel%C3%A1zquez_(politician)"
+        }
+      },
+      {
+        "period": "2012–2019",
+        "text": "Diputado en las Cortes de Castilla-La Mancha",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Vel%C3%A1zquez_(politician)"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Como alcalde de Seseña archivó el expediente para retirar a El Pocero la condición de agente urbanizador, y la oposición le acusó de trato de favor; no consta ninguna causa judicial: https://www.vozpopuli.com/economia/empresas/macro-urbanizacion-paco-pocero-vuelve-sesena_0_1238276233.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Manuel Mariscal Zabala",
+    "lists": [
+      {
+        "province": "45",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de Vox por Toledo en el Congreso (desde mayo de 2019)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manuel_Mariscal_Zabala"
+        }
+      },
+      {
+        "text": "Responsable de comunicación de Vox (vicesecretario)",
+        "source": {
+          "title": "Ara",
+          "url": "https://es.ara.cat/politica/manuel-mariscal-joven-propagandista-abascal-exalta-franquismo-congreso_1_5217954.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Asistente de campaña y coordinador de redes sociales de Esperanza Aguirre en el PP",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manuel_Mariscal_Zabala"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Periodismo y máster en Comunicación por la Universidad Complutense",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manuel_Mariscal_Zabala"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Talavera de la Reina en 1992. En 2025 dijo que un Gobierno de Vox despediría a presentadores de RTVE: https://es.ara.cat/media/diputado-vox-amenaza-marc-giro-le-despediremos-fulminantemente_1_5508651.amp.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Ángeles Castellanos Valverde",
+    "lists": [
+      {
+        "province": "45",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Sin confirmar: en 2019 una María Ángeles Castellanos era secretaria regional de Empleo y Políticas Sociales de CCOO en Castilla-La Mancha; no consta que sea la misma persona. https://www.elespanol.com/eldigitalcastillalamancha/region/20191023/agenda-cortes-pedro-sanchez-ministras-castilla-la-mancha/438957803_0.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Alejandro Ávila Sánchez",
+    "lists": [
+      {
+        "province": "45",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
   }
 ]
