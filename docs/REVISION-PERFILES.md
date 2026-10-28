@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-97 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+114 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -1576,3 +1576,243 @@ FA en Granada · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## Ángel López Maraver
+
+Vox en Guadalajara · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por Guadalajara desde diciembre de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/%C3%81ngel_L%C3%B3pez_Maraver))
+- 2017–2019: Presidente de la Real Federación Española de Caza ([Wikipedia](https://en.wikipedia.org/wiki/%C3%81ngel_L%C3%B3pez_Maraver))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En abril de 2021 fue herido por una piedra en el mitin de Vox en Vallecas (https://okdiario.com/espana/diputado-agredido-vallecas-marlaska-ordeno-rodear-vox-vez-violentos-video-7065418).
+
+## María Jesús Merino Poyo
+
+PSOE en Guadalajara · pendiente
+
+**Ahora**
+
+- Alcaldesa de Sigüenza ([FEMP, «40 años. Generación FEMP»](https://www.femp.es/sites/default/files/multimedia/40_anos_generacion_femp_ii.pdf))
+- Diputada del Grupo Socialista en las Cortes de Castilla-La Mancha ([Demócrata](https://www.democrata.es/politicos/maria-jesus-merino-poyo-706))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Ernesto Martín Doménech
+
+FA en Guadalajara · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Mario Javier Gallego Pareja
+
+Podemos en Guadalajara · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Itziar Asenjo Domínguez
+
+PP en Guadalajara · pendiente
+
+**Ahora**
+
+- Diputada del Grupo Popular en las Cortes de Castilla-La Mancha (XI legislatura, desde junio de 2023); portavoz del PP de Guadalajara ([Demócrata](https://www.democrata.es/politicos/itziar-asenjo-dominguez-688))
+
+**Trayectoria**
+
+- Abogada ([Demócrata](https://www.democrata.es/politicos/itziar-asenjo-dominguez-688))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Oihana Etxebarrieta Legrand
+
+EH Bildu en Gipuzkoa · pendiente
+
+**Ahora**
+
+- Parlamentaria de EH Bildu en el Parlamento Vasco (desde 2016); coordinadora de Relaciones Políticas de EH Bildu ([Orain, 16 de octubre de 2026](https://orain.eus/es/politica/2026/10/16/eh-bildu-propone-oskar-matute-mikel-otero-oihana-etxebarrieta-eneka-maiz-encabezar-las-listas-al-congreso/))
+
+**Trayectoria**
+
+- Periodista ([El Salto, abril de 2024](https://www.elsaltodiario.com/elecciones/oihana-etxebarrieta-seria-un-honor-ser-consejera-feminismos-del-proximo-gobierno-vasco))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacida en Bilbao en 1987. El cargo de coordinadora de Relaciones Políticas sale de su perfil en Demócrata (https://www.democrata.es/politicos/oihana-etxebarrieta-legrand-1222).
+
+## Rafaela Romero Pozo
+
+PSOE en Gipuzkoa · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputada del PSE-EE por Gipuzkoa; coordinadora de los diputados socialistas vascos ([Orain, 14 de octubre de 2026](https://orain.eus/es/politica/2026/10/14/patxi-lopez-rafaela-romero-javier-hurtado-encabezan-las-listas-del-pseee-el-congreso/))
+- 2007–2011: Presidenta de las Juntas Generales de Gipuzkoa ([Wikipedia](https://en.wikipedia.org/wiki/Rafaela_Romero))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Maribel Vaquero Montero
+
+PNV en Gipuzkoa · pendiente
+
+**Trayectoria**
+
+- 2025–2026: Portavoz del Grupo Vasco (PNV) en el Congreso desde marzo de 2025, la primera mujer en el cargo; diputada por Gipuzkoa ([Deia, 31 de marzo de 2025](https://www.deia.eus/politica/2025/03/31/maribel-vaquero-nueva-portavoz-grupo-esteban-mandato-estrena-ebb-9465850.html))
+- Portavoz adjunta del PNV en el Senado durante dos legislaturas; concejala en Urnieta, juntera en Gipuzkoa y parlamentaria vasca ([Orain, 31 de marzo de 2025](https://orain.eus/es/politica/2025/03/31/maribel-vaquero-nueva-portavoz-del-pnv-en-congreso/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Juan Dios Dávila Garijo
+
+Vox en Gipuzkoa · pendiente
+
+**Trayectoria**
+
+- 2023: Presidente de Vox en Gipuzkoa ([The Objective, 22 de septiembre de 2023](https://theobjective.com/espana/politica/2023-09-22/vox-protesta-san-sebastian-ternera/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* La fuente lo llama Juan de Dios Dávila.
+
+## Maite Gartzia Ontiveros
+
+Podemos en Gipuzkoa · pendiente
+
+**Ahora**
+
+- Coordinadora general adjunta de Podemos Euskadi y miembro del Consejo Estatal de Podemos ([Deia, 12 de abril de 2025](https://www.deia.eus/politica/2025/04/12/euskadi-representado-consejo-estatal-9516072.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Jon Echeverría Franco
+
+PP en Gipuzkoa · pendiente
+
+**Trayectoria**
+
+- Tertuliano en televisión y redes sociales ([Moncloa.com, 19 de octubre de 2026](https://www.moncloa.com/2026/10/19/pp-gipuzkoa-elecciones-congreso-29n-3451156/))
+
+**Formación**
+
+- Estudia el doble grado en Derecho y Economía en la Universidad Carlos III de Madrid ([ESdiario, 19 de octubre de 2026](https://www.esdiario.com/nacional/261019/200673/jon-echeverria-lucia-mendez-pp-guipuzcoa.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Universitario; los medios dan edades distintas (21, 22 o 24 años).
+
+## Rosa Rubio Sánchez
+
+FA en Gipuzkoa · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Gabriel Cruz Santana
+
+PSOE en Huelva · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputado por Huelva; vicepresidente segundo de la Comisión Mixta para la Unión Europea ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=168&idLegislatura=XV))
+- 2015–2023: Alcalde de Huelva; antes, líder de la oposición municipal desde 2011 ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=168&idLegislatura=XV))
+- Abogado durante 14 años ([elDiario.es](https://www.eldiario.es/andalucia/huelva/perico-veinte-anos-psoe_1_2656553.html))
+
+**Formación**
+
+- Licenciado en Derecho por la Universidad de Sevilla ([elDiario.es](https://www.eldiario.es/andalucia/huelva/perico-veinte-anos-psoe_1_2656553.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2019 declaró como testigo, como alcalde, en el contencioso del expresidente del Recreativo contra la expropiación del club (https://www.vozpopuli.com/economia/elecciones-municipales-2019-escandalo-expropiacion-recretativo-politica-huelva_0_1230177982.html).
+
+## Tomás Fernández Ríos
+
+Vox en Huelva · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por Huelva desde noviembre de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s_Fern%C3%A1ndez_R%C3%ADos))
+- hasta 2022: Vicesecretario de Organización de Vox, número dos de Ortega Smith; relevado en octubre de 2022 ([The Objective, 25 de octubre de 2022](https://theobjective.com/espana/2022-10-25/vox-tomas-ortega-smith/))
+- Militante del PP antes de Vox ([Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s_Fern%C3%A1ndez_R%C3%ADos))
+
+**Formación**
+
+- Licenciado en Derecho (Complutense); máster en marketing (ESIC) ([Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s_Fern%C3%A1ndez_R%C3%ADos))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## María del Pilar Miranda Plata
+
+PP en Huelva · pendiente
+
+**Ahora**
+
+- Alcaldesa de Huelva desde 2023, con el apoyo de Vox; primera mujer en el cargo ([Vozpópuli](https://www.vozpopuli.com/espana/elecciones-municipales-2023/pilar-miranda-pp-apoyada-vox-primera-alcaldesa-historia-huelva.html))
+
+**Trayectoria**
+
+- hasta 2023: Presidenta de la Autoridad Portuaria de Huelva (cesada el 4 de abril de 2023) ([BOJA](https://www.juntadeandalucia.es/boja/2023/508/BOJA23-508-00001-6460-01_00281498.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Rebeca Martín Sánchez
+
+FA en Huelva · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Hermes Gómez Escobar
+
+Podemos en Huelva · pendiente
+
+**Trayectoria**
+
+- Cocinero en una cadena hotelera; estudió educación física ([elDiario.es, 23 de octubre de 2026](https://www.eldiario.es/1_cfab9a))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* 44 años, nacido en Isla Cristina.
