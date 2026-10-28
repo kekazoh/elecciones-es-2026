@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-81 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+97 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -1350,6 +1350,226 @@ Podemos en A Coruña · pendiente
 ## José Luis Piñeiro García
 
 FA en A Coruña · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Luis Carlos Sahuquillo García
+
+PSOE en Cuenca · pendiente
+
+**Ahora**
+
+- Secretario general del PSOE de Cuenca (desde 2017 según Wikipedia, 2018 según su declaración en el Congreso) ([Wikipedia](https://en.wikipedia.org/wiki/Luis_Carlos_Sahuquillo))
+
+**Trayectoria**
+
+- 2008–2026: Diputado por Cuenca desde abril de 2008; en la XV legislatura, en el Grupo Socialista ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_10.pdf))
+- Funcionario de la Junta de Comunidades de Castilla-La Mancha, en servicios especiales ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_10.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Ismael Iván Vélez Cipriano
+
+Vox en Cuenca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Probablemente es el ensayista y arquitecto Iván Vélez, cabeza de lista de Vox por Cuenca en 2019 (https://www.theclinic.cl/2019/03/26/super-nacionalistas-partido-de-ultraderecha-espanol-confundio-ciudad-de-su-pais-con-una-ecuatoriana-del-mismo-nombre/) y, según elDiario.es (13 de marzo de 2026), asesor de la presidenta de las Corts Valencianes desde febrero de 2025, exdirector de la Fundación Denaes, ex cabeza de lista por Albacete y exdirector de la vicesecretaría de Acción de Gobierno de Vox (https://www.eldiario.es/comunitat-valenciana/segundo-asesor-vox-corts-cobra-90-000-euros-asiste-parlamento-opta-teletrabajo_1_13067002.html). Ninguna fuente da su nombre completo, así que no se ha confirmado que sea la misma persona.
+
+## José María Oviedo Oviedo
+
+Podemos en Cuenca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Podría ser el José María Oviedo que ganó en 2019 las primarias de Podemos a la alcaldía de Quintanar del Rey (https://www.elespanol.com/eldigitalcastillalamancha/region/20190208/podemos-candidatos-cuenca-toledo-ciudad-real-guadalajara/374714134_0.html); no se ha confirmado.
+
+## Raquel Oliver Chico
+
+PP en Cuenca · pendiente
+
+**Trayectoria**
+
+- 2023: Alcaldesa de Beamud, propuesta por el PP como diputada provincial en Cuenca ([El Español – El Digital Castilla-La Mancha, 22 de junio de 2023](https://www.elespanol.com/eldigitalcastillalamancha/region/cuenca/20230622/nombres-representantes-partido-popular-diputacion-cuenca/773423119_0.amp.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* La fuente la llama Raquel Oliver, sin segundo apellido.
+
+## Francisco Javier Martínez Huerta (FA)
+
+FA en Cuenca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Marc Lamuà Estañol
+
+PSOE en Girona · pendiente
+
+**Trayectoria**
+
+- 2016–2026: Diputado del PSC por Girona desde enero de 2016 ([Wikipedia](https://en.wikipedia.org/wiki/Marc_Lamu%C3%A0))
+- desde 2020: Miembro suplente de la Asamblea Parlamentaria del Consejo de Europa ([Wikipedia](https://en.wikipedia.org/wiki/Marc_Lamu%C3%A0))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Marta Madrenas Mir
+
+Junts en Girona · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputada de Junts por Girona ([Diario de León, octubre de 2026](https://www.diariodeleon.es/nacional/261008/2099696/junts-confirma-miriam-nogueras-candidata-29n.html))
+- 2016–2023: Alcaldesa de Girona ([Wikipedia](https://en.wikipedia.org/wiki/Marta_Madrenas_i_Mir))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2019 la Fiscalía Superior de Cataluña archivó sus diligencias contra ella por la cesión de locales para el 1-O; no llegó a juzgado (https://www.vilaweb.cat/noticies/la-fiscalia-superior-de-catalunya-arxiva-la-investigacio-contra-lalcaldessa-de-girona-per-l1-o/).
+
+## Teresa Jordà Roura
+
+ERC en Girona · pendiente
+
+**Ahora**
+
+- Diputada de ERC en el Congreso ([Nació Digital, julio de 2026](https://naciodigital.cat/autor/teresa-jorda))
+
+**Trayectoria**
+
+- 2023–2026: Diputada por Girona; dejó la consellería en junio de 2023 para ir de número dos de ERC ([3Cat](https://www.3cat.cat/3catinfo/els-consellers-capella-i-mascort-continuisme-a-accio-climatica-i-renovacio-a-territori/noticia/3234669/))
+- 2018–2023: Consellera de Agricultura (Govern Torra) y de Acción Climática, Alimentación y Agenda Rural (Govern Aragonès) ([Wikipedia](https://en.wikipedia.org/wiki/Teresa_Jord%C3%A0))
+- 2011–2018: Diputada de ERC por Girona en el Congreso ([Wikipedia](https://en.wikipedia.org/wiki/Teresa_Jord%C3%A0))
+- Alcaldesa de Ripoll; antes concejala en la oposición (1999–2003) ([Gran Enciclopèdia Catalana](https://www.enciclopedia.cat/gran-enciclopedia-catalana/teresa-jorda-i-roura))
+- 2024: Presentó una candidatura alternativa a la de Oriol Junqueras para dirigir ERC ([El Independiente, 29 de agosto de 2024](https://www.elindependiente.com/espana/cataluna/2024/08/29/jorda-presenta-la-candidatura-alternativa-a-junqueras-sin-definirse-sobre-los-pactos-con-el-psoe/amp/))
+
+**Formación**
+
+- Estudió Historia en la Universitat Autònoma de Barcelona ([Wikipedia](https://en.wikipedia.org/wiki/Teresa_Jord%C3%A0))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2014 no fue imputada en el caso de las dietas de la Federació Catalana de Municipis por estar aforada; devolvió los 1.326 euros cobrados (https://naciodigital.cat/teresa-jorda-es-lliura-de-moment-de-ser-imputada-al-cas-fmc-per-ser-aforada.html). La causa se archivó para todos y el Supremo avaló el archivo (https://naciodigital.cat/el-suprem-avala-larxivament-del-cas-de-les-dietes-de-la-federacio-de-municipis.html).
+
+## Júlia Boada Danés
+
+FA en Girona · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputada por Girona (Grupo Plurinacional SUMAR) ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_332.pdf))
+- hasta 2023: Asesora política del Partido Verde Europeo en Bruselas ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_332.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Ignasi Mulleras Vinzia
+
+Vox en Girona · pendiente
+
+**Trayectoria**
+
+- 2021 y 2024: Número dos de Vox por Girona en las elecciones al Parlament ([Nació Digital](https://naciodigital.cat/politica/llista-vox-eleccions-catalunya-12-m-tots-candidats.html))
+- 2012–2015: Portavoz de Plataforma per Catalunya en el Ayuntamiento de Olot desde abril de 2012; cabeza de lista de PxC en Olot en 2015 ([Nació Digital, 15 de mayo de 2015](https://naciodigital.cat/garrotxa/politica/mulleras-no-hi-ha-hagut-a-olot-un-politic-mes-maltractat-que-un-servidor.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Diana Moya Redondo
+
+PP en Girona · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella más allá de su designación (Demócrata: https://www.democrata.es/politica/el-pp-designa-a-moya-landete-y-melero-como-cabezas-de-lista-al-congreso-por-girona-tarragona-y-lleida/).
+
+## María José Sánchez Sánchez
+
+PSOE en Granada · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública que permita identificarla; hay otras personas con nombres parecidos (María José Sánchez Rubio, exdiputada y exdelegada de la Junta en Granada), que no son ella.
+
+## Jacobo González-Robatto Perote
+
+Vox en Granada · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputado de Vox por Granada; portavoz en las comisiones de Educación y de Ciencia ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=121&idLegislatura=XV))
+- 2019–2022: Senador en la XIV legislatura ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=121&idLegislatura=XV))
+- Diputado en el Parlamento de Andalucía desde 2018; secretario de finanzas de Vox; consultor en el sector turístico ([Wikipedia](https://en.wikipedia.org/wiki/Jacobo_Gonz%C3%A1lez-Robatto))
+
+**Formación**
+
+- Licenciado en Administración de Empresas; MBA ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=121&idLegislatura=XV))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Alejandra Durán Parra
+
+Podemos en Granada · pendiente
+
+**Ahora**
+
+- Portavoz de Podemos Andalucía ([elDiario.es, 23 de octubre de 2026](https://www.eldiario.es/1_cfab9a))
+
+**Trayectoria**
+
+- 2022–2026: Diputada de Por Andalucía por Granada en el Parlamento andaluz; en septiembre de 2022 IU y Más País la sacaron de la Mesa ([Público](https://www.publico.es/politica/iu-pais-logran-sustituir-diputada-mesa-parlamento-andaluz.html))
+- desde 2019: Concejala en Padul; militante de Podemos desde 2014 ([elDiario.es, 23 de octubre de 2026](https://www.eldiario.es/1_cfab9a))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Jorge Saavedra Requena
+
+PP en Granada · pendiente
+
+**Ahora**
+
+- Portavoz del equipo de gobierno del Ayuntamiento de Granada, concejal de Presidencia y Relaciones Institucionales ([Agenda del Ayuntamiento de Granada](https://www.granada.org/inet/agecorporativos.nsf/hist!OpenView&Start=27&Count=30&Expand=49))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* The Objective (febrero de 2025) publicó una grabación que lo relaciona con el jefe de la Policía Local de Granada en la causa por presunto amaño de oposiciones que instruye el Juzgado de Instrucción n.º 4 de Granada (https://theobjective.com/espana/tribunales/2025-02-19/jefe-policia-granada-multa-concejal-pp/). No se ha encontrado que esté investigado.
+
+## Jesús Fernández Martín (FA)
+
+FA en Granada · pendiente
 
 **Procedimientos judiciales** (sin buscar)
 

@@ -2986,5 +2986,467 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Luis Carlos Sahuquillo García",
+    "lists": [
+      {
+        "province": "16",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretario general del PSOE de Cuenca (desde 2017 según Wikipedia, 2018 según su declaración en el Congreso)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Luis_Carlos_Sahuquillo"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2008–2026",
+        "text": "Diputado por Cuenca desde abril de 2008; en la XV legislatura, en el Grupo Socialista",
+        "source": {
+          "title": "Declaración de bienes e intereses en el Congreso",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_10.pdf"
+        }
+      },
+      {
+        "text": "Funcionario de la Junta de Comunidades de Castilla-La Mancha, en servicios especiales",
+        "source": {
+          "title": "Declaración de bienes e intereses en el Congreso",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_10.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ismael Iván Vélez Cipriano",
+    "lists": [
+      {
+        "province": "16",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Probablemente es el ensayista y arquitecto Iván Vélez, cabeza de lista de Vox por Cuenca en 2019 (https://www.theclinic.cl/2019/03/26/super-nacionalistas-partido-de-ultraderecha-espanol-confundio-ciudad-de-su-pais-con-una-ecuatoriana-del-mismo-nombre/) y, según elDiario.es (13 de marzo de 2026), asesor de la presidenta de las Corts Valencianes desde febrero de 2025, exdirector de la Fundación Denaes, ex cabeza de lista por Albacete y exdirector de la vicesecretaría de Acción de Gobierno de Vox (https://www.eldiario.es/comunitat-valenciana/segundo-asesor-vox-corts-cobra-90-000-euros-asiste-parlamento-opta-teletrabajo_1_13067002.html). Ninguna fuente da su nombre completo, así que no se ha confirmado que sea la misma persona.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José María Oviedo Oviedo",
+    "lists": [
+      {
+        "province": "16",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Podría ser el José María Oviedo que ganó en 2019 las primarias de Podemos a la alcaldía de Quintanar del Rey (https://www.elespanol.com/eldigitalcastillalamancha/region/20190208/podemos-candidatos-cuenca-toledo-ciudad-real-guadalajara/374714134_0.html); no se ha confirmado.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Raquel Oliver Chico",
+    "lists": [
+      {
+        "province": "16",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023",
+        "text": "Alcaldesa de Beamud, propuesta por el PP como diputada provincial en Cuenca",
+        "source": {
+          "title": "El Español – El Digital Castilla-La Mancha, 22 de junio de 2023",
+          "url": "https://www.elespanol.com/eldigitalcastillalamancha/region/cuenca/20230622/nombres-representantes-partido-popular-diputacion-cuenca/773423119_0.amp.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "La fuente la llama Raquel Oliver, sin segundo apellido.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Francisco Javier Martínez Huerta (FA)",
+    "lists": [
+      {
+        "province": "16",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Marc Lamuà Estañol",
+    "lists": [
+      {
+        "province": "17",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2016–2026",
+        "text": "Diputado del PSC por Girona desde enero de 2016",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marc_Lamu%C3%A0"
+        }
+      },
+      {
+        "period": "desde 2020",
+        "text": "Miembro suplente de la Asamblea Parlamentaria del Consejo de Europa",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marc_Lamu%C3%A0"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Marta Madrenas Mir",
+    "lists": [
+      {
+        "province": "17",
+        "partyId": "junts"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputada de Junts por Girona",
+        "source": {
+          "title": "Diario de León, octubre de 2026",
+          "url": "https://www.diariodeleon.es/nacional/261008/2099696/junts-confirma-miriam-nogueras-candidata-29n.html"
+        }
+      },
+      {
+        "period": "2016–2023",
+        "text": "Alcaldesa de Girona",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marta_Madrenas_i_Mir"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2019 la Fiscalía Superior de Cataluña archivó sus diligencias contra ella por la cesión de locales para el 1-O; no llegó a juzgado (https://www.vilaweb.cat/noticies/la-fiscalia-superior-de-catalunya-arxiva-la-investigacio-contra-lalcaldessa-de-girona-per-l1-o/).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Teresa Jordà Roura",
+    "lists": [
+      {
+        "province": "17",
+        "partyId": "erc"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada de ERC en el Congreso",
+        "source": {
+          "title": "Nació Digital, julio de 2026",
+          "url": "https://naciodigital.cat/autor/teresa-jorda"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputada por Girona; dejó la consellería en junio de 2023 para ir de número dos de ERC",
+        "source": {
+          "title": "3Cat",
+          "url": "https://www.3cat.cat/3catinfo/els-consellers-capella-i-mascort-continuisme-a-accio-climatica-i-renovacio-a-territori/noticia/3234669/"
+        }
+      },
+      {
+        "period": "2018–2023",
+        "text": "Consellera de Agricultura (Govern Torra) y de Acción Climática, Alimentación y Agenda Rural (Govern Aragonès)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Teresa_Jord%C3%A0"
+        }
+      },
+      {
+        "period": "2011–2018",
+        "text": "Diputada de ERC por Girona en el Congreso",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Teresa_Jord%C3%A0"
+        }
+      },
+      {
+        "text": "Alcaldesa de Ripoll; antes concejala en la oposición (1999–2003)",
+        "source": {
+          "title": "Gran Enciclopèdia Catalana",
+          "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/teresa-jorda-i-roura"
+        }
+      },
+      {
+        "period": "2024",
+        "text": "Presentó una candidatura alternativa a la de Oriol Junqueras para dirigir ERC",
+        "source": {
+          "title": "El Independiente, 29 de agosto de 2024",
+          "url": "https://www.elindependiente.com/espana/cataluna/2024/08/29/jorda-presenta-la-candidatura-alternativa-a-junqueras-sin-definirse-sobre-los-pactos-con-el-psoe/amp/"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Estudió Historia en la Universitat Autònoma de Barcelona",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Teresa_Jord%C3%A0"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2014 no fue imputada en el caso de las dietas de la Federació Catalana de Municipis por estar aforada; devolvió los 1.326 euros cobrados (https://naciodigital.cat/teresa-jorda-es-lliura-de-moment-de-ser-imputada-al-cas-fmc-per-ser-aforada.html). La causa se archivó para todos y el Supremo avaló el archivo (https://naciodigital.cat/el-suprem-avala-larxivament-del-cas-de-les-dietes-de-la-federacio-de-municipis.html).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Júlia Boada Danés",
+    "lists": [
+      {
+        "province": "17",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputada por Girona (Grupo Plurinacional SUMAR)",
+        "source": {
+          "title": "Declaración de bienes e intereses en el Congreso",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_332.pdf"
+        }
+      },
+      {
+        "period": "hasta 2023",
+        "text": "Asesora política del Partido Verde Europeo en Bruselas",
+        "source": {
+          "title": "Declaración de bienes e intereses en el Congreso",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_332.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ignasi Mulleras Vinzia",
+    "lists": [
+      {
+        "province": "17",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2021 y 2024",
+        "text": "Número dos de Vox por Girona en las elecciones al Parlament",
+        "source": {
+          "title": "Nació Digital",
+          "url": "https://naciodigital.cat/politica/llista-vox-eleccions-catalunya-12-m-tots-candidats.html"
+        }
+      },
+      {
+        "period": "2012–2015",
+        "text": "Portavoz de Plataforma per Catalunya en el Ayuntamiento de Olot desde abril de 2012; cabeza de lista de PxC en Olot en 2015",
+        "source": {
+          "title": "Nació Digital, 15 de mayo de 2015",
+          "url": "https://naciodigital.cat/garrotxa/politica/mulleras-no-hi-ha-hagut-a-olot-un-politic-mes-maltractat-que-un-servidor.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Diana Moya Redondo",
+    "lists": [
+      {
+        "province": "17",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella más allá de su designación (Demócrata: https://www.democrata.es/politica/el-pp-designa-a-moya-landete-y-melero-como-cabezas-de-lista-al-congreso-por-girona-tarragona-y-lleida/).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María José Sánchez Sánchez",
+    "lists": [
+      {
+        "province": "18",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública que permita identificarla; hay otras personas con nombres parecidos (María José Sánchez Rubio, exdiputada y exdelegada de la Junta en Granada), que no son ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jacobo González-Robatto Perote",
+    "lists": [
+      {
+        "province": "18",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputado de Vox por Granada; portavoz en las comisiones de Educación y de Ciencia",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=121&idLegislatura=XV"
+        }
+      },
+      {
+        "period": "2019–2022",
+        "text": "Senador en la XIV legislatura",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=121&idLegislatura=XV"
+        }
+      },
+      {
+        "text": "Diputado en el Parlamento de Andalucía desde 2018; secretario de finanzas de Vox; consultor en el sector turístico",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jacobo_Gonz%C3%A1lez-Robatto"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Administración de Empresas; MBA",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=121&idLegislatura=XV"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Alejandra Durán Parra",
+    "lists": [
+      {
+        "province": "18",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz de Podemos Andalucía",
+        "source": {
+          "title": "elDiario.es, 23 de octubre de 2026",
+          "url": "https://www.eldiario.es/1_cfab9a"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2022–2026",
+        "text": "Diputada de Por Andalucía por Granada en el Parlamento andaluz; en septiembre de 2022 IU y Más País la sacaron de la Mesa",
+        "source": {
+          "title": "Público",
+          "url": "https://www.publico.es/politica/iu-pais-logran-sustituir-diputada-mesa-parlamento-andaluz.html"
+        }
+      },
+      {
+        "period": "desde 2019",
+        "text": "Concejala en Padul; militante de Podemos desde 2014",
+        "source": {
+          "title": "elDiario.es, 23 de octubre de 2026",
+          "url": "https://www.eldiario.es/1_cfab9a"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jorge Saavedra Requena",
+    "lists": [
+      {
+        "province": "18",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz del equipo de gobierno del Ayuntamiento de Granada, concejal de Presidencia y Relaciones Institucionales",
+        "source": {
+          "title": "Agenda del Ayuntamiento de Granada",
+          "url": "https://www.granada.org/inet/agecorporativos.nsf/hist!OpenView&Start=27&Count=30&Expand=49"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "The Objective (febrero de 2025) publicó una grabación que lo relaciona con el jefe de la Policía Local de Granada en la causa por presunto amaño de oposiciones que instruye el Juzgado de Instrucción n.º 4 de Granada (https://theobjective.com/espana/tribunales/2025-02-19/jefe-policia-granada-multa-concejal-pp/). No se ha encontrado que esté investigado.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jesús Fernández Martín (FA)",
+    "lists": [
+      {
+        "province": "18",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
   }
 ]
