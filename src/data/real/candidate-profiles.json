@@ -6532,5 +6532,169 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre ella.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Susana Herran Martin",
+    "lists": [
+      {
+        "province": "39",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Alcaldesa de Castro Urdiales (PSOE)",
+        "source": {
+          "title": "PRC, documento de enero de 2023",
+          "url": "https://docs.prc.es/web_prc/docs/230128_Castro_Comit.pdf"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2016",
+        "text": "Portavoz del PSOE en el Ayuntamiento de Castro Urdiales",
+        "source": {
+          "title": "COPE Cantabria (iVoox), 28 de septiembre de 2016",
+          "url": "https://www.ivoox.com/en/podcast-susana-herran-portavoz-psoe-castro-28-09-16_sq_f1313313_1.html"
+        }
+      },
+      {
+        "period": "2024",
+        "text": "Encabezó la lista alternativa a la de Pablo Zuloaga para elegir delegados al 41.º Congreso Federal del PSOE, y ganó con el 50,69 %",
+        "source": {
+          "title": "elDiario.es",
+          "url": "https://www.eldiario.es/cantabria/ultimas-noticias/ferraz-resuelve-conflicto-cantabria-da-ganadora-herran-eleccion-delegados-congreso-federal_1_11764101.amp.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "elDiario.es publicó que no volvería a presentarse a la alcaldía de Castro Urdiales; no se ha comprobado la fecha. No se ha confirmado si sigue de alcaldesa en octubre de 2026.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Isabel Urrutia de los Mozos",
+    "lists": [
+      {
+        "province": "39",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Consejera de Presidencia, Justicia, Seguridad y Simplificación Administrativa del Gobierno de Cantabria (desde 2023)",
+        "source": {
+          "title": "elDiario.es, julio de 2023",
+          "url": "https://www.eldiario.es/cantabria/nuevos-consejeros-gobierno-cantabria-perfil-mixto-politicos-tecnicos-colaboradores-buruaga_1_10360359.html"
+        }
+      },
+      {
+        "text": "Miembro del Comité Europeo de las Regiones (desde octubre de 2023)",
+        "source": {
+          "title": "Comité Europeo de las Regiones",
+          "url": "https://www.cor.europa.eu/en/members/maria-isabel-urrutia-de-los-mozos"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2023",
+        "text": "Diputada del PP en el Parlamento de Cantabria y portavoz de asuntos sociales; renunció al escaño en julio de 2023",
+        "source": {
+          "title": "elDiario.es, julio de 2023",
+          "url": "https://www.eldiario.es/cantabria/ultimas-noticias/isabel-urrutia-roberto-media-tamara-gonzalez-renuncian-escano-diputados_1_10384552.html"
+        }
+      },
+      {
+        "period": "2011–2015",
+        "text": "Directora del Instituto Cántabro de Servicios Sociales (ICASS) en el Gobierno de Ignacio Diego",
+        "source": {
+          "title": "elDiario.es, julio de 2023",
+          "url": "https://www.eldiario.es/cantabria/nuevos-consejeros-gobierno-cantabria-perfil-mixto-politicos-tecnicos-colaboradores-buruaga_1_10360359.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "No confundir con María Isabel Urrutia, exministra del Deporte de Colombia, que sí tiene causas abiertas en su país.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Emilio Jesús del Valle Rodríguez",
+    "lists": [
+      {
+        "province": "39",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de Vox por Cantabria en el Congreso (desde 2019); su declaración de intereses lo recoge también como concejal en Santander",
+        "source": {
+          "title": "Congreso, declaración de intereses",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_124.pdf"
+        }
+      },
+      {
+        "text": "Presidente de Vox en Cantabria (desde 2022)",
+        "source": {
+          "title": "The Objective, abril de 2023",
+          "url": "https://theobjective.com/espana/politica/2023-04-18/vox-dimisiones-cantabria-listas/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "1995–1999",
+        "text": "Consejero de Presidencia del Gobierno de Cantabria con el PP (Gobierno de Martínez Sieso)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emilio_del_Valle"
+        }
+      },
+      {
+        "text": "Abogado y funcionario",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emilio_del_Valle"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Pablo Gómez Ruiz",
+    "lists": [
+      {
+        "province": "39",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Carmen Martin García",
+    "lists": [
+      {
+        "province": "39",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
   }
 ]

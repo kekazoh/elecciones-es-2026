@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-199 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+204 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3075,6 +3075,83 @@ Vox en Santa Cruz de Tenerife · pendiente
 ## María Soledad Collado Mirabal (UPC)
 
 UPC en Santa Cruz de Tenerife · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Susana Herran Martin
+
+PSOE en Cantabria · pendiente
+
+**Ahora**
+
+- Alcaldesa de Castro Urdiales (PSOE) ([PRC, documento de enero de 2023](https://docs.prc.es/web_prc/docs/230128_Castro_Comit.pdf))
+
+**Trayectoria**
+
+- 2016: Portavoz del PSOE en el Ayuntamiento de Castro Urdiales ([COPE Cantabria (iVoox), 28 de septiembre de 2016](https://www.ivoox.com/en/podcast-susana-herran-portavoz-psoe-castro-28-09-16_sq_f1313313_1.html))
+- 2024: Encabezó la lista alternativa a la de Pablo Zuloaga para elegir delegados al 41.º Congreso Federal del PSOE, y ganó con el 50,69 % ([elDiario.es](https://www.eldiario.es/cantabria/ultimas-noticias/ferraz-resuelve-conflicto-cantabria-da-ganadora-herran-eleccion-delegados-congreso-federal_1_11764101.amp.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* elDiario.es publicó que no volvería a presentarse a la alcaldía de Castro Urdiales; no se ha comprobado la fecha. No se ha confirmado si sigue de alcaldesa en octubre de 2026.
+
+## María Isabel Urrutia de los Mozos
+
+PP en Cantabria · pendiente
+
+**Ahora**
+
+- Consejera de Presidencia, Justicia, Seguridad y Simplificación Administrativa del Gobierno de Cantabria (desde 2023) ([elDiario.es, julio de 2023](https://www.eldiario.es/cantabria/nuevos-consejeros-gobierno-cantabria-perfil-mixto-politicos-tecnicos-colaboradores-buruaga_1_10360359.html))
+- Miembro del Comité Europeo de las Regiones (desde octubre de 2023) ([Comité Europeo de las Regiones](https://www.cor.europa.eu/en/members/maria-isabel-urrutia-de-los-mozos))
+
+**Trayectoria**
+
+- 2019–2023: Diputada del PP en el Parlamento de Cantabria y portavoz de asuntos sociales; renunció al escaño en julio de 2023 ([elDiario.es, julio de 2023](https://www.eldiario.es/cantabria/ultimas-noticias/isabel-urrutia-roberto-media-tamara-gonzalez-renuncian-escano-diputados_1_10384552.html))
+- 2011–2015: Directora del Instituto Cántabro de Servicios Sociales (ICASS) en el Gobierno de Ignacio Diego ([elDiario.es, julio de 2023](https://www.eldiario.es/cantabria/nuevos-consejeros-gobierno-cantabria-perfil-mixto-politicos-tecnicos-colaboradores-buruaga_1_10360359.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* No confundir con María Isabel Urrutia, exministra del Deporte de Colombia, que sí tiene causas abiertas en su país.
+
+## Emilio Jesús del Valle Rodríguez
+
+Vox en Cantabria · pendiente
+
+**Ahora**
+
+- Diputado de Vox por Cantabria en el Congreso (desde 2019) ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_124.pdf))
+- Presidente de Vox en Cantabria (desde 2022) y concejal en Santander ([The Objective, abril de 2023](https://theobjective.com/espana/politica/2023-04-18/vox-dimisiones-cantabria-listas/))
+
+**Trayectoria**
+
+- 1995–1999: Consejero de Presidencia del Gobierno de Cantabria con el PP (Gobierno de Martínez Sieso) ([Wikipedia](https://en.wikipedia.org/wiki/Emilio_del_Valle))
+- Abogado y funcionario ([Wikipedia](https://en.wikipedia.org/wiki/Emilio_del_Valle))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Pablo Gómez Ruiz
+
+Podemos en Cantabria · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## María Carmen Martin García
+
+FA en Cantabria · pendiente
 
 **Procedimientos judiciales** (sin buscar)
 
