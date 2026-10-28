@@ -64,6 +64,12 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
   provincias. `constituencies` de cada partido sale de ahí y las listas de
   candidatos están en `src/data/real/candidacies.json`. Se volverá a importar
   con las proclamadas (BOE del 3 de noviembre).
+  - Cabezas de lista: el primer candidato de cada lista del BOE, sin añadir
+    nada de otras fuentes. Tabla de las 52 provincias en
+    [CABEZAS-DE-LISTA.md](CABEZAS-DE-LISTA.md), que se regenera sola al
+    importar (o con `npm run cabezas-de-lista`). El informe los muestra en la
+    tabla de partidos de la provincia. Comprobado el 28 de octubre volviendo a
+    importar el BOE: no hay cambios respecto al JSON.
   - Posiciones solo tienen los 12 partidos con representación en la XV
     legislatura. Las 45 candidaturas nuevas entran sin posiciones: la app dice
     que se presentan, pero no las compara.
