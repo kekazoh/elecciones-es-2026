@@ -344,4 +344,7 @@ tbody tr:first-child td { font-weight: 700; }
 .candidate-list ol { margin: 8px 0 0; padding-left: 2.2em; columns: 2 16em; column-gap: 32px; line-height: 1.6; }
 .candidate-list li { break-inside: avoid; }
 .candidate-list details { margin-top: 12px; }
+.head-profile { margin-top: 16px; }
+.head-profile h4 { margin: 12px 0 4px; }
+.head-profile ul { margin: 0; padding-left: 1.2em; line-height: 1.5; }
 .candidate-list summary { cursor: pointer; font-weight: 600; color: var(--ink-2); }
