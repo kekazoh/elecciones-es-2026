@@ -8366,5 +8366,138 @@
     "judicial": [],
     "notes": "Solo aparece como firmante («SGM Santurtzi») de un pronunciamiento sobre las candidaturas vascas a las generales: https://www.naiz.eus/media/asset_publics/resources/000/231/645/original/PRONUNCIAMIENTO_Y_PROPUESTA_DE_MODIFICACION_DE_LAS_CANDIDATURAS_VASCAS_A_LAS_ELECCIONES_GENERALES_Y_NUESTRO_DERECHO_A_DECIDIR.pdf",
     "verification": "pendiente"
+  },
+  {
+    "name": "Antidio Fagúndez Campo",
+    "lists": [
+      {
+        "province": "49",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado del PSOE por Zamora en el Congreso (desde 2019) y secretario general del PSOE de Zamora",
+        "source": {
+          "title": "El Español, 22 de marzo de 2026",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/zamora/20260322/fagundez-discursos-odio-agresividad-insultos-amenazas-final-consecuencias-calle/1003744179425_0.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2018–2019",
+        "text": "Senador designado por las Cortes de Castilla y León",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Antidio_Fag%C3%BAndez"
+        }
+      },
+      {
+        "period": "2019",
+        "text": "Candidato del PSOE a la alcaldía de Zamora",
+        "source": {
+          "title": "El Español, 27 de marzo de 2019",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/zamora/20190327/pp-guarido-fagundez-estrepitoso-fracaso-banco-espana/386463339_0.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en 1976.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Montserrat Chimeno Viñas",
+    "lists": [
+      {
+        "province": "49",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Miguel Suárez Arca",
+    "lists": [
+      {
+        "province": "49",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Asesor del vicepresidente primero de las Cortes de Castilla y León (desde julio de 2026)",
+        "source": {
+          "title": "Boletín Oficial de las Cortes de Castilla y León",
+          "url": "https://sirdoc.ccyl.es/sirdoc/PDF/PUBLOFI/BO/CCL/12L/BOCCL1200023/BOCCL-12-000496.pdf"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2022–2026",
+        "text": "Procurador de Vox por León en las Cortes de Castilla y León; coordinador de Vox en la zona de Ponferrada",
+        "source": {
+          "title": "El Español, 15 de febrero de 2022",
+          "url": "https://www.elespanol.com/reportajes/20220215/vox-sin-experiencia-llave-cyl-ganaderos-taurinos/650185433_0.amp.html"
+        }
+      },
+      {
+        "text": "Jugador, entrenador y presidente del club de balonmano Ademar León",
+        "source": {
+          "title": "El Español, 15 de febrero de 2022",
+          "url": "https://www.elespanol.com/reportajes/20220215/vox-sin-experiencia-llave-cyl-ganaderos-taurinos/650185433_0.amp.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "El final del periodo como procurador (2026) se deduce de que en julio de 2026 pasó a ser asesor en las Cortes.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Miguel Ángel Guerra Cosme",
+    "lists": [
+      {
+        "province": "49",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Diego Bernardo Rosas",
+    "lists": [
+      {
+        "province": "49",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [
+      {
+        "text": "Concejal de Economía y Hacienda del Ayuntamiento de Zamora (IU)",
+        "source": {
+          "title": "El Español, 22 de mayo de 2023",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/zamora/20230522/izquierda-unida-zamoranos-ayuntamiento-zamora-gobernado-pp/765673605_0.amp.html"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "La fuente es de 2023; no se ha confirmado que siga en el cargo.",
+    "verification": "pendiente"
   }
 ]

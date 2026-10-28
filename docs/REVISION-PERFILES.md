@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-250 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+255 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3957,3 +3957,75 @@ Podemos en Bizkaia · pendiente
 - No se han buscado.
 
 *Notas:* Solo aparece como firmante («SGM Santurtzi») de un pronunciamiento sobre las candidaturas vascas a las generales: https://www.naiz.eus/media/asset_publics/resources/000/231/645/original/PRONUNCIAMIENTO_Y_PROPUESTA_DE_MODIFICACION_DE_LAS_CANDIDATURAS_VASCAS_A_LAS_ELECCIONES_GENERALES_Y_NUESTRO_DERECHO_A_DECIDIR.pdf
+
+## Antidio Fagúndez Campo
+
+PSOE en Zamora · pendiente
+
+**Ahora**
+
+- Diputado del PSOE por Zamora en el Congreso (desde 2019) y secretario general del PSOE de Zamora ([El Español, 22 de marzo de 2026](https://www.elespanol.com/castilla-y-leon/region/zamora/20260322/fagundez-discursos-odio-agresividad-insultos-amenazas-final-consecuencias-calle/1003744179425_0.html))
+
+**Trayectoria**
+
+- 2018–2019: Senador designado por las Cortes de Castilla y León ([Wikipedia](https://en.wikipedia.org/wiki/Antidio_Fag%C3%BAndez))
+- 2019: Candidato del PSOE a la alcaldía de Zamora ([El Español, 27 de marzo de 2019](https://www.elespanol.com/castilla-y-leon/region/zamora/20190327/pp-guarido-fagundez-estrepitoso-fracaso-banco-espana/386463339_0.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en 1976.
+
+## María Montserrat Chimeno Viñas
+
+PP en Zamora · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Miguel Suárez Arca
+
+Vox en Zamora · pendiente
+
+**Ahora**
+
+- Asesor del vicepresidente primero de las Cortes de Castilla y León (desde julio de 2026) ([Boletín Oficial de las Cortes de Castilla y León](https://sirdoc.ccyl.es/sirdoc/PDF/PUBLOFI/BO/CCL/12L/BOCCL1200023/BOCCL-12-000496.pdf))
+
+**Trayectoria**
+
+- 2022–2026: Procurador de Vox por León en las Cortes de Castilla y León; coordinador de Vox en la zona de Ponferrada ([El Español, 15 de febrero de 2022](https://www.elespanol.com/reportajes/20220215/vox-sin-experiencia-llave-cyl-ganaderos-taurinos/650185433_0.amp.html))
+- Jugador, entrenador y presidente del club de balonmano Ademar León ([El Español, 15 de febrero de 2022](https://www.elespanol.com/reportajes/20220215/vox-sin-experiencia-llave-cyl-ganaderos-taurinos/650185433_0.amp.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* El final del periodo como procurador (2026) se deduce de que en julio de 2026 pasó a ser asesor en las Cortes.
+
+## Miguel Ángel Guerra Cosme
+
+Podemos en Zamora · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Diego Bernardo Rosas
+
+FA en Zamora · pendiente
+
+**Ahora**
+
+- Concejal de Economía y Hacienda del Ayuntamiento de Zamora (IU) ([El Español, 22 de mayo de 2023](https://www.elespanol.com/castilla-y-leon/region/zamora/20230522/izquierda-unida-zamoranos-ayuntamiento-zamora-gobernado-pp/765673605_0.amp.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* La fuente es de 2023; no se ha confirmado que siga en el cargo.
