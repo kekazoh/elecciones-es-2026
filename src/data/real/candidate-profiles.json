@@ -3921,5 +3921,144 @@
     "judicial": [],
     "notes": "44 años, nacido en Isla Cristina.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Begoña Nasarre Oliva",
+    "lists": [
+      {
+        "province": "22",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Alcaldesa de Alcolea de Cinca desde 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputada del PSOE por Huesca desde mayo de 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre"
+        }
+      },
+      {
+        "period": "2016–2019",
+        "text": "Senadora por Huesca",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ester Blanco Sánchez",
+    "lists": [
+      {
+        "province": "22",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "text": "Autónoma en joyería y platería; vive en Panticosa",
+        "source": {
+          "title": "La Comarca, 21 de octubre de 2026",
+          "url": "https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Arqueología (Complutense); técnica superior en Orfebrería y Platería Artísticas; gemóloga (Instituto Gemológico Español)",
+        "source": {
+          "title": "La Comarca, 21 de octubre de 2026",
+          "url": "https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/"
+        }
+      }
+    ],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Vicente Oliver Alexandre",
+    "lists": [
+      {
+        "province": "22",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ana Isabel Alós Lopez",
+    "lists": [
+      {
+        "province": "22",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretaria general del PP de Aragón; diputada en el Congreso",
+        "source": {
+          "title": "Demócrata, octubre de 2026",
+          "url": "https://www.democrata.es/aragon/ana-alos-rocio-divar-y-alberto-herrero-encabezan-las-listas-del-pp-al-congreso-por-huesca-zaragoza-y-teruel/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2011–2015",
+        "text": "Alcaldesa de Huesca",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ana_Al%C3%B3s"
+        }
+      },
+      {
+        "period": "2016–2019",
+        "text": "Diputada en el Congreso; después, senadora desde 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ana_Al%C3%B3s"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Luis Parra Pascau (CHA)",
+    "lists": [
+      {
+        "province": "22",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
   }
 ]

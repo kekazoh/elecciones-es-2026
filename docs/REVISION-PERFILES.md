@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-114 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+119 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -1816,3 +1816,73 @@ Podemos en Huelva · pendiente
 - No se han buscado.
 
 *Notas:* 44 años, nacido en Isla Cristina.
+
+## Begoña Nasarre Oliva
+
+PSOE en Huesca · pendiente
+
+**Ahora**
+
+- Alcaldesa de Alcolea de Cinca desde 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre))
+
+**Trayectoria**
+
+- 2019–2026: Diputada del PSOE por Huesca desde mayo de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre))
+- 2016–2019: Senadora por Huesca ([Wikipedia](https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Ester Blanco Sánchez
+
+Vox en Huesca · pendiente
+
+**Trayectoria**
+
+- Autónoma en joyería y platería; vive en Panticosa ([La Comarca, 21 de octubre de 2026](https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/))
+
+**Formación**
+
+- Licenciada en Arqueología (Complutense); técnica superior en Orfebrería y Platería Artísticas; gemóloga (Instituto Gemológico Español) ([La Comarca, 21 de octubre de 2026](https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Vicente Oliver Alexandre
+
+Podemos en Huesca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Ana Isabel Alós Lopez
+
+PP en Huesca · pendiente
+
+**Ahora**
+
+- Secretaria general del PP de Aragón; diputada en el Congreso ([Demócrata, octubre de 2026](https://www.democrata.es/aragon/ana-alos-rocio-divar-y-alberto-herrero-encabezan-las-listas-del-pp-al-congreso-por-huesca-zaragoza-y-teruel/))
+
+**Trayectoria**
+
+- 2011–2015: Alcaldesa de Huesca ([Wikipedia](https://en.wikipedia.org/wiki/Ana_Al%C3%B3s))
+- 2016–2019: Diputada en el Congreso; después, senadora desde 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Ana_Al%C3%B3s))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## José Luis Parra Pascau (CHA)
+
+FA en Huesca · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
