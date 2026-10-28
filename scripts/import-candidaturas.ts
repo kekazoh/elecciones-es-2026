@@ -78,8 +78,9 @@ const CURATED: Record<string, Partial<Party>> = {
     name: 'Compromís: Front Valencià',
     shortName: 'Compromís',
     kind: 'coalicion',
-    // Compromís, EUPV, Podem y ERPV. Compromís no está en el dataset y heredar
-    // solo de Podemos le daría sus posturas: queda sin miembros hasta decidirlo.
+    // Compromís, EUPV, Podem y ERPV. Solo Podemos está en el dataset: hereda de
+    // él donde Compromís no tenga posición propia (decisión de keko, 28-10-2026).
+    members: ['podemos'],
   },
   'upn-pp': {
     name: 'Unión del Pueblo Navarro en coalición con Partido Popular',

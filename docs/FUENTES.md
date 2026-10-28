@@ -73,8 +73,8 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
     Más Madrid, Comuns y socios en cada comunidad), Unidad del Pueblo Canario
     (NC-BC, Podemos, IU y Sumar), UPN en coalición con el PP y Coalición
     Canaria-Municipalistas Primero Canarias. Compromís: Front Valencià
-    (Compromís, EUPV, Podem y ERPV) queda sin miembros del dataset hasta
-    decidir si hereda de Podemos.
+    (Compromís, EUPV, Podem y ERPV) hereda de Podemos mientras se codifica su
+    propio programa (decisión de keko del 28 de octubre).
 - Casos verificados con nota oficial del CGPJ y enlace a la sentencia por ECLI:
   Gürtel época I (PP), obras de Génova (PP), De Miguel (PNV) y Palau (CDC,
   atribuido a Junts como sucesor político por decisión del proyecto; el informe

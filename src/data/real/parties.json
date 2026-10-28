@@ -685,8 +685,11 @@
     "id": "compromis-fv",
     "name": "Compromís: Front Valencià",
     "shortName": "Compromís",
-    "color": "#8a8a8a",
+    "color": "#6b2e68",
     "kind": "coalicion",
+    "members": [
+      "podemos"
+    ],
     "constituencies": [
       "03",
       "12",
