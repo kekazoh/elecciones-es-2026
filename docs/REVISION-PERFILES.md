@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-61 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+81 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -1038,3 +1038,321 @@ PP en Cádiz · pendiente
 - Gürtel: contratos del Ayuntamiento de Jerez para Fitur 2004: penal, corrupción, archivado. Investigada en el Supremo, como aforada, por prevaricación y falsedad por contratos de 355.000 euros adjudicados a empresas de la trama Gürtel. El instructor, Antonio del Moral, archivó la causa por falta de indicios de responsabilidad penal. ([El Supremo archiva la causa contra la exalcaldesa de Jerez (elDiario.es)](https://www.eldiario.es/andalucia/Supremo-archiva-causa-exalcaldesa-Jerez_0_510599452.html); [La exalcaldesa niega ante el Supremo que firmara los contratos con la Gürtel (Diario Bahía de Cádiz)](https://www.diariobahiadecadiz.com/jerez/la-exalcaldesa-y-ahora-diputada-del-pp-garcia-pelayo-niega-ante-el-supremo-que-firmara-los-contratos-del-ayuntamiento-jerezano-con-la-gurtel))
 
 *Notas:* Falta la fecha del auto de archivo (hacia 2016) y fuentes oficiales de sus cargos.
+
+## María Jiménez Román
+
+PSOE en Castellón/Castelló · pendiente
+
+**Ahora**
+
+- Portavoz del grupo socialista en el Ayuntamiento de Oropesa del Mar y diputada provincial en la Diputación de Castellón ([El PSPV despeja la incógnita en Castellón: María Jiménez y Eva Redondo (ESdiario)](https://www.esdiario.com/comunidad-valenciana/castellon/261013/200142/pspv-despeja-incognita-castellon-apuestan-maria-jimenez-eva-redondo-lista-29n.html))
+
+**Trayectoria**
+
+- Abogada; secretaria general de la agrupación socialista de Oropesa y candidata a la alcaldía ([La abogada María Jiménez será la candidata del PSPV a la alcaldía de Oropesa (Valencia Plaza)](https://valenciaplaza.com/valenciaplaza/la-abogada-maria-jimenez-sera-la-candidata-del-pspv-a-la-alcaldia-de-oropesa))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Alberto Teófilo Asarta Cuevas
+
+Vox en Castellón/Castelló · pendiente
+
+**Trayectoria**
+
+- 2019-2026: Diputado por Castellón en el Congreso ([Alberto Asarta (Wikipedia)](https://en.wikipedia.org/wiki/Alberto_Asarta))
+- 2010-2012: General de división del Ejército de Tierra (retirado); jefe de la misión de la ONU en el Líbano (UNIFIL) ([Alberto Asarta (Wikipedia)](https://en.wikipedia.org/wiki/Alberto_Asarta))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2018 firmó un manifiesto de militares retirados en defensa de Franco (Valencia Plaza). Falta su ficha del Congreso.
+
+## Ignasi García Felip
+
+Compromís en Castellón/Castelló · pendiente
+
+**Ahora**
+
+- Portavoz de Compromís en el Ayuntamiento de Castelló y candidato a la alcaldía en 2023 ([Compromís votará no en la investidura de Carrasco (Valencia Plaza)](https://valenciaplaza.com/valenciaplaza/compromisconfirmaquevotaranoenlainvestiduradecarrascocomoalcaldesadecastello))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Elena Albalat Aguilella
+
+PP en Castellón/Castelló · pendiente
+
+**Ahora**
+
+- 2025-actualidad: Consellera de Servicios Sociales, Familia e Infancia de la Generalitat Valenciana ([La provincia de Castellón gana fuerza en el Consell (El Debate)](https://www.eldebate.com/espana/comunidad-valenciana/castellon/20251203/provincia-castellon-gana-fuerza-consell-asume-areas-estrategicas-generalitat-valenciana_361755.html))
+- Vicesecretaria de Acción Social del PP de la provincia de Castellón ([La provincia de Castellón gana fuerza en el Consell (El Debate)](https://www.eldebate.com/espana/comunidad-valenciana/castellon/20251203/provincia-castellon-gana-fuerza-consell-asume-areas-estrategicas-generalitat-valenciana_361755.html))
+
+**Trayectoria**
+
+- Directora general de Familia y secretaria autonómica de Infraestructuras Sociosanitarias de la Generalitat ([La provincia de Castellón gana fuerza en el Consell (El Debate)](https://www.eldebate.com/espana/comunidad-valenciana/castellon/20251203/provincia-castellon-gana-fuerza-consell-asume-areas-estrategicas-generalitat-valenciana_361755.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta su nombramiento en el DOGV.
+
+## Isabel Rodríguez García
+
+PSOE en Ciudad Real · pendiente
+
+**Ahora**
+
+- 2023-actualidad: Ministra de Vivienda y Agenda Urbana ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+
+**Trayectoria**
+
+- 2021-2023: Ministra de Política Territorial y portavoz del Gobierno ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+- 2019-2021: Alcaldesa de Puertollano ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+- 2011-2019: Diputada por Ciudad Real en el Congreso ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+- 2008-2011: Portavoz del Gobierno de Castilla-La Mancha (antes, directora general de Juventud, 2007-2008) ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+- 2004-2007: Senadora por Ciudad Real ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+
+**Formación**
+
+- Licenciada en Derecho (Universidad de Castilla-La Mancha) ([Biografía de la ministra (La Moncloa)](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Ricardo Chamorro Delmo
+
+Vox en Ciudad Real · pendiente
+
+**Ahora**
+
+- Concejal del Ayuntamiento de Ciudad Real (sin dedicación exclusiva) ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_294.pdf))
+
+**Trayectoria**
+
+- 2019-2026: Diputado por Ciudad Real en el Congreso (legislaturas XIII, XIV y XV) ([Declaración de actividades, XV legislatura (Congreso)](https://www.congreso.es/docinte/registro_intereses_diputado_294.pdf))
+- Abogado en el Colegio de Ciudad Real; delegado de la Fundación DENAES en Castilla-La Mancha ([Ricardo Chamorro Delmo (Wikipedia)](https://en.wikipedia.org/wiki/Ricardo_Chamorro_Delmo))
+
+**Formación**
+
+- Licenciado en Derecho (Universidad de Navarra) ([Ricardo Chamorro Delmo (Wikipedia)](https://en.wikipedia.org/wiki/Ricardo_Chamorro_Delmo))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## María Isabel Ruiz García
+
+Podemos en Ciudad Real · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## María Del Carmen Fúnez De Gregorio
+
+PP en Ciudad Real · pendiente
+
+**Ahora**
+
+- Vicesecretaria de Sanidad y Política Social del PP ([Carmen Fúnez: el juicio a Ábalos y Koldo demuestra… (El Debate)](https://www.eldebate.com/espana/20260503/carmen-funez-juicio-abalos-koldo-demuestra-sanchismo-llego-gobierno-enriquecerse_413017.html))
+
+**Trayectoria**
+
+- 2004-2015: Senadora por Ciudad Real ([Carmen Fúnez (Wikipedia)](https://en.wikipedia.org/wiki/Carmen_F%C3%BAnez))
+- 1999-2004: Diputada en las Cortes de Castilla-La Mancha ([Carmen Fúnez (Wikipedia)](https://en.wikipedia.org/wiki/Carmen_F%C3%BAnez))
+- 2001-2006: Presidenta de Nuevas Generaciones del PP ([Carmen Fúnez (Wikipedia)](https://en.wikipedia.org/wiki/Carmen_F%C3%BAnez))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Falta confirmar si fue diputada en la XV legislatura (ficha del Congreso) y su cargo exacto en la dirección del PP.
+
+## Juana Caro Marín
+
+FA en Ciudad Real · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Alberto Mayoral de Lamo
+
+PSOE en Córdoba · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Diputado por Córdoba en el Congreso (desde diciembre de 2023) y portavoz socialista de Inclusión y Seguridad Social desde 2024 ([Alberto Mayoral (Wikipedia)](https://en.wikipedia.org/wiki/Alberto_Mayoral))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Falta su ficha del Congreso.
+
+## José Ramírez del Río
+
+Vox en Córdoba · pendiente
+
+**Trayectoria**
+
+- 2019-2026: Diputado por Córdoba en el Congreso ([José Ramírez del Río (Wikipedia)](https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%ADrez_del_R%C3%ADo))
+- Profesor universitario y arabista ([José Ramírez del Río (Wikipedia)](https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%ADrez_del_R%C3%ADo))
+
+**Formación**
+
+- Licenciado en Estudios Semíticos, Árabes e Islámicos y doctor en Traducción (Universidad de Sevilla) ([José Ramírez del Río (Wikipedia)](https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%ADrez_del_R%C3%ADo))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Falta su ficha del Congreso para confirmar que siguió en la XV legislatura.
+
+## Lorena Guerra Sánchez
+
+PP en Córdoba · pendiente
+
+**Trayectoria**
+
+- 2023-2026: Senadora por Córdoba ([Lorena Guerra (Wikipedia)](https://en.wikipedia.org/wiki/Lorena_Guerra))
+- Ingeniera agrónoma y creadora de contenido en redes sociales ([Lorena Guerra (Wikipedia)](https://en.wikipedia.org/wiki/Lorena_Guerra))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Falta su ficha del Senado.
+
+## Sebastián Pérez Gallardo
+
+FA en Córdoba · pendiente
+
+**Trayectoria**
+
+- 2022: Coordinador provincial de IU en Córdoba y candidato de Por Andalucía al Parlamento andaluz ([Priego Digital](https://priegodigital.es/noticia/imprimirnoticia/13446))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado su cargo actual.
+
+## Ana Belén Calzada Hombrado
+
+Podemos en Córdoba · pendiente
+
+**Ahora**
+
+- Miembro de la Mesa de Partidos de la coalición; antes portavoz de Podemos en la ciudad de Córdoba ([Candidaturas de Podemos en Andalucía (elDiario.es)](https://www.eldiario.es/1_cfab9a))
+
+**Trayectoria**
+
+- Trabaja en la hostelería ([Candidaturas de Podemos en Andalucía (elDiario.es)](https://www.eldiario.es/1_cfab9a))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Conocida como Ana Calzada.
+
+## Obdulia Taboadela Álvarez
+
+PSOE en A Coruña · pendiente
+
+**Trayectoria**
+
+- hasta 2007: Subdelegada del Gobierno en A Coruña (cesada en abril de 2007) ([BOE, 27 de abril de 2007](https://boe.gob.es/boe/dias/2007/04/27/pdfs/A18431-18431.pdf))
+- Concejala del Ayuntamiento de A Coruña, senadora en la XIII legislatura y diputada en el Congreso ([Perfil en Club de Madrid](https://clubmadrid.org/?p=27085))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Demócrata (octubre de 2026) la presenta como subdelegada del Gobierno en A Coruña, pero Julio Abalde tomó posesión de ese cargo en septiembre de 2025; no se ha podido confirmar su cargo actual. Fuente de la lista: https://www.democrata.es/galicia/obdulia-taboadela-patricia-otero-carmen-r-dacosta-y-abel-losada-encabezaran-las-listas-del-psdeg-al-congreso-por-galicia/
+
+## Manuel Fuentes Lamas
+
+Vox en A Coruña · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él más allá de su candidatura (El Debate, 21 de octubre de 2026: https://www.eldebate.com/espana/20261021/estos-son-cabezas-lista-vox-29n_472379.html).
+
+## Miguel Ángel Tellado Filgueira
+
+PP en A Coruña · pendiente
+
+**Ahora**
+
+- Secretario general del PP ([El Debate, 6 de septiembre de 2025](https://www.eldebate.com/espana/20250906/tellado-pp-ano-judicial-psoe-empezara-begona-gomez-banquillo_332026.html))
+
+**Trayectoria**
+
+- XV legislatura: Diputado por A Coruña; vocal de la Diputación Permanente desde noviembre de 2023 ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false))
+- 2023–2025: Portavoz del Grupo Popular en la Junta de Portavoces ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false))
+- 2022–2025: Vicesecretario de Organización Territorial del PP ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false))
+
+**Formación**
+
+- Licenciado en Ciencias Políticas (Universidade de Santiago de Compostela) ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Ferrol en 1974.
+
+## Néstor Rego Candamil
+
+BNG en A Coruña · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado del BNG por A Coruña desde diciembre de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/N%C3%A9stor_Rego))
+- 1995–2008: Concejal de Santiago de Compostela; teniente de alcalde de 2003 a 2008 ([Wikipedia](https://en.wikipedia.org/wiki/N%C3%A9stor_Rego))
+- Profesor; militante del BNG desde 1982 ([Wikipedia](https://en.wikipedia.org/wiki/N%C3%A9stor_Rego))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Isabel Faraldo Calvo
+
+Podemos en A Coruña · pendiente
+
+**Ahora**
+
+- Portavoz de Podemos en A Coruña; trabaja en la administración sanitaria gallega ([Público](https://www.publico.es/politica/isabel-faraldo-sera-candidata-autonomicas-gallegas.html))
+
+**Trayectoria**
+
+- 2024: Cabeza de lista de Podemos en las elecciones gallegas de febrero de 2024 ([Público](https://www.publico.es/politica/isabel-faraldo-sera-candidata-autonomicas-gallegas.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Militante de Podemos desde 2014.
+
+## José Luis Piñeiro García
+
+FA en A Coruña · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.

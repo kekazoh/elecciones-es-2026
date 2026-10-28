@@ -1504,9 +1504,9 @@
     ],
     "education": [],
     "judicial": [],
+    "judicialChecked": "2026-10-28",
     "notes": "Faltan las fechas de sus cargos en la Junta y en el Ayuntamiento de Ávila.",
-    "verification": "pendiente",
-    "judicialChecked": "2026-10-28"
+    "verification": "pendiente"
   },
   {
     "name": "Pablo Garcinuño García",
@@ -2316,6 +2316,675 @@
     ],
     "judicialChecked": "2026-10-28",
     "notes": "Falta la fecha del auto de archivo (hacia 2016) y fuentes oficiales de sus cargos.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Jiménez Román",
+    "lists": [
+      {
+        "province": "12",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz del grupo socialista en el Ayuntamiento de Oropesa del Mar y diputada provincial en la Diputación de Castellón",
+        "source": {
+          "title": "El PSPV despeja la incógnita en Castellón: María Jiménez y Eva Redondo (ESdiario)",
+          "url": "https://www.esdiario.com/comunidad-valenciana/castellon/261013/200142/pspv-despeja-incognita-castellon-apuestan-maria-jimenez-eva-redondo-lista-29n.html",
+          "date": "2026-10-13"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Abogada; secretaria general de la agrupación socialista de Oropesa y candidata a la alcaldía",
+        "source": {
+          "title": "La abogada María Jiménez será la candidata del PSPV a la alcaldía de Oropesa (Valencia Plaza)",
+          "url": "https://valenciaplaza.com/valenciaplaza/la-abogada-maria-jimenez-sera-la-candidata-del-pspv-a-la-alcaldia-de-oropesa"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Alberto Teófilo Asarta Cuevas",
+    "lists": [
+      {
+        "province": "12",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019-2026",
+        "text": "Diputado por Castellón en el Congreso",
+        "source": {
+          "title": "Alberto Asarta (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Asarta"
+        }
+      },
+      {
+        "period": "2010-2012",
+        "text": "General de división del Ejército de Tierra (retirado); jefe de la misión de la ONU en el Líbano (UNIFIL)",
+        "source": {
+          "title": "Alberto Asarta (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Asarta"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2018 firmó un manifiesto de militares retirados en defensa de Franco (Valencia Plaza). Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ignasi García Felip",
+    "lists": [
+      {
+        "province": "12",
+        "partyId": "compromis-fv"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz de Compromís en el Ayuntamiento de Castelló y candidato a la alcaldía en 2023",
+        "source": {
+          "title": "Compromís votará no en la investidura de Carrasco (Valencia Plaza)",
+          "url": "https://valenciaplaza.com/valenciaplaza/compromisconfirmaquevotaranoenlainvestiduradecarrascocomoalcaldesadecastello",
+          "date": "2023-06"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Elena Albalat Aguilella",
+    "lists": [
+      {
+        "province": "12",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "period": "2025-actualidad",
+        "text": "Consellera de Servicios Sociales, Familia e Infancia de la Generalitat Valenciana",
+        "source": {
+          "title": "La provincia de Castellón gana fuerza en el Consell (El Debate)",
+          "url": "https://www.eldebate.com/espana/comunidad-valenciana/castellon/20251203/provincia-castellon-gana-fuerza-consell-asume-areas-estrategicas-generalitat-valenciana_361755.html",
+          "date": "2025-12-03"
+        }
+      },
+      {
+        "text": "Vicesecretaria de Acción Social del PP de la provincia de Castellón",
+        "source": {
+          "title": "La provincia de Castellón gana fuerza en el Consell (El Debate)",
+          "url": "https://www.eldebate.com/espana/comunidad-valenciana/castellon/20251203/provincia-castellon-gana-fuerza-consell-asume-areas-estrategicas-generalitat-valenciana_361755.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Directora general de Familia y secretaria autonómica de Infraestructuras Sociosanitarias de la Generalitat",
+        "source": {
+          "title": "La provincia de Castellón gana fuerza en el Consell (El Debate)",
+          "url": "https://www.eldebate.com/espana/comunidad-valenciana/castellon/20251203/provincia-castellon-gana-fuerza-consell-asume-areas-estrategicas-generalitat-valenciana_361755.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Falta su nombramiento en el DOGV.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Isabel Rodríguez García",
+    "lists": [
+      {
+        "province": "13",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "period": "2023-actualidad",
+        "text": "Ministra de Vivienda y Agenda Urbana",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2021-2023",
+        "text": "Ministra de Política Territorial y portavoz del Gobierno",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      },
+      {
+        "period": "2019-2021",
+        "text": "Alcaldesa de Puertollano",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      },
+      {
+        "period": "2011-2019",
+        "text": "Diputada por Ciudad Real en el Congreso",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      },
+      {
+        "period": "2008-2011",
+        "text": "Portavoz del Gobierno de Castilla-La Mancha (antes, directora general de Juventud, 2007-2008)",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      },
+      {
+        "period": "2004-2007",
+        "text": "Senadora por Ciudad Real",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Derecho (Universidad de Castilla-La Mancha)",
+        "source": {
+          "title": "Biografía de la ministra (La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-isabel-rodriguez.aspx"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ricardo Chamorro Delmo",
+    "lists": [
+      {
+        "province": "13",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Concejal del Ayuntamiento de Ciudad Real (sin dedicación exclusiva)",
+        "source": {
+          "title": "Declaración de actividades, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_294.pdf",
+          "date": "2023"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019-2026",
+        "text": "Diputado por Ciudad Real en el Congreso (legislaturas XIII, XIV y XV)",
+        "source": {
+          "title": "Declaración de actividades, XV legislatura (Congreso)",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_294.pdf"
+        }
+      },
+      {
+        "text": "Abogado en el Colegio de Ciudad Real; delegado de la Fundación DENAES en Castilla-La Mancha",
+        "source": {
+          "title": "Ricardo Chamorro Delmo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Chamorro_Delmo"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho (Universidad de Navarra)",
+        "source": {
+          "title": "Ricardo Chamorro Delmo (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Chamorro_Delmo"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Isabel Ruiz García",
+    "lists": [
+      {
+        "province": "13",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Del Carmen Fúnez De Gregorio",
+    "lists": [
+      {
+        "province": "13",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Vicesecretaria de Sanidad y Política Social del PP",
+        "source": {
+          "title": "Carmen Fúnez: el juicio a Ábalos y Koldo demuestra… (El Debate)",
+          "url": "https://www.eldebate.com/espana/20260503/carmen-funez-juicio-abalos-koldo-demuestra-sanchismo-llego-gobierno-enriquecerse_413017.html",
+          "date": "2026-05-03"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2004-2015",
+        "text": "Senadora por Ciudad Real",
+        "source": {
+          "title": "Carmen Fúnez (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Carmen_F%C3%BAnez"
+        }
+      },
+      {
+        "period": "1999-2004",
+        "text": "Diputada en las Cortes de Castilla-La Mancha",
+        "source": {
+          "title": "Carmen Fúnez (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Carmen_F%C3%BAnez"
+        }
+      },
+      {
+        "period": "2001-2006",
+        "text": "Presidenta de Nuevas Generaciones del PP",
+        "source": {
+          "title": "Carmen Fúnez (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Carmen_F%C3%BAnez"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Falta confirmar si fue diputada en la XV legislatura (ficha del Congreso) y su cargo exacto en la dirección del PP.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Juana Caro Marín",
+    "lists": [
+      {
+        "province": "13",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Alberto Mayoral de Lamo",
+    "lists": [
+      {
+        "province": "14",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Diputado por Córdoba en el Congreso (desde diciembre de 2023) y portavoz socialista de Inclusión y Seguridad Social desde 2024",
+        "source": {
+          "title": "Alberto Mayoral (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Mayoral"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Falta su ficha del Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Ramírez del Río",
+    "lists": [
+      {
+        "province": "14",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019-2026",
+        "text": "Diputado por Córdoba en el Congreso",
+        "source": {
+          "title": "José Ramírez del Río (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%ADrez_del_R%C3%ADo"
+        }
+      },
+      {
+        "text": "Profesor universitario y arabista",
+        "source": {
+          "title": "José Ramírez del Río (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%ADrez_del_R%C3%ADo"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Estudios Semíticos, Árabes e Islámicos y doctor en Traducción (Universidad de Sevilla)",
+        "source": {
+          "title": "José Ramírez del Río (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%ADrez_del_R%C3%ADo"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "Falta su ficha del Congreso para confirmar que siguió en la XV legislatura.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Lorena Guerra Sánchez",
+    "lists": [
+      {
+        "province": "14",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023-2026",
+        "text": "Senadora por Córdoba",
+        "source": {
+          "title": "Lorena Guerra (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Lorena_Guerra"
+        }
+      },
+      {
+        "text": "Ingeniera agrónoma y creadora de contenido en redes sociales",
+        "source": {
+          "title": "Lorena Guerra (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Lorena_Guerra"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Falta su ficha del Senado.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Sebastián Pérez Gallardo",
+    "lists": [
+      {
+        "province": "14",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2022",
+        "text": "Coordinador provincial de IU en Córdoba y candidato de Por Andalucía al Parlamento andaluz",
+        "source": {
+          "title": "Priego Digital",
+          "url": "https://priegodigital.es/noticia/imprimirnoticia/13446",
+          "date": "2022-06"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado su cargo actual.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ana Belén Calzada Hombrado",
+    "lists": [
+      {
+        "province": "14",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Miembro de la Mesa de Partidos de la coalición; antes portavoz de Podemos en la ciudad de Córdoba",
+        "source": {
+          "title": "Candidaturas de Podemos en Andalucía (elDiario.es)",
+          "url": "https://www.eldiario.es/1_cfab9a"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Trabaja en la hostelería",
+        "source": {
+          "title": "Candidaturas de Podemos en Andalucía (elDiario.es)",
+          "url": "https://www.eldiario.es/1_cfab9a"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Conocida como Ana Calzada.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Obdulia Taboadela Álvarez",
+    "lists": [
+      {
+        "province": "15",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "hasta 2007",
+        "text": "Subdelegada del Gobierno en A Coruña (cesada en abril de 2007)",
+        "source": {
+          "title": "BOE, 27 de abril de 2007",
+          "url": "https://boe.gob.es/boe/dias/2007/04/27/pdfs/A18431-18431.pdf"
+        }
+      },
+      {
+        "text": "Concejala del Ayuntamiento de A Coruña, senadora en la XIII legislatura y diputada en el Congreso",
+        "source": {
+          "title": "Perfil en Club de Madrid",
+          "url": "https://clubmadrid.org/?p=27085"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Demócrata (octubre de 2026) la presenta como subdelegada del Gobierno en A Coruña, pero Julio Abalde tomó posesión de ese cargo en septiembre de 2025; no se ha podido confirmar su cargo actual. Fuente de la lista: https://www.democrata.es/galicia/obdulia-taboadela-patricia-otero-carmen-r-dacosta-y-abel-losada-encabezaran-las-listas-del-psdeg-al-congreso-por-galicia/",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Manuel Fuentes Lamas",
+    "lists": [
+      {
+        "province": "15",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él más allá de su candidatura (El Debate, 21 de octubre de 2026: https://www.eldebate.com/espana/20261021/estos-son-cabezas-lista-vox-29n_472379.html).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Miguel Ángel Tellado Filgueira",
+    "lists": [
+      {
+        "province": "15",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretario general del PP",
+        "source": {
+          "title": "El Debate, 6 de septiembre de 2025",
+          "url": "https://www.eldebate.com/espana/20250906/tellado-pp-ano-judicial-psoe-empezara-begona-gomez-banquillo_332026.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "XV legislatura",
+        "text": "Diputado por A Coruña; vocal de la Diputación Permanente desde noviembre de 2023",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false"
+        }
+      },
+      {
+        "period": "2023–2025",
+        "text": "Portavoz del Grupo Popular en la Junta de Portavoces",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false"
+        }
+      },
+      {
+        "period": "2022–2025",
+        "text": "Vicesecretario de Organización Territorial del PP",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Ciencias Políticas (Universidade de Santiago de Compostela)",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=26&idLegislatura=XV&mostrarAgenda=false"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Ferrol en 1974.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Néstor Rego Candamil",
+    "lists": [
+      {
+        "province": "15",
+        "partyId": "bng"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputado del BNG por A Coruña desde diciembre de 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/N%C3%A9stor_Rego"
+        }
+      },
+      {
+        "period": "1995–2008",
+        "text": "Concejal de Santiago de Compostela; teniente de alcalde de 2003 a 2008",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/N%C3%A9stor_Rego"
+        }
+      },
+      {
+        "text": "Profesor; militante del BNG desde 1982",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/N%C3%A9stor_Rego"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Isabel Faraldo Calvo",
+    "lists": [
+      {
+        "province": "15",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz de Podemos en A Coruña; trabaja en la administración sanitaria gallega",
+        "source": {
+          "title": "Público",
+          "url": "https://www.publico.es/politica/isabel-faraldo-sera-candidata-autonomicas-gallegas.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2024",
+        "text": "Cabeza de lista de Podemos en las elecciones gallegas de febrero de 2024",
+        "source": {
+          "title": "Público",
+          "url": "https://www.publico.es/politica/isabel-faraldo-sera-candidata-autonomicas-gallegas.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Militante de Podemos desde 2014.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Luis Piñeiro García",
+    "lists": [
+      {
+        "province": "15",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
   }
 ]
