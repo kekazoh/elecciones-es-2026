@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-255 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+260 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -4029,3 +4029,74 @@ FA en Zamora · pendiente
 - No se han buscado.
 
 *Notas:* La fuente es de 2023; no se ha confirmado que siga en el cargo.
+
+## Fernando Ángel Beltrán Blázquez
+
+PSOE en Zaragoza · pendiente
+
+**Ahora**
+
+- Delegado del Gobierno en Aragón (al menos desde agosto de 2023) ([El Español, 30 de julio de 2026](https://www.elespanol.com/aragon/actualidad/20260730/beltran-defiende-pedro-sanchez-sienta-bien-aragon-podia-hecho-sin-trabas-azcon/1003744338859_0.html))
+
+**Trayectoria**
+
+- 2020: Nombrado subdelegado del Gobierno en Zaragoza ([BOE, 31 de julio de 2020](https://boe.es/boe/dias/2020/07/31/pdfs/BOE-A-2020-8860.pdf))
+- Profesor titular de universidad (funcionario) ([BOE, 31 de julio de 2020](https://boe.es/boe/dias/2020/07/31/pdfs/BOE-A-2020-8860.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado una biografía detallada.
+
+## María del Rocío Dívar Conde
+
+PP en Zaragoza · pendiente
+
+**Ahora**
+
+- Senadora del PP por Zaragoza (desde julio de 2023) y portavoz adjunta del Grupo Popular en el Senado ([Wikipedia](https://en.wikipedia.org/wiki/Roc%C3%ADo_D%C3%ADvar))
+- Vicesecretaria del PP de Aragón ([Demócrata](https://www.democrata.es/aragon/ana-alos-rocio-divar-y-alberto-herrero-encabezan-las-listas-del-pp-al-congreso-por-huesca-zaragoza-y-teruel/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacida en 1981.
+
+## María Carmen Rouco Laliena
+
+Vox en Zaragoza · pendiente
+
+**Ahora**
+
+- Diputada de Vox en las Cortes de Aragón (desde mayo de 2023) y vicepresidenta de las Cortes (desde 2026) ([El Español, 19 de mayo de 2026](https://www.elespanol.com/aragon/actualidad/20260519/oficial-vox-hace-vicepresidencia-cortes-aragon-queda-senador-autonomico-pp/1003744250669_0.html))
+
+**Trayectoria**
+
+- 2019–2023: Concejala y portavoz adjunta de Vox en el Ayuntamiento de Zaragoza ([La Comarca, 21 de octubre de 2026](https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/))
+- Funcionaria de carrera de la Administración de Justicia (desde 1984) ([La Comarca, 21 de octubre de 2026](https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Alicia Arteaga Lahuerta
+
+Podemos en Zaragoza · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Marina Rodríguez Hernando (CHA)
+
+FA en Zaragoza · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
