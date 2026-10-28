@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-238 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+243 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3712,7 +3712,7 @@ PP en Valencia/València · pendiente
 
 - No consta ninguno.
 
-*Notas:* En abril de 2026 la Fiscalía Anticorrupción abrió una investigación a raíz de una denuncia de Compromís sobre contrataciones de personal, por presunta prevaricación y tráfico de influencias, que incluye a Catalá y a la presidenta del Puerto, Mar Chao; no consta que haya llegado a un juzgado: https://en.ara.cat/politics/anti-corruption-investigates-the-mayor-of-valencia-and-the-president-of-the-port-for-malfeasance-and-influence-peddling_25_5706998.html . En abril de 2025 un juzgado de lo contencioso le impuso una multa de 1.000 € como responsable del Ayuntamiento por no entregar un expediente de las oposiciones de la Policía Local; no es una causa contra ella: https://www.eldiario.es/1_ba9737 . Declaró como testigo en la causa de la dana.
+*Notas:* En abril de 2026 la Fiscalía Anticorrupción abrió una investigación a raíz de una denuncia de Compromís sobre contrataciones de personal, por presunta prevaricación y tráfico de influencias, que incluye a Catalá y a la presidenta del Puerto, Mar Chao; se trata de diligencias de la Fiscalía, con fiscal instructor designado en marzo de 2026 y un informe de la Intervención General del Estado incorporado, y no consta que hayan llegado a un juzgado: https://www.eldebate.com/espana/comunidad-valenciana/20260414/anticorrupcion-investiga-alcaldesa-presidenta-puerto-valencia-denuncia-compromis_406559.html . En abril de 2025 un juzgado de lo contencioso le impuso una multa de 1.000 € como responsable del Ayuntamiento por no entregar un expediente de las oposiciones de la Policía Local; no es una causa contra ella: https://www.eldiario.es/1_ba9737 . Declaró como testigo en la causa de la dana.
 
 ## Àgueda Micó Micó
 
@@ -3726,9 +3726,9 @@ Compromís en Valencia/València · pendiente
 
 - Secretaria general de Més Compromís hasta su elección como diputada en 2023 ([Valencia Plaza](https://valenciaplaza.com/valenciaplaza/mescompromisadelantasucongresoaprincipiosde2024traslamarchademicoamadrid1))
 
-**Procedimientos judiciales** (sin buscar)
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
 
-- No se han buscado.
+- No consta ninguno.
 
 *Notas:* Nacida en L'Olleria en 1978.
 
@@ -3746,8 +3746,100 @@ Vox en Valencia/València · pendiente
 - 1982–2015: Diputado de AP y del PP en el Congreso (con un periodo como senador); vicepresidente cuarto del Congreso y portavoz adjunto del Grupo Popular (2000–2004) ([Wikipedia](https://en.wikipedia.org/wiki/Ignacio_Gil))
 - 2018: Abandonó el PP ([Valencia Plaza](https://valenciaplaza.com/el-valenciano-gil-lazaro-sera-vicepresidente-del-congreso-por-vox))
 
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en València en 1957.
+
+## Óscar Puente Santiago
+
+PSOE en Valladolid · pendiente
+
+**Ahora**
+
+- Ministro de Transportes y Movilidad Sostenible (desde noviembre de 2023) y diputado del PSOE por Valladolid (desde agosto de 2023) ([Wikipedia](https://en.wikipedia.org/wiki/%C3%93scar_Puente))
+
+**Trayectoria**
+
+- 2015–2023: Alcalde de Valladolid (concejal desde 2007) ([Wikipedia](https://en.wikipedia.org/wiki/%C3%93scar_Puente))
+- 2017–2021: Portavoz de la Ejecutiva Federal del PSOE ([Wikipedia](https://en.wikipedia.org/wiki/%C3%93scar_Puente))
+- desde 2009: Secretario general del PSOE de Valladolid ([Wikipedia](https://en.wikipedia.org/wiki/%C3%93scar_Puente))
+- Abogado en ejercicio desde 1995 ([Wikipedia](https://en.wikipedia.org/wiki/%C3%93scar_Puente))
+
+**Formación**
+
+- Licenciado en Derecho por la Universidad de Valladolid; máster en Gestión Política ([Wikipedia](https://en.wikipedia.org/wiki/%C3%93scar_Puente))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- Viaje en yate pagado por el empresario Sergio Zaitegui: Cohecho, corrupción, archivado. La asociación Pro Lege se querelló contra él, como alcalde de Valladolid, por un viaje en yate en 2020 pagado por un empresario con contrato municipal. El Juzgado de Instrucción n.º 6 de Valladolid investigó desde mayo de 2021 y archivó en octubre de 2021 al apreciar una amistad previa; la Audiencia de Valladolid desestimó el recurso con costas. ([The Objective, 31 de agosto de 2024](https://theobjective.com/espana/tribunales/2024-08-31/puente-abogado-vacaciones-yate-empresario/))
+
+*Notas:* Nacido en Valladolid en 1968.
+
+## María Pardo Álvarez
+
+PP en Valladolid · pendiente
+
+**Ahora**
+
+- Consejera de Educación de la Junta de Castilla y León (desde junio de 2026) ([El Español, 13 de junio de 2026](https://www.elespanol.com/castilla-y-leon/region/20260613/consejeros-junta-castilla-leon-pollan-blanco-vicepresidentes-caras-nuevas/1003744284949_0.html))
+
+**Trayectoria**
+
+- 2019–2026: Directora general de Vivienda, Arquitectura (y Ordenación del Territorio) y Urbanismo de la Junta de Castilla y León ([El Español, 15 de junio de 2026](https://www.elespanol.com/castilla-y-leon/cultura/educacion-y-universidad/20260615/maria-pardo-deberes-nueva-consejera-educacion-profesorado-castilla-leon-no-admite-dilaciones/1003744286655_0.html))
+- 2026: Candidata del PP por Valladolid a las Cortes de Castilla y León ([El Español, 12 de marzo de 2026](https://www.elespanol.com/castilla-y-leon/region/valladolid/20260312/maria-pardo-candidata-pp-valladolid-psoe-provocado-facil-okupa-propietario/1003744163967_0.amp.html))
+- Profesora de Derecho Administrativo en la Universidad de Valladolid ([Demócrata](https://www.democrata.es/politicos/maria-pardo-alvarez-3265))
+
+**Formación**
+
+- Doctora en Derecho por la Universidad de Valladolid ([Demócrata](https://www.democrata.es/politicos/maria-pardo-alvarez-3265))
+
 **Procedimientos judiciales** (sin buscar)
 
 - No se han buscado.
 
-*Notas:* Nacido en València en 1957.
+*Notas:* Nacida en Simancas en 1971.
+
+## Pablo Sáez Alonso-Muñumer
+
+Vox en Valladolid · pendiente
+
+**Ahora**
+
+- Diputado de Vox por Valladolid en el Congreso (desde 2019) ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_S%C3%A1ez_Alonso-Mu%C3%B1umer))
+- Tesorero nacional de Vox (desde 2024) ([The Objective, 17 de enero de 2024](https://theobjective.com/espana/castilla-y-leon/2024-01-17/vox-garcia-gallardo-pablo-saez-confianza-santiago-asbascal/))
+
+**Trayectoria**
+
+- Corredor de seguros durante unos treinta años ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_S%C3%A1ez_Alonso-Mu%C3%B1umer))
+
+**Formación**
+
+- Licenciado en Económicas (Universidad de Valladolid); máster en Derecho Financiero (IESE) ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_S%C3%A1ez_Alonso-Mu%C3%B1umer))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en 1964. La Fiscalía Anticorrupción abrió en marzo de 2025 diligencias reservadas sobre la financiación de Vox tras una denuncia del PSOE, que pedía tomar declaración, entre otros, al tesorero; no consta que esté investigado personalmente ni que haya causa judicial: https://www.elindependiente.com/espana/tribunales/2025/03/10/anticorrupcion-investiga-a-vox-por-financiacion-irregular/amp/
+
+## María Almudena Villareal Vidal
+
+Podemos en Valladolid · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Abdul Gadiri Diallo Bah
+
+FA en Valladolid · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.

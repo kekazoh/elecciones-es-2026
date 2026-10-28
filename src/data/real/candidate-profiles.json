@@ -7853,7 +7853,7 @@
     ],
     "judicial": [],
     "judicialChecked": "2026-10-28",
-    "notes": "En abril de 2026 la Fiscalía Anticorrupción abrió una investigación a raíz de una denuncia de Compromís sobre contrataciones de personal, por presunta prevaricación y tráfico de influencias, que incluye a Catalá y a la presidenta del Puerto, Mar Chao; no consta que haya llegado a un juzgado: https://en.ara.cat/politics/anti-corruption-investigates-the-mayor-of-valencia-and-the-president-of-the-port-for-malfeasance-and-influence-peddling_25_5706998.html . En abril de 2025 un juzgado de lo contencioso le impuso una multa de 1.000 € como responsable del Ayuntamiento por no entregar un expediente de las oposiciones de la Policía Local; no es una causa contra ella: https://www.eldiario.es/1_ba9737 . Declaró como testigo en la causa de la dana.",
+    "notes": "En abril de 2026 la Fiscalía Anticorrupción abrió una investigación a raíz de una denuncia de Compromís sobre contrataciones de personal, por presunta prevaricación y tráfico de influencias, que incluye a Catalá y a la presidenta del Puerto, Mar Chao; se trata de diligencias de la Fiscalía, con fiscal instructor designado en marzo de 2026 y un informe de la Intervención General del Estado incorporado, y no consta que hayan llegado a un juzgado: https://www.eldebate.com/espana/comunidad-valenciana/20260414/anticorrupcion-investiga-alcaldesa-presidenta-puerto-valencia-denuncia-compromis_406559.html . En abril de 2025 un juzgado de lo contencioso le impuso una multa de 1.000 € como responsable del Ayuntamiento por no entregar un expediente de las oposiciones de la Policía Local; no es una causa contra ella: https://www.eldiario.es/1_ba9737 . Declaró como testigo en la causa de la dana.",
     "verification": "pendiente"
   },
   {
@@ -7884,6 +7884,7 @@
     ],
     "education": [],
     "judicial": [],
+    "judicialChecked": "2026-10-28",
     "notes": "Nacida en L'Olleria en 1978.",
     "verification": "pendiente"
   },
@@ -7932,7 +7933,218 @@
     ],
     "education": [],
     "judicial": [],
+    "judicialChecked": "2026-10-28",
     "notes": "Nacido en València en 1957.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Óscar Puente Santiago",
+    "lists": [
+      {
+        "province": "47",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Ministro de Transportes y Movilidad Sostenible (desde noviembre de 2023) y diputado del PSOE por Valladolid (desde agosto de 2023)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%93scar_Puente"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2015–2023",
+        "text": "Alcalde de Valladolid (concejal desde 2007)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%93scar_Puente"
+        }
+      },
+      {
+        "period": "2017–2021",
+        "text": "Portavoz de la Ejecutiva Federal del PSOE",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%93scar_Puente"
+        }
+      },
+      {
+        "period": "desde 2009",
+        "text": "Secretario general del PSOE de Valladolid",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%93scar_Puente"
+        }
+      },
+      {
+        "text": "Abogado en ejercicio desde 1995",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%93scar_Puente"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho por la Universidad de Valladolid; máster en Gestión Política",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%93scar_Puente"
+        }
+      }
+    ],
+    "judicial": [
+      {
+        "name": "Viaje en yate pagado por el empresario Sergio Zaitegui",
+        "kind": "Cohecho",
+        "corruption": true,
+        "stage": "archivado",
+        "summary": "La asociación Pro Lege se querelló contra él, como alcalde de Valladolid, por un viaje en yate en 2020 pagado por un empresario con contrato municipal. El Juzgado de Instrucción n.º 6 de Valladolid investigó desde mayo de 2021 y archivó en octubre de 2021 al apreciar una amistad previa; la Audiencia de Valladolid desestimó el recurso con costas.",
+        "sources": [
+          {
+            "title": "The Objective, 31 de agosto de 2024",
+            "url": "https://theobjective.com/espana/tribunales/2024-08-31/puente-abogado-vacaciones-yate-empresario/"
+          }
+        ]
+      }
+    ],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Valladolid en 1968.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Pardo Álvarez",
+    "lists": [
+      {
+        "province": "47",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Consejera de Educación de la Junta de Castilla y León (desde junio de 2026)",
+        "source": {
+          "title": "El Español, 13 de junio de 2026",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/20260613/consejeros-junta-castilla-leon-pollan-blanco-vicepresidentes-caras-nuevas/1003744284949_0.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Directora general de Vivienda, Arquitectura (y Ordenación del Territorio) y Urbanismo de la Junta de Castilla y León",
+        "source": {
+          "title": "El Español, 15 de junio de 2026",
+          "url": "https://www.elespanol.com/castilla-y-leon/cultura/educacion-y-universidad/20260615/maria-pardo-deberes-nueva-consejera-educacion-profesorado-castilla-leon-no-admite-dilaciones/1003744286655_0.html"
+        }
+      },
+      {
+        "period": "2026",
+        "text": "Candidata del PP por Valladolid a las Cortes de Castilla y León",
+        "source": {
+          "title": "El Español, 12 de marzo de 2026",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20260312/maria-pardo-candidata-pp-valladolid-psoe-provocado-facil-okupa-propietario/1003744163967_0.amp.html"
+        }
+      },
+      {
+        "text": "Profesora de Derecho Administrativo en la Universidad de Valladolid",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/maria-pardo-alvarez-3265"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Doctora en Derecho por la Universidad de Valladolid",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/maria-pardo-alvarez-3265"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "Nacida en Simancas en 1971.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Pablo Sáez Alonso-Muñumer",
+    "lists": [
+      {
+        "province": "47",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de Vox por Valladolid en el Congreso (desde 2019)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_S%C3%A1ez_Alonso-Mu%C3%B1umer"
+        }
+      },
+      {
+        "text": "Tesorero nacional de Vox (desde 2024)",
+        "source": {
+          "title": "The Objective, 17 de enero de 2024",
+          "url": "https://theobjective.com/espana/castilla-y-leon/2024-01-17/vox-garcia-gallardo-pablo-saez-confianza-santiago-asbascal/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Corredor de seguros durante unos treinta años",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_S%C3%A1ez_Alonso-Mu%C3%B1umer"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Económicas (Universidad de Valladolid); máster en Derecho Financiero (IESE)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_S%C3%A1ez_Alonso-Mu%C3%B1umer"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en 1964. La Fiscalía Anticorrupción abrió en marzo de 2025 diligencias reservadas sobre la financiación de Vox tras una denuncia del PSOE, que pedía tomar declaración, entre otros, al tesorero; no consta que esté investigado personalmente ni que haya causa judicial: https://www.elindependiente.com/espana/tribunales/2025/03/10/anticorrupcion-investiga-a-vox-por-financiacion-irregular/amp/",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Almudena Villareal Vidal",
+    "lists": [
+      {
+        "province": "47",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Abdul Gadiri Diallo Bah",
+    "lists": [
+      {
+        "province": "47",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
   }
 ]
