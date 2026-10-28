@@ -3959,6 +3959,7 @@
     ],
     "education": [],
     "judicial": [],
+    "judicialChecked": "2026-10-28",
     "verification": "pendiente"
   },
   {
@@ -4059,6 +4060,287 @@
     "education": [],
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Isabel Uceda Cantero",
+    "lists": [
+      {
+        "province": "23",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella. La Ejecutiva del PSOE-A la subió de número dos a número uno por paridad, desplazando a Juanfran Serrano (https://www.democrata.es/elecciones-generales-espana/psoe-relega-juanfran-serrano-numero-dos-por-jaen-29n/).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Francisco José Alcaraz Martos",
+    "lists": [
+      {
+        "province": "23",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputado de Vox por Jaén desde noviembre de 2019",
+        "source": {
+          "title": "Declaración de bienes e intereses en el Congreso",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_4.pdf"
+        }
+      },
+      {
+        "period": "2019",
+        "text": "Senador de designación autonómica por Andalucía, el primero de Vox, durante nueve meses",
+        "source": {
+          "title": "El Independiente, 20 de febrero de 2019",
+          "url": "https://www.elindependiente.com/politica/2019/02/20/francisco-jose-alcaraz-senador-vox-escano-302/"
+        }
+      },
+      {
+        "period": "2004–2008",
+        "text": "Presidente de la Asociación Víctimas del Terrorismo; fundador y presidente de Voces contra el Terrorismo",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_Alcaraz"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Torredonjimeno en 1968. Siendo presidente de la AVT, la Audiencia Nacional ordenó admitir una querella de la asociación ADADE contra él por injurias y calumnias al Gobierno, que luego pasó a un juzgado de instrucción de Madrid; no se ha encontrado cómo terminó (https://www.libertaddigital.com/opinion/los-enigmas-del-11m/querella-contra-alcaraz-2508/).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Luis Mariano Camacho Nuñez (Chiqui)",
+    "lists": [
+      {
+        "province": "23",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Alcalde de Bailén (PP)",
+        "source": {
+          "title": "OKDiario",
+          "url": "https://okdiario.com/andalucia/psoe-vuelve-recibir-propia-medicina-pp-retira-calles-tierno-galvan-pablo-iglesias-bailen-6328227"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Según Wikidata (vía OpenSanctions), alcalde de Bailén desde 2015 y diputado provincial en Jaén desde 2023 (https://www.opensanctions.org/entities/Q140645124/); no se ha confirmado en fuente oficial.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Dolores Rodríguez López",
+    "lists": [
+      {
+        "province": "23",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Antonio Ortega Ruiz (Frente Amplio por Andalucía)",
+    "lists": [
+      {
+        "province": "23",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Javier Alfonso Cendón",
+    "lists": [
+      {
+        "province": "24",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretario provincial del PSOE de León; miembro de la Ejecutiva Federal",
+        "source": {
+          "title": "El Español, 20 de mayo de 2026",
+          "url": "https://www.elespanol.com/castilla-y-leon/region/leon/20260520/defensa-ferrea-cendon-hijo-politico-zapatero-auto-no-demoledor-vincula-ilegal/1003744253250_0.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputado por León; cabeza de lista en 2019; en la Diputación Permanente desde noviembre de 2023",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/javier-alfonso-cendon-144"
+        }
+      },
+      {
+        "text": "Profesor titular de la Universidad de León",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/javier-alfonso-cendon-144"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en León en 1983. Dos youtubers fueron condenados por calumnias e injurias graves contra él por vincularlo falsamente con el caso Tito Berni (El Español, enlace arriba).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Pablo Juan Calvo Liste",
+    "lists": [
+      {
+        "province": "24",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputado de Vox por León desde noviembre de 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_Juan_Calvo_Liste"
+        }
+      },
+      {
+        "text": "Abogado",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_Juan_Calvo_Liste"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho por la Universidad de Alcalá",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pablo_Juan_Calvo_Liste"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Sixto Martínez Álvarez",
+    "lists": [
+      {
+        "province": "24",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "El Congresista (1 de marzo de 2026) lo presenta como candidato de Podemos-Alianza Verde en León (https://elcongresista.mx/politica/nacional/podemos-referendum-autonomia-leon); no se ha encontrado más información.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ester Muñoz de la Iglesia",
+    "lists": [
+      {
+        "province": "24",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz del Grupo Popular en el Congreso desde julio de 2025",
+        "source": {
+          "title": "Diario de León, 2 de julio de 2025",
+          "url": "https://www.diariodeleon.es/leon/250702/2052917/ester-munoz-entra-nucleo-duro-feijoo-nueva-portavoz-pp-congreso.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputada por León",
+        "source": {
+          "title": "Presentación de José María Aznar, julio de 2026",
+          "url": "https://www.jmaznar.es/wp-content/uploads/2026/07/INTERVENCION-PRESENTACION-ESTER-MUNOZ-JMA.pdf"
+        }
+      },
+      {
+        "text": "Senadora por León, delegada territorial de la Junta, presidenta del PP de León y jefa de gabinete en la vicesecretaría de Organización Electoral del PP",
+        "source": {
+          "title": "Presentación de José María Aznar, julio de 2026",
+          "url": "https://www.jmaznar.es/wp-content/uploads/2026/07/INTERVENCION-PRESENTACION-ESTER-MUNOZ-JMA.pdf"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Derecho (Universidad de León, 2009); máster en Derecho Internacional (Universidad de Murcia)",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/dolcevita/asi-es-ester-munoz-nueva-portavoz-del-pp-en-el-congreso-su-familia-su-pareja-su-aficion-al-violonchelo-y-su-sueldo.html"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Rubén Estévez Miguel",
+    "lists": [
+      {
+        "province": "24",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [
+      {
+        "text": "Coordinador de IU León (desde noviembre de 2025)",
+        "source": {
+          "title": "Diario de León, 22 de noviembre de 2025",
+          "url": "https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Concejal, consejero comarcal y diputado provincial de IU en la provincia de Zaragoza; miembro de la dirección de IU Aragón; militante desde 2005",
+        "source": {
+          "title": "Diario de León, 22 de noviembre de 2025",
+          "url": "https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
     "verification": "pendiente"
   }
 ]

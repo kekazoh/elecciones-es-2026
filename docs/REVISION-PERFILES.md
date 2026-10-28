@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-119 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+129 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -1830,9 +1830,9 @@ PSOE en Huesca · pendiente
 - 2019–2026: Diputada del PSOE por Huesca desde mayo de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre))
 - 2016–2019: Senadora por Huesca ([Wikipedia](https://en.wikipedia.org/wiki/Bego%C3%B1a_Nasarre))
 
-**Procedimientos judiciales** (sin buscar)
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
 
-- No se han buscado.
+- No consta ninguno.
 
 ## Ester Blanco Sánchez
 
@@ -1886,3 +1886,146 @@ FA en Huesca · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## Isabel Uceda Cantero
+
+PSOE en Jaén · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella. La Ejecutiva del PSOE-A la subió de número dos a número uno por paridad, desplazando a Juanfran Serrano (https://www.democrata.es/elecciones-generales-espana/psoe-relega-juanfran-serrano-numero-dos-por-jaen-29n/).
+
+## Francisco José Alcaraz Martos
+
+Vox en Jaén · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por Jaén desde noviembre de 2019 ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_4.pdf))
+- 2019: Senador de designación autonómica por Andalucía, el primero de Vox, durante nueve meses ([El Independiente, 20 de febrero de 2019](https://www.elindependiente.com/politica/2019/02/20/francisco-jose-alcaraz-senador-vox-escano-302/))
+- 2004–2008: Presidente de la Asociación Víctimas del Terrorismo; fundador y presidente de Voces contra el Terrorismo ([Wikipedia](https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_Alcaraz))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Torredonjimeno en 1968. Siendo presidente de la AVT, la Audiencia Nacional ordenó admitir una querella de la asociación ADADE contra él por injurias y calumnias al Gobierno, que luego pasó a un juzgado de instrucción de Madrid; no se ha encontrado cómo terminó (https://www.libertaddigital.com/opinion/los-enigmas-del-11m/querella-contra-alcaraz-2508/).
+
+## Luis Mariano Camacho Nuñez (Chiqui)
+
+PP en Jaén · pendiente
+
+**Ahora**
+
+- Alcalde de Bailén (PP) ([OKDiario](https://okdiario.com/andalucia/psoe-vuelve-recibir-propia-medicina-pp-retira-calles-tierno-galvan-pablo-iglesias-bailen-6328227))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Según Wikidata (vía OpenSanctions), alcalde de Bailén desde 2015 y diputado provincial en Jaén desde 2023 (https://www.opensanctions.org/entities/Q140645124/); no se ha confirmado en fuente oficial.
+
+## Dolores Rodríguez López
+
+Podemos en Jaén · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Antonio Ortega Ruiz (Frente Amplio por Andalucía)
+
+FA en Jaén · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Javier Alfonso Cendón
+
+PSOE en León · pendiente
+
+**Ahora**
+
+- Secretario provincial del PSOE de León; miembro de la Ejecutiva Federal ([El Español, 20 de mayo de 2026](https://www.elespanol.com/castilla-y-leon/region/leon/20260520/defensa-ferrea-cendon-hijo-politico-zapatero-auto-no-demoledor-vincula-ilegal/1003744253250_0.html))
+
+**Trayectoria**
+
+- 2019–2026: Diputado por León; cabeza de lista en 2019; en la Diputación Permanente desde noviembre de 2023 ([Demócrata](https://www.democrata.es/politicos/javier-alfonso-cendon-144))
+- Profesor titular de la Universidad de León ([Demócrata](https://www.democrata.es/politicos/javier-alfonso-cendon-144))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en León en 1983. Dos youtubers fueron condenados por calumnias e injurias graves contra él por vincularlo falsamente con el caso Tito Berni (El Español, enlace arriba).
+
+## Pablo Juan Calvo Liste
+
+Vox en León · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por León desde noviembre de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_Juan_Calvo_Liste))
+- Abogado ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_Juan_Calvo_Liste))
+
+**Formación**
+
+- Licenciado en Derecho por la Universidad de Alcalá ([Wikipedia](https://en.wikipedia.org/wiki/Pablo_Juan_Calvo_Liste))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Sixto Martínez Álvarez
+
+Podemos en León · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* El Congresista (1 de marzo de 2026) lo presenta como candidato de Podemos-Alianza Verde en León (https://elcongresista.mx/politica/nacional/podemos-referendum-autonomia-leon); no se ha encontrado más información.
+
+## Ester Muñoz de la Iglesia
+
+PP en León · pendiente
+
+**Ahora**
+
+- Portavoz del Grupo Popular en el Congreso desde julio de 2025 ([Diario de León, 2 de julio de 2025](https://www.diariodeleon.es/leon/250702/2052917/ester-munoz-entra-nucleo-duro-feijoo-nueva-portavoz-pp-congreso.html))
+
+**Trayectoria**
+
+- 2023–2026: Diputada por León ([Presentación de José María Aznar, julio de 2026](https://www.jmaznar.es/wp-content/uploads/2026/07/INTERVENCION-PRESENTACION-ESTER-MUNOZ-JMA.pdf))
+- Senadora por León, delegada territorial de la Junta, presidenta del PP de León y jefa de gabinete en la vicesecretaría de Organización Electoral del PP ([Presentación de José María Aznar, julio de 2026](https://www.jmaznar.es/wp-content/uploads/2026/07/INTERVENCION-PRESENTACION-ESTER-MUNOZ-JMA.pdf))
+
+**Formación**
+
+- Licenciada en Derecho (Universidad de León, 2009); máster en Derecho Internacional (Universidad de Murcia) ([Vozpópuli](https://www.vozpopuli.com/dolcevita/asi-es-ester-munoz-nueva-portavoz-del-pp-en-el-congreso-su-familia-su-pareja-su-aficion-al-violonchelo-y-su-sueldo.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Rubén Estévez Miguel
+
+FA en León · pendiente
+
+**Ahora**
+
+- Coordinador de IU León (desde noviembre de 2025) ([Diario de León, 22 de noviembre de 2025](https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html))
+
+**Trayectoria**
+
+- Concejal, consejero comarcal y diputado provincial de IU en la provincia de Zaragoza; miembro de la dirección de IU Aragón; militante desde 2005 ([Diario de León, 22 de noviembre de 2025](https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
