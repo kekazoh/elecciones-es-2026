@@ -3142,5 +3142,987 @@
       "quote": "Pero podríamos decirle también, señora ministra, que ustedes han cometido un error mayúsculo contra la España de las autonomías, que nos caracterizan como país, porque no se puede consentir el enfrentamiento que ustedes generaron con una comunidad autónoma."
     },
     "verification": "verificado"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "eco-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 207 del PDF · Model econòmic (mesura 47)",
+      "quote": "Millora en el tracte fiscal de les rendes salarials i modificació del tracte privilegiat de les rendes del capital i empresarial, per reequilibrar de manera justa el pes de les diferents rendes en l’impost i ampliar el seu caràcter redistribuïdor."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 207 del PDF · Model econòmic (mesura 48)",
+      "quote": "Impost per a grans fortunes i per a gravar les transaccions financeres especulatives, seguint el model de la Taxa Tobin."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 102 del PDF · Habitatge (mesura 1)",
+      "quote": "Permetrem a ajuntaments i comunitats autònomes regular els preus de l’habitatge en determinades zones urbanes."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 102 del PDF · Habitatge (mesura 3)",
+      "quote": "Garantirem la promoció pública de l’habitatge en lloguer."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 80 del PDF · Salut (mesura 4)",
+      "quote": "Posarem fi a totes les polítiques de privatització i externalitzacions dels serveis sanitaris públics a tot l’estat espanyol. Iniciarem un camí de reversió dels serveis privatitzats."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "san-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 81 del PDF · Salut (mesura 12)",
+      "quote": "Estudiarem l’ampliació de les prestacions sanitàries com ara podologia, pròtesi, psicologia, fisioteràpia, nutrició, estomatologia i odontologia"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "edu-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 38 del PDF · Educació (mesura 2)",
+      "quote": "Modificarem el Reial Decret de Concerts perquè la xarxa concertada siga realment subsidiària de la pública"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 39 del PDF · Educació (mesura 20)",
+      "quote": "Promourem l’extensió de l’ensenyament públic i gratuït a l’educació infantil de 0 a 3 anys."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "emp-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 90 del PDF · Ocupació (mesura 2)",
+      "quote": "Promoure una reducció progressiva de la jornada laboral a 32 hores setmanals per a l’any 2025, com a mecanisme de redistribució del treball, millora de la conciliació familiar i lluita contra el canvi climàtic."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 247 del PDF · Drets de la ciutadania · Protecció de les pensions (mesura 100)",
+      "quote": "Garantia de l’actualització de les pensions com a mínim amb l’IPC."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 247 del PDF · Drets de la ciutadania · Protecció de les pensions (mesura 95)",
+      "quote": "S’ha d’estudiar una possible modificació de l’edat legal de jubilació per avançar-la, mai endarrerir-la."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 303 del PDF · Cooperació i migracions (mesura 56)",
+      "quote": "facilitarem la regularització d’aquelles persones migrants amb treball, garantint uns mitjans de vida adequats"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 302 del PDF · Cooperació i migracions (mesura 38)",
+      "quote": "Acabarem amb el cicle repressiu contra les persones migrades: concertines, les expulsions “en calent” i qualsevol altre tipus de pressió policial a les fronteres; els vols de deportació"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "med-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 128 del PDF · Canvi climàtic (mesura 7)",
+      "quote": "Pla de tancament programat de totes les centrals nuclears"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "ter-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 58 del PDF · Cultura (introducció)",
+      "quote": "cal un pacte, d’àmbit estatal, que done visibilitat, força i seguretat al procés efectiu de traspàs de competències i recursos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "ter-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 38 del PDF · Educació (mesura 3)",
+      "quote": "Redefinirem el paper del Ministeri d’Educació, per estar transferides les seues competències a les comunitats autònomes."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "eco-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 18 del PDF · 06 Fiscalidad (medida 1)",
+      "quote": "Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "eco-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 19 del PDF · 06 Fiscalidad (medida 5)",
+      "quote": "Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 19 del PDF · 06 Fiscalidad (medida 6)",
+      "quote": "El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 45 del PDF · 15 Vivienda (medida 1)",
+      "quote": "Construir vivienda pública de calidad para aumentar el número de inmuebles existentes y lograr que los trabajadores puedan acceder a una vivienda digna y asequible económicamente."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "viv-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 46 del PDF · 15 Vivienda (medida 4)",
+      "quote": "Se actuará a su vez contra la ocupación de viviendas de particulares, que no debe ser permitida en ningún caso."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 42 del PDF · 14 Sanidad",
+      "quote": "Acabar con el proceso de externalización y privatización de la sanidad."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 42 del PDF · 14 Sanidad (medida 4)",
+      "quote": "Implantar la estructura adecuada para asegurar el cuidado y tratamiento bucodental, fisioterapéutico y oftalmológico gratuito."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "edu-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 22 del PDF · 07 Educación (medida 4)",
+      "quote": "Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 34 del PDF · 11 Natalidad y familia (medida 2)",
+      "quote": "Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la compatibilidad del trabajo y la maternidad."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "edu-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 22 del PDF · 07 Educación (medida 9)",
+      "quote": "Garantizar el derecho a todo el mundo de estudiar en castellano o en las lenguas cooficiales del Estado."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 48 del PDF · 16 Pensiones (medida 1)",
+      "quote": "Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto laboral desempeñado."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "inm-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 53 del PDF · 17 Inmigración (medida 3)",
+      "quote": "Imposibilidad de regularse si han intentado entrar de forma ilegal. Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "inm-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 53 del PDF · 17 Inmigración (medida 3)",
+      "quote": "Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reiterada o que están de forma irregular en el país."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "inm-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 52 del PDF · 17 Inmigración (introducción)",
+      "quote": "Siendo más lógico que los inmigrantes que deban de venir por las necesidades del país hasta que se resuelva la situación sean de contexto europeo o hispanoamericano."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "med-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 16 del PDF · 05 Soberanía energética (medidas 4 y 5)",
+      "quote": "Frenar el cierre paulatino de las centrales energéticas que se encuentran en plenas capacidades productivas."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "med-2",
+    "stance": -1,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 15 del PDF · 05 Soberanía energética (medida 1)",
+      "quote": "Poner fin a la llamada “transición ecológica”"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "med-3",
+    "stance": 1,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 16 del PDF · 05 Soberanía energética (medida 2)",
+      "quote": "La regulación inmediata de la factura de la luz y de los combustibles."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "ter-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 56 del PDF · 18 Estructura territorial y administración",
+      "quote": "hay que reforzar el gobierno central, haciendo que recupere algunas competencias que jamás deberían de haber sido suyas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "ter-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 56 del PDF · 18 Estructura territorial y administración",
+      "quote": "Defendemos la unidad del país, posicionándonos contra todos los procesos de independencia existentes"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "frente-obrero",
+    "measureId": "ter-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa político del Frente Obrero («Un programa para recuperar España», octubre de 2026)",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "date": "2026-10-07",
+      "locator": "pág. 56 del PDF · 18 Estructura territorial y administración (medida 2)",
+      "quote": "Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
+      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 65 del PDF · 3.5 Por una vivienda digna: mayor parque de vivienda social",
+      "quote": "En España necesitamos ya una gran dotación de vivienda social, tanto para compra como para alquiler"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
+      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 50 del PDF · 3.2.1 Por una sanidad pública, universal y de calidad",
+      "quote": "Reintegración al sistema sanitario público de los servicios privatizados."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
+      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 53 del PDF · 3.2.7 Salud bucodental",
+      "quote": "Desde PACMA defendemos el impulso de una atención bucodental gratuita, con una asistencia dental básica para todas las personas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
+      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 54 del PDF · 3.3.1 Por una educación pública y de calidad",
+      "quote": "avanzar en la gratuidad real, promover la educación universal de 0 a 3 años"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "med-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
+      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 31 del PDF · 2.1.1 Por un modelo energético sostenible",
+      "quote": "El modelo energético basado en el uso masivo de los combustibles fósiles y la energía nuclear, es insostenible"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 14 del PDF · Vivienda",
+      "quote": "Conseguir una limitación real y efectiva de los alquileres, en detrimento de la ganancia de los propietarios"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 7 del PDF · ¿A qué aspiramos? (8)",
+      "quote": "ordenar la construcción de nuevas viviendas para satisfacer las necesidades populares"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "viv-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 14 del PDF · Vivienda",
+      "quote": "Mantener la lucha para prohibir todo tipo de desahucios a familias trabajadoras"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 13 del PDF · Servicios públicos",
+      "quote": "Defender la expulsión de todas las empresas privadas de la educación, la sanidad y los servicios sociales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "san-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 13 del PDF · Servicios públicos",
+      "quote": "ampliarla a otros como la completa atención bucodental"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "edu-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 13 del PDF · Servicios públicos",
+      "quote": "Defender la expulsión de todas las empresas privadas de la educación, la sanidad y los servicios sociales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 7 del PDF · ¿A qué aspiramos? (6)",
+      "quote": "A un único sistema de enseñanza presencial, público, gratuito, mixto, laico, integral y universal"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "emp-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 11 del PDF · Trabajo",
+      "quote": "Seguir exigiendo la reducción de la jornada laboral en todos los sectores sin merma de salario"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 11 del PDF · Trabajo",
+      "quote": "oponerse firmemente a cualquier propuesta de retraso de la edad de jubilación y defender su adelanto"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 21 del PDF · Unidad de la clase obrera",
+      "quote": "los plenos derechos de quienes viven y trabajan en España"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 21 del PDF · Unidad de la clase obrera",
+      "quote": "Continuar exigiendo el cierre de los CIEs"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "med-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 7 del PDF · ¿A qué aspiramos? (5)",
+      "quote": "utilizando para ello el conjunto de las fuentes de energía con que cuenta el país y prestando especial atención al desarrollo de las capacidades de las fuentes energéticas ya disponibles"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "eco-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 32 del PDF · Recursos públicos (medida 97)",
+      "quote": "revirtiendo el proceso de disminución de impuesto de sociedades"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 22 del PDF · Vivienda (medida 34)",
+      "quote": "Apoyar la aplicación de la nueva Ley por el Derecho a la Vivienda"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "viv-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 22 del PDF · Vivienda (medida 35)",
+      "quote": "la creación de nuevos modelos de vivienda pública o el aumento de la cooperación entre el sector privado y el público"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "edu-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 25 del PDF · Educación (medida 45)",
+      "quote": "apoyamos aumentar la financiación pública, reduciendo la brecha de financiación existente hoy respecto de los colegios públicos"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "edu-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 25 del PDF · Educación (medida 46)",
+      "quote": "Universalizar la educación de 0-3 años de calidad"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "emp-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 26 del PDF · Trabajo digno y pensiones (medida 55)",
+      "quote": "Reducir la jornada laboral a 35 horas."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 26 del PDF · Trabajo digno y pensiones (medida 57)",
+      "quote": "En ella debiera quedar prohibida la privatización de las pensiones públicas y la degradación de su poder adquisitivo."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 26 del PDF · Migrantes (medida 58)",
+      "quote": "Aprobar la Iniciativa Legislativa Popular (ILP) para la regularización extraordinaria de las personas migrantes en España."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
+      "date": "2023-07-16",
+      "locator": "pág. 26 del PDF · Migrantes (medida 60)",
+      "quote": "poniendo fin a las llamadas “devoluciones en caliente”"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "eco-2",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 5 del PDF · 2. Rebaja de impuestos",
+      "quote": "Impulsaremos deducciones autonómicas en el Impuesto de Sociedades (vía bonificaciones en tributos cedidos) para las empresas que generen empleo indefinido"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "eco-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 4 del PDF · 2. Rebaja de impuestos",
+      "quote": "Suprimiremos el Impuesto sobre el Patrimonio en Castilla y León"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "viv-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 3 del PDF · 1. Vivienda, alquiler y okupación",
+      "quote": "Frente a fracasos como los topes de alquiler (que reducen la oferta), apostamos por incentivos positivos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "viv-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 3 del PDF · 1. Vivienda, alquiler y okupación",
+      "quote": "para que toda vivienda ocupada ilegalmente sea desalojada policialmente en un plazo máximo de 24 horas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "san-1",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 18 del PDF · 6.2 Sanidad",
+      "quote": "concertaremos con clínicas privadas aragonesas procedimientos cuando la pública no dé abasto"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "edu-1",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 17 del PDF · 6.1 Educación",
+      "quote": "ampliaremos los conciertos educativos con centros que lo soliciten"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "edu-2",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 9 del PDF · 4. Fomento de la natalidad",
+      "quote": "Implantaremos la gratuidad de la educación infantil de 0 a 3 años en Castilla y León"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "inm-1",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 7 del PDF · 3. Inmigración y seguridad",
+      "quote": "el que esté ilegal, será repatriado sin excusas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "inm-2",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 7 del PDF · 3. Inmigración y seguridad",
+      "quote": "ejecutar el mayor plan de deportación de inmigrantes ilegales de la historia reciente del país"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "med-1",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 21 del PDF · 7. Energía y campo",
+      "quote": "exigiremos al Gobierno de España que paralice el calendario de cierres nucleares"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "med-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "web_partido",
+    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "source": {
+      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "date": "2026-03-04",
+      "locator": "pág. 22 del PDF · 7. Energía y campo",
+      "quote": "Bonificaremos el gasóleo profesional agrario mientras dure la asfixia fiscal estatal."
+    },
+    "verification": "pendiente"
   }
 ]
