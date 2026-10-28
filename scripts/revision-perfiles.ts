@@ -40,6 +40,7 @@ export function checkProfiles(): string[] {
     }
     for (const j of p.judicial) {
       if (!STAGE[j.stage]) errors.push(`${p.name}: estado desconocido en «${j.name}»`);
+      if (!['penal', 'civil', 'contable'].includes(j.kind)) errors.push(`${p.name}: tipo desconocido en «${j.name}»`);
       if (j.sources.filter(hasUrl).length < 1) errors.push(`${p.name}: «${j.name}» sin fuente`);
     }
   }

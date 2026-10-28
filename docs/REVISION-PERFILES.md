@@ -3496,7 +3496,7 @@ Vox en Tarragona · pendiente
 
 **Procedimientos judiciales** (búsqueda del 2026-10-28)
 
-- Ataque al centro de menores de El Masnou (2019): Delito de odio, en juicio. La Fiscalía pide dos años y dos meses de prisión por los incidentes del 4 de julio de 2019 en un centro de acogida de menores de El Masnou. El juicio, en un juzgado de lo penal de Mataró, está señalado para el 6 al 9 de julio de 2027. ([Diario de Avisos, 22 de octubre de 2026](https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/); [La Marea, 10 de marzo de 2025](https://lamarea.com/2025/03/10/jordi-de-la-fuente-vox-neonazi-sindicato))
+- Ataque al centro de menores de El Masnou (2019): penal, en juicio. Acusado de un delito de odio. La Fiscalía pide dos años y dos meses de prisión por los incidentes del 4 de julio de 2019 en un centro de acogida de menores de El Masnou. El juicio, en un juzgado de lo penal de Mataró, está señalado para el 6 al 9 de julio de 2027. ([Diario de Avisos, 22 de octubre de 2026](https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/); [La Marea, 10 de marzo de 2025](https://lamarea.com/2025/03/10/jordi-de-la-fuente-vox-neonazi-sindicato))
 
 ## Mónica Landete Oliva
 
@@ -3773,7 +3773,7 @@ PSOE en Valladolid · pendiente
 
 **Procedimientos judiciales** (búsqueda del 2026-10-28)
 
-- Viaje en yate pagado por el empresario Sergio Zaitegui: Cohecho, corrupción, archivado. La asociación Pro Lege se querelló contra él, como alcalde de Valladolid, por un viaje en yate en 2020 pagado por un empresario con contrato municipal. El Juzgado de Instrucción n.º 6 de Valladolid investigó desde mayo de 2021 y archivó en octubre de 2021 al apreciar una amistad previa; la Audiencia de Valladolid desestimó el recurso con costas. ([The Objective, 31 de agosto de 2024](https://theobjective.com/espana/tribunales/2024-08-31/puente-abogado-vacaciones-yate-empresario/))
+- Viaje en yate pagado por el empresario Sergio Zaitegui: penal, corrupción, archivado. Querella por cohecho. La asociación Pro Lege se querelló contra él, como alcalde de Valladolid, por un viaje en yate en 2020 pagado por un empresario con contrato municipal. El Juzgado de Instrucción n.º 6 de Valladolid investigó desde mayo de 2021 y archivó en octubre de 2021 al apreciar una amistad previa; la Audiencia de Valladolid desestimó el recurso con costas. ([The Objective, 31 de agosto de 2024](https://theobjective.com/espana/tribunales/2024-08-31/puente-abogado-vacaciones-yate-empresario/); [Moncloa.com, 6 de agosto de 2021](https://www.moncloa.com/2021/08/06/psoe-sopesa-quitar-galones-oscar-puente-cazada-mercedes-amg-g-63/))
 
 *Notas:* Nacido en Valladolid en 1968.
 

@@ -7386,10 +7386,10 @@
     "judicial": [
       {
         "name": "Ataque al centro de menores de El Masnou (2019)",
-        "kind": "Delito de odio",
+        "kind": "penal",
         "corruption": false,
         "stage": "juicio",
-        "summary": "La Fiscalía pide dos años y dos meses de prisión por los incidentes del 4 de julio de 2019 en un centro de acogida de menores de El Masnou. El juicio, en un juzgado de lo penal de Mataró, está señalado para el 6 al 9 de julio de 2027.",
+        "summary": "Acusado de un delito de odio. La Fiscalía pide dos años y dos meses de prisión por los incidentes del 4 de julio de 2019 en un centro de acogida de menores de El Masnou. El juicio, en un juzgado de lo penal de Mataró, está señalado para el 6 al 9 de julio de 2027.",
         "sources": [
           {
             "title": "Diario de Avisos, 22 de octubre de 2026",
@@ -7999,14 +7999,18 @@
     "judicial": [
       {
         "name": "Viaje en yate pagado por el empresario Sergio Zaitegui",
-        "kind": "Cohecho",
+        "kind": "penal",
         "corruption": true,
         "stage": "archivado",
-        "summary": "La asociación Pro Lege se querelló contra él, como alcalde de Valladolid, por un viaje en yate en 2020 pagado por un empresario con contrato municipal. El Juzgado de Instrucción n.º 6 de Valladolid investigó desde mayo de 2021 y archivó en octubre de 2021 al apreciar una amistad previa; la Audiencia de Valladolid desestimó el recurso con costas.",
+        "summary": "Querella por cohecho. La asociación Pro Lege se querelló contra él, como alcalde de Valladolid, por un viaje en yate en 2020 pagado por un empresario con contrato municipal. El Juzgado de Instrucción n.º 6 de Valladolid investigó desde mayo de 2021 y archivó en octubre de 2021 al apreciar una amistad previa; la Audiencia de Valladolid desestimó el recurso con costas.",
         "sources": [
           {
             "title": "The Objective, 31 de agosto de 2024",
             "url": "https://theobjective.com/espana/tribunales/2024-08-31/puente-abogado-vacaciones-yate-empresario/"
+          },
+          {
+            "title": "Moncloa.com, 6 de agosto de 2021",
+            "url": "https://www.moncloa.com/2021/08/06/psoe-sopesa-quitar-galones-oscar-puente-cazada-mercedes-amg-g-63/"
           }
         ]
       }

@@ -79,6 +79,10 @@ afectan a la recomendación: son información para el votante. Revisión en
 - `judicialChecked` es la fecha de la última búsqueda: que no conste nada no
   significa que no exista.
 - Todo entra `pendiente` y no se muestra hasta que una persona lo revisa.
+- En la app, el perfil revisado aparece bajo la lista del partido recomendado
+  (`src/ui/HeadProfile.tsx`). De los procedimientos solo enseña los abiertos y
+  las condenas; los archivados y las absoluciones se quedan en
+  REVISION-PERFILES.md (`SHOWN_STAGES`).
 
 ## Estado del dataset real (`src/data/real/`)
 
