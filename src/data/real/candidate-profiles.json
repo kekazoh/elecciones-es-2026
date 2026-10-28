@@ -7206,5 +7206,226 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre ella.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Ione Montalvo Aguirrezabala",
+    "lists": [
+      {
+        "province": "43",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Gerente del Hospital Joan XXIII de Tarragona",
+        "source": {
+          "title": "Diari de Tarragona, octubre de 2026",
+          "url": "https://www.diaridetarragona.com/tarragona/272908/psc-candidata-tarragona-29-n.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Larga trayectoria profesional en la sanidad pública; militante del PSC desde hace años",
+        "source": {
+          "title": "Diari de Tarragona, octubre de 2026",
+          "url": "https://www.diaridetarragona.com/tarragona/272908/psc-candidata-tarragona-29-n.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Sustituye a Valle Mellado, cabeza de lista del PSC en 2023.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Norma Pujol Farré",
+    "lists": [
+      {
+        "province": "43",
+        "partyId": "erc"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2023",
+        "text": "Diputada de ERC por Tarragona en el Congreso (dos legislaturas); en 2023 iba de número dos y no salió elegida",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Norma_Pujol"
+        }
+      },
+      {
+        "period": "2018–2019",
+        "text": "Directora general de Juventud de la Generalitat",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Norma_Pujol"
+        }
+      },
+      {
+        "period": "desde 2015",
+        "text": "Concejala en Flix",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Norma_Pujol"
+        }
+      },
+      {
+        "text": "Maestra de música (desde 2010)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Norma_Pujol"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Diplomada en Magisterio Musical (Universitat de Lleida); posgrados en educación musical (UAB) y dirección de centros educativos (UdL)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Norma_Pujol"
+        }
+      }
+    ],
+    "judicial": [],
+    "notes": "Nacida en Flix en 1988. Diari de Tarragona la sitúa como persona de confianza de Lluís Salvadó; no se ha confirmado su cargo actual: https://www.diaridetarragona.com/tarragona/272661/norma-pujol-perfila-candidata-erc-tarragona.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Josep Maria Cruset i Domènech",
+    "lists": [
+      {
+        "province": "43",
+        "partyId": "junts"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de Junts por Tarragona en el Congreso (desde 2023)",
+        "source": {
+          "title": "Ebredigital, 28 de octubre de 2025",
+          "url": "https://ebredigital.cat/?p=309031"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2018–2021",
+        "text": "Presidente del Port de Tarragona, a propuesta de Junts",
+        "source": {
+          "title": "Diari de Tarragona, 30 de octubre de 2018",
+          "url": "https://www.diaridetarragona.com/tarragona/El-riudomense-Josep-Maria-Cruset-nuevo-presidente-del-Port-de-Tarragona-20181030-0025.html"
+        }
+      },
+      {
+        "text": "Alcalde de Riudoms",
+        "source": {
+          "title": "Ebredigital",
+          "url": "https://ebredigital.cat/?p=120315"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Riudoms en 1975. El periodo como presidente del Port se ha deducido de la prensa: dejó el cargo antes de cumplir cuatro años, tras la salida de Junts del Govern.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ester Roca Domodel (COMUNS-FRONT AMPLI)",
+    "lists": [
+      {
+        "province": "43",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [
+      {
+        "text": "Técnica del Ayuntamiento de Tarragona; directora técnica del Concurs de Castells y responsable técnica del Carnaval",
+        "source": {
+          "title": "Diari de Tarragona, septiembre de 2026",
+          "url": "https://www.diaridetarragona.com/tarragona/273694/frente-amplio-ficha-directora-concurs-castells-cabeza-lista-tarragona.html"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Independiente vinculada a la cultura popular; autora de varias obras sobre la cultura popular de Tarragona.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Jordi Albert de la Fuente i Miró",
+    "lists": [
+      {
+        "province": "43",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretario general del sindicato Solidaridad (vinculado a Vox), concejal en Sant Adrià de Besòs y diputado en la Diputación de Barcelona",
+        "source": {
+          "title": "Diario de Avisos, 22 de octubre de 2026",
+          "url": "https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Dirigente del Movimiento Social Republicano (MSR), partido neonazi, y después miembro de Plataforma per Catalunya",
+        "source": {
+          "title": "Diario de Avisos, 22 de octubre de 2026",
+          "url": "https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [
+      {
+        "name": "Ataque al centro de menores de El Masnou (2019)",
+        "kind": "Delito de odio",
+        "corruption": false,
+        "stage": "juicio",
+        "summary": "La Fiscalía pide dos años y dos meses de prisión por los incidentes del 4 de julio de 2019 en un centro de acogida de menores de El Masnou. El juicio, en un juzgado de lo penal de Mataró, está señalado para el 6 al 9 de julio de 2027.",
+        "sources": [
+          {
+            "title": "Diario de Avisos, 22 de octubre de 2026",
+            "url": "https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/"
+          },
+          {
+            "title": "La Marea, 10 de marzo de 2025",
+            "url": "https://lamarea.com/2025/03/10/jordi-de-la-fuente-vox-neonazi-sindicato"
+          }
+        ]
+      }
+    ],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Mónica Landete Oliva",
+    "lists": [
+      {
+        "province": "43",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Abogada especializada en seguros y transporte",
+        "source": {
+          "title": "Diari de Tarragona, octubre de 2026",
+          "url": "https://www.diaridetarragona.com/tarragona/273990/pp-apuesta-reconstruir-tarragona-abandono-psoe.html"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Primera candidatura de relieve; sustituye como número uno a Pere Lluís Huguet, que va de número dos.",
+    "verification": "pendiente"
   }
 ]

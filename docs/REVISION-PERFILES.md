@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-219 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+225 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3409,3 +3409,105 @@ Podemos en Soria · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre ella.
+
+## Ione Montalvo Aguirrezabala
+
+PSOE en Tarragona · pendiente
+
+**Ahora**
+
+- Gerente del Hospital Joan XXIII de Tarragona ([Diari de Tarragona, octubre de 2026](https://www.diaridetarragona.com/tarragona/272908/psc-candidata-tarragona-29-n.html))
+
+**Trayectoria**
+
+- Larga trayectoria profesional en la sanidad pública; militante del PSC desde hace años ([Diari de Tarragona, octubre de 2026](https://www.diaridetarragona.com/tarragona/272908/psc-candidata-tarragona-29-n.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sustituye a Valle Mellado, cabeza de lista del PSC en 2023.
+
+## Norma Pujol Farré
+
+ERC en Tarragona · pendiente
+
+**Trayectoria**
+
+- 2019–2023: Diputada de ERC por Tarragona en el Congreso (dos legislaturas); en 2023 iba de número dos y no salió elegida ([Wikipedia](https://en.wikipedia.org/wiki/Norma_Pujol))
+- 2018–2019: Directora general de Juventud de la Generalitat ([Wikipedia](https://en.wikipedia.org/wiki/Norma_Pujol))
+- desde 2015: Concejala en Flix ([Wikipedia](https://en.wikipedia.org/wiki/Norma_Pujol))
+- Maestra de música (desde 2010) ([Wikipedia](https://en.wikipedia.org/wiki/Norma_Pujol))
+
+**Formación**
+
+- Diplomada en Magisterio Musical (Universitat de Lleida); posgrados en educación musical (UAB) y dirección de centros educativos (UdL) ([Wikipedia](https://en.wikipedia.org/wiki/Norma_Pujol))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacida en Flix en 1988. Diari de Tarragona la sitúa como persona de confianza de Lluís Salvadó; no se ha confirmado su cargo actual: https://www.diaridetarragona.com/tarragona/272661/norma-pujol-perfila-candidata-erc-tarragona.html
+
+## Josep Maria Cruset i Domènech
+
+Junts en Tarragona · pendiente
+
+**Ahora**
+
+- Diputado de Junts por Tarragona en el Congreso (desde 2023) ([Ebredigital, 28 de octubre de 2025](https://ebredigital.cat/?p=309031))
+
+**Trayectoria**
+
+- 2018–2021: Presidente del Port de Tarragona, a propuesta de Junts ([Diari de Tarragona, 30 de octubre de 2018](https://www.diaridetarragona.com/tarragona/El-riudomense-Josep-Maria-Cruset-nuevo-presidente-del-Port-de-Tarragona-20181030-0025.html))
+- Alcalde de Riudoms ([Ebredigital](https://ebredigital.cat/?p=120315))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Riudoms en 1975. El periodo como presidente del Port se ha deducido de la prensa: dejó el cargo antes de cumplir cuatro años, tras la salida de Junts del Govern.
+
+## Ester Roca Domodel (COMUNS-FRONT AMPLI)
+
+FA en Tarragona · pendiente
+
+**Ahora**
+
+- Técnica del Ayuntamiento de Tarragona; directora técnica del Concurs de Castells y responsable técnica del Carnaval ([Diari de Tarragona, septiembre de 2026](https://www.diaridetarragona.com/tarragona/273694/frente-amplio-ficha-directora-concurs-castells-cabeza-lista-tarragona.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Independiente vinculada a la cultura popular; autora de varias obras sobre la cultura popular de Tarragona.
+
+## Jordi Albert de la Fuente i Miró
+
+Vox en Tarragona · pendiente
+
+**Ahora**
+
+- Secretario general del sindicato Solidaridad (vinculado a Vox), concejal en Sant Adrià de Besòs y diputado en la Diputación de Barcelona ([Diario de Avisos, 22 de octubre de 2026](https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/))
+
+**Trayectoria**
+
+- Dirigente del Movimiento Social Republicano (MSR), partido neonazi, y después miembro de Plataforma per Catalunya ([Diario de Avisos, 22 de octubre de 2026](https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- Ataque al centro de menores de El Masnou (2019): Delito de odio, en juicio. La Fiscalía pide dos años y dos meses de prisión por los incidentes del 4 de julio de 2019 en un centro de acogida de menores de El Masnou. El juicio, en un juzgado de lo penal de Mataró, está señalado para el 6 al 9 de julio de 2027. ([Diario de Avisos, 22 de octubre de 2026](https://diariodeavisos.elespanol.com/2026/10/vox-candidato-neonazi-tarragona-jordi-fuente/); [La Marea, 10 de marzo de 2025](https://lamarea.com/2025/03/10/jordi-de-la-fuente-vox-neonazi-sindicato))
+
+## Mónica Landete Oliva
+
+PP en Tarragona · pendiente
+
+**Ahora**
+
+- Abogada especializada en seguros y transporte ([Diari de Tarragona, octubre de 2026](https://www.diaridetarragona.com/tarragona/273990/pp-apuesta-reconstruir-tarragona-abandono-psoe.html))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Primera candidatura de relieve; sustituye como número uno a Pere Lluís Huguet, que va de número dos.
