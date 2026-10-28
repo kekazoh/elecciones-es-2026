@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-151 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+162 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2359,6 +2359,174 @@ Podemos en Málaga · pendiente
 ## Rafael Borrego Peña
 
 FA en Málaga · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## María González Veracruz
+
+PSOE en Murcia · pendiente
+
+**Trayectoria**
+
+- desde 2024: Secretaria de Estado de Digitalización e Inteligencia Artificial (nombrada en septiembre de 2024) ([Ministerio para la Transformación Digital, 24 de septiembre de 2024](https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2024/09/2024-09-24))
+- 2022–2024: Secretaria de Estado de Telecomunicaciones e Infraestructuras Digitales ([Ministerio para la Transformación Digital, 24 de septiembre de 2024](https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2024/09/2024-09-24))
+- 2011–2019: Diputada por Murcia; portavoz socialista de Tecnología y de Ciencia ([Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_Gonz%C3%A1lez_Veracruz))
+- 2007–2011: Diputada en la Asamblea Regional de Murcia ([Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_Gonz%C3%A1lez_Veracruz))
+- Profesora de secundaria de Física y Química; investigadora en Genética Molecular (Universidad de Murcia e Instituto de Bioquímica de Leipzig) ([Ministerio para la Transformación Digital, 24 de septiembre de 2024](https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2024/09/2024-09-24))
+
+**Formación**
+
+- Licenciada en Bioquímica por la Universidad de Murcia ([Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_Gonz%C3%A1lez_Veracruz))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha confirmado si seguía como secretaria de Estado al ser designada candidata.
+
+## Joaquín Robles López
+
+Vox en Murcia · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por Murcia desde abril de 2019; portavoz de Educación ([Wikipedia](https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Robles_L%C3%B3pez))
+- Profesor de instituto en Caravaca de la Cruz ([Wikipedia](https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Robles_L%C3%B3pez))
+
+**Formación**
+
+- Licenciado en Filosofía por la Universidad de Murcia ([Wikipedia](https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Robles_L%C3%B3pez))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Mirian Guardiola Salmerón
+
+PP en Murcia · pendiente
+
+**Ahora**
+
+- Portavoz adjunta del Grupo Popular en el Congreso; miembro del Comité Ejecutivo Nacional del PP ([Demócrata, octubre de 2026](https://www.democrata.es/en/politics/miriam-guardiola-will-be-the-number-one-of-the-pp-in-congress-for-the-region-of-murcia/))
+
+**Trayectoria**
+
+- 2023–2026: Diputada por Murcia ([Wikipedia](https://en.wikipedia.org/wiki/Mirian_Guardiola))
+- 2018–2019: Consejera de Turismo y Cultura de la Región de Murcia ([Wikipedia](https://en.wikipedia.org/wiki/Mirian_Guardiola))
+- desde 2019: Diputada en la Asamblea Regional de Murcia ([Demócrata](https://www.democrata.es/politicos/mirian-guardiola-salmeron-283))
+
+**Formación**
+
+- Licenciada en Derecho por la Universidad de Murcia ([Demócrata](https://www.democrata.es/politicos/mirian-guardiola-salmeron-283))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Víctor Manuel Egío García
+
+Podemos en Murcia · pendiente
+
+**Ahora**
+
+- Diputado de Podemos en la Asamblea Regional de Murcia (desde 2023); profesor de Ciencia Política en la Universidad de Murcia ([CV en la Universidad de Murcia](https://um.es/cpaum/wp-content/uploads/VICTOR-CVA.pdf))
+
+**Formación**
+
+- Doctor en Filosofía por la Universidad de Murcia ([CV en la Universidad de Murcia](https://um.es/cpaum/wp-content/uploads/VICTOR-CVA.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2024 propuso en la Asamblea el «tiro al fachón» y luego dijo que era una broma (https://www.esdiario.com/nacional/250214/152895/diputado-murcia-tiro-fachon-echa-atras-chanza.html).
+
+## Penélope Luna Palazón
+
+FA en Murcia · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Eneka Maiz Ulaiar
+
+EH Bildu en Navarra · pendiente
+
+**Ahora**
+
+- Parlamentaria foral de EH Bildu Nafarroa ([Orain, 16 de octubre de 2026](https://orain.eus/es/politica/2026/10/16/eh-bildu-propone-oskar-matute-mikel-otero-oihana-etxebarrieta-eneka-maiz-encabezar-las-listas-al-congreso/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Elma Saiz Delgado
+
+PSOE en Navarra · pendiente
+
+**Ahora**
+
+- Ministra de Inclusión, Seguridad Social y Migraciones (desde noviembre de 2023) y portavoz del Gobierno (desde diciembre de 2025) ([La Moncloa](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-elma-saiz.aspx))
+
+**Trayectoria**
+
+- 2019–2023: Consejera de Economía y Hacienda y portavoz del Gobierno de Navarra ([La Moncloa](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-elma-saiz.aspx))
+- 2008–2012: Delegada del Gobierno en Navarra; en 2012, directora del Instituto Navarro para la Igualdad y Familia ([La Moncloa](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-elma-saiz.aspx))
+- 2003–2007: Parlamentaria foral del PSN-PSOE ([La Moncloa](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-elma-saiz.aspx))
+- desde 1999: Socia directora de IMEL, consultoría jurídico-tributaria; profesora de máster en la Universidad de Navarra y la Universidad Pública de Navarra ([La Moncloa](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-elma-saiz.aspx))
+
+**Formación**
+
+- Licenciada en Derecho; máster en Asesoría Fiscal (Universidad de Navarra) ([La Moncloa](https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-elma-saiz.aspx))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en Pamplona en 1975. En 2024 compareció en la comisión del Senado sobre el caso Koldo por las compras de material sanitario del Gobierno de Navarra (https://orain.eus/es/politica/2024/04/11/la-ministra-elma-saiz-comparecera-en-comision-de-investigacion-del-caso-koldo-en-senado/).
+
+## Leticia San Martín Rodríguez (UPN)
+
+UPN-PP en Navarra · pendiente
+
+**Ahora**
+
+- Parlamentaria foral de UPN (desde 2023); portavoz de Salud ([Demócrata](https://www.democrata.es/politicos/leticia-san-martin-rodriguez-1438))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## María Perpetuo Socorro Sada Ballesteros
+
+Vox en Navarra · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Virginia Alonso Aparicio
+
+Podemos en Navarra · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Javier Ibáñez Orayen
+
+FA en Navarra · pendiente
 
 **Procedimientos judiciales** (sin buscar)
 
