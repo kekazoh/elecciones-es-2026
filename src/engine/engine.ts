@@ -154,11 +154,19 @@ export function isOnBallot(party: Party, province?: string): boolean {
   return province === undefined ? party.constituencies.length > 0 : party.constituencies.includes(province);
 }
 
-/** Fracción de medidas en las que se conoce la posición del partido (propia o heredada). */
+/** Fracción de medidas en las que se conoce la posición de cada partido (propia o heredada). */
+function coverageByParty(ds: Dataset): Map<string, number> {
+  const known = new Map<string, Set<string>>();
+  for (const p of usablePositions(ds)) {
+    if (!known.has(p.partyId)) known.set(p.partyId, new Set());
+    known.get(p.partyId)!.add(p.measureId);
+  }
+  const n = ds.measures.length;
+  return new Map(ds.parties.map((p) => [p.id, n === 0 ? 0 : (known.get(p.id)?.size ?? 0) / n]));
+}
+
 export function partyCoverage(ds: Dataset, partyId: string): number {
-  if (ds.measures.length === 0) return 0;
-  const known = new Set(usablePositions(ds).filter((p) => p.partyId === partyId).map((p) => p.measureId));
-  return known.size / ds.measures.length;
+  return coverageByParty(ds).get(partyId) ?? 0;
 }
 
 /**
@@ -171,7 +179,8 @@ export function ballot(
   cfg: EngineConfig = DEFAULT_CONFIG,
 ): { competing: Party[]; sparse: Party[] } {
   const onBallot = ds.parties.filter((p) => isOnBallot(p, answers.province));
-  const competing = onBallot.filter((p) => partyCoverage(ds, p.id) >= cfg.minCoverage);
+  const coverage = coverageByParty(ds);
+  const competing = onBallot.filter((p) => (coverage.get(p.id) ?? 0) >= cfg.minCoverage);
   // Si en una provincia nadie llega al mínimo, se compara a todos antes que a ninguno.
   if (competing.length === 0) return { competing: onBallot, sparse: [] };
   return { competing, sparse: onBallot.filter((p) => !competing.includes(p)) };

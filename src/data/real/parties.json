@@ -8,7 +8,60 @@
       "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
       "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
       "date": "2023-07-05"
-    }
+    },
+    "constituencies": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52"
+    ]
   },
   {
     "id": "psoe",
@@ -19,7 +72,61 @@
       "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
       "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
       "date": "2023-07-06"
-    }
+    },
+    "constituencies": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52"
+    ]
   },
   {
     "id": "vox",
@@ -30,7 +137,61 @@
       "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
       "url": "https://www.voxespana.es/programa/programa-electoral-vox",
       "date": "2023-07-07"
-    }
+    },
+    "constituencies": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52"
+    ]
   },
   {
     "id": "sumar",
@@ -41,7 +202,8 @@
       "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
       "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
       "date": "2023-07-10"
-    }
+    },
+    "constituencies": []
   },
   {
     "id": "erc",
@@ -118,7 +280,50 @@
     "program": {
       "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
       "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf"
-    }
+    },
+    "constituencies": [
+      "01",
+      "02",
+      "04",
+      "05",
+      "06",
+      "09",
+      "10",
+      "11",
+      "13",
+      "14",
+      "15",
+      "16",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36",
+      "37",
+      "39",
+      "40",
+      "41",
+      "42",
+      "44",
+      "45",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51"
+    ]
   },
   {
     "id": "bng",
@@ -142,10 +347,7 @@
     "name": "Coalición Canaria",
     "shortName": "CC",
     "color": "#ffd700",
-    "constituencies": [
-      "35",
-      "38"
-    ],
+    "constituencies": [],
     "program": {
       "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
       "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
@@ -157,12 +359,729 @@
     "name": "Unión del Pueblo Navarro",
     "shortName": "UPN",
     "color": "#2a52be",
-    "constituencies": [
-      "31"
-    ],
+    "constituencies": [],
     "program": {
       "title": "Programa electoral de UPN para las elecciones forales y municipales de mayo de 2023 (no se ha localizado uno para las generales de 2023)",
       "url": "https://iniciativa2028.es/wp-content/uploads/2023/07/3-UPN-Elecciones-23J.pdf"
     }
+  },
+  {
+    "id": "frente-obrero",
+    "name": "Frente Obrero",
+    "shortName": "FO",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52"
+    ]
+  },
+  {
+    "id": "salf",
+    "name": "Se Acabó la Fiesta",
+    "shortName": "SALF",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "18",
+      "19",
+      "21",
+      "22",
+      "23",
+      "24",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "49",
+      "50",
+      "51",
+      "52"
+    ]
+  },
+  {
+    "id": "mundo-mas-justo",
+    "name": "Por un Mundo Más Justo",
+    "shortName": "MUNDO+JUSTO",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "02",
+      "04",
+      "05",
+      "06",
+      "08",
+      "09",
+      "11",
+      "16",
+      "18",
+      "19",
+      "22",
+      "23",
+      "24",
+      "28",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "40",
+      "41",
+      "42",
+      "43",
+      "46",
+      "47",
+      "48",
+      "50"
+    ]
+  },
+  {
+    "id": "pacma",
+    "name": "Partido Animalista con el Medio Ambiente",
+    "shortName": "PACMA",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "07",
+      "08",
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "35",
+      "37",
+      "38",
+      "40",
+      "41",
+      "43",
+      "44",
+      "46",
+      "47",
+      "48",
+      "50"
+    ]
+  },
+  {
+    "id": "frente-amplio",
+    "name": "Frente Amplio",
+    "shortName": "FA",
+    "color": "#e51c55",
+    "kind": "coalicion",
+    "members": [
+      "sumar"
+    ],
+    "constituencies": [
+      "01",
+      "02",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36",
+      "37",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "45",
+      "47",
+      "48",
+      "49",
+      "50"
+    ]
+  },
+  {
+    "id": "partido-autonomos",
+    "name": "Partido Autónomos",
+    "shortName": "Partido Autónomos",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "03",
+      "12",
+      "38",
+      "46"
+    ]
+  },
+  {
+    "id": "pcte",
+    "name": "Partido Comunista de los Trabajadores de España",
+    "shortName": "PCTE",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "03",
+      "04",
+      "05",
+      "07",
+      "08",
+      "10",
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "28",
+      "29",
+      "30",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ]
+  },
+  {
+    "id": "compromis-fv",
+    "name": "Compromís: Front Valencià",
+    "shortName": "Compromís",
+    "color": "#8a8a8a",
+    "kind": "coalicion",
+    "constituencies": [
+      "03",
+      "12",
+      "46"
+    ]
+  },
+  {
+    "id": "falange",
+    "name": "Falange Española de las JONS",
+    "shortName": "FE de las JONS",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "03",
+      "12",
+      "14",
+      "19",
+      "28",
+      "34",
+      "41",
+      "44",
+      "45",
+      "46",
+      "47",
+      "50"
+    ]
+  },
+  {
+    "id": "adelante-andalucia",
+    "name": "Adelante Andalucía",
+    "shortName": "Adelante Andalucía",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "04",
+      "11",
+      "14",
+      "18",
+      "21",
+      "23",
+      "29",
+      "41"
+    ]
+  },
+  {
+    "id": "ipal",
+    "name": "Izquierda por Almería",
+    "shortName": "IPAL",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "04"
+    ]
+  },
+  {
+    "id": "escanos-en-blanco",
+    "name": "Escaños en Blanco para Dejar Escaños Vacíos",
+    "shortName": "Escaños en Blanco",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "04",
+      "14",
+      "20",
+      "24",
+      "26",
+      "30",
+      "34",
+      "35",
+      "36",
+      "42",
+      "47",
+      "52"
+    ]
+  },
+  {
+    "id": "pfac",
+    "name": "Feministas al Congreso",
+    "shortName": "PFAC",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01",
+      "48"
+    ]
+  },
+  {
+    "id": "jl",
+    "name": "Justicia y Ley",
+    "shortName": "JL",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "01"
+    ]
+  },
+  {
+    "id": "puede",
+    "name": "Partido Unionista Estado de España",
+    "shortName": "PUEDE",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "33"
+    ]
+  },
+  {
+    "id": "pdsje",
+    "name": "Partido Demócrata Social Jubilados Europeos",
+    "shortName": "PDSJE",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "05"
+    ]
+  },
+  {
+    "id": "nex",
+    "name": "Nuevo Extremeñismo - Adelante Extremadura",
+    "shortName": "NEX",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "06",
+      "10"
+    ]
+  },
+  {
+    "id": "j-u-e-x",
+    "name": "Juntos por Extremadura",
+    "shortName": "J.U.E.X.",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "06",
+      "10"
+    ]
+  },
+  {
+    "id": "d21",
+    "name": "Democracia para el Siglo 21",
+    "shortName": "D21",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "08",
+      "28"
+    ]
+  },
+  {
+    "id": "alhora",
+    "name": "Alhora",
+    "shortName": "ALHORA",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "08",
+      "17",
+      "25",
+      "43"
+    ]
+  },
+  {
+    "id": "fia",
+    "name": "Federación de los Independientes de Aragón",
+    "shortName": "FIA",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "22",
+      "50"
+    ]
+  },
+  {
+    "id": "p-alantre",
+    "name": "Proyecto Alantre",
+    "shortName": "P Alantre",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "24"
+    ]
+  },
+  {
+    "id": "prepal",
+    "name": "Partido Regionalista del País Leonés",
+    "shortName": "PREPAL",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "24",
+      "37",
+      "49"
+    ]
+  },
+  {
+    "id": "ph",
+    "name": "Partido Humanista",
+    "shortName": "PH",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "28"
+    ]
+  },
+  {
+    "id": "ie",
+    "name": "Iustitia Europa",
+    "shortName": "IE",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "28"
+    ]
+  },
+  {
+    "id": "alternativa-malaguena",
+    "name": "Alternativa Malagueña",
+    "shortName": "Alternativa Malagueña",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "29"
+    ]
+  },
+  {
+    "id": "jose-maria-calvo-guerra",
+    "name": "José María Calvo Guerra",
+    "shortName": "José María Calvo Guerra",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "29"
+    ]
+  },
+  {
+    "id": "3e",
+    "name": "Tercera Edad en Acción",
+    "shortName": "3e",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "30"
+    ]
+  },
+  {
+    "id": "uc",
+    "name": "Unión Cartaginense",
+    "shortName": "UC",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "30"
+    ]
+  },
+  {
+    "id": "eguzkilore",
+    "name": "Eguzkilore",
+    "shortName": "Eguzkilore",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "31"
+    ]
+  },
+  {
+    "id": "geroa-bai",
+    "name": "Geroa Bai",
+    "shortName": "Geroa Bai",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "31"
+    ]
+  },
+  {
+    "id": "upn-pp",
+    "name": "Unión del Pueblo Navarro en coalición con Partido Popular",
+    "shortName": "UPN-PP",
+    "color": "#2a52be",
+    "kind": "coalicion",
+    "members": [
+      "upn",
+      "pp"
+    ],
+    "constituencies": [
+      "31"
+    ]
+  },
+  {
+    "id": "lib",
+    "name": "Liberación Canaria",
+    "shortName": "LIB",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "35",
+      "38"
+    ]
+  },
+  {
+    "id": "d-r-g",
+    "name": "Partido Drago Canarias",
+    "shortName": "D.R.G",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "35",
+      "38"
+    ]
+  },
+  {
+    "id": "cc-1can",
+    "name": "Coalición Canaria-Municipalistas Primero Canarias",
+    "shortName": "CCa-1.ºCAN",
+    "color": "#ffd700",
+    "kind": "coalicion",
+    "members": [
+      "cc"
+    ],
+    "constituencies": [
+      "35",
+      "38"
+    ]
+  },
+  {
+    "id": "upc",
+    "name": "Unidad del Pueblo Canario",
+    "shortName": "UPC",
+    "color": "#6b2e68",
+    "kind": "coalicion",
+    "members": [
+      "podemos",
+      "sumar"
+    ],
+    "constituencies": [
+      "35",
+      "38"
+    ]
+  },
+  {
+    "id": "pcpc",
+    "name": "Partido Comunista del Pueblo Canario",
+    "shortName": "PCPC",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "35"
+    ]
+  },
+  {
+    "id": "f8",
+    "name": "Feminism8",
+    "shortName": "F8",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "38"
+    ]
+  },
+  {
+    "id": "sy",
+    "name": "Soria ¡ya!",
+    "shortName": "SY",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "42"
+    ]
+  },
+  {
+    "id": "cnv",
+    "name": "Convergents",
+    "shortName": "CNV",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "43"
+    ]
+  },
+  {
+    "id": "teruel-existe",
+    "name": "Teruel Existe",
+    "shortName": "Teruel Existe",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "44"
+    ]
+  },
+  {
+    "id": "vlc",
+    "name": "Valencia Unida",
+    "shortName": "VLC",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "46"
+    ]
+  },
+  {
+    "id": "rrb",
+    "name": "Renacer Renaixer",
+    "shortName": "RRB",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "46"
+    ]
+  },
+  {
+    "id": "agenda-valenciana",
+    "name": "Agenda Valenciana",
+    "shortName": "Agenda Valenciana",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "46"
+    ]
+  },
+  {
+    "id": "pancal-urci",
+    "name": "Partido Nacionalista de Castilla y León-Unión Reformista Ciudadana",
+    "shortName": "PANCAL-URCI",
+    "color": "#8a8a8a",
+    "constituencies": [
+      "47"
+    ]
   }
 ]

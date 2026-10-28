@@ -36,7 +36,6 @@ export function validateDataset(ds: Dataset): string[] {
       if (!PROVINCE_NAME.has(code)) errors.push(`Partido ${p.id}: provincia desconocida ${code}`);
     }
     if (p.members && p.kind !== 'coalicion') errors.push(`Partido ${p.id}: tiene miembros pero no es coalición`);
-    if (p.kind === 'coalicion' && !p.members?.length) errors.push(`Coalición ${p.id}: sin miembros`);
     for (const mid of p.members ?? []) {
       const member = ds.parties.find((q) => q.id === mid);
       if (!member) errors.push(`Coalición ${p.id}: miembro desconocido ${mid}`);

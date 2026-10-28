@@ -102,6 +102,21 @@ export interface PartyPosition {
   inheritedFrom?: string[];
 }
 
+/** Lista de una candidatura al Congreso en una provincia, tal como la publica el BOE. */
+export interface CandidacyList {
+  /** Código INE de la provincia. */
+  province: string;
+  partyId: string;
+  /** Denominación tal como sale en el BOE. */
+  name: string;
+  acronym?: string;
+  /** En el orden de la papeleta. */
+  candidates: string[];
+  substitutes: string[];
+  /** Aviso de la Junta sobre la candidatura (p. ej., que se ha inadmitido). */
+  note?: string;
+}
+
 /** Estado procesal. Solo `sentencia_firme` penaliza en la recomendación. */
 export type CaseStatus =
   | 'sentencia_firme'
