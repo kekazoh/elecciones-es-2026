@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-234 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+238 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3668,3 +3668,86 @@ FA en Toledo · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## Pilar Bernabé García
+
+PSOE en Valencia/València · pendiente
+
+**Ahora**
+
+- Delegada del Gobierno en la Comunitat Valenciana (desde julio de 2022); deberá dejar el cargo por la candidatura ([Moncloa.com, 19 de octubre de 2026](https://www.moncloa.com/2026/10/19/elecciones-29n-valencia-pilar-bernabe-psoe-3451250/))
+- Secretaria general del PSOE de la ciudad de València (desde 2025) y candidata a la alcaldía en 2027 ([Artículo14, 20 de octubre de 2026](https://www.articulo14.es/espana-por-la-igualdad/pilar-bernabe-el-foco-del-congreso-para-rivalizar-por-la-alcaldia-de-valencia-20261020.html))
+
+**Trayectoria**
+
+- 2019–2022: Concejala y cuarta teniente de alcalde de València (áreas económicas y de empleo) ([Artículo14, 20 de octubre de 2026](https://www.articulo14.es/espana-por-la-igualdad/pilar-bernabe-el-foco-del-congreso-para-rivalizar-por-la-alcaldia-de-valencia-20261020.html))
+- 2006–2019: Asesora técnica en Les Corts (2006–2011) y en el Ayuntamiento de València (2011–2019) ([Artículo14, 20 de octubre de 2026](https://www.articulo14.es/espana-por-la-igualdad/pilar-bernabe-el-foco-del-congreso-para-rivalizar-por-la-alcaldia-de-valencia-20261020.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en València en 1979. Por la dana de 2024, la jueza de Catarroja inadmitió una querella de Hazte Oír contra ella (febrero de 2025) y rechazó citarla como investigada (abril de 2025); la Audiencia de Valencia lo confirmó en mayo de 2025: https://www.ultimahora.es/noticias/comunidades/2025/05/19/2390163/audiencia-valencia-confirma-inadmision-querella-contra-bernabe-por-dana.html . El PSOE corrigió su currículum para decir que «inició estudios» en las dos titulaciones que figuraban: https://www.vozpopuli.com/espana/comunidad-valenciana/psoe-modifica-curriculum-bernabe-estudios.html
+
+## María José Catalá Verdet
+
+PP en Valencia/València · pendiente
+
+**Ahora**
+
+- Alcaldesa de València (desde 2023); mantiene la alcaldía como candidata ([Moncloa.com, 23 de octubre de 2026](https://www.moncloa.com/2026/10/23/catala-lista-pp-congreso-valencia-3454175/))
+
+**Trayectoria**
+
+- 2011–2015: Consellera de Educación (y Empleo) de la Generalitat; portavoz del Consell desde 2014 ([Valencia Plaza](https://valenciaplaza.com/maria-jose-catala-una-politica-curtida-para-que-el-pp-recupere-valencia))
+- Alcaldesa de Torrent; diputada en el Congreso unos meses en 2008 ([Valencia Plaza](https://valenciaplaza.com/maria-jose-catala-una-politica-curtida-para-que-el-pp-recupere-valencia))
+- 2015–2019: Portavoz adjunta del PP en Les Corts ([Valencia Plaza](https://valenciaplaza.com/maria-jose-catala-una-politica-curtida-para-que-el-pp-recupere-valencia))
+- Profesora de Derecho Constitucional en la Universidad Internacional de Valencia (desde 2017) ([Demócrata](https://www.democrata.es/politicos/maria-jose-catala-verdet-1462))
+
+**Formación**
+
+- Licenciada en Derecho y doctora en Derecho Público (CEU Cardenal Herrera) ([Demócrata](https://www.democrata.es/politicos/maria-jose-catala-verdet-1462))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En abril de 2026 la Fiscalía Anticorrupción abrió una investigación a raíz de una denuncia de Compromís sobre contrataciones de personal, por presunta prevaricación y tráfico de influencias, que incluye a Catalá y a la presidenta del Puerto, Mar Chao; no consta que haya llegado a un juzgado: https://en.ara.cat/politics/anti-corruption-investigates-the-mayor-of-valencia-and-the-president-of-the-port-for-malfeasance-and-influence-peddling_25_5706998.html . En abril de 2025 un juzgado de lo contencioso le impuso una multa de 1.000 € como responsable del Ayuntamiento por no entregar un expediente de las oposiciones de la Policía Local; no es una causa contra ella: https://www.eldiario.es/1_ba9737 . Declaró como testigo en la causa de la dana.
+
+## Àgueda Micó Micó
+
+Compromís en Valencia/València · pendiente
+
+**Ahora**
+
+- Diputada de Compromís por Valencia en el Congreso (desde agosto de 2023); en el Grupo Mixto desde julio de 2025 tras dejar el grupo de Sumar ([Última Hora, 24 de junio de 2025](https://www.ultimahora.es/noticias/nacional/2025/06/24/2415685/diputado-compromis-pasa-grupo-mixto-otro-sigue-sumar.html))
+
+**Trayectoria**
+
+- Secretaria general de Més Compromís hasta su elección como diputada en 2023 ([Valencia Plaza](https://valenciaplaza.com/valenciaplaza/mescompromisadelantasucongresoaprincipiosde2024traslamarchademicoamadrid1))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacida en L'Olleria en 1978.
+
+## Ignacio Gil Lázaro
+
+Vox en Valencia/València · pendiente
+
+**Ahora**
+
+- Diputado de Vox por Valencia en el Congreso (desde 2019) y presidente del comité ejecutivo provincial de Vox en Valencia ([Demócrata](https://www.democrata.es/politicos/ignacio-gil-lazaro-268))
+
+**Trayectoria**
+
+- 2019: Vicepresidente cuarto del Congreso por Vox (XIV legislatura) ([Valencia Plaza](https://valenciaplaza.com/el-valenciano-gil-lazaro-sera-vicepresidente-del-congreso-por-vox))
+- 1982–2015: Diputado de AP y del PP en el Congreso (con un periodo como senador); vicepresidente cuarto del Congreso y portavoz adjunto del Grupo Popular (2000–2004) ([Wikipedia](https://en.wikipedia.org/wiki/Ignacio_Gil))
+- 2018: Abandonó el PP ([Valencia Plaza](https://valenciaplaza.com/el-valenciano-gil-lazaro-sera-vicepresidente-del-congreso-por-vox))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacido en València en 1957.
