@@ -6844,5 +6844,367 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Alfonso Rodríguez Gómez de Celis",
+    "lists": [
+      {
+        "province": "41",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Vicepresidente primero del Congreso (XIV y XV legislaturas)",
+        "source": {
+          "title": "Última Hora, 17 de agosto de 2023",
+          "url": "https://www.ultimahora.es/noticias/comunidades/2023/08/17/1996149/socialista-gomez-celis-diputada-sumar-esther-gil-andaluces-mesa-del-congreso-como-vicepresidentes.html"
+        }
+      },
+      {
+        "text": "Diputado del PSOE por Sevilla y secretario de Política Institucional de la ejecutiva federal",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/alfonso-rodriguez-gomez-de-celis-448"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Delegado de Presidencia y Urbanismo del Ayuntamiento de Sevilla",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alfonso_Rodr%C3%ADguez_G%C3%B3mez_de_Celis"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Estudios en la Universidad de Sevilla y en la Universidad Rey Juan Carlos",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alfonso_Rodr%C3%ADguez_G%C3%B3mez_de_Celis"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Sevilla en 1970. Vozpópuli publicó que aparece de pasada en un informe de la UCO del caso Koldo, por haber facilitado que Santos Cerdán fuera socio de una caseta de la Feria de Sevilla; no consta que esté investigado: https://www.vozpopuli.com/espana/una-caseta-de-la-feria-de-sevilla-desmiente-al-numero-2-de-armengol-su-relacion-con-cerdan-era-estrecha.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Juan Bravo Baena",
+    "lists": [
+      {
+        "province": "41",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Vicesecretario de Hacienda, Vivienda e Infraestructuras del PP",
+        "source": {
+          "title": "The Objective, 21 de julio de 2025",
+          "url": "https://theobjective.com/espana/politica/2025-07-21/pp-marcial-dorado-psoe-extorsionar/"
+        }
+      },
+      {
+        "text": "Diputado del PP en el Congreso (desde agosto de 2023)",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/juan-bravo-baena-182"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2022",
+        "text": "Consejero de Hacienda y Financiación Europea de la Junta de Andalucía",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/elecciones-andaluzas-bendodo-bravo.html"
+        }
+      },
+      {
+        "text": "Funcionario del Cuerpo Superior de Inspectores de Hacienda",
+        "source": {
+          "title": "Moncloa.com, 4 de octubre de 2023",
+          "url": "https://www.moncloa.com/2023/10/04/juan-bravo-pp-receta-economica-2214997/"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho",
+        "source": {
+          "title": "Moncloa.com, 4 de octubre de 2023",
+          "url": "https://www.moncloa.com/2023/10/04/juan-bravo-pp-receta-economica-2214997/"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Palma en 1974.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María de los Reyes Romero Vilches",
+    "lists": [
+      {
+        "province": "41",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada de Vox por Sevilla en el Congreso (desde 2019)",
+        "source": {
+          "title": "Congreso, declaración de intereses",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_307.pdf"
+        }
+      },
+      {
+        "text": "Vicepresidenta de Vox en Sevilla",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Reyes_Romero"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019",
+        "text": "Portavoz de Vox en la Comisión de Derechos Sociales del Congreso",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/politica/vox-reyes-romero-azote-iglesias-abalos_0_1327967738.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacida en Marchena en 1967.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Mar Cambrollé Jurado",
+    "lists": [
+      {
+        "province": "41",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Miembro de la ejecutiva estatal de Podemos; activista por los derechos de las personas trans",
+        "source": {
+          "title": "Demócrata, octubre de 2026",
+          "url": "https://www.democrata.es/politica/listas-podemos-29n-bousselham-mbaye-montero-cambrolle/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Cofundadora del MHAR de Sevilla (1977); impulsó la Asociación Trans de Andalucía-Sylvia Rivera y la Federación Plataforma Trans, y participó en la ley trans andaluza de 2014 y la estatal de 2023",
+        "source": {
+          "title": "Demócrata, octubre de 2026",
+          "url": "https://www.democrata.es/politica/listas-podemos-29n-bousselham-mbaye-montero-cambrolle/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Nacida en Sevilla en 1957. Según Podemos, es la primera mujer trans que encabeza una lista al Congreso.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Enrique Fernando Santiago Romero",
+    "lists": [
+      {
+        "province": "41",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado por Córdoba en el Congreso (Grupo Sumar, desde 2023) y portavoz parlamentario de IU",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/enrique-fernando-santiago-romero-485"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2018",
+        "text": "Elegido secretario general del PCE",
+        "source": {
+          "title": "Libertad Digital",
+          "url": "https://www.libertaddigital.com/personajes/enrique-santiago/"
+        }
+      },
+      {
+        "period": "2021",
+        "text": "Secretario de Estado para la Agenda 2030",
+        "source": {
+          "title": "Valencia Plaza, marzo de 2021",
+          "url": "https://valenciaplaza.com/valenciaplaza/enrique-santiago-nuevo-secretario-agenda-2030"
+        }
+      },
+      {
+        "text": "Abogado; formó parte del equipo jurídico de las FARC en las negociaciones de paz con el Gobierno de Colombia",
+        "source": {
+          "title": "Libertad Digital",
+          "url": "https://www.libertaddigital.com/personajes/enrique-santiago/"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciado en Derecho por la Universidad Complutense; máster en Dirección de Fundaciones por la Autónoma de Madrid",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/enrique-fernando-santiago-romero-485"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En 2023 fue cabeza de lista de Sumar por Córdoba. En 2014 Francisco Álvarez-Cascos presentó contra él una querella por injurias y calumnias en Oviedo; no consta si se admitió ni su resultado: https://lamarea.com/2014/05/12/alvarez-cascos-pide-prision-preventiva-por-injurias-y-calumnias-para-enrique-santiago",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Luis Alfonso Rey de las Heras",
+    "lists": [
+      {
+        "province": "42",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado del PSOE por Soria en el Congreso (desde agosto de 2023)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Luis_Rey_(politician)"
+        }
+      },
+      {
+        "text": "Secretario general del PSOE de Soria y primer teniente de alcalde de Soria (sin retribución)",
+        "source": {
+          "title": "Congreso, declaración de intereses",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_11.pdf"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2021–2023",
+        "text": "Senador",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Luis_Rey_(politician)"
+        }
+      },
+      {
+        "period": "2026",
+        "text": "Alcalde en funciones de Soria tras la salida de Carlos Martínez a las Cortes",
+        "source": {
+          "title": "The Objective, 8 de abril de 2026",
+          "url": "https://theobjective.com/espana/politica/2026-04-08/psoe-castilla-leon-alcalde-soria/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "En junio de 2026 la UCO registró el Ayuntamiento de Soria (operación Fuentona, área de Comercio); la concejala investigada es Yolanda Santos y Rey no aparece entre los investigados: https://www.elespanol.com/castilla-y-leon/region/soria/20260624/concejala-medio-ambiente-soria-pasa-disposicion-judicial-detenidos-libertad/1003744298050_0.html",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Tomás Cabezón Casas",
+    "lists": [
+      {
+        "province": "42",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado del PP por Soria en el Congreso (desde mayo de 2019)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Cabez%C3%B3n"
+        }
+      },
+      {
+        "text": "Alcalde de Castilfrío de la Sierra y vicesecretario provincial del PP de Soria",
+        "source": {
+          "title": "Congreso, declaración de intereses",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_2.pdf"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2016–2019",
+        "text": "Senador",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Cabez%C3%B3n"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Soria en 1981. No confundir con Borja Cabezón (PSOE).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Andrea Martínez Ruiz",
+    "lists": [
+      {
+        "province": "42",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ángel Alberto Flores Gaitán",
+    "lists": [
+      {
+        "province": "42",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Luisa Muñoz González",
+    "lists": [
+      {
+        "province": "42",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
   }
 ]

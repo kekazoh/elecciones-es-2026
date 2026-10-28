@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-209 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+219 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3232,3 +3232,180 @@ FA en Segovia · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre él.
+
+## Alfonso Rodríguez Gómez de Celis
+
+PSOE en Sevilla · pendiente
+
+**Ahora**
+
+- Vicepresidente primero del Congreso (XIV y XV legislaturas) ([Última Hora, 17 de agosto de 2023](https://www.ultimahora.es/noticias/comunidades/2023/08/17/1996149/socialista-gomez-celis-diputada-sumar-esther-gil-andaluces-mesa-del-congreso-como-vicepresidentes.html))
+- Diputado del PSOE por Sevilla y secretario de Política Institucional de la ejecutiva federal ([Demócrata](https://www.democrata.es/politicos/alfonso-rodriguez-gomez-de-celis-448))
+
+**Trayectoria**
+
+- Delegado de Presidencia y Urbanismo del Ayuntamiento de Sevilla ([Wikipedia](https://en.wikipedia.org/wiki/Alfonso_Rodr%C3%ADguez_G%C3%B3mez_de_Celis))
+
+**Formación**
+
+- Estudios en la Universidad de Sevilla y en la Universidad Rey Juan Carlos ([Wikipedia](https://en.wikipedia.org/wiki/Alfonso_Rodr%C3%ADguez_G%C3%B3mez_de_Celis))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Sevilla en 1970. Vozpópuli publicó que aparece de pasada en un informe de la UCO del caso Koldo, por haber facilitado que Santos Cerdán fuera socio de una caseta de la Feria de Sevilla; no consta que esté investigado: https://www.vozpopuli.com/espana/una-caseta-de-la-feria-de-sevilla-desmiente-al-numero-2-de-armengol-su-relacion-con-cerdan-era-estrecha.html
+
+## Juan Bravo Baena
+
+PP en Sevilla · pendiente
+
+**Ahora**
+
+- Vicesecretario de Hacienda, Vivienda e Infraestructuras del PP ([The Objective, 21 de julio de 2025](https://theobjective.com/espana/politica/2025-07-21/pp-marcial-dorado-psoe-extorsionar/))
+- Diputado del PP en el Congreso (desde agosto de 2023) ([Demócrata](https://www.democrata.es/politicos/juan-bravo-baena-182))
+
+**Trayectoria**
+
+- 2019–2022: Consejero de Hacienda y Financiación Europea de la Junta de Andalucía ([Vozpópuli](https://www.vozpopuli.com/espana/elecciones-andaluzas-bendodo-bravo.html))
+- Funcionario del Cuerpo Superior de Inspectores de Hacienda ([Moncloa.com, 4 de octubre de 2023](https://www.moncloa.com/2023/10/04/juan-bravo-pp-receta-economica-2214997/))
+
+**Formación**
+
+- Licenciado en Derecho ([Moncloa.com, 4 de octubre de 2023](https://www.moncloa.com/2023/10/04/juan-bravo-pp-receta-economica-2214997/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Palma en 1974.
+
+## María de los Reyes Romero Vilches
+
+Vox en Sevilla · pendiente
+
+**Ahora**
+
+- Diputada de Vox por Sevilla en el Congreso (desde 2019) ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_307.pdf))
+- Vicepresidenta de Vox en Sevilla ([Wikipedia](https://en.wikipedia.org/wiki/Reyes_Romero))
+
+**Trayectoria**
+
+- 2019: Portavoz de Vox en la Comisión de Derechos Sociales del Congreso ([Vozpópuli](https://www.vozpopuli.com/espana/politica/vox-reyes-romero-azote-iglesias-abalos_0_1327967738.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en Marchena en 1967.
+
+## Mar Cambrollé Jurado
+
+Podemos en Sevilla · pendiente
+
+**Ahora**
+
+- Miembro de la ejecutiva estatal de Podemos; activista por los derechos de las personas trans ([Demócrata, octubre de 2026](https://www.democrata.es/politica/listas-podemos-29n-bousselham-mbaye-montero-cambrolle/))
+
+**Trayectoria**
+
+- Cofundadora del MHAR de Sevilla (1977); impulsó la Asociación Trans de Andalucía-Sylvia Rivera y la Federación Plataforma Trans, y participó en la ley trans andaluza de 2014 y la estatal de 2023 ([Demócrata, octubre de 2026](https://www.democrata.es/politica/listas-podemos-29n-bousselham-mbaye-montero-cambrolle/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Nacida en Sevilla en 1957. Según Podemos, es la primera mujer trans que encabeza una lista al Congreso.
+
+## Enrique Fernando Santiago Romero
+
+FA en Sevilla · pendiente
+
+**Ahora**
+
+- Diputado por Córdoba en el Congreso (Grupo Sumar, desde 2023) y portavoz parlamentario de IU ([Demócrata](https://www.democrata.es/politicos/enrique-fernando-santiago-romero-485))
+
+**Trayectoria**
+
+- 2018: Elegido secretario general del PCE ([Libertad Digital](https://www.libertaddigital.com/personajes/enrique-santiago/))
+- 2021: Secretario de Estado para la Agenda 2030 ([Valencia Plaza, marzo de 2021](https://valenciaplaza.com/valenciaplaza/enrique-santiago-nuevo-secretario-agenda-2030))
+- Abogado; formó parte del equipo jurídico de las FARC en las negociaciones de paz con el Gobierno de Colombia ([Libertad Digital](https://www.libertaddigital.com/personajes/enrique-santiago/))
+
+**Formación**
+
+- Licenciado en Derecho por la Universidad Complutense; máster en Dirección de Fundaciones por la Autónoma de Madrid ([Demócrata](https://www.democrata.es/politicos/enrique-fernando-santiago-romero-485))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En 2023 fue cabeza de lista de Sumar por Córdoba. En 2014 Francisco Álvarez-Cascos presentó contra él una querella por injurias y calumnias en Oviedo; no consta si se admitió ni su resultado: https://lamarea.com/2014/05/12/alvarez-cascos-pide-prision-preventiva-por-injurias-y-calumnias-para-enrique-santiago
+
+## Luis Alfonso Rey de las Heras
+
+PSOE en Soria · pendiente
+
+**Ahora**
+
+- Diputado del PSOE por Soria en el Congreso (desde agosto de 2023) ([Wikipedia](https://en.wikipedia.org/wiki/Luis_Rey_(politician)))
+- Secretario general del PSOE de Soria y primer teniente de alcalde de Soria (sin retribución) ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_11.pdf))
+
+**Trayectoria**
+
+- 2021–2023: Senador ([Wikipedia](https://en.wikipedia.org/wiki/Luis_Rey_(politician)))
+- 2026: Alcalde en funciones de Soria tras la salida de Carlos Martínez a las Cortes ([The Objective, 8 de abril de 2026](https://theobjective.com/espana/politica/2026-04-08/psoe-castilla-leon-alcalde-soria/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En junio de 2026 la UCO registró el Ayuntamiento de Soria (operación Fuentona, área de Comercio); la concejala investigada es Yolanda Santos y Rey no aparece entre los investigados: https://www.elespanol.com/castilla-y-leon/region/soria/20260624/concejala-medio-ambiente-soria-pasa-disposicion-judicial-detenidos-libertad/1003744298050_0.html
+
+## Tomás Cabezón Casas
+
+PP en Soria · pendiente
+
+**Ahora**
+
+- Diputado del PP por Soria en el Congreso (desde mayo de 2019) ([Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s_Cabez%C3%B3n))
+- Alcalde de Castilfrío de la Sierra y vicesecretario provincial del PP de Soria ([Congreso, declaración de intereses](https://www.congreso.es/docinte/registro_intereses_diputado_2.pdf))
+
+**Trayectoria**
+
+- 2016–2019: Senador ([Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s_Cabez%C3%B3n))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Soria en 1981. No confundir con Borja Cabezón (PSOE).
+
+## Andrea Martínez Ruiz
+
+Vox en Soria · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Ángel Alberto Flores Gaitán
+
+FA en Soria · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## María Luisa Muñoz González
+
+Podemos en Soria · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
