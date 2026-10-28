@@ -92,6 +92,9 @@ indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
   una en [REVISION-POSICIONES.md](REVISION-POSICIONES.md). `source.locator` da
   la página del PDF (no la impresa) y el apartado; `source.quote` es literal y se
   ha comprobado automáticamente contra el texto extraído de esa página.
+- Compromís: Front Valencià: 16 posiciones de su programa de 2019
+  («Imparables», en valenciano), `pendiente` de revisión; mientras tanto hereda
+  de Podemos. Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
 - Programas usados y salvedades:
   - PP, Sumar, ERC, PNV y BNG: PDF oficial del partido, generales de 2023.
   - PSOE y Vox: la web del partido bloquea las descargas automáticas. Se citan

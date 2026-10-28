@@ -3142,5 +3142,213 @@
       "quote": "Pero podríamos decirle también, señora ministra, que ustedes han cometido un error mayúsculo contra la España de las autonomías, que nos caracterizan como país, porque no se puede consentir el enfrentamiento que ustedes generaron con una comunidad autónoma."
     },
     "verification": "verificado"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "eco-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 207 del PDF · Model econòmic (mesura 47)",
+      "quote": "Millora en el tracte fiscal de les rendes salarials i modificació del tracte privilegiat de les rendes del capital i empresarial, per reequilibrar de manera justa el pes de les diferents rendes en l’impost i ampliar el seu caràcter redistribuïdor."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 207 del PDF · Model econòmic (mesura 48)",
+      "quote": "Impost per a grans fortunes i per a gravar les transaccions financeres especulatives, seguint el model de la Taxa Tobin."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "viv-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 102 del PDF · Habitatge (mesura 1)",
+      "quote": "Permetrem a ajuntaments i comunitats autònomes regular els preus de l’habitatge en determinades zones urbanes."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "viv-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 102 del PDF · Habitatge (mesura 3)",
+      "quote": "Garantirem la promoció pública de l’habitatge en lloguer."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 80 del PDF · Salut (mesura 4)",
+      "quote": "Posarem fi a totes les polítiques de privatització i externalitzacions dels serveis sanitaris públics a tot l’estat espanyol. Iniciarem un camí de reversió dels serveis privatitzats."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "san-2",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 81 del PDF · Salut (mesura 12)",
+      "quote": "Estudiarem l’ampliació de les prestacions sanitàries com ara podologia, pròtesi, psicologia, fisioteràpia, nutrició, estomatologia i odontologia"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "edu-1",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 38 del PDF · Educació (mesura 2)",
+      "quote": "Modificarem el Reial Decret de Concerts perquè la xarxa concertada siga realment subsidiària de la pública"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "edu-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 39 del PDF · Educació (mesura 20)",
+      "quote": "Promourem l’extensió de l’ensenyament públic i gratuït a l’educació infantil de 0 a 3 anys."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "emp-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 90 del PDF · Ocupació (mesura 2)",
+      "quote": "Promoure una reducció progressiva de la jornada laboral a 32 hores setmanals per a l’any 2025, com a mecanisme de redistribució del treball, millora de la conciliació familiar i lluita contra el canvi climàtic."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 247 del PDF · Drets de la ciutadania · Protecció de les pensions (mesura 100)",
+      "quote": "Garantia de l’actualització de les pensions com a mínim amb l’IPC."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "emp-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 247 del PDF · Drets de la ciutadania · Protecció de les pensions (mesura 95)",
+      "quote": "S’ha d’estudiar una possible modificació de l’edat legal de jubilació per avançar-la, mai endarrerir-la."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "inm-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 303 del PDF · Cooperació i migracions (mesura 56)",
+      "quote": "facilitarem la regularització d’aquelles persones migrants amb treball, garantint uns mitjans de vida adequats"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "inm-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 302 del PDF · Cooperació i migracions (mesura 38)",
+      "quote": "Acabarem amb el cicle repressiu contra les persones migrades: concertines, les expulsions “en calent” i qualsevol altre tipus de pressió policial a les fronteres; els vols de deportació"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "med-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 128 del PDF · Canvi climàtic (mesura 7)",
+      "quote": "Pla de tancament programat de totes les centrals nuclears"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "ter-1",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 58 del PDF · Cultura (introducció)",
+      "quote": "cal un pacte, d’àmbit estatal, que done visibilitat, força i seguretat al procés efectiu de traspàs de competències i recursos."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "ter-3",
+    "stance": -1,
+    "source": {
+      "title": "Programa electoral de Compromís per a les eleccions generals de 2019 («Imparables»; aún no ha publicado el del 29N)",
+      "url": "https://imparables.compromis.net/docs/programa_complet_VAL.pdf",
+      "date": "2019-04-26",
+      "locator": "pág. 38 del PDF · Educació (mesura 3)",
+      "quote": "Redefinirem el paper del Ministeri d’Educació, per estar transferides les seues competències a les comunitats autònomes."
+    },
+    "verification": "pendiente"
   }
 ]
