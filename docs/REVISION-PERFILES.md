@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-225 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+229 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -3511,3 +3511,73 @@ PP en Tarragona · pendiente
 - No se han buscado.
 
 *Notas:* Primera candidatura de relieve; sustituye como número uno a Pere Lluís Huguet, que va de número dos.
+
+## Herminio Rufino Sancho Íniguez
+
+PSOE en Teruel · pendiente
+
+**Ahora**
+
+- Diputado del PSOE por Teruel en el Congreso y alcalde de Mezquita de Jarque ([La Comarca, noviembre de 2023](https://www.lacomarca.net/le-tiran-huevo-cabeza-herminio-sancho-diputado-psoe-teruel-cerca-congreso/))
+
+**Trayectoria**
+
+- Alcalde de Mezquita de Jarque desde 2007 y diputado en las Cortes de Aragón ([La Comarca, 2019](https://www.lacomarca.net/herminio-sancho-sustituir-urquizu-congreso-psoe-teruel/))
+- 2020: Vicepresidente primero de la Comisión Mixta del Defensor del Pueblo y portavoz adjunto del PSOE en la Comisión de Agricultura ([La Comarca](https://www.lacomarca.net/herminio-sancho-sera-portavoz-adjunto-del-psoe-en-la-comision-de-agricultura-del-congreso/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* En la investidura fallida de Feijóo (septiembre de 2023) votó «sí» por error al confundir la secretaria de la Mesa su apellido; luego rectificó.
+
+## José Alberto Herrero Bono
+
+PP en Teruel · pendiente
+
+**Ahora**
+
+- Diputado del PP por Teruel en el Congreso (desde septiembre de 2014) y alcalde de Calanda (desde 2019) ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Alberto_Herrero))
+
+**Trayectoria**
+
+- 2011: Concejal en Calanda y consejero comarcal del Bajo Aragón ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Alberto_Herrero))
+- 2020: Portavoz adjunto de Energía del Grupo Popular en el Congreso ([La Comarca](https://www.lacomarca.net/alberto-herrero-pp-teruel-bajo-aragon-madrid/))
+
+**Formación**
+
+- Ingeniero industrial ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Alberto_Herrero))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Cuarta vez consecutiva como cabeza de lista por Teruel: https://www.lacomarca.net/alberto-herrero-volvera-a-liderar-la-lista-del-pp-al-congreso-en-la-provincia-de-teruel/
+
+## Daniel Alda Chercoles
+
+Vox en Teruel · pendiente
+
+**Ahora**
+
+- Asistente del Grupo Parlamentario de Vox en el Congreso (desde hace dos años) y gestor de una explotación agraria familiar (desde 2022) ([La Comarca, 21 de octubre de 2026](https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/))
+
+**Formación**
+
+- Graduado en Historia (Universidad de Alcalá); másteres en Historia Económica (Universidad de Barcelona) y Filosofía de la Historia (Autónoma de Madrid) ([La Comarca, 21 de octubre de 2026](https://www.lacomarca.net/vox-apuesta-por-un-madrileno-con-raices-en-el-bajo-aragon-como-candidato-de-teruel-al-congreso/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* 27 años, nacido en Alcalá de Henares, con familia paterna en el Bajo Aragón.
+
+## Rafael Carlos Esteban Martín
+
+Podemos en Teruel · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
