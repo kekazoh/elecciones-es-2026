@@ -5396,5 +5396,310 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre él.",
     "verification": "pendiente"
+  },
+  {
+    "name": "María Del Carmen Rodríguez Dacosta",
+    "lists": [
+      {
+        "province": "32",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "desde 2020",
+        "text": "Diputada del PSdeG por Ourense en el Parlamento de Galicia; reelegida en 2024",
+        "source": {
+          "title": "Parlamento de Galicia, declaración de actividades",
+          "url": "https://www.parlamentodegalicia.es/sitios/web/transparencia/DeclaracionsActividades/110002975E.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Antonio José Naval Calviño",
+    "lists": [
+      {
+        "province": "32",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Maria Jesús Morenza Fernández",
+    "lists": [
+      {
+        "province": "32",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ana Belén Vázquez Blanco",
+    "lists": [
+      {
+        "province": "32",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Portavoz de Interior del Grupo Popular; secretaria nacional de Interior del PP y miembro de su Comité Ejecutivo Nacional",
+        "source": {
+          "title": "Artículo14, 14 de marzo de 2026",
+          "url": "https://www.articulo14.es/politica/ana-vazquez-pp-20260314.html"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Diputada por Ourense de 2000 a 2015 y desde 2016",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ana_Bel%C3%A9n_V%C3%A1zquez"
+        }
+      },
+      {
+        "period": "2006–2007",
+        "text": "Alcaldesa de Bande, donde antes fue concejala",
+        "source": {
+          "title": "elDiario.es",
+          "url": "https://www.eldiario.es/1_6021e0"
+        }
+      },
+      {
+        "text": "Inspectora de la Policía Nacional",
+        "source": {
+          "title": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/dolcevita/asi-es-ana-vazquez-51-inspectora-de-policia-su-exmarido-su-sonado-enfrentamiento-con-un-guardia-civil-sus-propiedades-y-su-sueldo-como-diputada.html"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Derecho",
+        "source": {
+          "title": "Artículo14, 14 de marzo de 2026",
+          "url": "https://www.articulo14.es/politica/ana-vazquez-pp-20260314.html"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacida en Bande en 1975. En septiembre de 2026 la presidenta del Congreso la expulsó del hemiciclo por mostrar un bote de gas pimienta ante Marlaska (https://es.euronews.com/2026/09/23/parte-del-congreso-de-espana-desalojado-tras-vaciarse-un-bote-de-gas-pimienta-en-el-bano).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Noa Presas Bergantiños",
+    "lists": [
+      {
+        "province": "32",
+        "partyId": "bng"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada del BNG por Ourense en el Parlamento de Galicia",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/noa-presas-bergantinos-1595"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Miembro de la Executiva Nacional del BNG",
+        "source": {
+          "title": "Propuesta de candidaturas del BNG, 2016",
+          "url": "https://nosdiario.gal/media/nosdiario/files/2016/07/20/proposta-candidaturas-eleccions-galegas.pdf"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Licenciada en Filología Gallega",
+        "source": {
+          "title": "Propuesta de candidaturas del BNG, 2016",
+          "url": "https://nosdiario.gal/media/nosdiario/files/2016/07/20/proposta-candidaturas-eleccions-galegas.pdf"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Juan Diego Conde Eguileta",
+    "lists": [
+      {
+        "province": "32",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Adriana Lastra Fernández",
+    "lists": [
+      {
+        "province": "33",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2024–2026",
+        "text": "Delegada del Gobierno en Asturias desde julio de 2024; cesó en octubre de 2026 para ser candidata",
+        "source": {
+          "title": "Moncloa.com, 20 de octubre de 2026",
+          "url": "https://www.moncloa.com/2026/10/20/lastra-delegada-gobierno-asturias-29n-3451884/"
+        }
+      },
+      {
+        "period": "hasta 2022",
+        "text": "Vicesecretaria general del PSOE; antes portavoz parlamentaria socialista en el Congreso; dejó sus cargos orgánicos en julio de 2022",
+        "source": {
+          "title": "Delegación del Gobierno en Asturias",
+          "url": "https://mptmd.gob.es/en/portal/delegaciones_gobierno/delegaciones/asturias/actualidad/2024/07/2024_07_16_2"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José María Figaredo Álvarez-Sala",
+    "lists": [
+      {
+        "province": "33",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Secretario general y portavoz adjunto del Grupo Vox en el Congreso",
+        "source": {
+          "title": "Madrid Actual",
+          "url": "https://www.madridactual.es/nacional/politica-nacional/?start=25"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputado de Vox por Asturias desde mayo de 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Figaredo"
+        }
+      },
+      {
+        "period": "2024–2025",
+        "text": "Presidente de Vox en Asturias; miembro del Comité Ejecutivo Nacional",
+        "source": {
+          "title": "El Independiente, 8 de febrero de 2024",
+          "url": "https://www.elindependiente.com/espana/2024/02/08/figaredo-el-sobrino-de-rato-encargado-de-pulir-el-discurso-economico-de-vox/amp/"
+        }
+      },
+      {
+        "text": "Profesor universitario y abogado",
+        "source": {
+          "title": "Declaración de bienes e intereses en el Congreso",
+          "url": "https://www.congreso.es/docinte/registro_intereses_diputado_193.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Gijón en 1988. El Foro de Abogacía y Democracia pidió que se le investigara por delitos de odio por llamar «invasores» a los inmigrantes (https://www.eldiario.es/1_cd9664); no consta que un juzgado lo haya admitido.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Manuel Antonio Pravia Fernández",
+    "lists": [
+      {
+        "province": "33",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ángela Pumariega Menéndez",
+    "lists": [
+      {
+        "province": "33",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Vicealcaldesa de Gijón",
+        "source": {
+          "title": "Moncloa.com, 19 de octubre de 2026",
+          "url": "https://www.moncloa.com/2026/10/19/candidatura-pp-asturias-pumariega-3451356/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2012",
+        "text": "Oro olímpico en vela en Londres 2012",
+        "source": {
+          "title": "Moncloa.com, 19 de octubre de 2026",
+          "url": "https://www.moncloa.com/2026/10/19/candidatura-pp-asturias-pumariega-3451356/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Candidata del PP con el apoyo de Foro Asturias.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Juan Antonio González Ponte (Izquierda Unida de Asturias)",
+    "lists": [
+      {
+        "province": "33",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él.",
+    "verification": "pendiente"
   }
 ]

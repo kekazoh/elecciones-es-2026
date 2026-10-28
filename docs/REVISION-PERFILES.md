@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-162 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+173 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2527,6 +2527,163 @@ Podemos en Navarra · pendiente
 ## Javier Ibáñez Orayen
 
 FA en Navarra · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## María Del Carmen Rodríguez Dacosta
+
+PSOE en Ourense · pendiente
+
+**Trayectoria**
+
+- desde 2020: Diputada del PSdeG por Ourense en el Parlamento de Galicia; reelegida en 2024 ([Parlamento de Galicia, declaración de actividades](https://www.parlamentodegalicia.es/sitios/web/transparencia/DeclaracionsActividades/110002975E.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Antonio José Naval Calviño
+
+Podemos en Ourense · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Maria Jesús Morenza Fernández
+
+Vox en Ourense · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Ana Belén Vázquez Blanco
+
+PP en Ourense · pendiente
+
+**Ahora**
+
+- Portavoz de Interior del Grupo Popular; secretaria nacional de Interior del PP y miembro de su Comité Ejecutivo Nacional ([Artículo14, 14 de marzo de 2026](https://www.articulo14.es/politica/ana-vazquez-pp-20260314.html))
+
+**Trayectoria**
+
+- Diputada por Ourense de 2000 a 2015 y desde 2016 ([Wikipedia](https://en.wikipedia.org/wiki/Ana_Bel%C3%A9n_V%C3%A1zquez))
+- 2006–2007: Alcaldesa de Bande, donde antes fue concejala ([elDiario.es](https://www.eldiario.es/1_6021e0))
+- Inspectora de la Policía Nacional ([Vozpópuli](https://www.vozpopuli.com/dolcevita/asi-es-ana-vazquez-51-inspectora-de-policia-su-exmarido-su-sonado-enfrentamiento-con-un-guardia-civil-sus-propiedades-y-su-sueldo-como-diputada.html))
+
+**Formación**
+
+- Licenciada en Derecho ([Artículo14, 14 de marzo de 2026](https://www.articulo14.es/politica/ana-vazquez-pp-20260314.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacida en Bande en 1975. En septiembre de 2026 la presidenta del Congreso la expulsó del hemiciclo por mostrar un bote de gas pimienta ante Marlaska (https://es.euronews.com/2026/09/23/parte-del-congreso-de-espana-desalojado-tras-vaciarse-un-bote-de-gas-pimienta-en-el-bano).
+
+## Noa Presas Bergantiños
+
+BNG en Ourense · pendiente
+
+**Ahora**
+
+- Diputada del BNG por Ourense en el Parlamento de Galicia ([Demócrata](https://www.democrata.es/politicos/noa-presas-bergantinos-1595))
+
+**Trayectoria**
+
+- Miembro de la Executiva Nacional del BNG ([Propuesta de candidaturas del BNG, 2016](https://nosdiario.gal/media/nosdiario/files/2016/07/20/proposta-candidaturas-eleccions-galegas.pdf))
+
+**Formación**
+
+- Licenciada en Filología Gallega ([Propuesta de candidaturas del BNG, 2016](https://nosdiario.gal/media/nosdiario/files/2016/07/20/proposta-candidaturas-eleccions-galegas.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Juan Diego Conde Eguileta
+
+FA en Ourense · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Adriana Lastra Fernández
+
+PSOE en Asturias · pendiente
+
+**Trayectoria**
+
+- 2024–2026: Delegada del Gobierno en Asturias desde julio de 2024; cesó en octubre de 2026 para ser candidata ([Moncloa.com, 20 de octubre de 2026](https://www.moncloa.com/2026/10/20/lastra-delegada-gobierno-asturias-29n-3451884/))
+- hasta 2022: Vicesecretaria general del PSOE; antes portavoz parlamentaria socialista en el Congreso; dejó sus cargos orgánicos en julio de 2022 ([Delegación del Gobierno en Asturias](https://mptmd.gob.es/en/portal/delegaciones_gobierno/delegaciones/asturias/actualidad/2024/07/2024_07_16_2))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## José María Figaredo Álvarez-Sala
+
+Vox en Asturias · pendiente
+
+**Ahora**
+
+- Secretario general y portavoz adjunto del Grupo Vox en el Congreso ([Madrid Actual](https://www.madridactual.es/nacional/politica-nacional/?start=25))
+
+**Trayectoria**
+
+- 2019–2026: Diputado de Vox por Asturias desde mayo de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Figaredo))
+- 2024–2025: Presidente de Vox en Asturias; miembro del Comité Ejecutivo Nacional ([El Independiente, 8 de febrero de 2024](https://www.elindependiente.com/espana/2024/02/08/figaredo-el-sobrino-de-rato-encargado-de-pulir-el-discurso-economico-de-vox/amp/))
+- Profesor universitario y abogado ([Declaración de bienes e intereses en el Congreso](https://www.congreso.es/docinte/registro_intereses_diputado_193.pdf))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Gijón en 1988. El Foro de Abogacía y Democracia pidió que se le investigara por delitos de odio por llamar «invasores» a los inmigrantes (https://www.eldiario.es/1_cd9664); no consta que un juzgado lo haya admitido.
+
+## Manuel Antonio Pravia Fernández
+
+Podemos en Asturias · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él.
+
+## Ángela Pumariega Menéndez
+
+PP en Asturias · pendiente
+
+**Ahora**
+
+- Vicealcaldesa de Gijón ([Moncloa.com, 19 de octubre de 2026](https://www.moncloa.com/2026/10/19/candidatura-pp-asturias-pumariega-3451356/))
+
+**Trayectoria**
+
+- 2012: Oro olímpico en vela en Londres 2012 ([Moncloa.com, 19 de octubre de 2026](https://www.moncloa.com/2026/10/19/candidatura-pp-asturias-pumariega-3451356/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Candidata del PP con el apoyo de Foro Asturias.
+
+## Juan Antonio González Ponte (Izquierda Unida de Asturias)
+
+FA en Asturias · pendiente
 
 **Procedimientos judiciales** (sin buscar)
 
