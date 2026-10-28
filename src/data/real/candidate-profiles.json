@@ -8637,5 +8637,200 @@
     "judicial": [],
     "notes": "No se ha encontrado información pública sobre ella.",
     "verification": "pendiente"
+  },
+  {
+    "name": "Rafael Martínez Peñalver Mateos",
+    "lists": [
+      {
+        "province": "51",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Consejero de Urbanismo y Transportes del Gobierno de Ceuta (desde junio de 2025); antes, diputado del PP en la Asamblea",
+        "source": {
+          "title": "El Faro de Ceuta, 30 de junio de 2025",
+          "url": "https://elfarodeceuta.es/ceuta-ya-reestructuracion-gobierno-80-000-euros-fan-ayuso-milei/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Ingeniero en la Autoridad Portuaria de Ceuta",
+        "source": {
+          "title": "PP de Ceuta, candidaturas de 2019",
+          "url": "https://elfarodeceuta.es/wp-content/uploads/2019/04/NP_El_comite%CC%81_electoral_del_Partido.pdf"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Luis Manuel Tovar Gálvez",
+    "lists": [
+      {
+        "province": "51",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Solo consta como observador de la delegación de Ceuta en el 41.º Congreso Federal del PSOE (Sevilla, 2024): https://elfarodeceuta.es/ceuta-presente-congreso-psoe-sevilla",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ana Belén Cifuentes Cánovas",
+    "lists": [
+      {
+        "province": "51",
+        "partyId": "vox"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella. No confundir con Cristina Cifuentes.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ramón Rodríguez Casaubón",
+    "lists": [
+      {
+        "province": "51",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023",
+        "text": "Responsable de Podemos Ceuta y candidato a la presidencia de la ciudad; Podemos no obtuvo escaño (186 votos)",
+        "source": {
+          "title": "El Faro de Ceuta",
+          "url": "https://elfarodeceuta.es/podemos-abre-proceso-reflexion-interna-tras-desilusionantes-resultados-eleciones-28m"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Riduan Moh Abdelkader",
+    "lists": [
+      {
+        "province": "52",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputado de la Asamblea de Melilla y portavoz del grupo socialista",
+        "source": {
+          "title": "Demócrata, octubre de 2026",
+          "url": "https://www.democrata.es/actualidad/riduan-moh-liderara-la-lista-del-psoe-de-melilla-al-congreso-el-29-de-noviembre/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023",
+        "text": "Candidato del PSOE al Senado por Melilla",
+        "source": {
+          "title": "Demócrata, octubre de 2026",
+          "url": "https://www.democrata.es/actualidad/riduan-moh-liderara-la-lista-del-psoe-de-melilla-al-congreso-el-29-de-noviembre/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Hermano de Sabrina Moh, delegada del Gobierno en Melilla y secretaria general del PSOE local.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "José Miguel Tasende Souto",
+    "lists": [
+      {
+        "province": "52",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Presidente de Vox en Melilla y diputado de la Asamblea",
+        "source": {
+          "title": "The Objective, 11 de junio de 2026",
+          "url": "https://theobjective.com/espana/andalucia/2026-06-11/vox-alerta-aumentar-concesion-nacionalidades-melilla/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023",
+        "text": "Cabeza de lista de Vox a la Asamblea de Melilla (dos escaños)",
+        "source": {
+          "title": "El Faro de Melilla",
+          "url": "https://elfarodemelilla.es/tasende-da-costa-diego-y-nanwani-encabezaran-la-candidatura-de-vox-melilla"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Según El Faro de Melilla es también capitán marítimo de Melilla, puesto que depende del Gobierno; la Delegación desmintió una denuncia suya sobre una fragata marroquí: https://elfarodemelilla.es/?p=342457",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Sofía Acedo Reyes",
+    "lists": [
+      {
+        "province": "52",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Diputada del PP por Melilla en el Congreso (desde 2023) y portavoz adjunta del Grupo Popular",
+        "source": {
+          "title": "The Objective, 4 de agosto de 2025",
+          "url": "https://theobjective.com/espana/politica/2025-08-04/delegada-gobierno-melilla-rechaza-dimitir-audio-koldo/"
+        }
+      },
+      {
+        "text": "Secretaria de Afiliación y Participación en el Comité Ejecutivo Nacional del PP",
+        "source": {
+          "title": "El Faro de Melilla",
+          "url": "https://elfarodemelilla.es/sofia-acedo-elegida-ejecutiva-nacional-pp"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2015–2023",
+        "text": "Senadora del PP por Melilla",
+        "source": {
+          "title": "El Faro de Melilla",
+          "url": "https://elfarodemelilla.es/clara-victoria-del-pp-en-las-elecciones-en-melilla"
+        }
+      },
+      {
+        "text": "Diputada de la Asamblea de Melilla y miembro del Gobierno local",
+        "source": {
+          "title": "Artículo14, 17 de enero de 2026",
+          "url": "https://www.articulo14.es/politica/sofia-acedo-20260117.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
   }
 ]

@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-260 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+267 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -4100,3 +4100,105 @@ FA en Zaragoza · pendiente
 - No se han buscado.
 
 *Notas:* No se ha encontrado información pública sobre ella.
+
+## Rafael Martínez Peñalver Mateos
+
+PP en Ceuta · pendiente
+
+**Ahora**
+
+- Consejero de Urbanismo y Transportes del Gobierno de Ceuta (desde junio de 2025); antes, diputado del PP en la Asamblea ([El Faro de Ceuta, 30 de junio de 2025](https://elfarodeceuta.es/ceuta-ya-reestructuracion-gobierno-80-000-euros-fan-ayuso-milei/))
+
+**Trayectoria**
+
+- Ingeniero en la Autoridad Portuaria de Ceuta ([PP de Ceuta, candidaturas de 2019](https://elfarodeceuta.es/wp-content/uploads/2019/04/NP_El_comite%CC%81_electoral_del_Partido.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Luis Manuel Tovar Gálvez
+
+PSOE en Ceuta · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Solo consta como observador de la delegación de Ceuta en el 41.º Congreso Federal del PSOE (Sevilla, 2024): https://elfarodeceuta.es/ceuta-presente-congreso-psoe-sevilla
+
+## Ana Belén Cifuentes Cánovas
+
+Vox en Ceuta · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella. No confundir con Cristina Cifuentes.
+
+## Ramón Rodríguez Casaubón
+
+Podemos en Ceuta · pendiente
+
+**Trayectoria**
+
+- 2023: Responsable de Podemos Ceuta y candidato a la presidencia de la ciudad; Podemos no obtuvo escaño (186 votos) ([El Faro de Ceuta](https://elfarodeceuta.es/podemos-abre-proceso-reflexion-interna-tras-desilusionantes-resultados-eleciones-28m))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+## Riduan Moh Abdelkader
+
+PSOE en Melilla · pendiente
+
+**Ahora**
+
+- Diputado de la Asamblea de Melilla y portavoz del grupo socialista ([Demócrata, octubre de 2026](https://www.democrata.es/actualidad/riduan-moh-liderara-la-lista-del-psoe-de-melilla-al-congreso-el-29-de-noviembre/))
+
+**Trayectoria**
+
+- 2023: Candidato del PSOE al Senado por Melilla ([Demócrata, octubre de 2026](https://www.democrata.es/actualidad/riduan-moh-liderara-la-lista-del-psoe-de-melilla-al-congreso-el-29-de-noviembre/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Hermano de Sabrina Moh, delegada del Gobierno en Melilla y secretaria general del PSOE local.
+
+## José Miguel Tasende Souto
+
+Vox en Melilla · pendiente
+
+**Ahora**
+
+- Presidente de Vox en Melilla y diputado de la Asamblea ([The Objective, 11 de junio de 2026](https://theobjective.com/espana/andalucia/2026-06-11/vox-alerta-aumentar-concesion-nacionalidades-melilla/))
+
+**Trayectoria**
+
+- 2023: Cabeza de lista de Vox a la Asamblea de Melilla (dos escaños) ([El Faro de Melilla](https://elfarodemelilla.es/tasende-da-costa-diego-y-nanwani-encabezaran-la-candidatura-de-vox-melilla))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Según El Faro de Melilla es también capitán marítimo de Melilla, puesto que depende del Gobierno; la Delegación desmintió una denuncia suya sobre una fragata marroquí: https://elfarodemelilla.es/?p=342457
+
+## Sofía Acedo Reyes
+
+PP en Melilla · pendiente
+
+**Ahora**
+
+- Diputada del PP por Melilla en el Congreso (desde 2023) y portavoz adjunta del Grupo Popular ([The Objective, 4 de agosto de 2025](https://theobjective.com/espana/politica/2025-08-04/delegada-gobierno-melilla-rechaza-dimitir-audio-koldo/))
+- Secretaria de Afiliación y Participación en el Comité Ejecutivo Nacional del PP ([El Faro de Melilla](https://elfarodemelilla.es/sofia-acedo-elegida-ejecutiva-nacional-pp))
+
+**Trayectoria**
+
+- 2015–2023: Senadora del PP por Melilla ([El Faro de Melilla](https://elfarodemelilla.es/clara-victoria-del-pp-en-las-elecciones-en-melilla))
+- Diputada de la Asamblea de Melilla y miembro del Gobierno local ([Artículo14, 17 de enero de 2026](https://www.articulo14.es/politica/sofia-acedo-20260117.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
