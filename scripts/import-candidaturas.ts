@@ -3,6 +3,7 @@
  *
  * - src/data/real/candidacies.json: cada lista por provincia, con sus
  *   candidatos y suplentes en orden.
+ * - docs/CABEZAS-DE-LISTA.md: el primer candidato de cada lista.
  * - src/data/real/parties.json: en qué provincias se presenta cada partido
  *   (`constituencies`) y las candidaturas nuevas, sin posiciones (la app las
  *   trata como "pocos datos").
@@ -18,6 +19,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { PROVINCES } from '../src/data/provinces';
 import type { CandidacyList, Party } from '../src/model/types';
+import { writeCabezasDeLista } from './cabezas-de-lista';
 
 const PARTIES_PATH = new URL('../src/data/real/parties.json', import.meta.url);
 const CANDIDACIES_PATH = new URL('../src/data/real/candidacies.json', import.meta.url);
@@ -285,6 +287,8 @@ async function main() {
       1,
     ) + '\n',
   );
+
+  writeCabezasDeLista();
 
   console.log(`${id}: ${lists.length} candidaturas al Congreso en ${new Set(lists.map((l) => l.province)).size} provincias`);
   console.log(`Partidos nuevos (${added.length}): ${added.join(', ')}`);
