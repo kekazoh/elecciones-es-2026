@@ -4332,7 +4332,7 @@
     ],
     "career": [
       {
-        "text": "Concejal, consejero comarcal y diputado provincial de IU en la provincia de Zaragoza; miembro de la dirección de IU Aragón; militante desde 2005",
+        "text": "Ha ocupado cargos públicos de IU en la provincia de Zaragoza (concejal, consejero comarcal o diputado provincial); miembro de la dirección de IU Aragón; militante desde 2005",
         "source": {
           "title": "Diario de León, 22 de noviembre de 2025",
           "url": "https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html"
@@ -4341,6 +4341,361 @@
     ],
     "education": [],
     "judicial": [],
+    "verification": "pendiente"
+  },
+  {
+    "name": "Cristina Morón Molina",
+    "lists": [
+      {
+        "province": "25",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Teniente de alcalde y concejala de Seguridad, Movilidad y Civismo del Ayuntamiento de Lleida (PSC)",
+        "source": {
+          "title": "Organigrama del gobierno municipal 2023-2027, Paeria de Lleida",
+          "url": "https://www.paeria.cat/ca/ajuntament/el-govern/organigrama23-27.pdf"
+        }
+      }
+    ],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "Sustituyó como cabeza de lista a Montse Mínguez, que dimitió por los negocios inmobiliarios de su pareja (https://www.democrata.es/en/politics/cristina-moron-will-replace-minguez-as-the-head-of-the-psc-list-for-lleida/).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Isidre Gavín i Valls",
+    "lists": [
+      {
+        "province": "25",
+        "partyId": "junts"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputado de Junts por Lleida; portavoz en las comisiones de Defensa, Transportes, Agricultura y Cooperación",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV"
+        }
+      },
+      {
+        "period": "2018–2022",
+        "text": "Secretario de Infraestructuras y Movilidad de la Generalitat",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV"
+        }
+      },
+      {
+        "period": "2011–2018",
+        "text": "Director de CIMALSA",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV"
+        }
+      },
+      {
+        "period": "2003–2011",
+        "text": "Concejal de Lleida; presidente de la Diputación de Lleida (2003–2007)",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Ingeniero técnico agrícola; máster en Administración Pública (EMPA-ESADE)",
+        "source": {
+          "title": "Ficha en el Congreso",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Inés Granollers i Cunillera",
+    "lists": [
+      {
+        "province": "25",
+        "partyId": "erc"
+      }
+    ],
+    "current": [],
+    "career": [
+      {
+        "period": "2019–2026",
+        "text": "Diputada de ERC por Lleida desde mayo de 2019",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/In%C3%A9s_Granollers"
+        }
+      },
+      {
+        "period": "desde 2019",
+        "text": "Concejala de Bellpuig",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/In%C3%A9s_Granollers"
+        }
+      },
+      {
+        "text": "Empresaria",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/In%C3%A9s_Granollers"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Montserrat (Montse) Cortasa Gras (COMUNS-FRONT AMPLI)",
+    "lists": [
+      {
+        "province": "25",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Rafael Villafranca Merce",
+    "lists": [
+      {
+        "province": "25",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Presidente de Vox en Lleida y diputado de Vox en el Parlament de Catalunya (desde 2024); abogado",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/rafael-villafranca-merce-1056"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2024",
+        "text": "Cabeza de lista de Vox por Lleida en las elecciones al Parlament",
+        "source": {
+          "title": "Nació Digital",
+          "url": "https://naciodigital.cat/politica/llista-vox-eleccions-catalunya-12-m-tots-candidats.html"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Roger Melero Serra",
+    "lists": [
+      {
+        "province": "25",
+        "partyId": "pp"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre él más allá de su designación (https://www.democrata.es/politica/el-pp-designa-a-moya-landete-y-melero-como-cabezas-de-lista-al-congreso-por-girona-tarragona-y-lleida/).",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Elisa Garrido Jiménez",
+    "lists": [
+      {
+        "province": "26",
+        "partyId": "psoe"
+      }
+    ],
+    "current": [
+      {
+        "text": "Miembro de la Ejecutiva Federal del PSOE",
+        "source": {
+          "title": "NueveCuatroUno, 12 de marzo de 2026",
+          "url": "https://nuevecuatrouno.com/2026/03/12/elisa-garrido-renuncia-a-su-acta-como-concejal-de-calahorra/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2023–2026",
+        "text": "Diputada del PSOE por La Rioja; cabeza de lista en 2023",
+        "source": {
+          "title": "NueveCuatroUno, 7 de junio de 2023",
+          "url": "https://nuevecuatrouno.com/2023/06/07/elecciones-generales-23j-listas-psoe-rioja-concha-andreu-elisa-garrido/"
+        }
+      },
+      {
+        "period": "hasta 2023",
+        "text": "Alcaldesa de Calahorra; después concejala y portavoz socialista hasta marzo de 2026",
+        "source": {
+          "title": "NueveCuatroUno, 12 de marzo de 2026",
+          "url": "https://nuevecuatrouno.com/2026/03/12/elisa-garrido-renuncia-a-su-acta-como-concejal-de-calahorra/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Alba Díez Arrea",
+    "lists": [
+      {
+        "province": "26",
+        "partyId": "frente-amplio"
+      }
+    ],
+    "current": [],
+    "career": [],
+    "education": [],
+    "judicial": [],
+    "notes": "No se ha encontrado información pública sobre ella.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "Ángel Alda Pérez",
+    "lists": [
+      {
+        "province": "26",
+        "partyId": "vox"
+      }
+    ],
+    "current": [
+      {
+        "text": "Presidente de Vox en La Rioja (desde diciembre de 2022) y portavoz en el Parlamento de La Rioja (desde 2023)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Alda"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Jefe del departamento jurídico de la Asociación de Concesionarios Peugeot (2016); después cogestor de la administración de lotería familiar en Logroño",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Alda"
+        }
+      }
+    ],
+    "education": [
+      {
+        "text": "Derecho y Ciencias Políticas (Universidad Pontificia Comillas); máster en Abogacía (UNIR)",
+        "source": {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Alda"
+        }
+      }
+    ],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Nacido en Logroño en 1991.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Aranzazu Carrero Bacigalupe",
+    "lists": [
+      {
+        "province": "26",
+        "partyId": "podemos"
+      }
+    ],
+    "current": [
+      {
+        "text": "Coordinadora de Podemos La Rioja (desde 2020; seguía en el cargo en febrero de 2025)",
+        "source": {
+          "title": "NueveCuatroUno, 24 de febrero de 2025",
+          "url": "https://nuevecuatrouno.com/2025/02/24/podemos-arantxa-carrero-rioja-asamblea-primavera/"
+        }
+      }
+    ],
+    "career": [
+      {
+        "text": "Teniente de alcalde de Haro; técnica de emergencias sanitarias durante veinte años",
+        "source": {
+          "title": "NueveCuatroUno, 29 de mayo de 2020",
+          "url": "https://nuevecuatrouno.com/2020/05/29/donde-caben-dos-caben-tres-arantxa-carrero-aspira-a-liderar-podemos-en-la-rioja/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "notes": "Conocida como Arantxa Carrero.",
+    "verification": "pendiente"
+  },
+  {
+    "name": "María Concepción Gamarra Ruiz Clavijo",
+    "lists": [
+      {
+        "province": "26",
+        "partyId": "pp"
+      }
+    ],
+    "current": [
+      {
+        "text": "Vicesecretaria de Regeneración Institucional del PP; diputada por La Rioja (XV legislatura)",
+        "source": {
+          "title": "Demócrata",
+          "url": "https://www.democrata.es/politicos/concepcion-gamarra-ruiz-clavijo-254"
+        }
+      }
+    ],
+    "career": [
+      {
+        "period": "2022–2025",
+        "text": "Secretaria general del PP",
+        "source": {
+          "title": "Valencia Plaza",
+          "url": "https://valenciaplaza.com/feijoo-confirma-gamarra-secretaria-general-pp-ahora-va-serlo-tiempo-completo"
+        }
+      },
+      {
+        "period": "2020–2023",
+        "text": "Portavoz del Grupo Popular en el Congreso",
+        "source": {
+          "title": "Público",
+          "url": "https://www.publico.es/politica/cuca-gamarra-debutante-pionera-debate-nacion.html"
+        }
+      },
+      {
+        "period": "2011–2019",
+        "text": "Alcaldesa de Logroño, la primera mujer en el cargo",
+        "source": {
+          "title": "NueveCuatroUno, 31 de marzo de 2022",
+          "url": "https://nuevecuatrouno.com/2022/03/31/cuca-gamarra-perfil-nueva-secretaria-general-pp/"
+        }
+      }
+    ],
+    "education": [],
+    "judicial": [],
+    "judicialChecked": "2026-10-28",
+    "notes": "Conocida como Cuca Gamarra. Dejó la secretaría general en el congreso del PP de julio de 2025, cuando la asumió Miguel Tellado.",
     "verification": "pendiente"
   }
 ]

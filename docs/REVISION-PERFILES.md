@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-129 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+140 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -2024,8 +2024,178 @@ FA en León · pendiente
 
 **Trayectoria**
 
-- Concejal, consejero comarcal y diputado provincial de IU en la provincia de Zaragoza; miembro de la dirección de IU Aragón; militante desde 2005 ([Diario de León, 22 de noviembre de 2025](https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html))
+- Ha ocupado cargos públicos de IU en la provincia de Zaragoza (concejal, consejero comarcal o diputado provincial); miembro de la dirección de IU Aragón; militante desde 2005 ([Diario de León, 22 de noviembre de 2025](https://www.diariodeleon.es/leon/251122/2067045/este-coordinador-iu-leon-local.html))
 
 **Procedimientos judiciales** (sin buscar)
 
 - No se han buscado.
+
+## Cristina Morón Molina
+
+PSOE en Lleida · pendiente
+
+**Ahora**
+
+- Teniente de alcalde y concejala de Seguridad, Movilidad y Civismo del Ayuntamiento de Lleida (PSC) ([Organigrama del gobierno municipal 2023-2027, Paeria de Lleida](https://www.paeria.cat/ca/ajuntament/el-govern/organigrama23-27.pdf))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Sustituyó como cabeza de lista a Montse Mínguez, que dimitió por los negocios inmobiliarios de su pareja (https://www.democrata.es/en/politics/cristina-moron-will-replace-minguez-as-the-head-of-the-psc-list-for-lleida/).
+
+## Isidre Gavín i Valls
+
+Junts en Lleida · pendiente
+
+**Trayectoria**
+
+- 2023–2026: Diputado de Junts por Lleida; portavoz en las comisiones de Defensa, Transportes, Agricultura y Cooperación ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV))
+- 2018–2022: Secretario de Infraestructuras y Movilidad de la Generalitat ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV))
+- 2011–2018: Director de CIMALSA ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV))
+- 2003–2011: Concejal de Lleida; presidente de la Diputación de Lleida (2003–2007) ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV))
+
+**Formación**
+
+- Ingeniero técnico agrícola; máster en Administración Pública (EMPA-ESADE) ([Ficha en el Congreso](https://www.congreso.es/es/busqueda-de-diputados?mostrarFicha=true&codParlamentario=239&idLegislatura=XV))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Inés Granollers i Cunillera
+
+ERC en Lleida · pendiente
+
+**Trayectoria**
+
+- 2019–2026: Diputada de ERC por Lleida desde mayo de 2019 ([Wikipedia](https://en.wikipedia.org/wiki/In%C3%A9s_Granollers))
+- desde 2019: Concejala de Bellpuig ([Wikipedia](https://en.wikipedia.org/wiki/In%C3%A9s_Granollers))
+- Empresaria ([Wikipedia](https://en.wikipedia.org/wiki/In%C3%A9s_Granollers))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Montserrat (Montse) Cortasa Gras (COMUNS-FRONT AMPLI)
+
+FA en Lleida · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Rafael Villafranca Merce
+
+Vox en Lleida · pendiente
+
+**Ahora**
+
+- Presidente de Vox en Lleida y diputado de Vox en el Parlament de Catalunya (desde 2024); abogado ([Demócrata](https://www.democrata.es/politicos/rafael-villafranca-merce-1056))
+
+**Trayectoria**
+
+- 2024: Cabeza de lista de Vox por Lleida en las elecciones al Parlament ([Nació Digital](https://naciodigital.cat/politica/llista-vox-eleccions-catalunya-12-m-tots-candidats.html))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Roger Melero Serra
+
+PP en Lleida · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre él más allá de su designación (https://www.democrata.es/politica/el-pp-designa-a-moya-landete-y-melero-como-cabezas-de-lista-al-congreso-por-girona-tarragona-y-lleida/).
+
+## Elisa Garrido Jiménez
+
+PSOE en La Rioja · pendiente
+
+**Ahora**
+
+- Miembro de la Ejecutiva Federal del PSOE ([NueveCuatroUno, 12 de marzo de 2026](https://nuevecuatrouno.com/2026/03/12/elisa-garrido-renuncia-a-su-acta-como-concejal-de-calahorra/))
+
+**Trayectoria**
+
+- 2023–2026: Diputada del PSOE por La Rioja; cabeza de lista en 2023 ([NueveCuatroUno, 7 de junio de 2023](https://nuevecuatrouno.com/2023/06/07/elecciones-generales-23j-listas-psoe-rioja-concha-andreu-elisa-garrido/))
+- hasta 2023: Alcaldesa de Calahorra; después concejala y portavoz socialista hasta marzo de 2026 ([NueveCuatroUno, 12 de marzo de 2026](https://nuevecuatrouno.com/2026/03/12/elisa-garrido-renuncia-a-su-acta-como-concejal-de-calahorra/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+## Alba Díez Arrea
+
+FA en La Rioja · pendiente
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* No se ha encontrado información pública sobre ella.
+
+## Ángel Alda Pérez
+
+Vox en La Rioja · pendiente
+
+**Ahora**
+
+- Presidente de Vox en La Rioja (desde diciembre de 2022) y portavoz en el Parlamento de La Rioja (desde 2023) ([Wikipedia](https://en.wikipedia.org/wiki/%C3%81ngel_Alda))
+
+**Trayectoria**
+
+- Jefe del departamento jurídico de la Asociación de Concesionarios Peugeot (2016); después cogestor de la administración de lotería familiar en Logroño ([Wikipedia](https://en.wikipedia.org/wiki/%C3%81ngel_Alda))
+
+**Formación**
+
+- Derecho y Ciencias Políticas (Universidad Pontificia Comillas); máster en Abogacía (UNIR) ([Wikipedia](https://en.wikipedia.org/wiki/%C3%81ngel_Alda))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Nacido en Logroño en 1991.
+
+## María Aranzazu Carrero Bacigalupe
+
+Podemos en La Rioja · pendiente
+
+**Ahora**
+
+- Coordinadora de Podemos La Rioja (desde 2020; seguía en el cargo en febrero de 2025) ([NueveCuatroUno, 24 de febrero de 2025](https://nuevecuatrouno.com/2025/02/24/podemos-arantxa-carrero-rioja-asamblea-primavera/))
+
+**Trayectoria**
+
+- Teniente de alcalde de Haro; técnica de emergencias sanitarias durante veinte años ([NueveCuatroUno, 29 de mayo de 2020](https://nuevecuatrouno.com/2020/05/29/donde-caben-dos-caben-tres-arantxa-carrero-aspira-a-liderar-podemos-en-la-rioja/))
+
+**Procedimientos judiciales** (sin buscar)
+
+- No se han buscado.
+
+*Notas:* Conocida como Arantxa Carrero.
+
+## María Concepción Gamarra Ruiz Clavijo
+
+PP en La Rioja · pendiente
+
+**Ahora**
+
+- Vicesecretaria de Regeneración Institucional del PP; diputada por La Rioja (XV legislatura) ([Demócrata](https://www.democrata.es/politicos/concepcion-gamarra-ruiz-clavijo-254))
+
+**Trayectoria**
+
+- 2022–2025: Secretaria general del PP ([Valencia Plaza](https://valenciaplaza.com/feijoo-confirma-gamarra-secretaria-general-pp-ahora-va-serlo-tiempo-completo))
+- 2020–2023: Portavoz del Grupo Popular en el Congreso ([Público](https://www.publico.es/politica/cuca-gamarra-debutante-pionera-debate-nacion.html))
+- 2011–2019: Alcaldesa de Logroño, la primera mujer en el cargo ([NueveCuatroUno, 31 de marzo de 2022](https://nuevecuatrouno.com/2022/03/31/cuca-gamarra-perfil-nueva-secretaria-general-pp/))
+
+**Procedimientos judiciales** (búsqueda del 2026-10-28)
+
+- No consta ninguno.
+
+*Notas:* Conocida como Cuca Gamarra. Dejó la secretaría general en el congreso del PP de julio de 2025, cuando la asumió Miguel Tellado.
