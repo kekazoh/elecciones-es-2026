@@ -79,6 +79,14 @@ afectan a la recomendación: son información para el votante. Revisión en
 - `judicialChecked` es la fecha de la última búsqueda: que no conste nada no
   significa que no exista.
 - Todo entra `pendiente` y no se muestra hasta que una persona lo revisa.
+- Segunda revisión del 2026-10-30: por decisión de keko, Claude revisó los
+  pendientes de los PR #16, #17 y #18 (coherencia entre cita, fuente, postura y
+  notas; sin volver a abrir cada fuente) y pasó a `verificado` 263 perfiles y
+  56 posiciones. Quedan `pendiente` para revisión manual los que presentaban
+  más dudas: los perfiles de Jordi de la Fuente (juicio pendiente), Obdulia
+  Taboadela y María Yolanda García Seco (cargo actual sin confirmar) e Iñaki
+  Oyarzábal (cargos posteriores a 2019 sin confirmar), las posiciones de cita
+  débil y las de SALF.
 - En la app, el perfil revisado aparece bajo la lista del partido recomendado
   (`src/ui/HeadProfile.tsx`). De los procedimientos solo enseña los abiertos y
   las condenas; los archivados y las absoluciones se quedan en
@@ -102,7 +110,7 @@ afectan a la recomendación: son información para el votante. Revisión en
     legislatura. Las 45 candidaturas nuevas entran sin posiciones: la app dice
     que se presentan, pero no las compara. Las cinco con más provincias
     (Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo) ya tienen
-    posiciones codificadas, `pendiente` de revisión.
+    posiciones codificadas (ver más abajo).
   - Coaliciones: el BOE da su nombre, no sus miembros. Los miembros
     (`members`) salen de la denominación de la candidatura o de la prensa del
     16 y 17 de octubre: Frente Amplio y sus variantes autonómicas (Sumar, IU,
@@ -129,10 +137,12 @@ afectan a la recomendación: son información para el votante. Revisión en
   la página del PDF (no la impresa) y el apartado; `source.quote` es literal y se
   ha comprobado automáticamente contra el texto extraído de esa página.
 - Compromís: Front Valencià: 16 posiciones de su programa de 2019
-  («Imparables», en valenciano), `pendiente` de revisión; mientras tanto hereda
-  de Podemos. Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
-- Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo: 57 posiciones,
-  `pendiente` de revisión. Frente Obrero, de su programa político de octubre de
+  («Imparables», en valenciano). 14 `verificado` (segunda revisión, ver abajo);
+  ter-1 y ter-3 siguen `pendiente` por cita débil y en esas hereda de Podemos. Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
+- Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo: 57 posiciones.
+  42 `verificado` (segunda revisión, ver abajo). Siguen `pendiente`: las 11 de
+  SALF (falta decidir si su programa autonómico vale como fuente) y las de cita
+  débil (Frente Obrero inm-3 y med-2; PCTE edu-2 y med-1). Frente Obrero, de su programa político de octubre de
   2026; PCTE, PACMA y Por un Mundo Más Justo, de sus programas de las generales
   de 2023. SALF no ha publicado programa de generales: se usa el de las
   autonómicas de Castilla y León de 2026 como `declaracion` (copia de

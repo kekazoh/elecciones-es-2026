@@ -2,11 +2,11 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-267 perfiles, 0 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+267 perfiles, 263 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
-PSOE en Madrid · pendiente
+PSOE en Madrid · verificado
 
 **Ahora**
 
@@ -31,7 +31,7 @@ PSOE en Madrid · pendiente
 
 ## Alberto Núñez Feijóo
 
-PP en Madrid · pendiente
+PP en Madrid · verificado
 
 **Ahora**
 
@@ -56,7 +56,7 @@ PP en Madrid · pendiente
 
 ## Santiago Abascal Conde
 
-Vox en Madrid · pendiente
+Vox en Madrid · verificado
 
 **Ahora**
 
@@ -78,7 +78,7 @@ Vox en Madrid · pendiente
 
 ## Emilio Delgado Orgaz
 
-FA en Madrid · pendiente
+FA en Madrid · verificado
 
 **Ahora**
 
@@ -92,7 +92,7 @@ FA en Madrid · pendiente
 
 ## Irene Montero Gil
 
-Podemos en Madrid · pendiente
+Podemos en Madrid · verificado
 
 **Ahora**
 
@@ -111,7 +111,7 @@ Podemos en Madrid · pendiente
 
 ## Jordi Hereu Boher
 
-PSOE en Barcelona · pendiente
+PSOE en Barcelona · verificado
 
 **Ahora**
 
@@ -134,7 +134,7 @@ PSOE en Barcelona · pendiente
 
 ## Míriam Nogueras i Camero
 
-Junts en Barcelona · pendiente
+Junts en Barcelona · verificado
 
 **Ahora**
 
@@ -153,7 +153,7 @@ Junts en Barcelona · pendiente
 
 ## Gabriel Rufián Romero
 
-ERC en Barcelona · pendiente
+ERC en Barcelona · verificado
 
 **Trayectoria**
 
@@ -172,7 +172,7 @@ ERC en Barcelona · pendiente
 
 ## Juan José Aizcorbe Torra
 
-Vox en Barcelona · pendiente
+Vox en Barcelona · verificado
 
 **Trayectoria**
 
@@ -191,7 +191,7 @@ Vox en Barcelona · pendiente
 
 ## Ada Colau Ballano
 
-FA en Barcelona · pendiente
+FA en Barcelona · verificado
 
 **Ahora**
 
@@ -210,7 +210,7 @@ FA en Barcelona · pendiente
 
 ## Xavier García Albiol
 
-PP en Barcelona · pendiente
+PP en Barcelona · verificado
 
 **Ahora**
 
@@ -230,7 +230,7 @@ PP en Barcelona · pendiente
 
 ## Javier Hurtado Domínguez
 
-PSOE en Araba/Álava · pendiente
+PSOE en Araba/Álava · verificado
 
 **Ahora**
 
@@ -255,7 +255,7 @@ PSOE en Araba/Álava · pendiente
 
 ## Mikel Otero Gabirondo
 
-EH Bildu en Araba/Álava · pendiente
+EH Bildu en Araba/Álava · verificado
 
 **Ahora**
 
@@ -279,7 +279,7 @@ EH Bildu en Araba/Álava · pendiente
 
 ## Gorka Urtaran Agirre
 
-PNV en Araba/Álava · pendiente
+PNV en Araba/Álava · verificado
 
 **Ahora**
 
@@ -298,7 +298,7 @@ PNV en Araba/Álava · pendiente
 
 ## Jonathan Romero Gámiz
 
-Vox en Araba/Álava · pendiente
+Vox en Araba/Álava · verificado
 
 **Trayectoria**
 
@@ -312,7 +312,7 @@ Vox en Araba/Álava · pendiente
 
 ## Garbiñe Ruiz Noriega
 
-Podemos en Araba/Álava · pendiente
+Podemos en Araba/Álava · verificado
 
 **Trayectoria**
 
@@ -347,7 +347,7 @@ PP en Araba/Álava · pendiente
 
 ## José Damián García-Moreno López
 
-FA en Araba/Álava · pendiente
+FA en Araba/Álava · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -357,7 +357,7 @@ FA en Araba/Álava · pendiente
 
 ## Amparo Torres Valencoso
 
-PSOE en Albacete · pendiente
+PSOE en Albacete · verificado
 
 **Ahora**
 
@@ -376,7 +376,7 @@ PSOE en Albacete · pendiente
 
 ## Rubén Herrero de Castro
 
-Vox en Albacete · pendiente
+Vox en Albacete · verificado
 
 **Ahora**
 
@@ -394,7 +394,7 @@ Vox en Albacete · pendiente
 
 ## Luisa María García Tárraga
 
-Podemos en Albacete · pendiente
+Podemos en Albacete · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -404,7 +404,7 @@ Podemos en Albacete · pendiente
 
 ## Francisco Navarro Cebrián
 
-PP en Albacete · pendiente
+PP en Albacete · verificado
 
 **Ahora**
 
@@ -418,7 +418,7 @@ PP en Albacete · pendiente
 
 ## Juan Blanco Castellanos
 
-FA en Albacete · pendiente
+FA en Albacete · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -428,7 +428,7 @@ FA en Albacete · pendiente
 
 ## Antonio Alfonso Francés Pérez
 
-PSOE en Alicante/Alacant · pendiente
+PSOE en Alicante/Alacant · verificado
 
 **Ahora**
 
@@ -443,7 +443,7 @@ PSOE en Alicante/Alacant · pendiente
 
 ## María Teresa Pérez Díaz
 
-Compromís en Alicante/Alacant · pendiente
+Compromís en Alicante/Alacant · verificado
 
 **Ahora**
 
@@ -462,7 +462,7 @@ Compromís en Alicante/Alacant · pendiente
 
 ## David García Gomis
 
-Vox en Alicante/Alacant · pendiente
+Vox en Alicante/Alacant · verificado
 
 **Ahora**
 
@@ -482,7 +482,7 @@ Vox en Alicante/Alacant · pendiente
 
 ## Macarena Montesinos De Miguel
 
-PP en Alicante/Alacant · pendiente
+PP en Alicante/Alacant · verificado
 
 **Ahora**
 
@@ -502,7 +502,7 @@ PP en Alicante/Alacant · pendiente
 
 ## Anabel Mateos Sánchez
 
-PSOE en Almería · pendiente
+PSOE en Almería · verificado
 
 **Ahora**
 
@@ -520,7 +520,7 @@ PSOE en Almería · pendiente
 
 ## Rocío de Meer Méndez
 
-Vox en Almería · pendiente
+Vox en Almería · verificado
 
 **Trayectoria**
 
@@ -539,7 +539,7 @@ Vox en Almería · pendiente
 
 ## María Carmen Crespo Díaz
 
-PP en Almería · pendiente
+PP en Almería · verificado
 
 **Ahora**
 
@@ -558,7 +558,7 @@ PP en Almería · pendiente
 
 ## Jésica Jiménez Gómez
 
-Podemos en Almería · pendiente
+Podemos en Almería · verificado
 
 **Ahora**
 
@@ -576,7 +576,7 @@ Podemos en Almería · pendiente
 
 ## Zacarías Lucas Lekal Villegas
 
-FA en Almería · pendiente
+FA en Almería · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -586,7 +586,7 @@ FA en Almería · pendiente
 
 ## Manuel Arribas Maroto
 
-PSOE en Ávila · pendiente
+PSOE en Ávila · verificado
 
 **Ahora**
 
@@ -604,7 +604,7 @@ PSOE en Ávila · pendiente
 
 ## Samuel Vázquez Álvarez
 
-Vox en Ávila · pendiente
+Vox en Ávila · verificado
 
 **Ahora**
 
@@ -622,7 +622,7 @@ Vox en Ávila · pendiente
 
 ## Laura Ruiz Ginés
 
-Podemos en Ávila · pendiente
+Podemos en Ávila · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -632,7 +632,7 @@ Podemos en Ávila · pendiente
 
 ## Héctor Palencia Rubio
 
-PP en Ávila · pendiente
+PP en Ávila · verificado
 
 **Ahora**
 
@@ -653,7 +653,7 @@ PP en Ávila · pendiente
 
 ## Pablo Garcinuño García
 
-FA en Ávila · pendiente
+FA en Ávila · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -677,7 +677,7 @@ PSOE en Badajoz · pendiente
 
 ## Ignacio Hoces Iñiguez
 
-Vox en Badajoz · pendiente
+Vox en Badajoz · verificado
 
 **Trayectoria**
 
@@ -692,7 +692,7 @@ Vox en Badajoz · pendiente
 
 ## María Teresa Tortonda Gordillo
 
-PP en Badajoz · pendiente
+PP en Badajoz · verificado
 
 **Ahora**
 
@@ -706,7 +706,7 @@ PP en Badajoz · pendiente
 
 ## María del Pilar Ramos Duro
 
-FA en Badajoz · pendiente
+FA en Badajoz · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -716,7 +716,7 @@ FA en Badajoz · pendiente
 
 ## Amparo Botejara Sanz
 
-Podemos en Badajoz · pendiente
+Podemos en Badajoz · verificado
 
 **Ahora**
 
@@ -735,7 +735,7 @@ Podemos en Badajoz · pendiente
 
 ## Francesca Lluch Armengol Socias
 
-PSOE en Illes Balears · pendiente
+PSOE en Illes Balears · verificado
 
 **Trayectoria**
 
@@ -755,7 +755,7 @@ PSOE en Illes Balears · pendiente
 
 ## Maria Isabel Cerezo Sánchez
 
-Vox en Illes Balears · pendiente
+Vox en Illes Balears · verificado
 
 **Trayectoria**
 
@@ -769,7 +769,7 @@ Vox en Illes Balears · pendiente
 
 ## José Vicente Marí Bosó
 
-PP en Illes Balears · pendiente
+PP en Illes Balears · verificado
 
 **Ahora**
 
@@ -789,7 +789,7 @@ PP en Illes Balears · pendiente
 
 ## Carmen Gomila Domínguez (ARAMÉS-EU-MS)
 
-FA en Illes Balears · pendiente
+FA en Illes Balears · verificado
 
 **Ahora**
 
@@ -807,7 +807,7 @@ FA en Illes Balears · pendiente
 
 ## Esther Peña Camarero
 
-PSOE en Burgos · pendiente
+PSOE en Burgos · verificado
 
 **Ahora**
 
@@ -831,7 +831,7 @@ PSOE en Burgos · pendiente
 
 ## Isabel Lara Benitez
 
-Podemos en Burgos · pendiente
+Podemos en Burgos · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -841,7 +841,7 @@ Podemos en Burgos · pendiente
 
 ## Eugenia Landaluce Miranda
 
-Vox en Burgos · pendiente
+Vox en Burgos · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -851,7 +851,7 @@ Vox en Burgos · pendiente
 
 ## Ángel Mariano Ibáñez Hernando
 
-PP en Burgos · pendiente
+PP en Burgos · verificado
 
 **Trayectoria**
 
@@ -871,7 +871,7 @@ PP en Burgos · pendiente
 
 ## Fernando José Saiz Martínez
 
-FA en Burgos · pendiente
+FA en Burgos · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -881,7 +881,7 @@ FA en Burgos · pendiente
 
 ## Irene Pozas García
 
-PSOE en Cáceres · pendiente
+PSOE en Cáceres · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -891,7 +891,7 @@ PSOE en Cáceres · pendiente
 
 ## Marcela Reigía Vales
 
-Vox en Cáceres · pendiente
+Vox en Cáceres · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -901,7 +901,7 @@ Vox en Cáceres · pendiente
 
 ## Cristina Elena Teniente Sánchez
 
-PP en Cáceres · pendiente
+PP en Cáceres · verificado
 
 **Trayectoria**
 
@@ -916,7 +916,7 @@ PP en Cáceres · pendiente
 
 ## Álvaro Jaén Barbado
 
-Podemos en Cáceres · pendiente
+Podemos en Cáceres · verificado
 
 **Ahora**
 
@@ -940,7 +940,7 @@ Podemos en Cáceres · pendiente
 
 ## Antonio Moreno Pérez
 
-FA en Cáceres · pendiente
+FA en Cáceres · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -950,7 +950,7 @@ FA en Cáceres · pendiente
 
 ## José Manuel Albares Bueno
 
-PSOE en Cádiz · pendiente
+PSOE en Cádiz · verificado
 
 **Ahora**
 
@@ -975,7 +975,7 @@ PSOE en Cádiz · pendiente
 
 ## Blanca Armario González
 
-Vox en Cádiz · pendiente
+Vox en Cádiz · verificado
 
 **Trayectoria**
 
@@ -990,7 +990,7 @@ Vox en Cádiz · pendiente
 
 ## Esther Francisca Gil de Reboleño Lastortres (Movimiento Sumar)
 
-FA en Cádiz · pendiente
+FA en Cádiz · verificado
 
 **Trayectoria**
 
@@ -1008,7 +1008,7 @@ FA en Cádiz · pendiente
 
 ## Julio de la Torre Lorenzo
 
-Podemos en Cádiz · pendiente
+Podemos en Cádiz · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1018,7 +1018,7 @@ Podemos en Cádiz · pendiente
 
 ## María José García-Pelayo Jurado
 
-PP en Cádiz · pendiente
+PP en Cádiz · verificado
 
 **Ahora**
 
@@ -1041,7 +1041,7 @@ PP en Cádiz · pendiente
 
 ## María Jiménez Román
 
-PSOE en Castellón/Castelló · pendiente
+PSOE en Castellón/Castelló · verificado
 
 **Ahora**
 
@@ -1057,7 +1057,7 @@ PSOE en Castellón/Castelló · pendiente
 
 ## Alberto Teófilo Asarta Cuevas
 
-Vox en Castellón/Castelló · pendiente
+Vox en Castellón/Castelló · verificado
 
 **Trayectoria**
 
@@ -1072,7 +1072,7 @@ Vox en Castellón/Castelló · pendiente
 
 ## Ignasi García Felip
 
-Compromís en Castellón/Castelló · pendiente
+Compromís en Castellón/Castelló · verificado
 
 **Ahora**
 
@@ -1084,7 +1084,7 @@ Compromís en Castellón/Castelló · pendiente
 
 ## Elena Albalat Aguilella
 
-PP en Castellón/Castelló · pendiente
+PP en Castellón/Castelló · verificado
 
 **Ahora**
 
@@ -1103,7 +1103,7 @@ PP en Castellón/Castelló · pendiente
 
 ## Isabel Rodríguez García
 
-PSOE en Ciudad Real · pendiente
+PSOE en Ciudad Real · verificado
 
 **Ahora**
 
@@ -1127,7 +1127,7 @@ PSOE en Ciudad Real · pendiente
 
 ## Ricardo Chamorro Delmo
 
-Vox en Ciudad Real · pendiente
+Vox en Ciudad Real · verificado
 
 **Ahora**
 
@@ -1148,7 +1148,7 @@ Vox en Ciudad Real · pendiente
 
 ## María Isabel Ruiz García
 
-Podemos en Ciudad Real · pendiente
+Podemos en Ciudad Real · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1158,7 +1158,7 @@ Podemos en Ciudad Real · pendiente
 
 ## María Del Carmen Fúnez De Gregorio
 
-PP en Ciudad Real · pendiente
+PP en Ciudad Real · verificado
 
 **Ahora**
 
@@ -1178,7 +1178,7 @@ PP en Ciudad Real · pendiente
 
 ## Juana Caro Marín
 
-FA en Ciudad Real · pendiente
+FA en Ciudad Real · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1188,7 +1188,7 @@ FA en Ciudad Real · pendiente
 
 ## Alberto Mayoral de Lamo
 
-PSOE en Córdoba · pendiente
+PSOE en Córdoba · verificado
 
 **Trayectoria**
 
@@ -1202,7 +1202,7 @@ PSOE en Córdoba · pendiente
 
 ## José Ramírez del Río
 
-Vox en Córdoba · pendiente
+Vox en Córdoba · verificado
 
 **Trayectoria**
 
@@ -1221,7 +1221,7 @@ Vox en Córdoba · pendiente
 
 ## Lorena Guerra Sánchez
 
-PP en Córdoba · pendiente
+PP en Córdoba · verificado
 
 **Trayectoria**
 
@@ -1236,7 +1236,7 @@ PP en Córdoba · pendiente
 
 ## Sebastián Pérez Gallardo
 
-FA en Córdoba · pendiente
+FA en Córdoba · verificado
 
 **Trayectoria**
 
@@ -1250,7 +1250,7 @@ FA en Córdoba · pendiente
 
 ## Ana Belén Calzada Hombrado
 
-Podemos en Córdoba · pendiente
+Podemos en Córdoba · verificado
 
 **Ahora**
 
@@ -1283,7 +1283,7 @@ PSOE en A Coruña · pendiente
 
 ## Manuel Fuentes Lamas
 
-Vox en A Coruña · pendiente
+Vox en A Coruña · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1293,7 +1293,7 @@ Vox en A Coruña · pendiente
 
 ## Miguel Ángel Tellado Filgueira
 
-PP en A Coruña · pendiente
+PP en A Coruña · verificado
 
 **Ahora**
 
@@ -1317,7 +1317,7 @@ PP en A Coruña · pendiente
 
 ## Néstor Rego Candamil
 
-BNG en A Coruña · pendiente
+BNG en A Coruña · verificado
 
 **Trayectoria**
 
@@ -1331,7 +1331,7 @@ BNG en A Coruña · pendiente
 
 ## Isabel Faraldo Calvo
 
-Podemos en A Coruña · pendiente
+Podemos en A Coruña · verificado
 
 **Ahora**
 
@@ -1349,7 +1349,7 @@ Podemos en A Coruña · pendiente
 
 ## José Luis Piñeiro García
 
-FA en A Coruña · pendiente
+FA en A Coruña · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1359,7 +1359,7 @@ FA en A Coruña · pendiente
 
 ## Luis Carlos Sahuquillo García
 
-PSOE en Cuenca · pendiente
+PSOE en Cuenca · verificado
 
 **Ahora**
 
@@ -1376,7 +1376,7 @@ PSOE en Cuenca · pendiente
 
 ## Ismael Iván Vélez Cipriano
 
-Vox en Cuenca · pendiente
+Vox en Cuenca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1386,7 +1386,7 @@ Vox en Cuenca · pendiente
 
 ## José María Oviedo Oviedo
 
-Podemos en Cuenca · pendiente
+Podemos en Cuenca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1396,7 +1396,7 @@ Podemos en Cuenca · pendiente
 
 ## Raquel Oliver Chico
 
-PP en Cuenca · pendiente
+PP en Cuenca · verificado
 
 **Trayectoria**
 
@@ -1410,7 +1410,7 @@ PP en Cuenca · pendiente
 
 ## Francisco Javier Martínez Huerta (FA)
 
-FA en Cuenca · pendiente
+FA en Cuenca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1420,7 +1420,7 @@ FA en Cuenca · pendiente
 
 ## Marc Lamuà Estañol
 
-PSOE en Girona · pendiente
+PSOE en Girona · verificado
 
 **Trayectoria**
 
@@ -1433,7 +1433,7 @@ PSOE en Girona · pendiente
 
 ## Marta Madrenas Mir
 
-Junts en Girona · pendiente
+Junts en Girona · verificado
 
 **Trayectoria**
 
@@ -1448,7 +1448,7 @@ Junts en Girona · pendiente
 
 ## Teresa Jordà Roura
 
-ERC en Girona · pendiente
+ERC en Girona · verificado
 
 **Ahora**
 
@@ -1474,7 +1474,7 @@ ERC en Girona · pendiente
 
 ## Júlia Boada Danés
 
-FA en Girona · pendiente
+FA en Girona · verificado
 
 **Trayectoria**
 
@@ -1487,7 +1487,7 @@ FA en Girona · pendiente
 
 ## Ignasi Mulleras Vinzia
 
-Vox en Girona · pendiente
+Vox en Girona · verificado
 
 **Trayectoria**
 
@@ -1500,7 +1500,7 @@ Vox en Girona · pendiente
 
 ## Diana Moya Redondo
 
-PP en Girona · pendiente
+PP en Girona · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1510,7 +1510,7 @@ PP en Girona · pendiente
 
 ## María José Sánchez Sánchez
 
-PSOE en Granada · pendiente
+PSOE en Granada · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1520,7 +1520,7 @@ PSOE en Granada · pendiente
 
 ## Jacobo González-Robatto Perote
 
-Vox en Granada · pendiente
+Vox en Granada · verificado
 
 **Trayectoria**
 
@@ -1538,7 +1538,7 @@ Vox en Granada · pendiente
 
 ## Alejandra Durán Parra
 
-Podemos en Granada · pendiente
+Podemos en Granada · verificado
 
 **Ahora**
 
@@ -1555,7 +1555,7 @@ Podemos en Granada · pendiente
 
 ## Jorge Saavedra Requena
 
-PP en Granada · pendiente
+PP en Granada · verificado
 
 **Ahora**
 
@@ -1569,7 +1569,7 @@ PP en Granada · pendiente
 
 ## Jesús Fernández Martín (FA)
 
-FA en Granada · pendiente
+FA en Granada · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1579,7 +1579,7 @@ FA en Granada · pendiente
 
 ## Ángel López Maraver
 
-Vox en Guadalajara · pendiente
+Vox en Guadalajara · verificado
 
 **Trayectoria**
 
@@ -1594,7 +1594,7 @@ Vox en Guadalajara · pendiente
 
 ## María Jesús Merino Poyo
 
-PSOE en Guadalajara · pendiente
+PSOE en Guadalajara · verificado
 
 **Ahora**
 
@@ -1607,7 +1607,7 @@ PSOE en Guadalajara · pendiente
 
 ## Ernesto Martín Doménech
 
-FA en Guadalajara · pendiente
+FA en Guadalajara · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1617,7 +1617,7 @@ FA en Guadalajara · pendiente
 
 ## Mario Javier Gallego Pareja
 
-Podemos en Guadalajara · pendiente
+Podemos en Guadalajara · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1627,7 +1627,7 @@ Podemos en Guadalajara · pendiente
 
 ## Itziar Asenjo Domínguez
 
-PP en Guadalajara · pendiente
+PP en Guadalajara · verificado
 
 **Ahora**
 
@@ -1643,7 +1643,7 @@ PP en Guadalajara · pendiente
 
 ## Oihana Etxebarrieta Legrand
 
-EH Bildu en Gipuzkoa · pendiente
+EH Bildu en Gipuzkoa · verificado
 
 **Ahora**
 
@@ -1661,7 +1661,7 @@ EH Bildu en Gipuzkoa · pendiente
 
 ## Rafaela Romero Pozo
 
-PSOE en Gipuzkoa · pendiente
+PSOE en Gipuzkoa · verificado
 
 **Trayectoria**
 
@@ -1674,7 +1674,7 @@ PSOE en Gipuzkoa · pendiente
 
 ## Maribel Vaquero Montero
 
-PNV en Gipuzkoa · pendiente
+PNV en Gipuzkoa · verificado
 
 **Trayectoria**
 
@@ -1687,7 +1687,7 @@ PNV en Gipuzkoa · pendiente
 
 ## Juan Dios Dávila Garijo
 
-Vox en Gipuzkoa · pendiente
+Vox en Gipuzkoa · verificado
 
 **Trayectoria**
 
@@ -1701,7 +1701,7 @@ Vox en Gipuzkoa · pendiente
 
 ## Maite Gartzia Ontiveros
 
-Podemos en Gipuzkoa · pendiente
+Podemos en Gipuzkoa · verificado
 
 **Ahora**
 
@@ -1713,7 +1713,7 @@ Podemos en Gipuzkoa · pendiente
 
 ## Jon Echeverría Franco
 
-PP en Gipuzkoa · pendiente
+PP en Gipuzkoa · verificado
 
 **Trayectoria**
 
@@ -1731,7 +1731,7 @@ PP en Gipuzkoa · pendiente
 
 ## Rosa Rubio Sánchez
 
-FA en Gipuzkoa · pendiente
+FA en Gipuzkoa · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1741,7 +1741,7 @@ FA en Gipuzkoa · pendiente
 
 ## Gabriel Cruz Santana
 
-PSOE en Huelva · pendiente
+PSOE en Huelva · verificado
 
 **Trayectoria**
 
@@ -1761,7 +1761,7 @@ PSOE en Huelva · pendiente
 
 ## Tomás Fernández Ríos
 
-Vox en Huelva · pendiente
+Vox en Huelva · verificado
 
 **Trayectoria**
 
@@ -1779,7 +1779,7 @@ Vox en Huelva · pendiente
 
 ## María del Pilar Miranda Plata
 
-PP en Huelva · pendiente
+PP en Huelva · verificado
 
 **Ahora**
 
@@ -1795,7 +1795,7 @@ PP en Huelva · pendiente
 
 ## Rebeca Martín Sánchez
 
-FA en Huelva · pendiente
+FA en Huelva · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1805,7 +1805,7 @@ FA en Huelva · pendiente
 
 ## Hermes Gómez Escobar
 
-Podemos en Huelva · pendiente
+Podemos en Huelva · verificado
 
 **Trayectoria**
 
@@ -1819,7 +1819,7 @@ Podemos en Huelva · pendiente
 
 ## Begoña Nasarre Oliva
 
-PSOE en Huesca · pendiente
+PSOE en Huesca · verificado
 
 **Ahora**
 
@@ -1836,7 +1836,7 @@ PSOE en Huesca · pendiente
 
 ## Ester Blanco Sánchez
 
-Vox en Huesca · pendiente
+Vox en Huesca · verificado
 
 **Trayectoria**
 
@@ -1852,7 +1852,7 @@ Vox en Huesca · pendiente
 
 ## Vicente Oliver Alexandre
 
-Podemos en Huesca · pendiente
+Podemos en Huesca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1862,7 +1862,7 @@ Podemos en Huesca · pendiente
 
 ## Ana Isabel Alós Lopez
 
-PP en Huesca · pendiente
+PP en Huesca · verificado
 
 **Ahora**
 
@@ -1879,7 +1879,7 @@ PP en Huesca · pendiente
 
 ## José Luis Parra Pascau (CHA)
 
-FA en Huesca · pendiente
+FA en Huesca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1889,7 +1889,7 @@ FA en Huesca · pendiente
 
 ## Isabel Uceda Cantero
 
-PSOE en Jaén · pendiente
+PSOE en Jaén · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1899,7 +1899,7 @@ PSOE en Jaén · pendiente
 
 ## Francisco José Alcaraz Martos
 
-Vox en Jaén · pendiente
+Vox en Jaén · verificado
 
 **Trayectoria**
 
@@ -1915,7 +1915,7 @@ Vox en Jaén · pendiente
 
 ## Luis Mariano Camacho Nuñez (Chiqui)
 
-PP en Jaén · pendiente
+PP en Jaén · verificado
 
 **Ahora**
 
@@ -1929,7 +1929,7 @@ PP en Jaén · pendiente
 
 ## Dolores Rodríguez López
 
-Podemos en Jaén · pendiente
+Podemos en Jaén · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1939,7 +1939,7 @@ Podemos en Jaén · pendiente
 
 ## Antonio Ortega Ruiz (Frente Amplio por Andalucía)
 
-FA en Jaén · pendiente
+FA en Jaén · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1949,7 +1949,7 @@ FA en Jaén · pendiente
 
 ## Javier Alfonso Cendón
 
-PSOE en León · pendiente
+PSOE en León · verificado
 
 **Ahora**
 
@@ -1968,7 +1968,7 @@ PSOE en León · pendiente
 
 ## Pablo Juan Calvo Liste
 
-Vox en León · pendiente
+Vox en León · verificado
 
 **Trayectoria**
 
@@ -1985,7 +1985,7 @@ Vox en León · pendiente
 
 ## Sixto Martínez Álvarez
 
-Podemos en León · pendiente
+Podemos en León · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -1995,7 +1995,7 @@ Podemos en León · pendiente
 
 ## Ester Muñoz de la Iglesia
 
-PP en León · pendiente
+PP en León · verificado
 
 **Ahora**
 
@@ -2016,7 +2016,7 @@ PP en León · pendiente
 
 ## Rubén Estévez Miguel
 
-FA en León · pendiente
+FA en León · verificado
 
 **Ahora**
 
@@ -2032,7 +2032,7 @@ FA en León · pendiente
 
 ## Cristina Morón Molina
 
-PSOE en Lleida · pendiente
+PSOE en Lleida · verificado
 
 **Ahora**
 
@@ -2046,7 +2046,7 @@ PSOE en Lleida · pendiente
 
 ## Isidre Gavín i Valls
 
-Junts en Lleida · pendiente
+Junts en Lleida · verificado
 
 **Trayectoria**
 
@@ -2065,7 +2065,7 @@ Junts en Lleida · pendiente
 
 ## Inés Granollers i Cunillera
 
-ERC en Lleida · pendiente
+ERC en Lleida · verificado
 
 **Trayectoria**
 
@@ -2079,7 +2079,7 @@ ERC en Lleida · pendiente
 
 ## Montserrat (Montse) Cortasa Gras (COMUNS-FRONT AMPLI)
 
-FA en Lleida · pendiente
+FA en Lleida · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2089,7 +2089,7 @@ FA en Lleida · pendiente
 
 ## Rafael Villafranca Merce
 
-Vox en Lleida · pendiente
+Vox en Lleida · verificado
 
 **Ahora**
 
@@ -2105,7 +2105,7 @@ Vox en Lleida · pendiente
 
 ## Roger Melero Serra
 
-PP en Lleida · pendiente
+PP en Lleida · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2115,7 +2115,7 @@ PP en Lleida · pendiente
 
 ## Elisa Garrido Jiménez
 
-PSOE en La Rioja · pendiente
+PSOE en La Rioja · verificado
 
 **Ahora**
 
@@ -2132,7 +2132,7 @@ PSOE en La Rioja · pendiente
 
 ## Alba Díez Arrea
 
-FA en La Rioja · pendiente
+FA en La Rioja · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2142,7 +2142,7 @@ FA en La Rioja · pendiente
 
 ## Ángel Alda Pérez
 
-Vox en La Rioja · pendiente
+Vox en La Rioja · verificado
 
 **Ahora**
 
@@ -2164,7 +2164,7 @@ Vox en La Rioja · pendiente
 
 ## María Aranzazu Carrero Bacigalupe
 
-Podemos en La Rioja · pendiente
+Podemos en La Rioja · verificado
 
 **Ahora**
 
@@ -2182,7 +2182,7 @@ Podemos en La Rioja · pendiente
 
 ## María Concepción Gamarra Ruiz Clavijo
 
-PP en La Rioja · pendiente
+PP en La Rioja · verificado
 
 **Ahora**
 
@@ -2202,7 +2202,7 @@ PP en La Rioja · pendiente
 
 ## Patricia Otero Rodríguez
 
-PSOE en Lugo · pendiente
+PSOE en Lugo · verificado
 
 **Ahora**
 
@@ -2219,7 +2219,7 @@ PSOE en Lugo · pendiente
 
 ## Ximena Cheda Tuya
 
-Podemos en Lugo · pendiente
+Podemos en Lugo · verificado
 
 **Trayectoria**
 
@@ -2231,7 +2231,7 @@ Podemos en Lugo · pendiente
 
 ## Jesús Primitivo Rodríguez González
 
-Vox en Lugo · pendiente
+Vox en Lugo · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2241,7 +2241,7 @@ Vox en Lugo · pendiente
 
 ## Olalla Rodil Fernández
 
-BNG en Lugo · pendiente
+BNG en Lugo · verificado
 
 **Ahora**
 
@@ -2264,7 +2264,7 @@ BNG en Lugo · pendiente
 
 ## Francisco José Conde López
 
-PP en Lugo · pendiente
+PP en Lugo · verificado
 
 **Trayectoria**
 
@@ -2283,7 +2283,7 @@ PP en Lugo · pendiente
 
 ## Reyes Rodríguez García
 
-FA en Lugo · pendiente
+FA en Lugo · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2293,7 +2293,7 @@ FA en Lugo · pendiente
 
 ## José Bernal Gutiérrez
 
-PSOE en Málaga · pendiente
+PSOE en Málaga · verificado
 
 **Trayectoria**
 
@@ -2310,7 +2310,7 @@ PSOE en Málaga · pendiente
 
 ## Carlos Hernández Quero
 
-Vox en Málaga · pendiente
+Vox en Málaga · verificado
 
 **Ahora**
 
@@ -2326,7 +2326,7 @@ Vox en Málaga · pendiente
 
 ## Elías Bendodo Benasayag
 
-PP en Málaga · pendiente
+PP en Málaga · verificado
 
 **Ahora**
 
@@ -2346,7 +2346,7 @@ PP en Málaga · pendiente
 
 ## Micaela Jiménez Fortes
 
-Podemos en Málaga · pendiente
+Podemos en Málaga · verificado
 
 **Trayectoria**
 
@@ -2358,7 +2358,7 @@ Podemos en Málaga · pendiente
 
 ## Rafael Borrego Peña
 
-FA en Málaga · pendiente
+FA en Málaga · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2368,7 +2368,7 @@ FA en Málaga · pendiente
 
 ## María González Veracruz
 
-PSOE en Murcia · pendiente
+PSOE en Murcia · verificado
 
 **Trayectoria**
 
@@ -2390,7 +2390,7 @@ PSOE en Murcia · pendiente
 
 ## Joaquín Robles López
 
-Vox en Murcia · pendiente
+Vox en Murcia · verificado
 
 **Trayectoria**
 
@@ -2407,7 +2407,7 @@ Vox en Murcia · pendiente
 
 ## Mirian Guardiola Salmerón
 
-PP en Murcia · pendiente
+PP en Murcia · verificado
 
 **Ahora**
 
@@ -2429,7 +2429,7 @@ PP en Murcia · pendiente
 
 ## Víctor Manuel Egío García
 
-Podemos en Murcia · pendiente
+Podemos en Murcia · verificado
 
 **Ahora**
 
@@ -2447,7 +2447,7 @@ Podemos en Murcia · pendiente
 
 ## Penélope Luna Palazón
 
-FA en Murcia · pendiente
+FA en Murcia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2457,7 +2457,7 @@ FA en Murcia · pendiente
 
 ## Eneka Maiz Ulaiar
 
-EH Bildu en Navarra · pendiente
+EH Bildu en Navarra · verificado
 
 **Ahora**
 
@@ -2469,7 +2469,7 @@ EH Bildu en Navarra · pendiente
 
 ## Elma Saiz Delgado
 
-PSOE en Navarra · pendiente
+PSOE en Navarra · verificado
 
 **Ahora**
 
@@ -2494,7 +2494,7 @@ PSOE en Navarra · pendiente
 
 ## Leticia San Martín Rodríguez (UPN)
 
-UPN-PP en Navarra · pendiente
+UPN-PP en Navarra · verificado
 
 **Ahora**
 
@@ -2506,7 +2506,7 @@ UPN-PP en Navarra · pendiente
 
 ## María Perpetuo Socorro Sada Ballesteros
 
-Vox en Navarra · pendiente
+Vox en Navarra · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2516,7 +2516,7 @@ Vox en Navarra · pendiente
 
 ## Virginia Alonso Aparicio
 
-Podemos en Navarra · pendiente
+Podemos en Navarra · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2526,7 +2526,7 @@ Podemos en Navarra · pendiente
 
 ## Javier Ibáñez Orayen
 
-FA en Navarra · pendiente
+FA en Navarra · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2536,7 +2536,7 @@ FA en Navarra · pendiente
 
 ## María Del Carmen Rodríguez Dacosta
 
-PSOE en Ourense · pendiente
+PSOE en Ourense · verificado
 
 **Trayectoria**
 
@@ -2548,7 +2548,7 @@ PSOE en Ourense · pendiente
 
 ## Antonio José Naval Calviño
 
-Podemos en Ourense · pendiente
+Podemos en Ourense · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2558,7 +2558,7 @@ Podemos en Ourense · pendiente
 
 ## Maria Jesús Morenza Fernández
 
-Vox en Ourense · pendiente
+Vox en Ourense · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2568,7 +2568,7 @@ Vox en Ourense · pendiente
 
 ## Ana Belén Vázquez Blanco
 
-PP en Ourense · pendiente
+PP en Ourense · verificado
 
 **Ahora**
 
@@ -2592,7 +2592,7 @@ PP en Ourense · pendiente
 
 ## Noa Presas Bergantiños
 
-BNG en Ourense · pendiente
+BNG en Ourense · verificado
 
 **Ahora**
 
@@ -2612,7 +2612,7 @@ BNG en Ourense · pendiente
 
 ## Juan Diego Conde Eguileta
 
-FA en Ourense · pendiente
+FA en Ourense · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2622,7 +2622,7 @@ FA en Ourense · pendiente
 
 ## Adriana Lastra Fernández
 
-PSOE en Asturias · pendiente
+PSOE en Asturias · verificado
 
 **Trayectoria**
 
@@ -2635,7 +2635,7 @@ PSOE en Asturias · pendiente
 
 ## José María Figaredo Álvarez-Sala
 
-Vox en Asturias · pendiente
+Vox en Asturias · verificado
 
 **Ahora**
 
@@ -2655,7 +2655,7 @@ Vox en Asturias · pendiente
 
 ## Manuel Antonio Pravia Fernández
 
-Podemos en Asturias · pendiente
+Podemos en Asturias · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2665,7 +2665,7 @@ Podemos en Asturias · pendiente
 
 ## Ángela Pumariega Menéndez
 
-PP en Asturias · pendiente
+PP en Asturias · verificado
 
 **Ahora**
 
@@ -2683,7 +2683,7 @@ PP en Asturias · pendiente
 
 ## Juan Antonio González Ponte (Izquierda Unida de Asturias)
 
-FA en Asturias · pendiente
+FA en Asturias · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2693,7 +2693,7 @@ FA en Asturias · pendiente
 
 ## María Luz Martínez Seijo
 
-PSOE en Palencia · pendiente
+PSOE en Palencia · verificado
 
 **Ahora**
 
@@ -2712,7 +2712,7 @@ PSOE en Palencia · pendiente
 
 ## Matías Recio Juárez
 
-Vox en Palencia · pendiente
+Vox en Palencia · verificado
 
 **Trayectoria**
 
@@ -2724,7 +2724,7 @@ Vox en Palencia · pendiente
 
 ## Alberto Pozo Díez
 
-Podemos en Palencia · pendiente
+Podemos en Palencia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2734,7 +2734,7 @@ Podemos en Palencia · pendiente
 
 ## Milagros Marcos Ortega
 
-PP en Palencia · pendiente
+PP en Palencia · verificado
 
 **Trayectoria**
 
@@ -2751,7 +2751,7 @@ PP en Palencia · pendiente
 
 ## Ana Belén Collantes Martín
 
-FA en Palencia · pendiente
+FA en Palencia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2761,7 +2761,7 @@ FA en Palencia · pendiente
 
 ## María Dolores Corujo Berriel
 
-PSOE en Las Palmas · pendiente
+PSOE en Las Palmas · verificado
 
 **Trayectoria**
 
@@ -2776,7 +2776,7 @@ PSOE en Las Palmas · pendiente
 
 ## Sergio Ramos Acosta
 
-PP en Las Palmas · pendiente
+PP en Las Palmas · verificado
 
 **Trayectoria**
 
@@ -2791,7 +2791,7 @@ PP en Las Palmas · pendiente
 
 ## Andrés Alberto Rodríguez Almeida
 
-Vox en Las Palmas · pendiente
+Vox en Las Palmas · verificado
 
 **Trayectoria**
 
@@ -2809,7 +2809,7 @@ Vox en Las Palmas · pendiente
 
 ## Teodoro Claret Sosa Monzón
 
-CCa-1.ºCAN en Las Palmas · pendiente
+CCa-1.ºCAN en Las Palmas · verificado
 
 **Ahora**
 
@@ -2825,7 +2825,7 @@ CCa-1.ºCAN en Las Palmas · pendiente
 
 ## Luis Alberto Campos Jiménez
 
-UPC en Las Palmas · pendiente
+UPC en Las Palmas · verificado
 
 **Ahora**
 
@@ -2842,7 +2842,7 @@ UPC en Las Palmas · pendiente
 
 ## Álvaro José Díaz-Mella López
 
-Vox en Pontevedra · pendiente
+Vox en Pontevedra · verificado
 
 **Ahora**
 
@@ -2864,7 +2864,7 @@ Vox en Pontevedra · pendiente
 
 ## Abel Fermín Losada Álvarez
 
-PSOE en Pontevedra · pendiente
+PSOE en Pontevedra · verificado
 
 **Ahora**
 
@@ -2889,7 +2889,7 @@ PSOE en Pontevedra · pendiente
 
 ## Julio García Comesaña
 
-PP en Pontevedra · pendiente
+PP en Pontevedra · verificado
 
 **Trayectoria**
 
@@ -2902,7 +2902,7 @@ PP en Pontevedra · pendiente
 
 ## Gloria Alonso Domínguez
 
-FA en Pontevedra · pendiente
+FA en Pontevedra · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2912,7 +2912,7 @@ FA en Pontevedra · pendiente
 
 ## María Carme da Silva Méndez
 
-BNG en Pontevedra · pendiente
+BNG en Pontevedra · verificado
 
 **Ahora**
 
@@ -2928,7 +2928,7 @@ BNG en Pontevedra · pendiente
 
 ## Lucas Meda Herbojo
 
-Podemos en Pontevedra · pendiente
+Podemos en Pontevedra · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2938,7 +2938,7 @@ Podemos en Pontevedra · pendiente
 
 ## David Serrada Pariente
 
-PSOE en Salamanca · pendiente
+PSOE en Salamanca · verificado
 
 **Ahora**
 
@@ -2953,7 +2953,7 @@ PSOE en Salamanca · pendiente
 
 ## María del Carmen Seguín Kattán
 
-PP en Salamanca · pendiente
+PP en Salamanca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2963,7 +2963,7 @@ PP en Salamanca · pendiente
 
 ## Laura Magdalena Miguel
 
-Vox en Salamanca · pendiente
+Vox en Salamanca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2973,7 +2973,7 @@ Vox en Salamanca · pendiente
 
 ## María Aurora Zarco Blanco
 
-Podemos en Salamanca · pendiente
+Podemos en Salamanca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2983,7 +2983,7 @@ Podemos en Salamanca · pendiente
 
 ## Miriam Ruiz Arias
 
-FA en Salamanca · pendiente
+FA en Salamanca · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -2993,7 +2993,7 @@ FA en Salamanca · pendiente
 
 ## Jose Antonio Valbuena Alonso
 
-PSOE en Santa Cruz de Tenerife · pendiente
+PSOE en Santa Cruz de Tenerife · verificado
 
 **Ahora**
 
@@ -3014,7 +3014,7 @@ PSOE en Santa Cruz de Tenerife · pendiente
 
 ## Cristina Valido García
 
-CCa-1.ºCAN en Santa Cruz de Tenerife · pendiente
+CCa-1.ºCAN en Santa Cruz de Tenerife · verificado
 
 **Ahora**
 
@@ -3039,7 +3039,7 @@ CCa-1.ºCAN en Santa Cruz de Tenerife · pendiente
 
 ## Gustavo González De Vega
 
-PP en Santa Cruz de Tenerife · pendiente
+PP en Santa Cruz de Tenerife · verificado
 
 **Ahora**
 
@@ -3064,7 +3064,7 @@ PP en Santa Cruz de Tenerife · pendiente
 
 ## Alejandro Santiago Gómez Rodríguez
 
-Vox en Santa Cruz de Tenerife · pendiente
+Vox en Santa Cruz de Tenerife · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3074,7 +3074,7 @@ Vox en Santa Cruz de Tenerife · pendiente
 
 ## María Soledad Collado Mirabal (UPC)
 
-UPC en Santa Cruz de Tenerife · pendiente
+UPC en Santa Cruz de Tenerife · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3084,7 +3084,7 @@ UPC en Santa Cruz de Tenerife · pendiente
 
 ## Susana Herran Martin
 
-PSOE en Cantabria · pendiente
+PSOE en Cantabria · verificado
 
 **Ahora**
 
@@ -3103,7 +3103,7 @@ PSOE en Cantabria · pendiente
 
 ## María Isabel Urrutia de los Mozos
 
-PP en Cantabria · pendiente
+PP en Cantabria · verificado
 
 **Ahora**
 
@@ -3123,7 +3123,7 @@ PP en Cantabria · pendiente
 
 ## Emilio Jesús del Valle Rodríguez
 
-Vox en Cantabria · pendiente
+Vox en Cantabria · verificado
 
 **Ahora**
 
@@ -3141,7 +3141,7 @@ Vox en Cantabria · pendiente
 
 ## Pablo Gómez Ruiz
 
-Podemos en Cantabria · pendiente
+Podemos en Cantabria · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3151,7 +3151,7 @@ Podemos en Cantabria · pendiente
 
 ## María Carmen Martin García
 
-FA en Cantabria · pendiente
+FA en Cantabria · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3161,7 +3161,7 @@ FA en Cantabria · pendiente
 
 ## Jose Luis Aceves Galindo
 
-PSOE en Segovia · pendiente
+PSOE en Segovia · verificado
 
 **Ahora**
 
@@ -3181,7 +3181,7 @@ PSOE en Segovia · pendiente
 
 ## Pablo Pérez Coronado
 
-PP en Segovia · pendiente
+PP en Segovia · verificado
 
 **Ahora**
 
@@ -3205,7 +3205,7 @@ PP en Segovia · pendiente
 
 ## Gonzalo Babe Romero
 
-Vox en Segovia · pendiente
+Vox en Segovia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3215,7 +3215,7 @@ Vox en Segovia · pendiente
 
 ## María Soledad Alba Monfort
 
-Podemos en Segovia · pendiente
+Podemos en Segovia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3225,7 +3225,7 @@ Podemos en Segovia · pendiente
 
 ## Víctor Javier Borreguero García
 
-FA en Segovia · pendiente
+FA en Segovia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3235,7 +3235,7 @@ FA en Segovia · pendiente
 
 ## Alfonso Rodríguez Gómez de Celis
 
-PSOE en Sevilla · pendiente
+PSOE en Sevilla · verificado
 
 **Ahora**
 
@@ -3258,7 +3258,7 @@ PSOE en Sevilla · pendiente
 
 ## Juan Bravo Baena
 
-PP en Sevilla · pendiente
+PP en Sevilla · verificado
 
 **Ahora**
 
@@ -3282,7 +3282,7 @@ PP en Sevilla · pendiente
 
 ## María de los Reyes Romero Vilches
 
-Vox en Sevilla · pendiente
+Vox en Sevilla · verificado
 
 **Ahora**
 
@@ -3301,7 +3301,7 @@ Vox en Sevilla · pendiente
 
 ## Mar Cambrollé Jurado
 
-Podemos en Sevilla · pendiente
+Podemos en Sevilla · verificado
 
 **Ahora**
 
@@ -3319,7 +3319,7 @@ Podemos en Sevilla · pendiente
 
 ## Enrique Fernando Santiago Romero
 
-FA en Sevilla · pendiente
+FA en Sevilla · verificado
 
 **Ahora**
 
@@ -3343,7 +3343,7 @@ FA en Sevilla · pendiente
 
 ## Luis Alfonso Rey de las Heras
 
-PSOE en Soria · pendiente
+PSOE en Soria · verificado
 
 **Ahora**
 
@@ -3363,7 +3363,7 @@ PSOE en Soria · pendiente
 
 ## Tomás Cabezón Casas
 
-PP en Soria · pendiente
+PP en Soria · verificado
 
 **Ahora**
 
@@ -3382,7 +3382,7 @@ PP en Soria · pendiente
 
 ## Andrea Martínez Ruiz
 
-Vox en Soria · pendiente
+Vox en Soria · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3392,7 +3392,7 @@ Vox en Soria · pendiente
 
 ## Ángel Alberto Flores Gaitán
 
-FA en Soria · pendiente
+FA en Soria · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3402,7 +3402,7 @@ FA en Soria · pendiente
 
 ## María Luisa Muñoz González
 
-Podemos en Soria · pendiente
+Podemos en Soria · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3412,7 +3412,7 @@ Podemos en Soria · pendiente
 
 ## Ione Montalvo Aguirrezabala
 
-PSOE en Tarragona · pendiente
+PSOE en Tarragona · verificado
 
 **Ahora**
 
@@ -3430,7 +3430,7 @@ PSOE en Tarragona · pendiente
 
 ## Norma Pujol Farré
 
-ERC en Tarragona · pendiente
+ERC en Tarragona · verificado
 
 **Trayectoria**
 
@@ -3451,7 +3451,7 @@ ERC en Tarragona · pendiente
 
 ## Josep Maria Cruset i Domènech
 
-Junts en Tarragona · pendiente
+Junts en Tarragona · verificado
 
 **Ahora**
 
@@ -3470,7 +3470,7 @@ Junts en Tarragona · pendiente
 
 ## Ester Roca Domodel (COMUNS-FRONT AMPLI)
 
-FA en Tarragona · pendiente
+FA en Tarragona · verificado
 
 **Ahora**
 
@@ -3500,7 +3500,7 @@ Vox en Tarragona · pendiente
 
 ## Mónica Landete Oliva
 
-PP en Tarragona · pendiente
+PP en Tarragona · verificado
 
 **Ahora**
 
@@ -3514,7 +3514,7 @@ PP en Tarragona · pendiente
 
 ## Herminio Rufino Sancho Íniguez
 
-PSOE en Teruel · pendiente
+PSOE en Teruel · verificado
 
 **Ahora**
 
@@ -3533,7 +3533,7 @@ PSOE en Teruel · pendiente
 
 ## José Alberto Herrero Bono
 
-PP en Teruel · pendiente
+PP en Teruel · verificado
 
 **Ahora**
 
@@ -3556,7 +3556,7 @@ PP en Teruel · pendiente
 
 ## Daniel Alda Chercoles
 
-Vox en Teruel · pendiente
+Vox en Teruel · verificado
 
 **Ahora**
 
@@ -3574,7 +3574,7 @@ Vox en Teruel · pendiente
 
 ## Rafael Carlos Esteban Martín
 
-Podemos en Teruel · pendiente
+Podemos en Teruel · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3584,7 +3584,7 @@ Podemos en Teruel · pendiente
 
 ## Milagros Tolón Jaime
 
-PSOE en Toledo · pendiente
+PSOE en Toledo · verificado
 
 **Ahora**
 
@@ -3609,7 +3609,7 @@ PSOE en Toledo · pendiente
 
 ## Carlos Velázquez Romo
 
-PP en Toledo · pendiente
+PP en Toledo · verificado
 
 **Ahora**
 
@@ -3628,7 +3628,7 @@ PP en Toledo · pendiente
 
 ## Manuel Mariscal Zabala
 
-Vox en Toledo · pendiente
+Vox en Toledo · verificado
 
 **Ahora**
 
@@ -3651,7 +3651,7 @@ Vox en Toledo · pendiente
 
 ## María Ángeles Castellanos Valverde
 
-Podemos en Toledo · pendiente
+Podemos en Toledo · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3661,7 +3661,7 @@ Podemos en Toledo · pendiente
 
 ## José Alejandro Ávila Sánchez
 
-FA en Toledo · pendiente
+FA en Toledo · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3671,7 +3671,7 @@ FA en Toledo · pendiente
 
 ## Pilar Bernabé García
 
-PSOE en Valencia/València · pendiente
+PSOE en Valencia/València · verificado
 
 **Ahora**
 
@@ -3691,7 +3691,7 @@ PSOE en Valencia/València · pendiente
 
 ## María José Catalá Verdet
 
-PP en Valencia/València · pendiente
+PP en Valencia/València · verificado
 
 **Ahora**
 
@@ -3716,7 +3716,7 @@ PP en Valencia/València · pendiente
 
 ## Àgueda Micó Micó
 
-Compromís en Valencia/València · pendiente
+Compromís en Valencia/València · verificado
 
 **Ahora**
 
@@ -3734,7 +3734,7 @@ Compromís en Valencia/València · pendiente
 
 ## Ignacio Gil Lázaro
 
-Vox en Valencia/València · pendiente
+Vox en Valencia/València · verificado
 
 **Ahora**
 
@@ -3754,7 +3754,7 @@ Vox en Valencia/València · pendiente
 
 ## Óscar Puente Santiago
 
-PSOE en Valladolid · pendiente
+PSOE en Valladolid · verificado
 
 **Ahora**
 
@@ -3779,7 +3779,7 @@ PSOE en Valladolid · pendiente
 
 ## María Pardo Álvarez
 
-PP en Valladolid · pendiente
+PP en Valladolid · verificado
 
 **Ahora**
 
@@ -3803,7 +3803,7 @@ PP en Valladolid · pendiente
 
 ## Pablo Sáez Alonso-Muñumer
 
-Vox en Valladolid · pendiente
+Vox en Valladolid · verificado
 
 **Ahora**
 
@@ -3826,7 +3826,7 @@ Vox en Valladolid · pendiente
 
 ## María Almudena Villareal Vidal
 
-Podemos en Valladolid · pendiente
+Podemos en Valladolid · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3836,7 +3836,7 @@ Podemos en Valladolid · pendiente
 
 ## Abdul Gadiri Diallo Bah
 
-FA en Valladolid · pendiente
+FA en Valladolid · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3846,7 +3846,7 @@ FA en Valladolid · pendiente
 
 ## Idoia Sagastizabal Unzetabarrenetxea
 
-PNV en Bizkaia · pendiente
+PNV en Bizkaia · verificado
 
 **Ahora**
 
@@ -3860,7 +3860,7 @@ PNV en Bizkaia · pendiente
 
 ## Patxi López Alvarez
 
-PSOE en Bizkaia · pendiente
+PSOE en Bizkaia · verificado
 
 **Ahora**
 
@@ -3881,7 +3881,7 @@ PSOE en Bizkaia · pendiente
 
 ## Oskar Matute Garcia de Jalón
 
-EH Bildu en Bizkaia · pendiente
+EH Bildu en Bizkaia · verificado
 
 **Ahora**
 
@@ -3900,7 +3900,7 @@ EH Bildu en Bizkaia · pendiente
 
 ## Esther Martínez Fernández
 
-PP en Bizkaia · pendiente
+PP en Bizkaia · verificado
 
 **Ahora**
 
@@ -3922,7 +3922,7 @@ PP en Bizkaia · pendiente
 
 ## Lander Martínez Hierro
 
-FA en Bizkaia · pendiente
+FA en Bizkaia · verificado
 
 **Ahora**
 
@@ -3940,7 +3940,7 @@ FA en Bizkaia · pendiente
 
 ## Marco Antonio Moreno Asla
 
-Vox en Bizkaia · pendiente
+Vox en Bizkaia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3950,7 +3950,7 @@ Vox en Bizkaia · pendiente
 
 ## Jose Manuel de Pablos Bajo
 
-Podemos en Bizkaia · pendiente
+Podemos en Bizkaia · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3960,7 +3960,7 @@ Podemos en Bizkaia · pendiente
 
 ## Antidio Fagúndez Campo
 
-PSOE en Zamora · pendiente
+PSOE en Zamora · verificado
 
 **Ahora**
 
@@ -3979,7 +3979,7 @@ PSOE en Zamora · pendiente
 
 ## María Montserrat Chimeno Viñas
 
-PP en Zamora · pendiente
+PP en Zamora · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -3989,7 +3989,7 @@ PP en Zamora · pendiente
 
 ## Miguel Suárez Arca
 
-Vox en Zamora · pendiente
+Vox en Zamora · verificado
 
 **Ahora**
 
@@ -4008,7 +4008,7 @@ Vox en Zamora · pendiente
 
 ## Miguel Ángel Guerra Cosme
 
-Podemos en Zamora · pendiente
+Podemos en Zamora · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -4018,7 +4018,7 @@ Podemos en Zamora · pendiente
 
 ## Diego Bernardo Rosas
 
-FA en Zamora · pendiente
+FA en Zamora · verificado
 
 **Ahora**
 
@@ -4032,7 +4032,7 @@ FA en Zamora · pendiente
 
 ## Fernando Ángel Beltrán Blázquez
 
-PSOE en Zaragoza · pendiente
+PSOE en Zaragoza · verificado
 
 **Ahora**
 
@@ -4051,7 +4051,7 @@ PSOE en Zaragoza · pendiente
 
 ## María del Rocío Dívar Conde
 
-PP en Zaragoza · pendiente
+PP en Zaragoza · verificado
 
 **Ahora**
 
@@ -4066,7 +4066,7 @@ PP en Zaragoza · pendiente
 
 ## María Carmen Rouco Laliena
 
-Vox en Zaragoza · pendiente
+Vox en Zaragoza · verificado
 
 **Ahora**
 
@@ -4083,7 +4083,7 @@ Vox en Zaragoza · pendiente
 
 ## Alicia Arteaga Lahuerta
 
-Podemos en Zaragoza · pendiente
+Podemos en Zaragoza · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -4093,7 +4093,7 @@ Podemos en Zaragoza · pendiente
 
 ## Marina Rodríguez Hernando (CHA)
 
-FA en Zaragoza · pendiente
+FA en Zaragoza · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -4103,7 +4103,7 @@ FA en Zaragoza · pendiente
 
 ## Rafael Martínez Peñalver Mateos
 
-PP en Ceuta · pendiente
+PP en Ceuta · verificado
 
 **Ahora**
 
@@ -4119,7 +4119,7 @@ PP en Ceuta · pendiente
 
 ## Luis Manuel Tovar Gálvez
 
-PSOE en Ceuta · pendiente
+PSOE en Ceuta · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -4129,7 +4129,7 @@ PSOE en Ceuta · pendiente
 
 ## Ana Belén Cifuentes Cánovas
 
-Vox en Ceuta · pendiente
+Vox en Ceuta · verificado
 
 **Procedimientos judiciales** (sin buscar)
 
@@ -4139,7 +4139,7 @@ Vox en Ceuta · pendiente
 
 ## Ramón Rodríguez Casaubón
 
-Podemos en Ceuta · pendiente
+Podemos en Ceuta · verificado
 
 **Trayectoria**
 
@@ -4151,7 +4151,7 @@ Podemos en Ceuta · pendiente
 
 ## Riduan Moh Abdelkader
 
-PSOE en Melilla · pendiente
+PSOE en Melilla · verificado
 
 **Ahora**
 
@@ -4169,7 +4169,7 @@ PSOE en Melilla · pendiente
 
 ## José Miguel Tasende Souto
 
-Vox en Melilla · pendiente
+Vox en Melilla · verificado
 
 **Ahora**
 
@@ -4187,7 +4187,7 @@ Vox en Melilla · pendiente
 
 ## Sofía Acedo Reyes
 
-PP en Melilla · pendiente
+PP en Melilla · verificado
 
 **Ahora**
 
