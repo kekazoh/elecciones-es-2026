@@ -11,7 +11,9 @@
     "validate-data": "tsx scripts/validate-data.ts",
     "simulate": "tsx scripts/simulate.ts",
     "map": "tsx scripts/build-map.ts",
-    "import-candidaturas": "tsx scripts/import-candidaturas.ts"
+    "import-candidaturas": "tsx scripts/import-candidaturas.ts",
+    "cabezas-de-lista": "tsx scripts/cabezas-de-lista.ts",
+    "revision-perfiles": "tsx scripts/revision-perfiles.ts"
   },
   "dependencies": {
     "@fontsource-variable/archivo": "^5.3.0",
