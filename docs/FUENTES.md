@@ -56,6 +56,34 @@ informe lo muestra.
 Casos con sentencias posteriores que los modifican (anulaciones del TC,
 indultos, amnistía) se revisan y se refleja la situación vigente en `summary`.
 
+## Perfiles de los cabezas de lista
+
+Perfiles de los cabezas de lista de los partidos con representación en la XV
+legislatura y sus coaliciones (`src/data/real/candidate-profiles.json`). No
+afectan a la recomendación: son información para el votante. Revisión en
+[REVISION-PERFILES.md](REVISION-PERFILES.md) (`npm run revision-perfiles`).
+
+- Cargos, trayectoria y formación: fuentes oficiales por este orden: fichas
+  del Congreso, del Senado, de los parlamentos autonómicos y del Parlamento
+  Europeo; biografías de La Moncloa y de los gobiernos autonómicos; webs de
+  ayuntamientos y de los partidos. Si solo hay prensa o enciclopedias, se cita
+  y se anota en `notes`. No se completa nada de memoria.
+- Procedimientos judiciales: solo los que un juzgado ha admitido contra el
+  propio candidato, en cualquier estado (investigado, juicio, condena,
+  absolución o archivo), indicándolo. No entran querellas inadmitidas,
+  diligencias de la Fiscalía que no llegaron a un juzgado ni causas de
+  familiares. Fuente oficial (CENDOJ, CGPJ, BOE) cuando la hay; si no, dos
+  medios distintos. `corruption` marca los delitos contra la Administración
+  pública (prevaricación, malversación, cohecho, tráfico de influencias…) y
+  la financiación ilegal.
+- `judicialChecked` es la fecha de la última búsqueda: que no conste nada no
+  significa que no exista.
+- Todo entra `pendiente` y no se muestra hasta que una persona lo revisa.
+- En la app, el perfil revisado aparece bajo la lista del partido recomendado
+  (`src/ui/HeadProfile.tsx`). De los procedimientos solo enseña los abiertos y
+  las condenas; los archivados y las absoluciones se quedan en
+  REVISION-PERFILES.md (`SHOWN_STAGES`).
+
 ## Estado del dataset real (`src/data/real/`)
 
 - Candidaturas: las presentadas al Congreso según el BOE del 28 de octubre de
