@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { PROVINCE_NAME } from '../data/provinces';
 import type { CandidacyList, Party } from '../model/types';
+import { HeadProfile } from './HeadProfile';
 
 interface Candidacies {
   source: { title: string; url: string; date: string };
@@ -60,6 +61,7 @@ export function CandidateList({ party, province }: { party: Party; province?: st
           </li>
         ))}
       </ol>
+      {list.candidates[0] && <HeadProfile name={list.candidates[0]} partyId={party.id} province={province} />}
       {list.substitutes.length > 0 && (
         <details>
           <summary>Suplentes ({list.substitutes.length})</summary>
