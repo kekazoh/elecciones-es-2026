@@ -117,6 +117,61 @@ export interface CandidacyList {
   note?: string;
 }
 
+/** Etapa de la trayectoria de un cabeza de lista: un cargo, empleo o formación. */
+export interface ProfileItem {
+  /** "2018-actualidad", "1999-2003"… Ausente si la fuente no da fechas. */
+  period?: string;
+  text: string;
+  source: SourceRef;
+}
+
+/** Dónde está el candidato en un procedimiento judicial. */
+export type JudicialStage =
+  | 'investigado'
+  | 'juicio'
+  | 'condenado_no_firme'
+  | 'condenado_firme'
+  | 'absuelto'
+  | 'archivado';
+
+/**
+ * Procedimiento en el que el propio candidato es parte acusada o demandada y
+ * que un juzgado ha admitido. No entran querellas inadmitidas, diligencias de
+ * la Fiscalía sin causa judicial ni procedimientos contra familiares.
+ */
+export interface JudicialMatter {
+  name: string;
+  kind: 'penal' | 'civil' | 'contable';
+  /** Delitos contra la Administración pública o financiación ilegal. */
+  corruption: boolean;
+  stage: JudicialStage;
+  summary: string;
+  /** Oficiales cuando las hay; si no, al menos dos medios distintos. */
+  sources: SourceRef[];
+}
+
+/**
+ * Perfil de un cabeza de lista. No afecta a la recomendación: es información
+ * para el votante. Entra como `pendiente` y solo se muestra cuando una persona
+ * lo revisa.
+ */
+export interface CandidateProfile {
+  /** Nombre tal como sale en el BOE. */
+  name: string;
+  lists: { province: string; partyId: string }[];
+  /** Cargo público o de partido que ocupa ahora, en una línea. */
+  current: ProfileItem[];
+  career: ProfileItem[];
+  education: ProfileItem[];
+  judicial: JudicialMatter[];
+  /** Fecha (ISO) de la última búsqueda de procedimientos judiciales. Ausente = no se ha buscado. */
+  judicialChecked?: string;
+  /** Lo que no se ha podido comprobar. */
+  notes?: string;
+  verification: Verification;
+  lastReviewed?: string;
+}
+
 /** Estado procesal. Solo `sentencia_firme` penaliza en la recomendación. */
 export type CaseStatus =
   | 'sentencia_firme'

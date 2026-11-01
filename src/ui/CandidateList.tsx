@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { PROVINCE_NAME } from '../data/provinces';
 import type { CandidacyList, Party } from '../model/types';
+import { HeadProfile } from './HeadProfile';
 
 interface Candidacies {
   source: { title: string; url: string; date: string };
@@ -12,12 +13,22 @@ let cache: Promise<Candidacies> | undefined;
 const loadCandidacies = () =>
   (cache ??= import('../data/real/candidacies.json').then((m) => m.default as Candidacies));
 
-/** Lista de un partido en la provincia del usuario, tal como sale en el BOE. */
-export function CandidateList({ party, province }: { party: Party; province?: string }) {
+/** Las candidaturas del BOE, una vez cargadas; `null` mientras tanto o si no hay provincia. */
+export function useCandidacies(province?: string) {
   const [data, setData] = useState<Candidacies | null>(null);
   useEffect(() => {
     if (province) void loadCandidacies().then(setData);
   }, [province]);
+  return data;
+}
+
+/** Lista de un partido en una provincia, si tiene candidatos (las inadmitidas no los tienen). */
+export const listOf = (data: Candidacies, partyId: string, province: string) =>
+  data.lists.find((l) => l.province === province && l.partyId === partyId && l.candidates.length > 0);
+
+/** Lista de un partido en la provincia del usuario, tal como sale en el BOE. */
+export function CandidateList({ party, province }: { party: Party; province?: string }) {
+  const data = useCandidacies(province);
 
   if (!province) {
     return (
@@ -28,7 +39,7 @@ export function CandidateList({ party, province }: { party: Party; province?: st
   }
   if (!data) return <p className="muted">Cargando la lista…</p>;
 
-  const list = data.lists.find((l) => l.province === province && l.partyId === party.id && l.candidates.length > 0);
+  const list = listOf(data, party.id, province);
   const where = PROVINCE_NAME.get(province);
   if (!list) return <p className="muted">No consta ninguna lista de {party.shortName} en {where}.</p>;
 
@@ -44,9 +55,13 @@ export function CandidateList({ party, province }: { party: Party; province?: st
       </p>
       <ol>
         {list.candidates.map((c, i) => (
-          <li key={i}>{c}</li>
+          <li key={i}>
+            {c}
+            {i === 0 && <span className="muted"> · cabeza de lista</span>}
+          </li>
         ))}
       </ol>
+      {list.candidates[0] && <HeadProfile name={list.candidates[0]} partyId={party.id} province={province} />}
       {list.substitutes.length > 0 && (
         <details>
           <summary>Suplentes ({list.substitutes.length})</summary>

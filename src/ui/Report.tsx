@@ -2,7 +2,7 @@ import type { MeasureMatch, Report } from '../engine/report';
 import type { CSSProperties, ReactNode } from 'react';
 import type { Stance } from '../model/types';
 import { PROVINCE_NAME } from '../data/provinces';
-import { CandidateList } from './CandidateList';
+import { CandidateList, listOf, useCandidacies } from './CandidateList';
 import { ShareButton } from './ShareButton';
 
 export const STANCE_LABEL: Record<Stance, string> = {
@@ -73,6 +73,7 @@ export function ReportView({
   onChoice: () => void;
 }) {
   const rec = report.recommended;
+  const candidacies = useCandidacies(report.province);
   return (
     <section className="report" style={{ '--party': rec.party.color } as CSSProperties}>
       <p className="eyebrow">
@@ -146,6 +147,7 @@ export function ReportView({
         <thead>
           <tr>
             <th>Partido</th>
+            {report.province && <th>Cabeza de lista</th>}
             <th>Coincidencia</th>
             <th>Posición conocida</th>
             <th>Condenas firmes</th>
@@ -157,6 +159,9 @@ export function ReportView({
               <td>
                 <span className="dot" style={{ background: r.party.color }} /> {r.party.name}
               </td>
+              {report.province && (
+                <td>{candidacies ? (listOf(candidacies, r.party.id, report.province)?.candidates[0] ?? '—') : '…'}</td>
+              )}
               <td>
                 {pct(r.affinity)}
                 {r.coverage < report.measuresRated && r.coverage > 0 && (
