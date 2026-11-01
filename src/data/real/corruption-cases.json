@@ -122,20 +122,26 @@
     "partyIds": [
       "psoe"
     ],
-    "summary": "El Tribunal Supremo condenó en 1997 a dirigentes del PSOE y del PSC, entre ellos el senador José María Sala y el diputado Carlos Navarro, secretario de finanzas del PSC-PSOE, por falsedad y asociación ilícita en una trama de facturas falsas de las empresas Filesa, Malesa y Time Export que pagó gastos del partido. El fallo no condena al PSOE ni le impone responsabilidad civil.",
+    "summary": "El Tribunal Supremo (Sentencia 1/1997, de 28 de octubre, causa especial 880/91) condenó a dirigentes del PSOE y del PSC, entre ellos el diputado Carlos Navarro, secretario de finanzas del PSC-PSOE, y el senador José María Sala, por una trama de facturas falsas de las empresas Filesa, Malesa y Time Export que pagó gastos del partido. El Tribunal Constitucional confirmó en 2001 la condena de Navarro por falsedad en documento mercantil, asociación ilícita y delito fiscal (STC 123/2001); a Sala le anuló la condena por falsedad y mantuvo la de asociación ilícita (STC 124/2001). El fallo no condena al PSOE ni le impone responsabilidad civil.",
     "status": "sentencia_firme",
     "involvement": "cargos_condenados",
     "sources": [
       {
         "kind": "sentencia",
-        "title": "Sentencia del Tribunal Supremo, Sala II, 1/1997 (causa especial 880/1991), copia no oficial en derechos.org",
-        "url": "https://derechos.org/nizkor/espana/doc/filesa.html",
-        "date": "1997-10-28"
+        "title": "STC 123/2001, de 4 de junio (recurso de amparo 4645/97, Carlos Navarro Gómez, contra la STS 1/1997): deniega el amparo",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12756",
+        "date": "2001-07-03"
+      },
+      {
+        "kind": "sentencia",
+        "title": "STC 124/2001, de 4 de junio (recurso de amparo 4703/97, José María Sala i Griso): anula la condena por falsedad y mantiene la de asociación ilícita",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12757",
+        "date": "2001-07-03"
       }
     ],
-    "verification": "pendiente",
-    "pendingReason": "Aceptado por keko el 2026-10-10, pero no puede marcarse como verificado hasta enlazar la sentencia oficial en CENDOJ con su ECLI (solo se ha leído una copia no oficial). Por su antigüedad pesaría muy poco.",
-    "attributionNote": "El fallo no menciona al PSOE. Sala era senador del PSOE y Navarro, secretario de finanzas del PSC-PSOE."
+    "verification": "verificado",
+    "attributionNote": "El fallo no menciona al PSOE. Sala era senador del PSOE y Navarro, secretario de finanzas del PSC-PSOE. La STS 1/1997 no está en CENDOJ con ECLI; se cita a través de las sentencias del Constitucional que resolvieron los amparos (BOE de 3 de julio de 2001). Aceptado por keko el 2026-11-01.",
+    "lastReviewed": "2026-11-01"
   },
   {
     "id": "psoe-mascarillas",

@@ -79,6 +79,13 @@ afectan a la recomendación: son información para el votante. Revisión en
 - `judicialChecked` es la fecha de la última búsqueda: que no conste nada no
   significa que no exista.
 - Todo entra `pendiente` y no se muestra hasta que una persona lo revisa.
+- Segunda revisión del 2026-10-30: por decisión de keko, Claude revisó los
+  pendientes de los PR #16, #17 y #18 (coherencia entre cita, fuente, postura y
+  notas; sin volver a abrir cada fuente) y pasó a `verificado` 263 perfiles y
+  56 posiciones. keko revisó a mano el 2026-11-01 los que tenían más dudas
+  (4 perfiles, las posiciones de cita débil y las 11 de SALF): los aceptó,
+  completó los perfiles de Obdulia Taboadela y María Yolanda García Seco y
+  dejó PCTE med-1 en 0.
 - En la app, el perfil revisado aparece bajo la lista del partido recomendado
   (`src/ui/HeadProfile.tsx`). De los procedimientos solo enseña los abiertos y
   las condenas; los archivados y las absoluciones se quedan en
@@ -102,7 +109,7 @@ afectan a la recomendación: son información para el votante. Revisión en
     legislatura. Las 45 candidaturas nuevas entran sin posiciones: la app dice
     que se presentan, pero no las compara. Las cinco con más provincias
     (Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo) ya tienen
-    posiciones codificadas, `pendiente` de revisión.
+    posiciones codificadas (ver más abajo).
   - Coaliciones: el BOE da su nombre, no sus miembros. Los miembros
     (`members`) salen de la denominación de la candidatura o de la prensa del
     16 y 17 de octubre: Frente Amplio y sus variantes autonómicas (Sumar, IU,
@@ -118,8 +125,8 @@ afectan a la recomendación: son información para el votante. Revisión en
   de las sentencias en CENDOJ no se ha podido abrir desde el entorno de trabajo;
   conviene cotejarlo a mano.
 - Condenas a cargos (ERE, mascarillas, piezas de Gürtel, Granados, Las
-  Teresitas, Borràs): verificadas por keko el 2026-10-10. Pendiente: Filesa
-  (falta el enlace oficial con ECLI). Detalle en
+  Teresitas, Borràs): verificadas por keko el 2026-10-10. Filesa: verificado por
+  keko el 2026-11-01, con las STC 123/2001 y 124/2001 (BOE) como fuente oficial. Detalle en
   [REVISION-CASOS.md](REVISION-CASOS.md).
 - La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
   Filesa y casos autonómicos y municipales.
@@ -129,10 +136,12 @@ afectan a la recomendación: son información para el votante. Revisión en
   la página del PDF (no la impresa) y el apartado; `source.quote` es literal y se
   ha comprobado automáticamente contra el texto extraído de esa página.
 - Compromís: Front Valencià: 16 posiciones de su programa de 2019
-  («Imparables», en valenciano), `pendiente` de revisión; mientras tanto hereda
-  de Podemos. Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
-- Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo: 57 posiciones,
-  `pendiente` de revisión. Frente Obrero, de su programa político de octubre de
+  («Imparables», en valenciano), todas `verificado` (ver la segunda revisión
+  más abajo). Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
+- Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo: 57 posiciones.
+  Todas `verificado` (ver la segunda revisión más abajo). SALF se acepta con su
+  programa autonómico de Castilla y León como fuente (decisión de keko del
+  2026-11-01). Frente Obrero, de su programa político de octubre de
   2026; PCTE, PACMA y Por un Mundo Más Justo, de sus programas de las generales
   de 2023. SALF no ha publicado programa de generales: se usa el de las
   autonómicas de Castilla y León de 2026 como `declaracion` (copia de
