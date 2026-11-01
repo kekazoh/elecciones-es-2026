@@ -125,8 +125,8 @@ afectan a la recomendación: son información para el votante. Revisión en
   de las sentencias en CENDOJ no se ha podido abrir desde el entorno de trabajo;
   conviene cotejarlo a mano.
 - Condenas a cargos (ERE, mascarillas, piezas de Gürtel, Granados, Las
-  Teresitas, Borràs): verificadas por keko el 2026-10-10. Pendiente: Filesa
-  (falta el enlace oficial con ECLI). Detalle en
+  Teresitas, Borràs): verificadas por keko el 2026-10-10. Filesa: verificado por
+  keko el 2026-11-01, con las STC 123/2001 y 124/2001 (BOE) como fuente oficial. Detalle en
   [REVISION-CASOS.md](REVISION-CASOS.md).
 - La lista no es exhaustiva: hay que revisar otras piezas de Gürtel, Púnica,
   Filesa y casos autonómicos y municipales.

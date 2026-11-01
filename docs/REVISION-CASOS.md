@@ -5,14 +5,14 @@ a cargos del partido aunque el partido no sea condenado** (peso 0,4, que se
 reduce a la mitad cada 10 años).
 
 keko los revisó el 2026-10-10 y aceptó los nueve. Todos pasan a `verificado`
-salvo Filesa, que sigue pendiente hasta enlazar la sentencia oficial. La sentencia y la nota del CGPJ son fuentes
+(Filesa, el 2026-11-01, con las sentencias del Constitucional). La sentencia y la nota del CGPJ son fuentes
 oficiales; la filiación de los condenados casi nunca aparece en ellas y se
 explica en `attributionNote`.
 
 | Caso | Partido | Sentencia | Qué falta |
 |---|---|---|---|
 | Mascarillas (Ábalos, Koldo García) | PSOE | ECLI:ES:TS:2026:2553 (22-6-2026) | Confirmar la firmeza (la nota no la indica) |
-| Filesa | PSOE | TS 1/1997 (28-10-1997) | Enlace oficial con ECLI |
+| Filesa | PSOE | TS 1/1997 (28-10-1997) vía STC 123/2001 y 124/2001 (BOE) | Verificado por keko el 2026-11-01 |
 | ERE (pieza política) | PSOE | ECLI:ES:TS:2022:3258 + STC 100/2024 | Nuevas sentencias de la Audiencia de Sevilla, suspendidas a la espera del TJUE |
 | Gürtel Fitur | PP | ECLI:ES:TS:2018:1551 (8-5-2018) | Nada más que la revisión |
 | Gürtel financiación PPCV 2007-2008 | PP | ECLI:ES:AN:2019:2750 | Firmeza para todos los condenados |
