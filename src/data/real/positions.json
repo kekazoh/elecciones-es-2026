@@ -3336,7 +3336,7 @@
       "locator": "pág. 58 del PDF · Cultura (introducció)",
       "quote": "cal un pacte, d’àmbit estatal, que done visibilitat, força i seguretat al procés efectiu de traspàs de competències i recursos."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "compromis-fv",
@@ -3349,7 +3349,7 @@
       "locator": "pág. 38 del PDF · Educació (mesura 3)",
       "quote": "Redefinirem el paper del Ministeri d’Educació, per estar transferides les seues competències a les comunitats autònomes."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "frente-obrero",
@@ -3531,7 +3531,7 @@
       "locator": "pág. 52 del PDF · 17 Inmigración (introducción)",
       "quote": "Siendo más lógico que los inmigrantes que deban de venir por las necesidades del país hasta que se resuelva la situación sean de contexto europeo o hispanoamericano."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "frente-obrero",
@@ -3557,7 +3557,7 @@
       "locator": "pág. 15 del PDF · 05 Soberanía energética (medida 1)",
       "quote": "Poner fin a la llamada “transición ecológica”"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "frente-obrero",
@@ -3765,7 +3765,7 @@
       "locator": "pág. 7 del PDF · ¿A qué aspiramos? (6)",
       "quote": "A un único sistema de enseñanza presencial, público, gratuito, mixto, laico, integral y universal"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "pcte",
@@ -3822,7 +3822,7 @@
   {
     "partyId": "pcte",
     "measureId": "med-1",
-    "stance": 1,
+    "stance": 0,
     "source": {
       "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
       "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
@@ -3830,7 +3830,7 @@
       "locator": "pág. 7 del PDF · ¿A qué aspiramos? (5)",
       "quote": "utilizando para ello el conjunto de las fuentes de energía con que cuenta el país y prestando especial atención al desarrollo de las capacidades de las fuentes energéticas ya disponibles"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "mundo-mas-justo",
@@ -3963,7 +3963,7 @@
       "locator": "pág. 5 del PDF · 2. Rebaja de impuestos",
       "quote": "Impulsaremos deducciones autonómicas en el Impuesto de Sociedades (vía bonificaciones en tributos cedidos) para las empresas que generen empleo indefinido"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -3979,7 +3979,7 @@
       "locator": "pág. 4 del PDF · 2. Rebaja de impuestos",
       "quote": "Suprimiremos el Impuesto sobre el Patrimonio en Castilla y León"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -3995,7 +3995,7 @@
       "locator": "pág. 3 del PDF · 1. Vivienda, alquiler y okupación",
       "quote": "Frente a fracasos como los topes de alquiler (que reducen la oferta), apostamos por incentivos positivos."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4011,7 +4011,7 @@
       "locator": "pág. 3 del PDF · 1. Vivienda, alquiler y okupación",
       "quote": "para que toda vivienda ocupada ilegalmente sea desalojada policialmente en un plazo máximo de 24 horas"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4027,7 +4027,7 @@
       "locator": "pág. 18 del PDF · 6.2 Sanidad",
       "quote": "concertaremos con clínicas privadas aragonesas procedimientos cuando la pública no dé abasto"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4043,7 +4043,7 @@
       "locator": "pág. 17 del PDF · 6.1 Educación",
       "quote": "ampliaremos los conciertos educativos con centros que lo soliciten"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4059,7 +4059,7 @@
       "locator": "pág. 9 del PDF · 4. Fomento de la natalidad",
       "quote": "Implantaremos la gratuidad de la educación infantil de 0 a 3 años en Castilla y León"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4075,7 +4075,7 @@
       "locator": "pág. 7 del PDF · 3. Inmigración y seguridad",
       "quote": "el que esté ilegal, será repatriado sin excusas"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4091,7 +4091,7 @@
       "locator": "pág. 7 del PDF · 3. Inmigración y seguridad",
       "quote": "ejecutar el mayor plan de deportación de inmigrantes ilegales de la historia reciente del país"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4107,7 +4107,7 @@
       "locator": "pág. 21 del PDF · 7. Energía y campo",
       "quote": "exigiremos al Gobierno de España que paralice el calendario de cierres nucleares"
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "partyId": "salf",
@@ -4123,6 +4123,6 @@
       "locator": "pág. 22 del PDF · 7. Energía y campo",
       "quote": "Bonificaremos el gasóleo profesional agrario mientras dure la asfixia fiscal estatal."
     },
-    "verification": "pendiente"
+    "verification": "verificado"
   }
 ]

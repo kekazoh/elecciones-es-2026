@@ -873,7 +873,7 @@
     "judicial": [],
     "judicialChecked": "2026-10-28",
     "notes": "No se ha podido comprobar si tiene cargo institucional después de 2019 (la web del Senado no se ha podido consultar).",
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "name": "José Damián García-Moreno López",
@@ -1534,7 +1534,16 @@
     "current": [],
     "career": [
       {
-        "period": "hasta 2012",
+        "period": "2018-2022",
+        "text": "Delegada del Gobierno en Extremadura",
+        "source": {
+          "title": "BOE-A-2018-8960 (firma como delegada del Gobierno en Extremadura, 27 de junio de 2018)",
+          "url": "https://boe.es/boe/dias/2018/06/29/pdfs/BOE-A-2018-8960.pdf",
+          "date": "2018-06-29"
+        }
+      },
+      {
+        "period": "2009-2012",
         "text": "Subdelegada del Gobierno en Badajoz",
         "source": {
           "title": "Real Decreto de cese de la subdelegada del Gobierno en Badajoz (BOE-A-2012-2031)",
@@ -1545,8 +1554,8 @@
     ],
     "education": [],
     "judicial": [],
-    "notes": "No se ha podido confirmar su cargo actual; la prensa de 2025 habla de cambios en la Subdelegación del Gobierno en Badajoz sin nombrarla.",
-    "verification": "pendiente"
+    "notes": "Delegada del Gobierno en Extremadura de 2018 a 2022 (la Junta de Extremadura la cita como «anterior delegada» en la toma de posesión de su sucesor: https://www.juntaex.es/w/pte-delegado-gobierno-toma-posesion). No se ha encontrado cargo posterior. Añadido por la revisión de keko del 2026-11-01.",
+    "verification": "verificado"
   },
   {
     "name": "Ignacio Hoces Iñiguez",
@@ -2805,11 +2814,21 @@
         "partyId": "psoe"
       }
     ],
-    "current": [],
+    "current": [
+      {
+        "period": "2026-actualidad",
+        "text": "Subdelegada del Gobierno en A Coruña (toma posesión en septiembre de 2026, en relevo de Julio Abalde)",
+        "source": {
+          "title": "La nueva subdelegada del Gobierno en A Coruña, Obdulia Taboadela, apela a unos servicios públicos garantes de «igualdad» (El Correo Gallego)",
+          "url": "https://www.elcorreogallego.es/galicia/2026/09/14/nueva-subdelegada-gobierno-coruna-obdulia-taboadela-134279507.html",
+          "date": "2026-09-14"
+        }
+      }
+    ],
     "career": [
       {
-        "period": "hasta 2007",
-        "text": "Subdelegada del Gobierno en A Coruña (cesada en abril de 2007)",
+        "period": "2004-2007",
+        "text": "Subdelegada del Gobierno en A Coruña",
         "source": {
           "title": "BOE, 27 de abril de 2007",
           "url": "https://boe.gob.es/boe/dias/2007/04/27/pdfs/A18431-18431.pdf"
@@ -2823,11 +2842,19 @@
         }
       }
     ],
-    "education": [],
+    "education": [
+      {
+        "text": "Doctora en Sociología; profesora titular de la Universidad de A Coruña",
+        "source": {
+          "title": "Perfil en Club de Madrid",
+          "url": "https://clubmadrid.org/?p=27085"
+        }
+      }
+    ],
     "judicial": [],
     "judicialChecked": "2026-10-28",
-    "notes": "Demócrata (octubre de 2026) la presenta como subdelegada del Gobierno en A Coruña, pero Julio Abalde tomó posesión de ese cargo en septiembre de 2025; no se ha podido confirmar su cargo actual. Fuente de la lista: https://www.democrata.es/galicia/obdulia-taboadela-patricia-otero-carmen-r-dacosta-y-abel-losada-encabezaran-las-listas-del-psdeg-al-congreso-por-galicia/",
-    "verification": "pendiente"
+    "notes": "Fue diputada en el Congreso hasta septiembre de 2026, cuando dejó el escaño para volver a la Subdelegación del Gobierno en A Coruña (también Quincemil, 28 de agosto de 2026: https://www.elespanol.com/quincemil/a-coruna/20260828/obdulia-taboadela-nueva-subdelegada-gobierno-coruna/1003744365902_0.html). Cargo actual corregido en la revisión de keko del 2026-11-01. Fuente de la lista: https://www.democrata.es/galicia/obdulia-taboadela-patricia-otero-carmen-r-dacosta-y-abel-losada-encabezaran-las-listas-del-psdeg-al-congreso-por-galicia/",
+    "verification": "verificado"
   },
   {
     "name": "Manuel Fuentes Lamas",
@@ -7403,7 +7430,7 @@
       }
     ],
     "judicialChecked": "2026-10-28",
-    "verification": "pendiente"
+    "verification": "verificado"
   },
   {
     "name": "Mónica Landete Oliva",

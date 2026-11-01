@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-267 perfiles, 263 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+267 perfiles, 267 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -327,7 +327,7 @@ Podemos en Araba/Álava · verificado
 
 ## Iñaki Oyarzábal de Miguel
 
-PP en Araba/Álava · pendiente
+PP en Araba/Álava · verificado
 
 **Ahora**
 
@@ -663,17 +663,18 @@ FA en Ávila · verificado
 
 ## María Yolanda García Seco
 
-PSOE en Badajoz · pendiente
+PSOE en Badajoz · verificado
 
 **Trayectoria**
 
-- hasta 2012: Subdelegada del Gobierno en Badajoz ([Real Decreto de cese de la subdelegada del Gobierno en Badajoz (BOE-A-2012-2031)](https://boe.gob.es/boe/dias/2012/02/10/pdfs/BOE-A-2012-2031.pdf))
+- 2018-2022: Delegada del Gobierno en Extremadura ([BOE-A-2018-8960 (firma como delegada del Gobierno en Extremadura, 27 de junio de 2018)](https://boe.es/boe/dias/2018/06/29/pdfs/BOE-A-2018-8960.pdf))
+- 2009-2012: Subdelegada del Gobierno en Badajoz ([Real Decreto de cese de la subdelegada del Gobierno en Badajoz (BOE-A-2012-2031)](https://boe.gob.es/boe/dias/2012/02/10/pdfs/BOE-A-2012-2031.pdf))
 
 **Procedimientos judiciales** (sin buscar)
 
 - No se han buscado.
 
-*Notas:* No se ha podido confirmar su cargo actual; la prensa de 2025 habla de cambios en la Subdelegación del Gobierno en Badajoz sin nombrarla.
+*Notas:* Delegada del Gobierno en Extremadura de 2018 a 2022 (la Junta de Extremadura la cita como «anterior delegada» en la toma de posesión de su sucesor: https://www.juntaex.es/w/pte-delegado-gobierno-toma-posesion). No se ha encontrado cargo posterior. Añadido por la revisión de keko del 2026-11-01.
 
 ## Ignacio Hoces Iñiguez
 
@@ -1268,18 +1269,26 @@ Podemos en Córdoba · verificado
 
 ## Obdulia Taboadela Álvarez
 
-PSOE en A Coruña · pendiente
+PSOE en A Coruña · verificado
+
+**Ahora**
+
+- 2026-actualidad: Subdelegada del Gobierno en A Coruña (toma posesión en septiembre de 2026, en relevo de Julio Abalde) ([La nueva subdelegada del Gobierno en A Coruña, Obdulia Taboadela, apela a unos servicios públicos garantes de «igualdad» (El Correo Gallego)](https://www.elcorreogallego.es/galicia/2026/09/14/nueva-subdelegada-gobierno-coruna-obdulia-taboadela-134279507.html))
 
 **Trayectoria**
 
-- hasta 2007: Subdelegada del Gobierno en A Coruña (cesada en abril de 2007) ([BOE, 27 de abril de 2007](https://boe.gob.es/boe/dias/2007/04/27/pdfs/A18431-18431.pdf))
+- 2004-2007: Subdelegada del Gobierno en A Coruña ([BOE, 27 de abril de 2007](https://boe.gob.es/boe/dias/2007/04/27/pdfs/A18431-18431.pdf))
 - Concejala del Ayuntamiento de A Coruña, senadora en la XIII legislatura y diputada en el Congreso ([Perfil en Club de Madrid](https://clubmadrid.org/?p=27085))
+
+**Formación**
+
+- Doctora en Sociología; profesora titular de la Universidad de A Coruña ([Perfil en Club de Madrid](https://clubmadrid.org/?p=27085))
 
 **Procedimientos judiciales** (búsqueda del 2026-10-28)
 
 - No consta ninguno.
 
-*Notas:* Demócrata (octubre de 2026) la presenta como subdelegada del Gobierno en A Coruña, pero Julio Abalde tomó posesión de ese cargo en septiembre de 2025; no se ha podido confirmar su cargo actual. Fuente de la lista: https://www.democrata.es/galicia/obdulia-taboadela-patricia-otero-carmen-r-dacosta-y-abel-losada-encabezaran-las-listas-del-psdeg-al-congreso-por-galicia/
+*Notas:* Fue diputada en el Congreso hasta septiembre de 2026, cuando dejó el escaño para volver a la Subdelegación del Gobierno en A Coruña (también Quincemil, 28 de agosto de 2026: https://www.elespanol.com/quincemil/a-coruna/20260828/obdulia-taboadela-nueva-subdelegada-gobierno-coruna/1003744365902_0.html). Cargo actual corregido en la revisión de keko del 2026-11-01. Fuente de la lista: https://www.democrata.es/galicia/obdulia-taboadela-patricia-otero-carmen-r-dacosta-y-abel-losada-encabezaran-las-listas-del-psdeg-al-congreso-por-galicia/
 
 ## Manuel Fuentes Lamas
 
@@ -3484,7 +3493,7 @@ FA en Tarragona · verificado
 
 ## Jordi Albert de la Fuente i Miró
 
-Vox en Tarragona · pendiente
+Vox en Tarragona · verificado
 
 **Ahora**
 

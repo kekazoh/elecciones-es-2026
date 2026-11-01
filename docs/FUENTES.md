@@ -82,11 +82,10 @@ afectan a la recomendación: son información para el votante. Revisión en
 - Segunda revisión del 2026-10-30: por decisión de keko, Claude revisó los
   pendientes de los PR #16, #17 y #18 (coherencia entre cita, fuente, postura y
   notas; sin volver a abrir cada fuente) y pasó a `verificado` 263 perfiles y
-  56 posiciones. Quedan `pendiente` para revisión manual los que presentaban
-  más dudas: los perfiles de Jordi de la Fuente (juicio pendiente), Obdulia
-  Taboadela y María Yolanda García Seco (cargo actual sin confirmar) e Iñaki
-  Oyarzábal (cargos posteriores a 2019 sin confirmar), las posiciones de cita
-  débil y las de SALF.
+  56 posiciones. keko revisó a mano el 2026-11-01 los que tenían más dudas
+  (4 perfiles, las posiciones de cita débil y las 11 de SALF): los aceptó,
+  completó los perfiles de Obdulia Taboadela y María Yolanda García Seco y
+  dejó PCTE med-1 en 0.
 - En la app, el perfil revisado aparece bajo la lista del partido recomendado
   (`src/ui/HeadProfile.tsx`). De los procedimientos solo enseña los abiertos y
   las condenas; los archivados y las absoluciones se quedan en
@@ -137,12 +136,12 @@ afectan a la recomendación: son información para el votante. Revisión en
   la página del PDF (no la impresa) y el apartado; `source.quote` es literal y se
   ha comprobado automáticamente contra el texto extraído de esa página.
 - Compromís: Front Valencià: 16 posiciones de su programa de 2019
-  («Imparables», en valenciano). 14 `verificado` (segunda revisión, ver abajo);
-  ter-1 y ter-3 siguen `pendiente` por cita débil y en esas hereda de Podemos. Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
+  («Imparables», en valenciano), todas `verificado` (ver la segunda revisión
+  más abajo). Detalle en [REVISION-COMPROMIS.md](REVISION-COMPROMIS.md).
 - Frente Obrero, PCTE, SALF, PACMA y Por un Mundo Más Justo: 57 posiciones.
-  42 `verificado` (segunda revisión, ver abajo). Siguen `pendiente`: las 11 de
-  SALF (falta decidir si su programa autonómico vale como fuente) y las de cita
-  débil (Frente Obrero inm-3 y med-2; PCTE edu-2 y med-1). Frente Obrero, de su programa político de octubre de
+  Todas `verificado` (ver la segunda revisión más abajo). SALF se acepta con su
+  programa autonómico de Castilla y León como fuente (decisión de keko del
+  2026-11-01). Frente Obrero, de su programa político de octubre de
   2026; PCTE, PACMA y Por un Mundo Más Justo, de sus programas de las generales
   de 2023. SALF no ha publicado programa de generales: se usa el de las
   autonómicas de Castilla y León de 2026 como `declaracion` (copia de
