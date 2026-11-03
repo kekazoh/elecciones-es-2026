@@ -2,7 +2,7 @@
 
 <!-- Generado por `npm run revision-perfiles` a partir de src/data/real/candidate-profiles.json. No editar a mano. -->
 
-267 perfiles, 267 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
+266 perfiles, 266 revisados. Criterios en [FUENTES.md](FUENTES.md#perfiles-de-los-cabezas-de-lista).
 
 ## Pedro Sánchez Pérez-Castejón
 
@@ -325,7 +325,7 @@ Podemos en Araba/Álava · verificado
 
 *Notas:* No se ha encontrado su cargo actual.
 
-## Iñaki Oyarzábal de Miguel
+## Iñaki Oyarzábal De Miguel
 
 PP en Araba/Álava · verificado
 
@@ -676,7 +676,7 @@ PSOE en Badajoz · verificado
 
 *Notas:* Delegada del Gobierno en Extremadura de 2018 a 2022 (la Junta de Extremadura la cita como «anterior delegada» en la toma de posesión de su sucesor: https://www.juntaex.es/w/pte-delegado-gobierno-toma-posesion). No se ha encontrado cargo posterior. Añadido por la revisión de keko del 2026-11-01.
 
-## Ignacio Hoces Iñiguez
+## Ignacio Hoces Íñiguez
 
 Vox en Badajoz · verificado
 
@@ -754,7 +754,7 @@ PSOE en Illes Balears · verificado
 
 *Notas:* El Supremo inadmitió en julio de 2025 la querella de Vox por la compra de mascarillas del Govern balear (caso Koldo) y en abril de 2026 rechazó citarla como testigo en el juicio de Ábalos, así que no consta. Los hechos de Baleares se investigan sin que ella sea parte.
 
-## Maria Isabel Cerezo Sánchez
+## María Isabel Cerezo Sánchez
 
 Vox en Illes Balears · verificado
 
@@ -788,7 +788,7 @@ PP en Illes Balears · verificado
 
 *Notas:* Falta su ficha del Congreso para confirmar fechas. No confundir con Vicent Marí Torres, presidente del Consell d'Eivissa, investigado y luego con causa sobreseída en el caso «La vida islados».
 
-## Carmen Gomila Domínguez (ARAMÉS-EU-MS)
+## Carme Gomila Domínguez (ARAMÉS-EU-MS)
 
 FA en Illes Balears · verificado
 
@@ -830,7 +830,7 @@ PSOE en Burgos · verificado
 
 *Notas:* Falta su ficha del Congreso y la fecha en que dejó la portavocía federal.
 
-## Isabel Lara Benitez
+## Isabel Lara Benítez
 
 Podemos en Burgos · verificado
 
@@ -989,7 +989,7 @@ Vox en Cádiz · verificado
 
 *Notas:* Falta su ficha del Congreso.
 
-## Esther Francisca Gil de Reboleño Lastortres (Movimiento Sumar)
+## Esther Francisca Gil de Reboleño Lastortres
 
 FA en Cádiz · verificado
 
@@ -1157,7 +1157,7 @@ Podemos en Ciudad Real · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## María Del Carmen Fúnez De Gregorio
+## María Del Carmen Fúnez de Gregorio
 
 PP en Ciudad Real · verificado
 
@@ -1356,7 +1356,7 @@ Podemos en A Coruña · verificado
 
 *Notas:* Militante de Podemos desde 2014.
 
-## José Luis Piñeiro García
+## José Luis Piñeiro García (Xosé Lois)
 
 FA en A Coruña · verificado
 
@@ -1440,7 +1440,7 @@ PSOE en Girona · verificado
 
 - No consta ninguno.
 
-## Marta Madrenas Mir
+## Marta Madrenas i Mir
 
 Junts en Girona · verificado
 
@@ -1576,7 +1576,7 @@ PP en Granada · verificado
 
 *Notas:* The Objective (febrero de 2025) publicó una grabación que lo relaciona con el jefe de la Policía Local de Granada en la causa por presunto amaño de oposiciones que instruye el Juzgado de Instrucción n.º 4 de Granada (https://theobjective.com/espana/tribunales/2025-02-19/jefe-policia-granada-multa-concejal-pp/). No se ha encontrado que esté investigado.
 
-## Jesús Fernández Martín (FA)
+## Jesús Fernández Martín
 
 FA en Granada · verificado
 
@@ -1869,7 +1869,7 @@ Podemos en Huesca · verificado
 
 *Notas:* No se ha encontrado información pública sobre él.
 
-## Ana Isabel Alós Lopez
+## Ana Isabel Alós López
 
 PP en Huesca · verificado
 
@@ -1946,7 +1946,7 @@ Podemos en Jaén · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## Antonio Ortega Ruiz (Frente Amplio por Andalucía)
+## Antonio Ortega Ruiz (Frente Amplio Andaluz)
 
 FA en Jaén · verificado
 
@@ -2086,7 +2086,7 @@ ERC en Lleida · verificado
 
 - No consta ninguno.
 
-## Montserrat (Montse) Cortasa Gras (COMUNS-FRONT AMPLI)
+## Montserrat Cortasa Gras
 
 FA en Lleida · verificado
 
@@ -2454,7 +2454,7 @@ Podemos en Murcia · verificado
 
 *Notas:* En 2024 propuso en la Asamblea el «tiro al fachón» y luego dijo que era una broma (https://www.esdiario.com/nacional/250214/152895/diputado-murcia-tiro-fachon-echa-atras-chanza.html).
 
-## Penélope Luna Palazón
+## Penélope Luna Palazón (FA)
 
 FA en Murcia · verificado
 
@@ -2464,7 +2464,7 @@ FA en Murcia · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## Eneka Maiz Ulaiar
+## Eneka Maiz Ulaiar (EH BILDU)
 
 EH Bildu en Navarra · verificado
 
@@ -2543,7 +2543,7 @@ FA en Navarra · verificado
 
 *Notas:* No se ha encontrado información pública sobre él.
 
-## María Del Carmen Rodríguez Dacosta
+## María del Carmen Rodríguez Dacosta
 
 PSOE en Ourense · verificado
 
@@ -2619,16 +2619,6 @@ BNG en Ourense · verificado
 
 - No consta ninguno.
 
-## Juan Diego Conde Eguileta
-
-FA en Ourense · verificado
-
-**Procedimientos judiciales** (sin buscar)
-
-- No se han buscado.
-
-*Notas:* No se ha encontrado información pública sobre él.
-
 ## Adriana Lastra Fernández
 
 PSOE en Asturias · verificado
@@ -2690,7 +2680,7 @@ PP en Asturias · verificado
 
 *Notas:* Candidata del PP con el apoyo de Foro Asturias.
 
-## Juan Antonio González Ponte (Izquierda Unida de Asturias)
+## Juan Antonio González Ponte
 
 FA en Asturias · verificado
 
@@ -3000,7 +2990,7 @@ FA en Salamanca · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## Jose Antonio Valbuena Alonso
+## José Antonio Valbuena Alonso
 
 PSOE en Santa Cruz de Tenerife · verificado
 
@@ -3081,7 +3071,7 @@ Vox en Santa Cruz de Tenerife · verificado
 
 *Notas:* Sin confirmar: elDiario.es (hacia 2020) recoge que la dirección de Vox apartó a un «Alejandro Gómez», entonces presidente provincial en Santa Cruz de Tenerife; no consta que sea la misma persona. https://www.eldiario.es/canariasahora/tenerifeahora/politica/vox-preparatoria-santa-cruz-tenerife_1_1051053.amp.html
 
-## María Soledad Collado Mirabal (UPC)
+## María Soledad Collado Mirabal
 
 UPC en Santa Cruz de Tenerife · verificado
 
@@ -3091,7 +3081,7 @@ UPC en Santa Cruz de Tenerife · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## Susana Herran Martin
+## Susana Herrán Martín
 
 PSOE en Cantabria · verificado
 
@@ -3110,7 +3100,7 @@ PSOE en Cantabria · verificado
 
 *Notas:* elDiario.es publicó que no volvería a presentarse a la alcaldía de Castro Urdiales; no se ha comprobado la fecha. No se ha confirmado si sigue de alcaldesa en octubre de 2026.
 
-## María Isabel Urrutia de los Mozos
+## María Isabel Urrutía de los Mozos
 
 PP en Cantabria · verificado
 
@@ -3130,7 +3120,7 @@ PP en Cantabria · verificado
 
 *Notas:* No confundir con María Isabel Urrutia, exministra del Deporte de Colombia, que sí tiene causas abiertas en su país.
 
-## Emilio Jesús del Valle Rodríguez
+## Emilio Jesús Del Valle Rodríguez
 
 Vox en Cantabria · verificado
 
@@ -3158,7 +3148,7 @@ Podemos en Cantabria · verificado
 
 *Notas:* No se ha encontrado información pública sobre él.
 
-## María Carmen Martin García
+## María Carmen Martín García
 
 FA en Cantabria · verificado
 
@@ -3168,7 +3158,7 @@ FA en Cantabria · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## Jose Luis Aceves Galindo
+## José Luis Aceves Galindo
 
 PSOE en Segovia · verificado
 
@@ -3212,7 +3202,7 @@ PP en Segovia · verificado
 
 *Notas:* Nacido en Salamanca en 1984.
 
-## Gonzalo Babe Romero
+## Gonzalo Babé Romero
 
 Vox en Segovia · verificado
 
@@ -3668,7 +3658,7 @@ Podemos en Toledo · verificado
 
 *Notas:* Sin confirmar: en 2019 una María Ángeles Castellanos era secretaria regional de Empleo y Políticas Sociales de CCOO en Castilla-La Mancha; no consta que sea la misma persona. https://www.elespanol.com/eldigitalcastillalamancha/region/20191023/agenda-cortes-pedro-sanchez-ministras-castilla-la-mancha/438957803_0.html
 
-## José Alejandro Ávila Sánchez
+## José Alejandro Ávila Sánchez (FRENTE AMPLIO)
 
 FA en Toledo · verificado
 
@@ -3833,7 +3823,7 @@ Vox en Valladolid · verificado
 
 *Notas:* Nacido en 1964. La Fiscalía Anticorrupción abrió en marzo de 2025 diligencias reservadas sobre la financiación de Vox tras una denuncia del PSOE, que pedía tomar declaración, entre otros, al tesorero; no consta que esté investigado personalmente ni que haya causa judicial: https://www.elindependiente.com/espana/tribunales/2025/03/10/anticorrupcion-investiga-a-vox-por-financiacion-irregular/amp/
 
-## María Almudena Villareal Vidal
+## María Almudena Villarreal Vidal
 
 Podemos en Valladolid · verificado
 
@@ -3843,7 +3833,7 @@ Podemos en Valladolid · verificado
 
 *Notas:* No se ha encontrado información pública sobre ella.
 
-## Abdul Gadiri Diallo Bah
+## Abdul Gadiri Diallo Bah (FRENTE AMPLIO)
 
 FA en Valladolid · verificado
 

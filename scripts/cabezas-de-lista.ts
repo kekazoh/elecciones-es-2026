@@ -26,7 +26,7 @@ const REGIONAL = ['erc', 'junts', 'bildu', 'pnv', 'bng', 'cc-1can', 'upn-pp', 'u
 const cell = (s: string) => s.replace(/\|/g, '\\|');
 
 export function cabezasDeLista(
-  candidacies: { source: { url: string; date: string }; lists: CandidacyList[] },
+  candidacies: { source: { title?: string; url: string; date: string }; lists: CandidacyList[] },
   parties: Party[],
 ): string {
   const short = new Map(parties.map((p) => [p.id, p.shortName]));
@@ -45,7 +45,9 @@ export function cabezasDeLista(
     '<!-- Generado por `npm run cabezas-de-lista` a partir de src/data/real/candidacies.json. No editar a mano. -->',
     '',
     `Primer candidato de cada lista según el [BOE del ${date}](${candidacies.source.url}) ` +
-      `(candidaturas presentadas; pueden cambiar hasta la proclamación). ` +
+      (/proclamadas/.test(candidacies.source.title ?? '')
+        ? '(candidaturas proclamadas: listas definitivas). '
+        : '(candidaturas presentadas; pueden cambiar hasta la proclamación). ') +
       `${valid.length} candidaturas en ${new Set(valid.map((l) => l.province)).size} provincias. ` +
       'Los nombres son los del BOE, sin completar ni corregir.',
     '',

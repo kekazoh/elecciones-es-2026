@@ -51,7 +51,9 @@ export function CandidateList({ party, province }: { party: Party; province?: st
         <a href={data.source.url} target="_blank" rel="noreferrer">
           BOE del {new Date(data.source.date).toLocaleDateString('es-ES', { day: 'numeric', month: 'long' })}
         </a>{' '}
-        (candidaturas presentadas; pueden cambiar hasta la proclamación).
+        {/proclamadas/.test(data.source.title)
+          ? '(candidaturas proclamadas: es la lista definitiva).'
+          : '(candidaturas presentadas; pueden cambiar hasta la proclamación).'}
       </p>
       <ol>
         {list.candidates.map((c, i) => (
