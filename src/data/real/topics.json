@@ -38,5 +38,10 @@
     "id": "territorial",
     "name": "Modelo territorial",
     "importancePrompt": "¿Cuánto te importa la organización territorial del Estado (autonomías, competencias) a la hora de votar?"
+  },
+  {
+    "id": "sociedad",
+    "name": "Derechos y sociedad",
+    "importancePrompt": "¿Cuánto te importan cuestiones como el aborto, la memoria histórica, las penas de prisión o los toros a la hora de votar?"
   }
 ]
