@@ -173,6 +173,13 @@ afectan a la recomendación: son información para el votante. Revisión en
   Frente Amplio, Junts, EH Bildu, Podemos, Compromís y PCTE no han publicado
   programa completo. Detalle, estado de cada partido y matriz en
   [REVISION-29N.md](REVISION-29N.md).
+- Medidas nuevas del 16 de noviembre de 2026 (decisión de keko): `viv-4`
+  (pisos turísticos) y el tema «Derechos y sociedad» (`soc-1` memoria
+  democrática, `soc-2` prisión permanente revisable, `soc-3` aborto, `soc-4`
+  tauromaquia). 43 posiciones de programas y de votaciones o declaraciones en
+  prensa: las claras están `verificado`, y las dudosas, `pendiente` hasta que
+  keko las valide. Detalle y matriz en
+  [REVISION-MEDIDAS-NUEVAS.md](REVISION-MEDIDAS-NUEVAS.md).
 - Declaraciones: 72 posiciones más, de celdas que el programa no aborda,
   sacadas de intervenciones parlamentarias, webs de los partidos y, en último
   caso, prensa (octubre de 2026). Las citas se han comprobado automáticamente

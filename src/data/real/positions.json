@@ -4170,5 +4170,589 @@
       "quote": "Facilitar vías legales y seguras de migración y permisos de trabajo en origen."
     },
     "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "viv-4",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 26 del PDF · Vivienda",
+      "quote": "Empoderando a los vecinos y las vecinas para que puedan prohibir los pisos turísticos en su comunidad"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "viv-4",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 70 del PDF · Vivienda",
+      "quote": "Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "viv-4",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 81 del PDF · Medida 192",
+      "quote": "estudiaremos también establecer un porcentaje máximo de viviendas destinadas a pisos turísticos"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "viv-4",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 45 del PDF · 4.2 Plan de turismo sostenible",
+      "quote": "Regularemos el parque de viviendas turísticas en las ciudades"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "viv-4",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 24 del PDF · Medida 30",
+      "quote": "Regulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "viv-4",
+    "stance": -2,
+    "source": {
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 7 del PDF · Vivienda",
+      "quote": "Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "cc",
+    "measureId": "viv-4",
+    "stance": 2,
+    "source": {
+      "title": "Bases del programa electoral de Coalición Canaria y Municipalistas Primero Canarias para las elecciones generales del 29 de noviembre de 2026 («Defiende Canarias»)",
+      "url": "https://primerocanarias.com/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV-comprimido.pdf",
+      "date": "2026-11-09",
+      "locator": "pág. 11 del PDF · Medida 25 (vivienda)",
+      "quote": "puedan modular y limitar los usos turísticos donde exista presión acreditada sobre la vivienda residencial"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "viv-4",
+    "stance": 1,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 8 del PDF · Regular el alquiler · medida 04",
+      "quote": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "soc-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 47 del PDF · Medida 129 «Derogaremos la Ley de Memoria Democrática»",
+      "quote": "Derogaremos la mal llamada «ley de memoria democrática», corredactada por Bildu"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "soc-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 30 del PDF · Medida 46",
+      "quote": "Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "soc-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 98 del PDF · Proteger la memoria democrática",
+      "quote": "La memoria democrática es una cuestión de Estado y un compromiso con la verdad, la justicia y la reparación de las víctimas del franquismo."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "soc-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 40 del PDF · Memoria democrática y rendición de cuentas · medida 06",
+      "quote": "Promover la aplicación íntegra de la legislación de Memoria Histórica y Memoria Democrática"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "soc-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 7 del PDF · Memòria",
+      "quote": "exigint a l’Estat que compleixi amb la Llei de Memòria Democràtica"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "soc-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa de EH Bildu para las elecciones generales de 2023 («Compromiso de Euskal Herria Bildu»)",
+      "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+      "date": "2023-07-06",
+      "locator": "pág. 12 del PDF · Paz y convivencia",
+      "quote": "Ampliar la Ley de Memoria Democrática para incluir en la misma garantías de reconocimiento, justicia y reparación"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "soc-1",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 134 del PDF · 3.3 Memoria democrática",
+      "quote": "la constitución del Consejo de Memoria Democrática y la creación y dotación del Centro de la Memoria Democrática"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "soc-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 20 del PDF · Medida 30",
+      "quote": "AMPLIAREMOS LA PRISIÓN PERMANENTE REVISABLE A QUIEN HAGA DESAPARECER A SU VÍCTIMA Y A LOS DEPREDADORES SEXUALES"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "soc-2",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 45 del PDF · Medida 81",
+      "quote": "Ampliación de la prisión permanente revisable."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "soc-2",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 28 del PDF · Justicia · medida 05",
+      "quote": "Rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "soc-2",
+    "stance": -1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario Socialista (debate de la propuesta del PP para ampliarla)",
+    "source": {
+      "title": "ESdiario: «PSOE y PNV adelantan su rechazo a ampliar la prisión permanente revisable a casos de ocultación del cadáver o reincidencia en asesinato»",
+      "url": "https://www.esdiario.com/nacional/260317/182691/psoe-pnv-adelantan-rechazo-ampliar-prision-permanente-revisable-debate-congreso.html",
+      "date": "2026-03-17",
+      "quote": "aunque el PSOE ha moderado su posición respecto a su eliminación, el partido suele mostrarse contrario a ampliar los supuestos en los que se puede aplicar"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "soc-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 89 del PDF · Derechos y libertades civiles",
+      "quote": "el derecho a la interrupción voluntaria del embarazo y la eutanasia"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pnv",
+    "measureId": "soc-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 26 del PDF · Igualdad y derechos sexuales y reproductivos · medida 04",
+      "quote": "Proteger el ejercicio efectivo de los derechos sexuales y reproductivos de las mujeres, garantizando el acceso libre y seguro a los servicios sanitarios."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "soc-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 28 del PDF · Medida 62",
+      "quote": "a la interrupción voluntaria del embarazo de todas las mujeres, incluidas las jóvenes, en el Sistema Nacional de Salud"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "soc-3",
+    "stance": 0,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 43 del PDF · Eje 13 «Cuidar al principio y al final de la vida»",
+      "quote": "Sobre estas cuestiones conviven en nuestro partido sensibilidades distintas"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pcte",
+    "measureId": "soc-3",
+    "stance": 2,
+    "source": {
+      "title": "Programa de lucha 2023-2027 del PCTE (elecciones generales de julio de 2023; aún no ha publicado el del 29N)",
+      "url": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "date": "2023-07-09",
+      "locator": "pág. 16 del PDF · Mujer trabajadora",
+      "quote": "Hoy están en riesgo conquistas como el derecho a la interrupción del embarazo"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "soc-3",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario VOX (proposición no de ley en la Comisión Constitucional)",
+    "source": {
+      "title": "Redacción Médica (Europa Press): «Todos los grupos rechazan en el Congreso una iniciativa de Vox para derogar leyes de aborto y eutanasia»",
+      "url": "https://www.redaccionmedica.com/ultimas-noticias/20251007/todos-los-grupos-rechazan-en-el-congreso-una-iniciativa-de-vox-para-derogar-leyes-aborto-eutanasia/130229_0.html",
+      "date": "2025-10-07",
+      "quote": "impulsar la derogación de la Ley de la Eutanasia y la Ley del aborto libre"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "soc-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Alberto Núñez Feijóo, presidente del PP (entrevista en El Hormiguero)",
+    "source": {
+      "title": "El Debate: «Feijóo se define como provida, pero defiende la eutanasia y el aborto sanchistas»",
+      "url": "https://www.eldebate.com/sociedad/20260618/feijoo-define-como-provida-defiende-eutanasia-aborto-sanchistas_429974.html",
+      "date": "2026-06-18",
+      "quote": "el presidente del PP negó cualquier posibilidad de modificar la ley de plazos incluso con Vox en un futuro Gobierno de coalición"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "soc-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Pilar Vallugera, diputada de ERC (pleno del Congreso)",
+    "source": {
+      "title": "El Salto: «El Congreso rechaza la enmienda total del PP y Vox a integrar el aborto en la Constitución»",
+      "url": "https://www.elsaltodiario.com/derechos-reproductivos/congreso-rechaza-enmiendas-totalidad-pp-vox-incluir-aborto-constitucion",
+      "date": "2026-04-30",
+      "quote": "ha trasladado su “apoyo absoluto” al derecho de las mujeres a su propio cuerpo"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "soc-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Verónica Martínez Barbero, diputada de Sumar (pleno del Congreso)",
+    "source": {
+      "title": "El Salto: «El Congreso rechaza la enmienda total del PP y Vox a integrar el aborto en la Constitución»",
+      "url": "https://www.elsaltodiario.com/derechos-reproductivos/congreso-rechaza-enmiendas-totalidad-pp-vox-incluir-aborto-constitucion",
+      "date": "2026-04-30",
+      "quote": "ha destacado que “el derecho al aborto en España no está garantizado” y que hay “barreras”"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "soc-3",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Àgueda Micó, diputada de Compromís (pleno del Congreso)",
+    "source": {
+      "title": "El Salto: «El Congreso rechaza la enmienda total del PP y Vox a integrar el aborto en la Constitución»",
+      "url": "https://www.elsaltodiario.com/derechos-reproductivos/congreso-rechaza-enmiendas-totalidad-pp-vox-incluir-aborto-constitucion",
+      "date": "2026-04-30",
+      "quote": "ha advertido de que cuando los derechos no están blindados se “cuestionan”"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "soc-3",
+    "stance": 1,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Pilar Calvo, diputada de Junts (pleno del Congreso)",
+    "source": {
+      "title": "El Español: «La reforma constitucional para incluir el aborto se le marchita a Sánchez: PNV, Junts y Podemos se unen a PP y Vox en la crítica»",
+      "url": "https://www.elespanol.com/espana/politica/20260430/reforma-constitucional-incluir-aborto-marchita-sanchez-pnv-junts-podemos-unen-pp-vox-critica/1003744228885_0.amp.html",
+      "date": "2026-04-30",
+      "quote": "quien ha afirmado que es un derecho que “ya está garantizado”"
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "pacma",
+    "measureId": "soc-4",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 12 del PDF · Tauromaquia",
+      "quote": "empezando por derogar la Ley 18/2013, de 12 de noviembre, para la regulación de la Tauromaquia como patrimonio cultural"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "sumar",
+    "measureId": "soc-4",
+    "stance": 2,
+    "source": {
+      "title": "Programa electoral de Sumar para las elecciones generales de 2023 («Un programa para ti»)",
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "date": "2023-07-10",
+      "locator": "pág. 56 del PDF · Bienestar animal · medida 1",
+      "quote": "Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "podemos",
+    "measureId": "soc-4",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Podemos para las elecciones generales de abril de 2019 («Programa de Podemos para un nuevo país»; en 2023 Podemos concurrió dentro de Sumar)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2019/04/programa-electoral-Unidos-Podemos-eleccions-generals.pdf",
+      "locator": "pág. 19 del PDF · Medida 38",
+      "quote": "se eliminarán las ayudas y subvenciones relacionadas con la tauromaquia"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "pp",
+    "measureId": "soc-4",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 48 del PDF · Medida 136 (sigue en la pág. 49: «Premio Nacional de Tauromaquia»)",
+      "quote": "Recuperaremos el respeto y la promoción de las expresiones que mejor combinan tradición y futuro, empezando por la restitución del Premio"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "vox",
+    "measureId": "soc-4",
+    "stance": -2,
+    "source": {
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 43 del PDF · Medida 77",
+      "quote": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "soc-4",
+    "stance": 0,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 61 del PDF · Eje 20 «Protección animal»",
+      "quote": "Sobre la caza deportiva y la tauromaquia conviven en nuestro partido posiciones distintas, y por eso este programa no propone cambios en su regulación."
+    },
+    "verification": "pendiente"
+  },
+  {
+    "partyId": "erc",
+    "measureId": "soc-4",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario Republicano (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "A favor: Sumar, Podemos, ERC, Junts, EH Bildu, BNG, Compromís y otros partidos nacionalistas y de izquierda apoyaron la iniciativa"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "junts",
+    "measureId": "soc-4",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario Junts per Catalunya (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "A favor: Sumar, Podemos, ERC, Junts, EH Bildu, BNG, Compromís y otros partidos nacionalistas y de izquierda apoyaron la iniciativa"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bildu",
+    "measureId": "soc-4",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario EH Bildu (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "A favor: Sumar, Podemos, ERC, Junts, EH Bildu, BNG, Compromís y otros partidos nacionalistas y de izquierda apoyaron la iniciativa"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "bng",
+    "measureId": "soc-4",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "BNG, Grupo Mixto (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "A favor: Sumar, Podemos, ERC, Junts, EH Bildu, BNG, Compromís y otros partidos nacionalistas y de izquierda apoyaron la iniciativa"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "compromis-fv",
+    "measureId": "soc-4",
+    "stance": 2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Compromís, Grupo Mixto (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "A favor: Sumar, Podemos, ERC, Junts, EH Bildu, BNG, Compromís y otros partidos nacionalistas y de izquierda apoyaron la iniciativa"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "upn",
+    "measureId": "soc-4",
+    "stance": -2,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "UPN, Grupo Mixto (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "En contra: PP, Vox y UPN cerraron filas en defensa de la tauromaquia"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "psoe",
+    "measureId": "soc-4",
+    "stance": 0,
+    "origin": "declaracion",
+    "declarationKind": "prensa",
+    "speaker": "Grupo Parlamentario Socialista (voto en la toma en consideración de la ILP)",
+    "source": {
+      "title": "El Debate: «El PSOE se desmarca de sus socios para que los toros sigan siendo patrimonio cultural» (votación de la ILP «No es mi cultura»)",
+      "url": "https://www.eldebate.com/espana/20251007/cisma-gobierno-toros-abstencion-psoe-impide-tramitar-ley-contra-tauromaquia_342268.html",
+      "date": "2025-10-08",
+      "quote": "La posición del PSOE, que optó por abstenerse en bloque, resultó determinante."
+    },
+    "verification": "pendiente"
   }
 ]
