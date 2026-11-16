@@ -177,8 +177,8 @@ afectan a la recomendación: son información para el votante. Revisión en
   (pisos turísticos) y el tema «Derechos y sociedad» (`soc-1` memoria
   democrática, `soc-2` prisión permanente revisable, `soc-3` aborto, `soc-4`
   tauromaquia). 43 posiciones de programas y de votaciones o declaraciones en
-  prensa: las claras están `verificado`, y las dudosas, `pendiente` hasta que
-  keko las valide. Detalle y matriz en
+  prensa, todas `verificado`: las 35 claras directamente y las 8 dudosas
+  tras validarlas keko una a una. Detalle y matriz en
   [REVISION-MEDIDAS-NUEVAS.md](REVISION-MEDIDAS-NUEVAS.md).
 - Declaraciones: 72 posiciones más, de celdas que el programa no aborda,
   sacadas de intervenciones parlamentarias, webs de los partidos y, en último
