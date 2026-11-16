@@ -5,9 +5,9 @@
     "shortName": "PP",
     "color": "#1d84ce",
     "program": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10"
     },
     "constituencies": [
       "01",
@@ -69,9 +69,9 @@
     "shortName": "PSOE",
     "color": "#e1001a",
     "program": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06"
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15"
     },
     "constituencies": [
       "01",
@@ -134,9 +134,9 @@
     "shortName": "Vox",
     "color": "#5ac035",
     "program": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07"
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12"
     },
     "constituencies": [
       "01",
@@ -217,9 +217,9 @@
       "43"
     ],
     "program": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11"
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05"
     }
   },
   {
@@ -267,9 +267,9 @@
       "48"
     ],
     "program": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07"
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09"
     }
   },
   {
@@ -349,9 +349,9 @@
     "color": "#ffd700",
     "constituencies": [],
     "program": {
-      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
-      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
-      "date": "2019-10-11"
+      "title": "Bases del programa electoral de Coalición Canaria y Municipalistas Primero Canarias para las elecciones generales del 29 de noviembre de 2026 («Defiende Canarias»)",
+      "url": "https://primerocanarias.com/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV-comprimido.pdf",
+      "date": "2026-11-09"
     }
   },
   {
@@ -436,9 +436,9 @@
     "shortName": "SALF",
     "color": "#8a8a8a",
     "program": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10"
     },
     "constituencies": [
       "01",
@@ -495,9 +495,9 @@
     "shortName": "MUNDO+JUSTO",
     "color": "#8a8a8a",
     "program": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16"
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10"
     },
     "constituencies": [
       "01",
@@ -537,9 +537,9 @@
     "shortName": "PACMA",
     "color": "#8a8a8a",
     "program": {
-      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
-      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
-      "date": "2023-07-06"
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12"
     },
     "constituencies": [
       "01",
