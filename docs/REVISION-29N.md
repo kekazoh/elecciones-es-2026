@@ -1,6 +1,8 @@
 # Revisión de los programas del 29N
 
-Posiciones codificadas con los programas que los partidos han publicado para las generales del 29 de noviembre de 2026, siguiendo [FUENTES.md](FUENTES.md). Búsqueda hecha el 15 de noviembre de 2026, ya en campaña. **Todo está `pendiente`**: las propuestas están en `src/data/real/positions-29n.json` y la app sigue usando `positions.json` hasta que una persona las revise.
+Posiciones codificadas con los programas que los partidos han publicado para las generales del 29 de noviembre de 2026, siguiendo [FUENTES.md](FUENTES.md). Búsqueda hecha el 15 de noviembre de 2026, ya en campaña. Las propuestas se dejaron `pendiente` en `src/data/real/positions-29n.json` para que una persona las revisara antes de pasar a `positions.json`.
+
+> **Revisión del 16 de noviembre de 2026.** Por indicación de keko se han aplicado las 81 propuestas claras (`verificado`, ya en `positions.json`). Quedan 10 dudosas, `pendiente` en `positions-29n.json`, que keko valida una a una: Vox eco-1 e inm-3, PSOE eco-2, eco-3 y viv-3, PP edu-1 e inm-1, y Por un Mundo Más Justo eco-1, eco-2 e inm-3. Son cambios de postura que dependen de interpretar el texto o citas que solo cubren la medida de forma indirecta. Las tablas de abajo siguen listando las 91 tal como se propusieron.
 
 ## Cómo revisar y aplicar
 

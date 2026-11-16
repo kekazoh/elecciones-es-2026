@@ -164,11 +164,12 @@ afectan a la recomendación: son información para el votante. Revisión en
     las forales y municipales de mayo de 2023 (copia de iniciativa2028.es).
 - Programas del 29N (búsqueda del 15 de noviembre de 2026, ya en campaña):
   91 posiciones propuestas de los programas nuevos de PP, PSOE, Vox, ERC, PNV,
-  CC, SALF, PACMA y Por un Mundo Más Justo, todas `pendiente` en
-  `src/data/real/positions-29n.json`. La app sigue usando `positions.json`
-  hasta que se revisen y se apliquen con `npm run aplicar-29n`; entonces
-  sustituyen a la posición que hubiera (programa anterior o declaración) y el
-  partido pasa a citar su programa del 29N. El BNG ha publicado programa pero
+  CC, SALF, PACMA y Por un Mundo Más Justo. El 16 de noviembre se aplicaron
+  las 81 claras (`verificado`, por indicación de keko) con `npm run
+  aplicar-29n`: sustituyen a la posición que hubiera (programa anterior o
+  declaración) y esos partidos citan ya su programa del 29N. Las 10 dudosas
+  siguen `pendiente` en `src/data/real/positions-29n.json` hasta que keko las
+  valide; mientras, la app usa la posición anterior en esas celdas. El BNG ha publicado programa pero
   no se ha podido descargar (bng.gal bloquea las descargas automáticas).
   Frente Amplio, Junts, EH Bildu, Podemos, Compromís y PCTE no han publicado
   programa completo. Detalle, estado de cada partido y matriz en

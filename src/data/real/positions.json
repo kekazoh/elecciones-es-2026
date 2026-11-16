@@ -30,11 +30,11 @@
     "measureId": "eco-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 70 del PDF · Política fiscal – b) Acabar amb la discriminació de les rendes del treball",
-      "quote": "Per tal de corregir-ho, es proposa incrementar els tipus aplicats a les rendes del capital així com crear nous trams addicionals per a les rendes més altes."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 21 del PDF · Cost de la vida · proposta 69",
+      "quote": "Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 %"
     },
     "verification": "verificado"
   },
@@ -106,11 +106,11 @@
     "measureId": "eco-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 77 del PDF · Fiscalidad para la prosperidad",
-      "quote": "Impuesto de Sociedades: reducción del tipo progresiva y continuada en la legislatura hasta alcanzar el 15%"
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 9 del PDF · Economía · medida 3",
+      "quote": "Reducir el tipo del Impuesto de Sociedades"
     },
     "verification": "verificado"
   },
@@ -132,11 +132,11 @@
     "measureId": "eco-2",
     "stance": -1,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 71 del PDF · Política fiscal – mesures per a una fiscalitat justa",
-      "quote": "Revisar el funcionament de l’impost de societats per a garantir un tipus mínim sobre beneficis del 15% per a grans empreses."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 27 del PDF · Treball autònom · proposta 116",
+      "quote": "reforçar la progressivitat de l’impost sobre societats"
     },
     "verification": "verificado"
   },
@@ -234,11 +234,11 @@
     "measureId": "eco-3",
     "stance": -2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 55 del PDF · Drets socials – a) Un Estat que accentua les desigualtats",
-      "quote": "El sistema fiscal continua gravant amb més intensitat el treball de la ciutadania que el capital que tinguin. Es bonifiquen els impostos de patrimoni i successions, fins i tot per a les grans fortunes, i es permet l’enginyeria fiscal que fomenta l’elusió de l’impost de societats."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 22 del PDF · Cost de la vida · Fiscalitat dels multimilionaris",
+      "quote": "Fer permanent l’impost temporal de solidaritat de les grans fortunes"
     },
     "verification": "verificado"
   },
@@ -295,13 +295,13 @@
   {
     "partyId": "psoe",
     "measureId": "viv-1",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 221 del PDF · Bloque V · Vivienda",
-      "quote": "La ley nos dota de los instrumentos necesarios para atender las prioridades de la mayoría social de este país: controlar subidas de precios abusivas, sacar al mercado viviendas vacías, establecer incentivos fiscales para el control de precios… Desarrollaremos las medidas contempladas para la contención de los precios de la vivienda."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 30 del PDF · Vivienda · compromiso 62",
+      "quote": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados."
     },
     "verification": "verificado"
   },
@@ -310,11 +310,11 @@
     "measureId": "viv-1",
     "stance": -2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 42 del PDF · Acceso a la vivienda",
-      "quote": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento puestos en marcha en los últimos años por distintas regiones."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 23 del PDF · Vivienda · medida 30",
+      "quote": "Derogación de la Ley de Vivienda."
     },
     "verification": "verificado"
   },
@@ -386,11 +386,11 @@
     "measureId": "viv-2",
     "stance": 1,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 34 del PDF · Repensar nuestras infraestructuras y favorecer el acceso a la vivienda",
-      "quote": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda … a fórmulas de promoción de vivienda en alquiler asequible."
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 54 del PDF · 4.1 · medida 151 «La financiación local impulsará la construcción de vivienda»",
+      "quote": "al cumplimiento de objetivos de suelo, construcción y puesta a disposición de vivienda pública y a precio asequible"
     },
     "verification": "verificado"
   },
@@ -399,11 +399,11 @@
     "measureId": "viv-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 222 del PDF · Bloque V · Vivienda · Política de alquiler",
-      "quote": "Incrementaremos el actual parque de vivienda pública de alquiler social mediante una decidida y ambiciosa política de inversión pública a medio y largo plazo en viviendas de calidad… El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años"
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 28 del PDF · Vivienda · compromiso 42",
+      "quote": "Constituir un parque público estatal de 100.000 viviendas mediante la construcción y adquisición"
     },
     "verification": "verificado"
   },
@@ -412,11 +412,11 @@
     "measureId": "viv-2",
     "stance": 1,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 41 del PDF · Acceso a la vivienda",
-      "quote": "Impulsaremos la construcción viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra para garantizar que los jóvenes y familias puedan adquirir un hogar"
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 23 del PDF · Vivienda · medida 29",
+      "quote": "Aumentar con urgencia la construcción de vivienda protegida para las familias españolas mediante su promoción y colaboración público-privada"
     },
     "verification": "verificado"
   },
@@ -436,13 +436,13 @@
   {
     "partyId": "erc",
     "measureId": "viv-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 114 del PDF · Habitatge – b) Una República que garanteixi el dret d’accés a un habitatge digne",
-      "quote": "Incrementar el parc d’habitatge existent sotmès a algun tipus de protecció pública, prioritàriament en règim de lloguer social i dret de superfície, per garantir la seva perdurabilitat en el temps."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 19 del PDF · Pla de xoc sobre l’habitatge · Augment del finançament estatal",
+      "quote": "incrementar el parc públic d’habitatges de lloguer als estàndards europeus"
     },
     "verification": "verificado"
   },
@@ -514,11 +514,11 @@
     "measureId": "viv-3",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 82 del PDF · En defensa de la propiedad privada de los españoles",
-      "quote": "AGILIZAREMOS LOS DESALOJOS PARA QUE PUEDAN REALIZARSE EN EL PLAZO MÁXIMO DE 24 HORAS desde el requerimiento si los ocupantes no acreditan en dicho plazo el título jurídico que legitime la permanencia en el inmueble; y de modo inmediato en caso de flagrante delito."
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 55 del PDF · 4.1 · medida 157 «El ocupa saldrá en 48 horas por orden judicial»",
+      "quote": "Aprobaremos una ley para que el propietario pueda recuperar su vivienda en 48 horas desde el primer día."
     },
     "verification": "verificado"
   },
@@ -540,11 +540,11 @@
     "measureId": "viv-3",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 40 del PDF · Acceso a la vivienda",
-      "quote": "Tolerancia cero con la ocupación ilegal. Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamiento Criminal y Civil para proteger real y efectivamente a los propietarios"
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 24 del PDF · Vivienda · medida 31",
+      "quote": "Desalojo de la vivienda okupada en menos de 24 horas"
     },
     "verification": "verificado"
   },
@@ -576,13 +576,13 @@
   {
     "partyId": "psoe",
     "measureId": "san-1",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 196 del PDF · Bloque V · Sanidad",
-      "quote": "Frente a la derecha, que entiende la sanidad como un servicio público más que se puede privatizar, y ante cualquier intento de desmantelamiento del sistema público de salud, queremos dejar muy claro que contará con el rechazo frontal de nuestro partido"
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 49 del PDF · Sanidad · compromiso 138",
+      "quote": "Limitar la privatización de la sanidad estableciendo la gestión directa como modalidad preferente en la prestación sanitaria."
     },
     "verification": "verificado"
   },
@@ -591,11 +591,11 @@
     "measureId": "san-1",
     "stance": -1,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 57 del PDF · Salud",
-      "quote": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 37 del PDF · Sanidad · medida 62",
+      "quote": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras"
     },
     "verification": "verificado"
   },
@@ -678,13 +678,13 @@
   {
     "partyId": "psoe",
     "measureId": "san-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 204 del PDF · Bloque V · Sanidad · Salud Bucodental",
-      "quote": "Salud Bucodental: promoveremos la incorporación progresiva de servicios como las obturaciones (empastes) o los implantes dentales a más colectivos, comenzando por personas mayores de 75 años."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 49 del PDF · Sanidad · compromiso 137 «Plan Sonríe: salud bucodental pública»",
+      "quote": "Incorporaremos progresivamente a la sanidad pública los tratamientos básicos para toda la población adulta"
     },
     "verification": "verificado"
   },
@@ -717,13 +717,13 @@
   {
     "partyId": "erc",
     "measureId": "san-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 62 del PDF · Salut – Mentrestant, en defensa de Catalunya al Congrés i Senat",
-      "quote": "Transferència financera per a l’aplicació efectiva dels plans de salut bucodental inclosos a la cartera de serveis."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 42 del PDF · Enfortir la sanitat pública · proposta 237",
+      "quote": "garantir l’accés universal i gratuït a l’atenció bucodental"
     },
     "verification": "verificado"
   },
@@ -833,11 +833,11 @@
     "measureId": "edu-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 50 del PDF · Una educación excelente y de calidad",
-      "quote": "LA EDUCACIÓN DE 0 A 3 AÑOS SERÁ UNIVERSAL Y GRATUITA y estará cofinanciada por el Estado y las Comunidades Autónomas"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 57 del PDF · medida 163 «La escuela infantil de cero a tres años será gratuita»",
+      "quote": "Al terminar la legislatura, la etapa será gratuita para todas las familias que la soliciten."
     },
     "verification": "verificado"
   },
@@ -846,24 +846,24 @@
     "measureId": "edu-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 103 del PDF · Bloque III · Educación",
-      "quote": "Ampliaremos el derecho a la formación y el aprendizaje a lo largo de toda la vida, universalizando la escolarización de 0 a 18 años, no mediante la obligatoriedad sino promoviendo de forma gradual una oferta suficiente de plazas públicas gratuitas, tanto de escuelas infantiles para niños de 0 a 3 años"
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 51 del PDF · Educación · compromiso 157",
+      "quote": "Universalizar la educación de 0 a 3 años"
     },
     "verification": "verificado"
   },
   {
     "partyId": "vox",
     "measureId": "edu-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 164 del PDF · Perspectiva de familia",
-      "quote": "Apoyaremos a los ayuntamientos para garantizar guarderías gratuitas abiertas hasta el horario de comercios y…"
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 51 del PDF · Familia y vida · medida 94",
+      "quote": "la gratuidad real de la educación infantil de 0 a 3 años"
     },
     "verification": "verificado"
   },
@@ -885,11 +885,11 @@
     "measureId": "edu-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 69 del PDF · Política econòmica – inversió pública",
-      "quote": "ens cal assegurar la inversió per a garantir la cohesió social amb accions com ampliar i universalitzar el 0 a 3 gratuït"
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 11 del PDF · Escola catalana · proposta 20",
+      "quote": "Assegurar el finançament estatal de l’educació pública i gratuïta de 0 a 3 anys."
     },
     "verification": "verificado"
   },
@@ -936,11 +936,11 @@
     "measureId": "edu-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
-      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
-      "date": "2019-10-11",
-      "locator": "pág. 5 del PDF · Derecho a la educación",
-      "quote": "Propondremos una reforma legislativa que reconozca la gratuidad del primer ciclo de la Educación Infantil (0-3 años) y que disponga el deber de las administraciones educativas de garantizar una oferta suficiente de plazas en centros públicos."
+      "title": "Bases del programa electoral de Coalición Canaria y Municipalistas Primero Canarias para las elecciones generales del 29 de noviembre de 2026 («Defiende Canarias»)",
+      "url": "https://primerocanarias.com/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV-comprimido.pdf",
+      "date": "2026-11-09",
+      "locator": "pág. 9 del PDF · Defender los derechos de Canarias · medida 14 «Educación infantil de cero a tres años»",
+      "quote": "Reforzaremos la financiación estatal para una oferta suficiente de plazas públicas gratuitas y de calidad."
     },
     "verification": "verificado"
   },
@@ -961,11 +961,11 @@
     "measureId": "edu-3",
     "stance": 1,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 33 del PDF · Educación en libertad",
-      "quote": "Aseguraremos de forma clara e inmediata el derecho a ser educado en español en todo el territorio nacional."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 41 del PDF · Educación · medida 66",
+      "quote": "Se garantizará la educación en español en todo el territorio nacional."
     },
     "verification": "verificado"
   },
@@ -974,11 +974,11 @@
     "measureId": "edu-3",
     "stance": -2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 126 del PDF · Educació – a) Els continus atacs al model d’escola catalana",
-      "quote": "Aquestes forces reaccionàries volen construir un model educatiu que separi els alumnes per raó de llengua i divideixi els estudiants. Nosaltres apostem i defensem un model integrador"
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 10 del PDF · Escola catalana",
+      "quote": "El català com a llengua vehicular i la immersió lingüística són pilars del nostre model educatiu."
     },
     "verification": "verificado"
   },
@@ -1010,13 +1010,13 @@
   {
     "partyId": "psoe",
     "measureId": "emp-1",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 50 del PDF · Bloque I · Industria",
-      "quote": "Continuaremos impulsando el proyecto piloto de reducción de jornada laboral para empresas industriales con medidas destinadas a la reducción de las jornadas laborales sin merma salarial."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 41 del PDF · Trabajo digno · compromiso 108",
+      "quote": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas."
     },
     "verification": "verificado"
   },
@@ -1036,13 +1036,13 @@
   {
     "partyId": "erc",
     "measureId": "emp-1",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 53 del PDF · Joventut – b) El jovent ferm que avança cap a la República",
-      "quote": "També necessitem bastir un escut que protegeixi les classes treballadores davant els abusos del mercat, que recuperi instruments com els salaris de tramitació o l’autorització administrativa dels ERO, en reforci d’altres com la indemnització per acomiadament i implementi mesures com la jornada laboral de quatre dies."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 26 del PDF · Treball digne · proposta 105",
+      "quote": "Reduir la durada màxima de la jornada laboral setmanal a 37 hores i mitja sense reducció salarial."
     },
     "verification": "verificado"
   },
@@ -1087,13 +1087,13 @@
   {
     "partyId": "pp",
     "measureId": "emp-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 19 del PDF · Crear empleo de calidad para todos",
-      "quote": "ASEGURAREMOS LA SOSTENIBILIDAD Y SUFICIENCIA DEL SISTEMA DE PENSIONES PARA LAS GENERACIONES ACTUALES Y FUTURAS. GARANTIZAREMOS LA REVALORIZACIÓN DE LAS PENSIONES EN EL MARCO"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "págs. 42-43 del PDF · medida 108 «Garantizaremos las pensiones de hoy y su futuro»",
+      "quote": "Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC."
     },
     "verification": "verificado"
   },
@@ -1102,11 +1102,11 @@
     "measureId": "emp-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 170 del PDF · Bloque V · Pensiones",
-      "quote": "Blindaremos el poder adquisitivo de las pensiones con un cambio constitucional. Garantizaremos ante cualquier circunstancia el poder adquisitivo de todas las pensiones con arreglo al IPC."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 40 del PDF · Pensiones · compromiso 100",
+      "quote": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC"
     },
     "verification": "verificado"
   },
@@ -1126,13 +1126,13 @@
   {
     "partyId": "erc",
     "measureId": "emp-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 96 del PDF · Pensions – Mentrestant, en defensa de Catalunya al Congrés i Senat",
-      "quote": "Incrementar les pensions mínimes i establir revalortizacions automàtiques ancorant-les a l’evolució del Salari Mínim Interprofessional donant compliment a les exigències de la Carta Social Europea."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 26 del PDF · Treball digne · propostes 106 i 107",
+      "quote": "Cal garantir l’actualització de pensions públiques d’acord amb la inflació."
     },
     "verification": "verificado"
   },
@@ -1154,11 +1154,11 @@
     "measureId": "emp-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07",
-      "locator": "pág. 33 del PDF · 09. Pensiones justas y dignas – Pacto de Toledo",
-      "quote": "defenderemos la vinculación de las pensiones conforme al IPC para que esa revalorización sea irregresiva."
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 31 del PDF · 4.1 Pensiones dignas · Poder adquisitivo, 01",
+      "quote": "revalorizarlas anualmente conforme al IPC"
     },
     "verification": "verificado"
   },
@@ -1282,11 +1282,11 @@
     "measureId": "inm-1",
     "stance": -2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 101 del PDF · Inmigración e identidad nacional",
-      "quote": "Trasladaremos el mensaje claro de que cualquier inmigrante que llegue ilegalmente nunca podrá regularizar su situación en España."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 15 del PDF · Inmigración · medida 9",
+      "quote": "Quien entra de forma ilegal jamás podrá regularizar su situación."
     },
     "verification": "verificado"
   },
@@ -1372,11 +1372,11 @@
     "measureId": "inm-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 81 del PDF · Devolver la seguridad y tranquilidad a los ciudadanos",
-      "quote": "POTENCIAREMOS LA INSPECCIÓN FRONTERIZA, incrementando el número y formación del personal … AGILIZAREMOS EL CUMPLIMIENTO DE LAS ÓRDENES DE RETORNO de inmigrantes irregulares o expulsión de los que hayan cometido un delito"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 23 del PDF · medida 44 «Quien delinque será expulsado de España»",
+      "quote": "Ampliaremos el tiempo máximo de permanencia en los centros de internamiento, dentro de los límites europeos, para que las expulsiones se ejecuten."
     },
     "verification": "verificado"
   },
@@ -1385,11 +1385,11 @@
     "measureId": "inm-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 100 del PDF · Inmigración e identidad nacional",
-      "quote": "Inmediata expulsión de todos los inmigrantes que accedan ilegalmente a nuestro país. A España solo se entra de forma legal, ordenada y con la voluntad de integrarse y aportar al desarrollo de la Nación."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 15 del PDF · Inmigración · medidas 12 a 14",
+      "quote": "Repatriación de quienes permanezcan en situación ilegal en nuestra nación."
     },
     "verification": "verificado"
   },
@@ -1411,11 +1411,11 @@
     "measureId": "inm-2",
     "stance": -2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 38 del PDF · Ciutadania – Política migratòria i fronteres",
-      "quote": "Posar fi a la pràctica il·legal de les devolucions en calent. Cal eliminar el mecanisme específic de devolucions i expulsions a Ceuta i Melilla per ser discriminatori en relació amb la resta de població i per manca de garanties jurídiques bàsiques de tot procediment."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 17 del PDF · Unió Europea · proposta 51",
+      "quote": "Posar fi a l’externalització de les fronteres i garantir vies legals i segures per migrar."
     },
     "verification": "verificado"
   },
@@ -1450,11 +1450,11 @@
     "measureId": "inm-2",
     "stance": -1,
     "source": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07",
-      "locator": "pág. 10 del PDF · Propuestas en materia de migración y asilo",
-      "quote": "se volverá a plantear la reforma de la legislación de extranjería a fin de establecer procedimientos que permitan la trazabilidad del cumplimiento de esos tratados internacionales durante el llamado rechazo en frontera"
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 28 del PDF · 3.5 Derechos humanos · 06",
+      "quote": "Reforzar las garantías de las personas migrantes y solicitantes de asilo en las fronteras, promoviendo alternativas a la privación de libertad en los Centros de Internamiento de Extranjeros"
     },
     "verification": "verificado"
   },
@@ -1499,13 +1499,13 @@
   {
     "partyId": "pp",
     "measureId": "inm-3",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 16 del PDF · Impulsar una economía basada en el talento, la innovación y el conocimiento",
-      "quote": "se orientará a facilitar la incorporación de talento extranjero al mercado laboral, que puede aportar el mayor beneficio a España, tanto en términos de contribuir al crecimiento económico como a la sostenibilidad de los servicios públicos."
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 22 del PDF · 1.6 · medidas 40 y 41",
+      "quote": "Para venir a trabajar en sectores donde falten trabajadores habrá dos vías: llegar con un contrato firmado en origen o con un visado temporal para buscar empleo"
     },
     "verification": "verificado"
   },
@@ -1514,11 +1514,11 @@
     "measureId": "inm-3",
     "stance": 1,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 256 del PDF · Bloque VI · Migración y asilo",
-      "quote": "Habilitaremos mejores vías para la migración regular y ordenada que permitan una mejor inserción social y laboral de las personas migrantes, fomentando convenios de migración circular exitosos como los que ya funcionan."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 92 del PDF · Impulsar una política migratoria regular, humana y eficaz",
+      "quote": "impulsar la contratación en origen"
     },
     "verification": "verificado"
   },
@@ -1540,11 +1540,11 @@
     "measureId": "inm-3",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07",
-      "locator": "pág. 30 del PDF · 08. El empleo, nuevos retos",
-      "quote": "Mejorar la capacidad de las políticas migratorias para responder a las demandas del mercado laboral de manera efectiva (reconocimiento de las cualificaciones de personas de terceros países, mejora de la gestión de la contratación en origen y la migración circular…)."
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 25 del PDF · 3.2 Una migración gestionada desde Euskadi · 08",
+      "quote": "Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco"
     },
     "verification": "verificado"
   },
@@ -1553,11 +1553,11 @@
     "measureId": "med-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 38 del PDF · Pacto nacional del agua y energía limpia y barata para todos",
-      "quote": "PROPONDREMOS, CON EL VISTO BUENO DEL CONSEJO DE SEGURIDAD NUCLEAR, LA EXTENSIÓN DE LA VIDA ÚTIL DE LAS CENTRALES NUCLEARES EXISTENTES en nuestro país"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 71 del PDF · 4.9 · medida 228 «Eliminaremos el calendario de cierre de Almaraz, Ascó, Vandellós, Cofrentes y Trillo»",
+      "quote": "En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil"
     },
     "verification": "verificado"
   },
@@ -1566,11 +1566,11 @@
     "measureId": "med-1",
     "stance": -2,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 75 del PDF · Bloque II · Transición energética",
-      "quote": "necesidades en el desmantelamiento ordenado y progresivo de las centrales nucleares."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 66 del PDF · Transición ecológica · compromiso 240",
+      "quote": "Mantener el calendario de cierre de las centrales nucleares hasta 2035"
     },
     "verification": "verificado"
   },
@@ -1579,11 +1579,11 @@
     "measureId": "med-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 117 del PDF · Reindustrialización y soberanía energética",
-      "quote": "Fomentaremos la inversión y actualización del parque de generación nuclear y promoveremos la extensión de la vida útil de las centrales nucleares existentes."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 12 del PDF · Economía, industria y energía · medida 8",
+      "quote": "Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre."
     },
     "verification": "verificado"
   },
@@ -1617,11 +1617,11 @@
     "measureId": "med-2",
     "stance": -2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 137 del PDF · Unión Europea",
-      "quote": "…la prohibición de fabricar coches de combustión a partir de 2035."
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "págs. 11-12 del PDF · Economía, industria y energía · medida 8",
+      "quote": "Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de combustión"
     },
     "verification": "verificado"
   },
@@ -1708,11 +1708,11 @@
     "measureId": "ter-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 91 del PDF · Treball – Mentrestant, en defensa de Catalunya al Congrés i Senat",
-      "quote": "Traspàs integral de la Inspecció de Treball i Seguretat Social a la Generalitat de Catalunya, la Generalitat Valenciana i el Govern de les Illes Balears incloent els seus serveis, funcions, personal i finançament."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 14 del PDF · Més sobirania i competències",
+      "quote": "Catalunya aspira a desenvolupar l’autogovern i a assumir plenament totes les competències."
     },
     "verification": "verificado"
   },
@@ -1747,11 +1747,11 @@
     "measureId": "ter-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07",
-      "locator": "pág. 6 del PDF · 02. Más autogobierno, más Europa y Agenda 2030",
-      "quote": "EAJ-PNV defenderá el reconocimiento nacional de Euskadi y la bilateralidad en relación con el Estado a través de un ejercicio compartido de la soberanía. Porque más autogobierno significa más bienestar."
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 38 del PDF · 5.1 Lo pactado se cumple · 01",
+      "quote": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes"
     },
     "verification": "verificado"
   },
@@ -1773,11 +1773,11 @@
     "measureId": "ter-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de Coalición Canaria para las elecciones generales de noviembre de 2019 (no publicó uno propio para las de 2023)",
-      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/01%20Programa%20Electoral%20Elecciones%20Generales%20noviembre%202019.pdf",
-      "date": "2019-10-11",
-      "locator": "pág. 5 del PDF · Derechos de Canarias (reforma constitucional)",
-      "quote": "Reformas que deben plantear la reforma del modelo de Estado, reconocer el estado autonómico con mayores cotas de autogobierno, un reconocimiento de las singularidades y las distintas nacionalidades"
+      "title": "Bases del programa electoral de Coalición Canaria y Municipalistas Primero Canarias para las elecciones generales del 29 de noviembre de 2026 («Defiende Canarias»)",
+      "url": "https://primerocanarias.com/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV-comprimido.pdf",
+      "date": "2026-11-09",
+      "locator": "pág. 3 del PDF · Introducción",
+      "quote": "Aspiramos al máximo autogobierno en un Estado que reconozca y articule de común acuerdo su realidad plurinacional."
     },
     "verification": "verificado"
   },
@@ -1798,11 +1798,11 @@
     "measureId": "ter-2",
     "stance": -2,
     "source": {
-      "title": "Programa electoral del PP para las elecciones generales de 2023 («Un proyecto al servicio de un gran país»)",
-      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
-      "date": "2023-07-05",
-      "locator": "pág. 72 del PDF · Promover de forma efectiva la convivencia de todos",
-      "quote": "Recuperaremos el delito de sedición en el Código Penal … Regularemos también otras conductas de deslealtad de las instituciones dirigidas a poner en peligro la paz y el orden constitucional, ya sea mediante la convocatoria de referendos o consultas no autorizadas"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 16 del PDF · medida 17 «Defenderemos la unidad de España y el orden constitucional»",
+      "quote": "Recuperaremos en el Código Penal el delito de sedición, adaptado a la legislación contemporánea, y el de convocatoria de referéndum ilegal."
     },
     "verification": "verificado"
   },
@@ -1811,11 +1811,11 @@
     "measureId": "ter-2",
     "stance": -2,
     "source": {
-      "title": "Programa electoral de Vox para las elecciones generales del 23J de 2023",
-      "url": "https://www.voxespana.es/programa/programa-electoral-vox",
-      "date": "2023-07-07",
-      "locator": "pág. 16 del PDF · Unidad de España",
-      "quote": "Reintroduciremos los delitos de referéndum ilegal, sedición, traición y malversación de caudales públicos"
+      "title": "Programa electoral de Vox para las elecciones generales del 29 de noviembre de 2026 («Es sentido común»)",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 56 del PDF · Justicia y corrupción · medida 103",
+      "quote": "Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial."
     },
     "verification": "verificado"
   },
@@ -1824,11 +1824,11 @@
     "measureId": "ter-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 12 del PDF · Mentrestant, en defensa de Catalunya al Congrés i Senat",
-      "quote": "Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 8 del PDF · Autodeterminació · proposta 1",
+      "quote": "Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya"
     },
     "verification": "verificado"
   },
@@ -1863,11 +1863,11 @@
     "measureId": "ter-2",
     "stance": 1,
     "source": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07",
-      "locator": "pág. 3 del PDF · 01. Análisis de la XIV Legislatura",
-      "quote": "Seguiremos defendiendo a Euskadi en Madrid. Planteando el derecho a decidir nuestro futuro"
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 39 del PDF · 5.2 Concierto político · 03",
+      "quote": "el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión de sus instituciones"
     },
     "verification": "verificado"
   },
@@ -1901,11 +1901,11 @@
     "measureId": "ter-3",
     "stance": -1,
     "source": {
-      "title": "Programa electoral del PSOE para las elecciones generales del 23 de julio de 2023",
-      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 231 del PDF · Bloque VI · Un marco renovado de cogobernanza",
-      "quote": "El objetivo último debe ser constitucionalizar los avances realizados hasta el momento, que vienen a reflejar la progresiva descentralización del sistema y, paralelamente, el reforzamiento de los instrumentos de cooperación."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 91 del PDF · Un Estado autonómico que funciona",
+      "quote": "el reto no es recentralizar ni fragmentar, sino hacer que el Estado autonómico funcione mejor"
     },
     "verification": "verificado"
   },
@@ -1940,11 +1940,11 @@
     "measureId": "ter-3",
     "stance": -2,
     "source": {
-      "title": "Programa electoral d'ERC per a les eleccions generals de 2023 («Defensa Catalunya!»)",
-      "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
-      "date": "2023-07-11",
-      "locator": "pág. 60 del PDF · Salut – a) L’infrafinançament del sistema públic de salut",
-      "quote": "La competència en matèria sanitària és competència exclusiva de les comunitats autònomes … No només això, sinó que han intentat envair competències de manera reiterada"
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 14 del PDF · Més sobirania i competències",
+      "quote": "No permetrem cap passa enrere en l’autogovern de Catalunya, ni en l’àmbit de la salut, ni en el de l’habitatge ni en el de l’educació."
     },
     "verification": "verificado"
   },
@@ -1979,11 +1979,11 @@
     "measureId": "ter-3",
     "stance": -2,
     "source": {
-      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 23-J de 2023 («Con voz propia»)",
-      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
-      "date": "2023-07-07",
-      "locator": "pág. 6 del PDF · 02. Más autogobierno, más Europa y Agenda 2030",
-      "quote": "EAJ-PNV se seguirá oponiendo frontalmente a la visión y tentación recentralizadora existente que pueda afectar a Euskadi."
+      "title": "Programa electoral de EAJ-PNV para las elecciones generales del 29 de noviembre de 2026 («Euskadi zaindu. Defendemos Euskadi»)",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "date": "2026-11-09",
+      "locator": "pág. 38 del PDF · 5.1 Lo pactado se cumple",
+      "quote": "defenderemos las que ya ejercemos frente a cualquier intento de recentralización"
     },
     "verification": "verificado"
   },
@@ -2020,15 +2020,12 @@
     "partyId": "psoe",
     "measureId": "eco-1",
     "stance": 2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "PSOE, 41 Congreso Federal (Sevilla, nov.-dic. 2024)",
     "source": {
-      "title": "Resolución Política del 41 Congreso Federal del PSOE «España 2030» (publicada por el PSC-PSOE)",
-      "url": "https://psc-psoe.es/wp-content/uploads/2024/12/RESOLUCION-41C_1.pdf",
-      "date": "2024-12-01",
-      "locator": "Algunos «imposibles» que lograremos, punto 10 (pág. 13 del PDF)",
-      "quote": "Aumentaremos la lucha contra la evasión fiscal de los megarricos y estableceremos un tipo marginal mínimo del 50% en la tarifa general del IRPF a partir de los 300.000 euros anuales."
+      "title": "Programa electoral del PSOE para las elecciones generales del 29 de noviembre de 2026 («La fuerza de seguir avanzando»)",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "date": "2026-11-15",
+      "locator": "pág. 48 del PDF · Fiscalidad justa · compromiso 130",
+      "quote": "elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€"
     },
     "verification": "verificado"
   },
@@ -2131,15 +2128,12 @@
     "partyId": "pp",
     "measureId": "viv-1",
     "stance": -2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Partido Popular, Conclusiones de la XXVIII Interparlamentaria",
     "source": {
-      "title": "Conclusiones de la XXVIII Interparlamentaria Popular (A Coruña)",
-      "url": "https://www.pp.es/storage/2026/01/2026.01.11-Conclusiones-28-Interparlamentaria-PP.pdf",
-      "date": "2026-01-11",
-      "locator": "Vivienda, punto 2.1 'Más seguridad jurídica'",
-      "quote": "Derogación de todas las leyes que destrozan el mercado del alquiler: zonas de mercado tensionado, intervención de precios y prohibición de desalojos por impago."
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 53 del PDF · 4.1 · medida 145 «Derogaremos la Ley de Vivienda»",
+      "quote": "Eliminaremos las zonas tensionadas y el índice de precios"
     },
     "verification": "verificado"
   },
@@ -2209,15 +2203,12 @@
     "partyId": "cc",
     "measureId": "viv-2",
     "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Coalición Canaria, programa electoral autonómico 2023",
     "source": {
-      "title": "Canarias por delante. Programa electoral de Coalición Canaria, elecciones autonómicas 2023 (periodo 2023-2027)",
-      "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00%20Programa%20Electoral%20Elecciones%20auton%C3%B3micas%20y%20municipales%202023.pdf",
-      "date": "2023-05-01",
-      "locator": "Vivienda, medida 3, p. 68",
-      "quote": "Promover el acceso a una vivienda en alquiler seguirá siendo un pilar básico en nuestra política de vivienda, por lo que se incrementará el parque público de vivienda a disposición de las familias de escasos recursos"
+      "title": "Bases del programa electoral de Coalición Canaria y Municipalistas Primero Canarias para las elecciones generales del 29 de noviembre de 2026 («Defiende Canarias»)",
+      "url": "https://primerocanarias.com/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV-comprimido.pdf",
+      "date": "2026-11-09",
+      "locator": "pág. 10 del PDF · Derecho a vivir y permanecer en Canarias · medida 22",
+      "quote": "Impulsaremos un fondo estatal de ocho años para cofinanciar vivienda pública y asequible"
     },
     "verification": "verificado"
   },
@@ -2289,15 +2280,12 @@
     "partyId": "erc",
     "measureId": "san-1",
     "stance": 2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "ERC (programa electoral)",
     "source": {
-      "title": "ERC – Programa electoral, eleccions al Parlament de Catalunya 2024",
-      "url": "https://esquerrarepublicana.cat/documents/c2024-programa.pdf",
-      "date": "2024-04-29",
-      "locator": "Àmbit de salut, 'Proposta destacada'",
-      "quote": "establir en el sistema de salut de Catalunya un model que garanteixi l’equitat territorial i de resultats, amb una atenció de qualitat, on no hi hagi lloc per l’ànim de lucre."
+      "title": "Programa electoral d'ERC per a les eleccions al Congrés del 29 de novembre de 2026 («Pel país. Per la gent. Pel futur.»; copia de beteve.cat)",
+      "url": "https://img.beteve.cat/wp-content/uploads/2026/11/ERC-programa-electoral-29-N-2026-2026-11-12.pdf",
+      "date": "2026-11-05",
+      "locator": "pág. 41 del PDF · Enfortir la sanitat pública · proposta 233",
+      "quote": "frenar la privatització de la sanitat"
     },
     "verification": "verificado"
   },
@@ -2464,15 +2452,12 @@
     "partyId": "pp",
     "measureId": "edu-3",
     "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
     "source": {
-      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
-      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
-      "date": "2025-07-06",
-      "locator": "Apartado 'La Nación', lenguas",
-      "quote": "Garantizaremos el derecho constitucional de recibir enseñanza en español en todas las etapas del sistema educativo y en toda la nación, desde el respeto a las lenguas cooficiales de cada una de las comunidades y en cumplimiento de las sentencias judiciales."
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 39 del PDF · medida 96 «Garantizaremos el derecho a recibir enseñanza en castellano en toda España»",
+      "quote": "Garantizaremos el derecho constitucional de recibir enseñanza en castellano en todas las etapas del sistema educativo y en toda la Nación"
     },
     "verification": "verificado"
   },
@@ -3003,15 +2988,12 @@
     "partyId": "pp",
     "measureId": "ter-1",
     "stance": -1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
     "source": {
-      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
-      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
-      "date": "2025-07-06",
-      "locator": "Apartado 'La Nación'",
-      "quote": "El marco competencial no puede ser un zoco en el que se compran mayorías parlamentarias. El núcleo de competencias indelegables del Estado en ningún caso puede estar sujeto a negociación."
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 16 del PDF · 1.3 · medida 16",
+      "quote": "El Estado ejercerá por sí mismo, en todo el territorio, las competencias exclusivas que la Constitución le atribuye."
     },
     "verification": "verificado"
   },
@@ -3083,15 +3065,12 @@
     "partyId": "pp",
     "measureId": "ter-3",
     "stance": -1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Partido Popular, Ponencia Política del XXI Congreso Nacional",
     "source": {
-      "title": "Ponencia Política del Partido Popular (XXI Congreso, julio 2025)",
-      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
-      "date": "2025-07-06",
-      "locator": "Apartado 'Principios y valores'",
-      "quote": "Frente a los separatismos insolidarios y la demagogia recentralizadora, creemos que el Estado de las Autonomías, aún perfectible, no solo es el que mejor se ajusta a la realidad de nuestra nación"
+      "title": "Programa electoral del PP para las elecciones generales del 29 de noviembre de 2026 («La reconstrucción nacional»)",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 16 del PDF · 1.3 · medida 16",
+      "quote": "Defendemos el Estado de las Autonomías y el autogobierno de las Comunidades Autónomas en el marco de la Constitución."
     },
     "verification": "verificado"
   },
@@ -3616,11 +3595,11 @@
     "measureId": "viv-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
-      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 65 del PDF · 3.5 Por una vivienda digna: mayor parque de vivienda social",
-      "quote": "En España necesitamos ya una gran dotación de vivienda social, tanto para compra como para alquiler"
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 69 del PDF · 3.5 Por una vivienda digna: mayor parque de vivienda social",
+      "quote": "La solución real pasa por la construcción masiva de vivienda pública"
     },
     "verification": "verificado"
   },
@@ -3629,11 +3608,11 @@
     "measureId": "san-1",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
-      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 50 del PDF · 3.2.1 Por una sanidad pública, universal y de calidad",
-      "quote": "Reintegración al sistema sanitario público de los servicios privatizados."
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 56 del PDF · 3.2.1 Por una sanidad pública, universal y de calidad",
+      "quote": "Reintegración al sistema sanitario público los servicios privatizados."
     },
     "verification": "verificado"
   },
@@ -3642,10 +3621,10 @@
     "measureId": "san-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
-      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 53 del PDF · 3.2.7 Salud bucodental",
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 59 del PDF · 3.2.7 Salud bucodental",
       "quote": "Desde PACMA defendemos el impulso de una atención bucodental gratuita, con una asistencia dental básica para todas las personas"
     },
     "verification": "verificado"
@@ -3655,11 +3634,11 @@
     "measureId": "edu-2",
     "stance": 2,
     "source": {
-      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
-      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 54 del PDF · 3.3.1 Por una educación pública y de calidad",
-      "quote": "avanzar en la gratuidad real, promover la educación universal de 0 a 3 años"
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 59 del PDF · 3.3 Educación",
+      "quote": "promover la educación universal de 0 a 3 años"
     },
     "verification": "verificado"
   },
@@ -3668,11 +3647,11 @@
     "measureId": "med-1",
     "stance": -1,
     "source": {
-      "title": "Programa electoral de PACMA para las elecciones generales del 23 de julio de 2023 (aún no ha publicado el del 29N)",
-      "url": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
-      "date": "2023-07-06",
-      "locator": "pág. 31 del PDF · 2.1.1 Por un modelo energético sostenible",
-      "quote": "El modelo energético basado en el uso masivo de los combustibles fósiles y la energía nuclear, es insostenible"
+      "title": "Programa electoral de PACMA para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "date": "2026-11-12",
+      "locator": "pág. 34 del PDF · 2. Medio ambiente · energía",
+      "quote": "El modelo energético basado en el uso masivo de los combustibles fósiles y la energía nuclear es insostenible"
     },
     "verification": "verificado"
   },
@@ -3850,24 +3829,24 @@
     "measureId": "viv-1",
     "stance": 2,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 22 del PDF · Vivienda (medida 34)",
-      "quote": "Apoyar la aplicación de la nueva Ley por el Derecho a la Vivienda"
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 8 del PDF · Vivienda · 04 «Regular los alquileres privados»",
+      "quote": "Establecer un alquiler de referencia y limitar el precio en función de las características y localización de la vivienda."
     },
     "verification": "verificado"
   },
   {
     "partyId": "mundo-mas-justo",
     "measureId": "viv-2",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 22 del PDF · Vivienda (medida 35)",
-      "quote": "la creación de nuevos modelos de vivienda pública o el aumento de la cooperación entre el sector privado y el público"
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 5 del PDF · Vivienda · 01",
+      "quote": "Crear un gran parque público de vivienda asequible en alquiler."
     },
     "verification": "verificado"
   },
@@ -3876,11 +3855,11 @@
     "measureId": "edu-1",
     "stance": 1,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 25 del PDF · Educación (medida 45)",
-      "quote": "apoyamos aumentar la financiación pública, reduciendo la brecha de financiación existente hoy respecto de los colegios públicos"
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 45 del PDF · Educación · 01",
+      "quote": "Apoyar la coexistencia de la educación pública y privada, concertada y no concertada, reconociendo especialmente la aportación social de la concertada"
     },
     "verification": "verificado"
   },
@@ -3900,13 +3879,13 @@
   {
     "partyId": "mundo-mas-justo",
     "measureId": "emp-1",
-    "stance": 1,
+    "stance": 2,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 26 del PDF · Trabajo digno y pensiones (medida 55)",
-      "quote": "Reducir la jornada laboral a 35 horas."
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 29 del PDF · Trabajo digno · 02",
+      "quote": "Reducir progresivamente la jornada laboral hasta las 35 horas semanales, sin reducción salarial"
     },
     "verification": "verificado"
   },
@@ -3915,11 +3894,11 @@
     "measureId": "emp-2",
     "stance": 2,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 26 del PDF · Trabajo digno y pensiones (medida 57)",
-      "quote": "En ella debiera quedar prohibida la privatización de las pensiones públicas y la degradación de su poder adquisitivo."
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 24 del PDF · Pensiones · 01",
+      "quote": "garantizar que nunca pierdan poder adquisitivo"
     },
     "verification": "verificado"
   },
@@ -3928,11 +3907,11 @@
     "measureId": "inm-1",
     "stance": 2,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 26 del PDF · Migrantes (medida 58)",
-      "quote": "Aprobar la Iniciativa Legislativa Popular (ILP) para la regularización extraordinaria de las personas migrantes en España."
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 30 del PDF · Trabajo digno · 05",
+      "quote": "Garantizar vías accesibles y estables de regularización de las personas migrantes que viven y trabajan en España"
     },
     "verification": "verificado"
   },
@@ -3941,27 +3920,24 @@
     "measureId": "inm-2",
     "stance": -2,
     "source": {
-      "title": "Programa de Por un Mundo Más Justo para las elecciones generales de 2023 («Conectamos buena gente»; aún no ha publicado el del 29N)",
-      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2023/07/Programa-Electoral-Por-Un-Mundo-Mas-Justo-Elecciones-Generales-2023.pdf",
-      "date": "2023-07-16",
-      "locator": "pág. 26 del PDF · Migrantes (medida 60)",
-      "quote": "poniendo fin a las llamadas “devoluciones en caliente”"
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 51 del PDF · Migración · 04 y 05",
+      "quote": "poner fin al internamiento de personas migrantes por motivos administrativos"
     },
     "verification": "verificado"
   },
   {
     "partyId": "salf",
     "measureId": "eco-2",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "stance": 2,
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 5 del PDF · 2. Rebaja de impuestos",
-      "quote": "Impulsaremos deducciones autonómicas en el Impuesto de Sociedades (vía bonificaciones en tributos cedidos) para las empresas que generen empleo indefinido"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 13 del PDF · III Impuestos · 5",
+      "quote": "Del 25 al 20 % en dos años"
     },
     "verification": "verificado"
   },
@@ -3969,15 +3945,12 @@
     "partyId": "salf",
     "measureId": "eco-3",
     "stance": 2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 4 del PDF · 2. Rebaja de impuestos",
-      "quote": "Suprimiremos el Impuesto sobre el Patrimonio en Castilla y León"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 13 del PDF · III Impuestos · 6",
+      "quote": "Sucesiones, Donaciones y Patrimonio: suprimidos."
     },
     "verification": "verificado"
   },
@@ -4001,15 +3974,12 @@
     "partyId": "salf",
     "measureId": "viv-3",
     "stance": 2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 3 del PDF · 1. Vivienda, alquiler y okupación",
-      "quote": "para que toda vivienda ocupada ilegalmente sea desalojada policialmente en un plazo máximo de 24 horas"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 5 del PDF · I Vivienda · 3",
+      "quote": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas."
     },
     "verification": "verificado"
   },
@@ -4017,31 +3987,25 @@
     "partyId": "salf",
     "measureId": "san-1",
     "stance": -1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 18 del PDF · 6.2 Sanidad",
-      "quote": "concertaremos con clínicas privadas aragonesas procedimientos cuando la pública no dé abasto"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 23 del PDF · VI Sanidad · 2",
+      "quote": "Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública."
     },
     "verification": "verificado"
   },
   {
     "partyId": "salf",
     "measureId": "edu-1",
-    "stance": 1,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
+    "stance": 2,
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 17 del PDF · 6.1 Educación",
-      "quote": "ampliaremos los conciertos educativos con centros que lo soliciten"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 35 del PDF · IX Educación · 6",
+      "quote": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno"
     },
     "verification": "verificado"
   },
@@ -4065,15 +4029,12 @@
     "partyId": "salf",
     "measureId": "inm-1",
     "stance": -2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 7 del PDF · 3. Inmigración y seguridad",
-      "quote": "el que esté ilegal, será repatriado sin excusas"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 17 del PDF · IV Inmigración · 2",
+      "quote": "prohibición por ley orgánica de cualquier regularización masiva"
     },
     "verification": "verificado"
   },
@@ -4081,15 +4042,12 @@
     "partyId": "salf",
     "measureId": "inm-2",
     "stance": 2,
-    "origin": "declaracion",
-    "declarationKind": "web_partido",
-    "speaker": "Se Acabó La Fiesta (programa autonómico)",
     "source": {
-      "title": "Programa electoral de SALF para las elecciones a las Cortes de Castilla y León de 2026 («Contrato electoral»; copia de theobjective.com; SALF no ha publicado programa de generales)",
-      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
-      "date": "2026-03-04",
-      "locator": "pág. 7 del PDF · 3. Inmigración y seguridad",
-      "quote": "ejecutar el mayor plan de deportación de inmigrantes ilegales de la historia reciente del país"
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 17 del PDF · IV Inmigración · 1",
+      "quote": "Identificación, orden y salida en 48 horas."
     },
     "verification": "verificado"
   },
@@ -4122,6 +4080,58 @@
       "date": "2026-03-04",
       "locator": "pág. 22 del PDF · 7. Energía y campo",
       "quote": "Bonificaremos el gasóleo profesional agrario mientras dure la asfixia fiscal estatal."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "edu-3",
+    "stance": 2,
+    "source": {
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 34 del PDF · IX Educación · 2",
+      "quote": "Derecho a la enseñanza en castellano en toda España, exigible por la familia"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "salf",
+    "measureId": "emp-2",
+    "stance": 2,
+    "source": {
+      "title": "Contrato electoral de SALF para las elecciones generales del 29 de noviembre de 2026 (copia de theobjective.com; la web del partido bloquea las descargas)",
+      "url": "https://theobjective.com/wp-content/uploads/2026/11/salf.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 20 del PDF · V Pensiones · 1",
+      "quote": "Revalorización con el IPC y prohibición de recortes, con rango constitucional."
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "eco-3",
+    "stance": -2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 27 del PDF · Fiscalidad justa · 04",
+      "quote": "Reforzar la progresividad del Impuesto sobre el Patrimonio"
+    },
+    "verification": "verificado"
+  },
+  {
+    "partyId": "mundo-mas-justo",
+    "measureId": "san-1",
+    "stance": 2,
+    "source": {
+      "title": "Programa de Por un Mundo Más Justo para las elecciones generales del 29 de noviembre de 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "date": "2026-11-10",
+      "locator": "pág. 38 del PDF · Sanidad · Atención Primaria",
+      "quote": "Frenar la privatización y recuperar progresivamente los servicios externalizados, priorizando la gestión pública directa."
     },
     "verification": "verificado"
   }
