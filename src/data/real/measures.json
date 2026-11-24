@@ -32,6 +32,12 @@
     "statement": "Habría que agilizar los desalojos en casos de ocupación ilegal de viviendas."
   },
   {
+    "id": "viv-4",
+    "topicId": "vivienda",
+    "statement": "Los ayuntamientos y las comunidades de vecinos deberían poder limitar o prohibir los pisos turísticos.",
+    "explainer": "Se refiere a viviendas de uso turístico (alquiler por días a visitantes): limitar licencias por barrio o que la comunidad de propietarios pueda vetarlas."
+  },
+  {
     "id": "san-1",
     "topicId": "sanidad",
     "statement": "Habría que reducir la gestión privada de hospitales públicos.",
@@ -122,5 +128,29 @@
     "id": "ter-3",
     "topicId": "territorial",
     "statement": "Algunas competencias, como educación o sanidad, deberían volver a ser del Estado central."
+  },
+  {
+    "id": "soc-1",
+    "topicId": "sociedad",
+    "statement": "Debería derogarse la Ley de Memoria Democrática.",
+    "explainer": "La Ley 20/2022 de Memoria Democrática regula el reconocimiento y la reparación de las víctimas de la Guerra Civil y la dictadura, las exhumaciones y la retirada de símbolos franquistas."
+  },
+  {
+    "id": "soc-2",
+    "topicId": "sociedad",
+    "statement": "La prisión permanente revisable debería mantenerse e incluso aplicarse a más delitos.",
+    "explainer": "Es la pena máxima del Código Penal desde 2015: prisión sin plazo fijo, que se revisa tras un mínimo de años de condena."
+  },
+  {
+    "id": "soc-3",
+    "topicId": "sociedad",
+    "statement": "El aborto debería ser libre y gratuito en la sanidad pública dentro de los plazos que fija la ley actual.",
+    "explainer": "La ley vigente permite abortar libremente hasta la semana 14 y, por causas médicas, hasta la 22."
+  },
+  {
+    "id": "soc-4",
+    "topicId": "sociedad",
+    "statement": "La tauromaquia debería dejar de estar protegida como patrimonio cultural y no recibir dinero público.",
+    "explainer": "La Ley 18/2013 declara la tauromaquia patrimonio cultural, lo que limita que comunidades o ayuntamientos la prohíban."
   }
 ]
