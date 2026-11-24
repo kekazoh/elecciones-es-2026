@@ -48,15 +48,17 @@ const RULES: [RegExp, string][] = [
   [/COALICION CANARIA/, 'cc-1can'],
   // Mismos partidos con nombres o siglas que cambian por provincia o idioma.
   [/MUNDO (MAS JUSTO|MAIS XUSTO)/, 'mundo-mas-justo'],
-  [/^FALANGE ESPANOLA DE LAS JONS/, 'falange'],
+  [/^FALANGE ESPANOLA DE LAS J\.?O\.?N\.?S\b/, 'falange'],
   [/^ESCANOS EN BLANCO/, 'escanos-en-blanco'],
   [/^PARTI(DO|T) ANIMALISTA/, 'pacma'],
-  [/^PARTI(DO|T) COMUNISTA D(E LOS|ELS|OS) TR[AE]BA(JADORES|LLADORS|LLADORES)/, 'pcte'],
+  // En el País Vasco va como EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA….
+  [/PARTI(DO|T) COMUNISTA D(E LOS|ELS|OS) TR[AE]BA(JADORES|LLADORS|LLADORES)/, 'pcte'],
   [/^SE ACABO LA FIESTA/, 'salf'],
   [/^FRENTE OBRERO/, 'frente-obrero'],
   [/^FEDERACION DE LOS INDEPENDIENTES DE ARAGON/, 'fia'],
   [/^NUEVO EXTREMENISMO/, 'nex'],
   [/^PARTIDO REGIONALISTA DEL PAIS LEONES/, 'prepal'],
+  [/^GEROA BAI\b/, 'geroa-bai'],
 ];
 
 /** Coaliciones y nombres que no se pueden sacar del BOE. */
@@ -148,12 +150,15 @@ function provinceCode(junta: string): string {
 interface Parsed {
   id: string;
   date: string;
+  /** Proclamadas (definitivas) o solo presentadas. */
+  proclaimed: boolean;
   lists: CandidacyList[];
 }
 
 /** Lee las candidaturas al Congreso del XML de la disposición del BOE. */
 export function parseBoe(xml: string): Parsed {
   const id = /<identificador>([^<]+)</.exec(xml)?.[1] ?? '';
+  const proclaimed = /<titulo>Candidaturas proclamadas/i.test(xml);
   const date = /<fecha_publicacion>(\d{4})(\d{2})(\d{2})</.exec(xml)?.slice(1).join('-') ?? '';
   const paragraphs = [...xml.matchAll(/<p class="([^"]+)">([\s\S]*?)<\/p>/g)].map((m) => ({ cls: m[1]!, text: clean(m[2]!) }));
 
@@ -194,18 +199,18 @@ export function parseBoe(xml: string): Parsed {
       continue;
     }
     if (!current) continue;
-    if (/^Suplentes:?$/i.test(text)) {
+    if (/^Suplentes?:?$/i.test(text)) {
       inSubstitutes = true;
       continue;
     }
-    if (current.candidates.length === 0 && /inadmitid|retirad|excluid/i.test(text)) {
+    if (current.candidates.length === 0 && /inadmitid|retirad|excluid|no proclamad/i.test(text)) {
       current.note = text;
       continue;
     }
     const cand = /^\d+\.\s*(.+?)\.?$/.exec(text);
     if (cand) (inSubstitutes ? current.substitutes : current.candidates).push(cand[1]!.replace(/\.\s*\(/, ' ('));
   }
-  return { id, date, lists };
+  return { id, date, proclaimed, lists };
 }
 
 function partyIdFor(full: string, acronym?: string): string {
@@ -213,7 +218,8 @@ function partyIdFor(full: string, acronym?: string): string {
   for (const [re, id] of RULES) if (re.test(key)) return id;
   // Siglas que no sirven de id ("SIGLAS", solo números): se usa la denominación.
   const usable = acronym && !/^SIGLAS$/i.test(acronym) && /[A-Za-z]/.test(acronym);
-  return slug(usable ? acronym : full.replace(/\s*\(.*$/, ''));
+  // Sin puntos: «I.P.A.L.» y «IPAL» son el mismo id.
+  return slug(usable ? acronym.replace(/\./g, '') : full.replace(/\s*\(.*$/, ''));
 }
 
 async function load(arg: string): Promise<string> {
@@ -228,7 +234,7 @@ async function load(arg: string): Promise<string> {
 async function main() {
   const arg = process.argv[2];
   if (!arg) throw new Error('Uso: npm run import-candidaturas -- <BOE-A-…|fichero.xml>');
-  const { id, date, lists } = parseBoe(await load(arg));
+  const { id, date, proclaimed, lists } = parseBoe(await load(arg));
   if (lists.length === 0) throw new Error('No se ha encontrado ninguna candidatura al Congreso');
 
   const parties = JSON.parse(readFileSync(PARTIES_PATH, 'utf8')) as Party[];
@@ -278,7 +284,7 @@ async function main() {
     JSON.stringify(
       {
         source: {
-          title: 'Candidaturas presentadas a las elecciones al Congreso de los Diputados (BOE)',
+          title: `Candidaturas ${proclaimed ? 'proclamadas' : 'presentadas'} a las elecciones al Congreso de los Diputados (BOE)`,
           url: `https://www.boe.es/diario_boe/txt.php?id=${id}`,
           date,
         },

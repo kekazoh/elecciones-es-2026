@@ -53,4 +53,23 @@ describe('importación de candidaturas del BOE', () => {
   it('toma como siglas el último paréntesis', () => {
     expect(lists[2]).toMatchObject({ name: 'PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)', acronym: 'PSC' });
   });
+
+  it('reconoce la proclamación, «No proclamada», «Suplente:» y siglas con puntos', () => {
+    const p = parseBoe(`<documento><metadatos><identificador>BOE-A-2026-2</identificador><titulo>Candidaturas proclamadas para las elecciones</titulo><fecha_publicacion>20261103</fecha_publicacion></metadatos><texto>
+<p class="centro_negrita">JUNTA ELECTORAL DE CEUTA</p>
+<p class="centro_cursiva">CONGRESO DE LOS DIPUTADOS</p>
+<p class="centro_redonda">1.&#8195;PARTIDO POPULAR (PP)</p>
+<p class="parrafo_2">1.&#8195;Ana Uno.</p>
+<p class="parrafo_2">Suplente:</p>
+<p class="parrafo_2">1.&#8195;Eva Dos.</p>
+<p class="centro_redonda">2.&#8195;IZQUIERDA POR ALMERÍA (I.P.A.L.)</p>
+<p class="parrafo_2">No proclamada.</p>
+<p class="centro_redonda">3.&#8195;FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las J.O.N.S.)</p>
+<p class="parrafo_2">1.&#8195;Luis Tres.</p>
+</texto></documento>`);
+    expect(p.proclaimed).toBe(true);
+    expect(p.lists[0]).toMatchObject({ candidates: ['Ana Uno'], substitutes: ['Eva Dos'] });
+    expect(p.lists[1]).toMatchObject({ partyId: 'ipal', candidates: [], note: 'No proclamada.' });
+    expect(p.lists[2]!.partyId).toBe('falange');
+  });
 });

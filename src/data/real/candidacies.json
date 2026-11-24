@@ -1,8 +1,8 @@
 {
  "source": {
-  "title": "Candidaturas presentadas a las elecciones al Congreso de los Diputados (BOE)",
-  "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607",
-  "date": "2026-10-28"
+  "title": "Candidaturas proclamadas a las elecciones al Congreso de los Diputados (BOE)",
+  "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+  "date": "2026-11-03"
  },
  "lists": [
   {
@@ -133,7 +133,7 @@
   {
    "province": "02",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Juan Blanco Castellanos",
@@ -155,14 +155,14 @@
     "Antonio Alfonso Francés Pérez",
     "María del Pilar Gay Bódalo",
     "Fulgencio José Cerdán Barceló",
-    "María Aracelí Poblador Pacheco",
+    "María Araceli Poblador Pacheco",
     "Antonio Jesús Rodes Juan",
     "Eva María Delgado Cabezuelo",
     "Enrique Moll Briones",
     "María Teresa Signes Pont",
     "Fernando David Portillo Esteve",
-    "María Francisca Marquez Bonmatí",
-    "Miguel Dominguez García",
+    "María Francisca Márquez Bonmatí",
+    "Miguel Domínguez García",
     "Asunción Llorens Ayela"
    ],
    "substitutes": [
@@ -215,7 +215,7 @@
    ],
    "substitutes": [
     "Minerva Linares Martin-Calpena (Independiente)",
-    "Ángel Martin Soto"
+    "Ángel Martín Soto"
    ]
   },
   {
@@ -226,7 +226,7 @@
    "candidates": [
     "Casimiro Martín Soto",
     "Amparo Cervantes Carbonell",
-    "Moisés Alcazar Fernández",
+    "Moisés Alcázar Fernández",
     "Eva Burguillo Murgui",
     "Carlos Ramón García Visos",
     "María Avigail Orejón Vidal",
@@ -244,8 +244,8 @@
     "María del Rosario De la Torre Meco",
     "Francisco José Soto Moreno",
     "Dalia Sala Arroyo",
-    "Marc Sáez Bri",
-    "Erica Pérez Agulló"
+    "Marc Sáez Brí",
+    "Érica Pérez Agulló"
    ]
   },
   {
@@ -283,8 +283,8 @@
     "Francisco Iniesta López",
     "Verònica Jerez Mira",
     "Andreu Bernabeu Martínez",
-    "Sophia Siobhani O'flaherty López",
-    "Manuel Giménez Agulló",
+    "Sophia Siobhan O'Flaherty López",
+    "Aitor Juan Luz",
     "Ana Quinto Salort",
     "Òscar Valeriano Ramírez Sales",
     "Beatriz Riera Bujedo",
@@ -293,8 +293,10 @@
    "substitutes": [
     "Andrea Pardo Calatayud",
     "Darío Moreno Alzuyet",
-    "Marta Gómez López",
-    "Carles Sansalvador I Llopis"
+    "María José García Roselló",
+    "Carles Sansalvador I Llopis",
+    "Gertrudis Hurtado García",
+    "Manuel Torres Luque"
    ]
   },
   {
@@ -314,7 +316,7 @@
     "Joaquín Giménez Soriano",
     "Francisca Vicente Cremades",
     "José Manuel García Escolano",
-    "Gema Alemán Pérez"
+    "Gema Aleman Pérez"
    ],
    "substitutes": [
     "Walter Quintero Betancourt",
@@ -343,31 +345,18 @@
     "Sara García Pérez"
    ],
    "substitutes": [
-    "Javier Mera Suárez",
-    "Paloma Jerez Cabello",
-    "Alberto José Mallofret Cebolla"
+    "Alberto José Mallofret Cebolla",
+    "Paloma Jerez Cabello"
    ]
   },
   {
    "province": "03",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
    "acronym": "FE de las JONS",
-   "candidates": [
-    "José Garcia Miralles",
-    "Inmaculada Gómez Canales",
-    "José Carlos Lozano Llopis",
-    "María del Mar Peñalver Díez",
-    "Juan Carlos Bermúdez Gómez",
-    "María Carmen Aura Llopis",
-    "David Ángeles Larumbe",
-    "María Teresa Salort Llorca",
-    "José Antonio Rossi Tortosa",
-    "Carmen María Martín Garcia Donas",
-    "José Antonio Serrano Serrano",
-    "Carmen Lobo Pérez"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "03",
@@ -530,21 +519,15 @@
    "province": "04",
    "partyId": "ipal",
    "name": "IZQUIERDA POR ALMERÍA",
-   "acronym": "IPAL",
-   "candidates": [
-    "Juan Andrés Ruiz López",
-    "Cristina Sáez Algarte",
-    "Serafín Maldonado García",
-    "Belén Granero Giménez",
-    "Adrián Corral Castillo",
-    "Antonio Reche Fernández"
-   ],
-   "substitutes": []
+   "acronym": "I.P.A.L.",
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "04",
    "partyId": "mundo-mas-justo",
-   "name": "POR UN MUNDO MÁS JUSTO",
+   "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
    "candidates": [
     "María Mercedes Quero Molina",
@@ -618,7 +601,7 @@
   {
    "province": "04",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Zacarías Lucas Lekal Villegas",
@@ -637,7 +620,7 @@
   {
    "province": "01",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA",
+   "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE",
    "acronym": "PSOE",
    "candidates": [
     "Javier Hurtado Domínguez",
@@ -654,10 +637,10 @@
    "province": "01",
    "partyId": "bildu",
    "name": "EUSKAL HERRIA BILDU",
-   "acronym": "EH Bildu",
+   "acronym": "EH BILDU",
    "candidates": [
     "Mikel Otero Gabirondo",
-    "Eba Blanco de Angulo",
+    "Eba Blanco De Angulo",
     "Jon Ruiz de Pinedo Lekuona",
     "Aitziber Salazar Arresti"
    ],
@@ -707,7 +690,7 @@
    "acronym": "VOX",
    "candidates": [
     "Jonathan Romero Gámiz",
-    "Giuliana Souza da Silva",
+    "Giuliana Souza Da Silva",
     "Manuel García González",
     "Tania Cabello Muñoz"
    ],
@@ -799,7 +782,7 @@
    "name": "PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
-    "Iñaki Oyarzábal de Miguel",
+    "Iñaki Oyarzábal De Miguel",
     "Eva Iglesias Llaneza",
     "Guillermo Sáez Viana",
     "Alba González de Langarica García"
@@ -858,13 +841,9 @@
    "partyId": "jl",
    "name": "JUSTICIA Y LEY",
    "acronym": "JL",
-   "candidates": [
-    "Ángel García Fernández Viñegra",
-    "Soukaina Aghmir Imaalmen",
-    "Eloy Garrido Echazarra",
-    "Hanae Aghmir Imaalmen"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "33",
@@ -908,7 +887,7 @@
    "name": "SE ACABÓ LA FIESTA",
    "acronym": "SALF",
    "candidates": [
-    "Luis Felipe Álvarez Pérez",
+    "Luis Álvarez Pérez",
     "Carmen Susana Rozada Fuente",
     "José Antonio Ariza Pino",
     "Carla Díaz Gómez",
@@ -986,7 +965,7 @@
    "province": "33",
    "partyId": "podemos",
    "name": "PODEMOS",
-   "acronym": "PAZ, CASA Y TRABAJO",
+   "acronym": "PODEMOS",
    "candidates": [
     "Manuel Antonio Pravia Fernández",
     "Silvia Tárano Vega",
@@ -1060,10 +1039,10 @@
    "name": "FRENTE AMPLIU POR ASTURIES",
    "acronym": "FA",
    "candidates": [
-    "Juan Antonio González Ponte (Izquierda Unida de Asturias)",
+    "Juan Antonio González Ponte",
     "Helena Díaz Cuervo",
     "Enrique López Hernández",
-    "Candela Guerrero Suárez (Independiente)",
+    "Candela Guerrero Suárez",
     "Rodrigo Díaz Calvo",
     "María del Carmen Álvarez Vázquez",
     "Alejandro Rodríguez Gayo"
@@ -1086,7 +1065,7 @@
     "Manuel Jiménez Rodríguez"
    ],
    "substitutes": [
-    "María Victoria de la Fuente Aparicio",
+    "María Victoria De la Fuente Aparicio",
     "Celestino Romo Suárez",
     "Isabel Vinuesa Muñoz"
    ]
@@ -1156,7 +1135,7 @@
    ],
    "substitutes": [
     "Tania Serna Félix",
-    "Luis Miguel Martín Albo",
+    "Luis MIguel Martín Albo",
     "Rosa María Martín Rodríguez"
    ]
   },
@@ -1199,7 +1178,7 @@
    "province": "05",
    "partyId": "pdsje",
    "name": "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS",
-   "acronym": "PDSJE",
+   "acronym": "P.D.S.J.E.",
    "candidates": [
     "Carmen Alicia Manchón Villaverde",
     "Clemente Antonio García Verdugo Galeote",
@@ -1213,7 +1192,7 @@
   {
    "province": "05",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Pablo Garcinuño García",
@@ -1250,16 +1229,17 @@
    "name": "SE ACABÓ LA FIESTA",
    "acronym": "SALF",
    "candidates": [
-    "German Martínez Valverde",
     "Violeta Casado Sarti",
-    "Samuel Chamizo Olmos",
-    "Cristina Sánchez Fuentes",
     "Manuel Ángel Mato Antolín",
-    "Clara María Báez Merino",
+    "Cristina Sánchez Fuentes",
     "Miguel Ángel Dorado Chamizo",
-    "Raquel González Carnero"
+    "Clara María Báez Merino"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Manuel Castañeda Guerrero",
+    "Raquel González Carnero",
+    "Francisco Javier Rodríguez Sánchez"
+   ]
   },
   {
    "province": "06",
@@ -1267,7 +1247,7 @@
    "name": "VOX",
    "acronym": "VOX",
    "candidates": [
-    "Ignacio Hoces Iñiguez",
+    "Ignacio Hoces Íñiguez",
     "Eva María García Alegre",
     "Fermín Manuel Prieto Martínez",
     "Margarita Inmaculada López de Ayala Díez de Rivera",
@@ -1300,7 +1280,7 @@
    "acronym": "NEX",
    "candidates": [
     "Víctor Ramos Sánchez",
-    "Lucía Sánchez Rodríguez",
+    "Lucía Sánchez Gutiérrez",
     "Daniel Serrano Serrano",
     "Elena Martín De Tena",
     "Manuel Gallardo Guerrero"
@@ -1332,34 +1312,30 @@
   {
    "province": "06",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "María del Pilar Ramos Duro",
     "Arturo José Justicia Bermejo",
     "Mercedes Gallego Cano",
     "Adrián Rodríguez Santos",
-    "María Dolores Jiménez Hernández",
+    "María Dolores Jiménez Hernández"
+   ],
+   "substitutes": [
     "Juan Eugenio Mena Cabezas",
-    "Andrea Macías Rodríguez",
+    "Andrea Macías Moreno",
     "Jesús Merino González",
     "María Arenas Lopera"
-   ],
-   "substitutes": []
+   ]
   },
   {
    "province": "06",
-   "partyId": "j-u-e-x",
+   "partyId": "juex",
    "name": "JUNTOS POR EXTREMADURA",
    "acronym": "J.U.E.X.",
-   "candidates": [
-    "Francisco Fuentes Gutiérrez",
-    "Carmen Albújar Torrado",
-    "José Ramón Gamero Pimienta",
-    "María de la Luz Castilla Santos",
-    "Lázaro Elías Ramos"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "06",
@@ -1418,11 +1394,11 @@
     "Eduard Soriano Vives",
     "Sara Alcaraz Páez",
     "Enrique Mas Martínez",
-    "Azahara Peña De la Fuente",
+    "Azahara Peña de la Fuente",
     "Xavier Colom Lozano"
    ],
    "substitutes": [
-    "Maria Ángels Pons Carrera",
+    "Maria Àngels Pons Carreras",
     "Iñaki De Eróstegui Aznar",
     "Maria Duran Febrer"
    ]
@@ -1433,7 +1409,7 @@
    "name": "VOX",
    "acronym": "VOX",
    "candidates": [
-    "Maria Isabel Cerezo Sánchez",
+    "María Isabel Cerezo Sánchez",
     "Antonio Salvá Verd",
     "Melina Merki Salaberry",
     "Héctor Rubén Andrés Delgado",
@@ -1452,21 +1428,9 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "María Remedios García Castillo",
-    "Francisco González Benito",
-    "Marijana Rabrenovic Simic",
-    "Carles Ferrán Suárez Carrillo",
-    "Mónica Cecilia Rodríguez Carreño",
-    "Gonzalo Eugenio Grijelmo Dorao",
-    "Pilar Gallego Bernal",
-    "José Luis Atero Gómez"
-   ],
-   "substitutes": [
-    "Natalia Lihiuen Ocampo Lo Russo",
-    "Juan Ignacio Cabrera Herrero",
-    "María José Luque Ventosa"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "07",
@@ -1526,7 +1490,7 @@
     "Francisco Ferrer Tur",
     "Ana Carrasco Pérez",
     "Guillem Mut Salvá",
-    "María Lourdes Mari Tur",
+    "María Lourdes Marí Tur",
     "Julià Mir Tugores",
     "Rosa María Tarragó Llobera",
     "Javier Torres Ribas",
@@ -1541,24 +1505,24 @@
    "name": "ARAMÉS-FRONT AMPLI",
    "acronym": "ARAMÉS-EU-MS",
    "candidates": [
-    "Carmen Gomila Domínguez (ARAMÉS-EU-MS)",
+    "Carme Gomila Domínguez (ARAMÉS-EU-MS)",
     "Sergio Cerezo Gómez (ARAMÉS-EU-MS)",
-    "Lucía Muñoz Dalda (Independiente)",
+    "Lucía Muñoz Dalda (Independent)",
     "Mateu Berenguer Munté (ARAMÉS-EU-MS)",
     "Vicenta Mengual Lull (ARAMÉS-EU-MS)",
     "Òscar Evaristo Rodríguez Aller (ARAMÉS-EU-MS)",
-    "Núria García Caballeria (ARAMÉS-EU-MS)",
+    "Núria Garcia Caballeria (ARAMÉS-EU-MS)",
     "Isidor Marí Mayans (ARAMÉS-EU-MS)"
    ],
    "substitutes": [
     "Ana Ordóñez Franco (ARAMÉS-EU-MS)",
-    "Antoni María Rosselló Company (ARAMÉS-EU-MS)",
+    "Antoni Maria Rosselló Company (ARAMÉS-EU-MS)",
     "Pilar Serra Rotger (ARAMÉS-EU-MS)",
     "Manuel Carnerero Hortigosa (ARAMÉS-EU-MS)",
     "Gemma Ferrer Carreras (ARAMÉS-EU-MS)",
-    "Guillermo Amengual Cantallops (ARAMÉS-EU-MS)",
+    "Guillermo Amengual Cantallops (Progreso en Verde)",
     "Joana Gomila Lluch (ARAMÉS-EU-MS)",
-    "Juan Carlos Domínguez Martín (ARAMÉS-EU-MS)",
+    "Juan Carlos Domínguez Martín (Recortes Cero)",
     "Emma Cecilia Holm Viñao (ARAMÉS-EU-MS)",
     "Jorge Roselló Bouso (ARAMÉS-EU-MS)"
    ]
@@ -1576,15 +1540,15 @@
     "Francisco Aranda Vargas",
     "Rosa Sanz Sánchez",
     "Carlos Prieto Gómez",
-    "M. Carmen Garcia-Calvillo Moreno",
+    "M. Carmen García-Calvillo Moreno",
     "Arnau Ramírez Carner",
     "Andrea Canelo Matito",
     "Ferran Verdejo Vicente",
     "Pilar Díaz Romero",
     "Juan Carlos Jerez Antequera",
-    "Eva Ruíz Jurado",
+    "Eva Ruiz Jurado",
     "Ignasi Conesa Coma",
-    "Iman Aisa Abdellaoui",
+    "Imán Aisa Abdellaoui",
     "Josep Paré Aregall",
     "M. Dolores Hermoso Castaño",
     "Oriol Almirón Ruiz",
@@ -1597,7 +1561,7 @@
     "Zaira Pérez Mateo",
     "Arnau Ruiz Luque",
     "Cinthya Walkidia Maldonado Mendez",
-    "Marc Tolrà Rosell",
+    "Marc Tolrà i Rosell",
     "Judit Pinilla Vazquez",
     "Matías Carnero Sojo",
     "Isabel Ruiz Llamas"
@@ -1606,13 +1570,13 @@
     "Sergi Navarro i Acosta",
     "Milagros Casas Rodríguez",
     "Moisés Rodríguez Cantón",
-    "Noelia De Cortés Hormigo Valle",
+    "Noelia de Cortés Hormigo Valle",
     "Tomás Pinel Lopez",
     "Montserrat Albacete Burgueño",
     "Ferran Segarra Sánchez",
     "Judith Robles Lafuente",
     "Eduardo Valencia Hernán",
-    "Inmaculada Bajo De La Fuente"
+    "Inmaculada Bajo de la Fuente"
    ]
   },
   {
@@ -1642,7 +1606,7 @@
     "Montserrat Girbau i Passarell",
     "Joan Baltà i Torredemer",
     "Meritxell Llisterri i Manent",
-    "Marcel·Lí Martorell i Font",
+    "Marcel·lí Martorell i Font",
     "Gemma Paterna i Vilalta",
     "Albert Ripol i Sancho",
     "Ana Maria Casamian i Gould",
@@ -1655,12 +1619,12 @@
     "Joan Vallvé i Ribera"
    ],
    "substitutes": [
-    "Carmen Torralva i De La Guàrdia",
+    "Carmen Torralva i de la Guàrdia",
     "Pere Clota i Quesada",
     "Paula Moyano i Ramon",
     "David Ramey i Ramírez",
     "Ma. Antònia Martínez i Ginesta",
-    "Marcel·Lí Bosch i Muntal",
+    "Marcel·lí Bosch i Muntal",
     "Anna Arjona i Poquet",
     "Aureli Ruiz i Milà",
     "Olga Fargas i Obiols",
@@ -1693,7 +1657,7 @@
     "Rosa Pou Baró",
     "Enric Collado Pla",
     "Alba Torras Muñoz",
-    "Íñigo Garcia De Enterria i Adan",
+    "Íñigo Garcia de Enterria i Adan",
     "Núria Satorra Menal",
     "David Clará García (Independent)",
     "Carme Torrents Aubia",
@@ -1728,9 +1692,9 @@
     "Daniel Carro Peralta",
     "Silvia Gimenez Mayol",
     "Dwayne Burge Cano",
-    "Maria De Los Reyes González Lopez",
+    "Maria de los Reyes González Lopez",
     "Josep Pascual Chacón",
-    "Nuria Mahamud De La Peña",
+    "Nuria Mahamud de la Peña",
     "Aitor Hurtos Martinez",
     "Marta Aguilella García",
     "Adrià Robles García",
@@ -1744,7 +1708,7 @@
     "Arnau Pla García",
     "Laia Gimenez Mayol",
     "Gonzalo Pujol Alonso",
-    "Maria Del Alba Alvarez Gonzalez",
+    "Maria del Alba Alvarez Gonzalez",
     "Alex Caballe Sanchez",
     "Marta Morales Risquez",
     "Jose Antonio Gallo Santiago",
@@ -1792,8 +1756,8 @@
     "Javier Alejandro Hernan Gamero",
     "Esther Navarro Justicia",
     "Emilio Aguilar Pulido",
-    "Maria De Los Angeles Fernandez Cano",
-    "Lester Gabriel De La Noval Gomez",
+    "Maria de los Angeles Fernandez Cano",
+    "Lester Gabriel de la Noval Gomez",
     "Maria Foix Queralto Salguero",
     "Ricardo Martinez Gonzalez",
     "Mireia Risquez Murillo",
@@ -1804,7 +1768,7 @@
     "Victor Manuel Alcañiz Losa",
     "Sheila Segura Lopez",
     "Jose Maria Garcia Andujar",
-    "Maria Del Pilar Porras Alba"
+    "Maria del Pilar Porras Alba"
    ]
   },
   {
@@ -1859,14 +1823,14 @@
     "Juan José Aizcorbe Torra",
     "Carina Mejías Sánchez",
     "Ignacio Fontcuberta Fernández",
-    "María Del Rosario Mesas Company",
+    "María del Rosario Mesas Company",
     "José Antonio Gilabert Delgado",
     "Júlia Calvet Puig",
     "Andrés Félix Bello Sanz",
     "Alicia Tomás Martínez",
     "Marc Cívico Morales",
     "Mónica Soria Verdión",
-    "Gonzalo De Oro-Pulido Plaza",
+    "Gonzalo de Oro-Pulido Plaza",
     "Mónica Lora Císquer",
     "Francisco Javier González Priego",
     "Núria Alejandra Acacio Montesinos",
@@ -1899,12 +1863,12 @@
   {
    "province": "08",
    "partyId": "frente-amplio",
-   "name": "COMUNS-FRONT AMPLI",
+   "name": "Comuns-Front Ampli",
    "acronym": "COMUNS-FRONT AMPLI",
    "candidates": [
     "Ada Colau Ballano",
     "Ernest Urtasun Domènech",
-    "Júlia Miralles De Imperial Pujol",
+    "Júlia Miralles de Imperial Pujol",
     "Andrés García Berrio",
     "Lucía Martín González",
     "Juan Miguel Mena Arca",
@@ -1916,7 +1880,7 @@
     "Harouna Zerbo Pare",
     "Yolanda Sánchez Alcaraz",
     "Eduard Navarro García",
-    "Noemi Ayguasenosa Soro",
+    "Noemí Ayguasenosa Soro",
     "Albert Guasch Luján",
     "Mercè Claramunt Bielsa",
     "José Antonio Montero Domínguez",
@@ -1929,11 +1893,11 @@
     "Yolanda Ojeda Losada",
     "Daniel Jiménez Hernández",
     "Laura Rafart Virgili",
-    "Angel-Gerardo Pisarello Prados",
+    "Gerardo Pisarello Prados",
     "Antonina Rodrigo García",
     "Joan Subirats Humet",
     "Laura Campos Ferrer",
-    "Jose Carlos Vallejo Calderon"
+    "José Carlos Vallejo Calderón"
    ],
    "substitutes": [
     "María Del Carmen Gasulla Blanco",
@@ -1951,16 +1915,16 @@
   {
    "province": "08",
    "partyId": "pp",
-   "name": "PARTIT POPULAR/PARTIDO POPULAR",
+   "name": "PARTIT POPULAR / PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
     "Xavier García Albiol",
-    "Marta Urgellés Gil De Solá",
+    "Marta Urgellés Gil de Solá",
     "Juan Bautista Milián Querol",
     "Belén Marrón Reigosa",
-    "Ignacio De Loyola (Nacho) Martín Blanco",
+    "Ignacio de Loyola (Nacho) Martín Blanco",
     "Cristina Agüera Gago",
-    "Hugo Aberto Manchón García",
+    "Hugo Alberto Manchón García",
     "Irene Pardo Romera",
     "Daniel Serrano Coronado",
     "Andrea Llopart Gonzalo",
@@ -1971,15 +1935,15 @@
     "Pau Ferran Navarro",
     "María Estrella Salanova Casajuana",
     "Javier Casas Sánchez",
-    "María Elisa De Mata Arnaldo",
-    "Manuel Jesus Casado Ruiz",
+    "María Elisa de Mata Arnaldo",
+    "Manuel Jesús Casado Ruiz",
     "Elisabet Ortega Robles",
     "Miguel Jurado Tejada",
     "Natalia Ortega Fernández",
-    "Víctor Martí De Villasante",
+    "Víctor Martí de Villasante",
     "Soraya Muñoz Heredia",
     "Juan José Giner Espinosa",
-    "Alexandra Ladrón De Guevara Humánez",
+    "Alexandra Ladrón de Guevara Humánez",
     "Francisco Javier Jiménez Ríos",
     "María Carmen Torres Cassany",
     "Raúl Collbatallé Simón",
@@ -1991,9 +1955,9 @@
     "Jaime Ridao Villalón",
     "Tatiana Cabrera Endara",
     "Ismael Bayarri Jaso",
-    "María Del Carmen Elena Valderas Sáez",
+    "María del Carmen Elena Valderas Sáez",
     "Nicolás Gil López",
-    "Aina Sánchez De Rojas Blasco",
+    "Aina Sánchez de Rojas Blasco",
     "Xavier Hernández i Ferran",
     "Sonia Expósito Arcas",
     "Marc Bettosini Castellví",
@@ -2005,46 +1969,14 @@
    "partyId": "mundo-mas-justo",
    "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
-   "candidates": [
-    "Ana María Surra Spadea",
-    "Gonzalo Santandreu Iorite",
-    "Brenda Elizabeth Zambrano Rivera",
-    "Marco Antonio Quito Palacios",
-    "Annabelle Del Rocío Intriago Intriago",
-    "Alberto Baltar Cabanillas",
-    "Llliana Yanette Juanicotenea Díaz",
-    "Josep Maymo Soldevila",
-    "Marta Mba Ayecaba",
-    "Marcelo Daniel Romero Romero",
-    "Lorena Vanessa Ramírez Candiles",
-    "Diego Martín Mateos Figueiredo",
-    "Nancy Jaqueline Peña Mascheroni",
-    "Óscar Tortajada Hortelano",
-    "Karina Giselle Presentado Soria",
-    "Iyke Akabuike Akabuike",
-    "Ketty Mónica Del Castillo Castro",
-    "Christopher-Chidi Okafor Okafor",
-    "Leticia Duclos Vallis",
-    "Amaechi-Timothy Erugo Ekechi",
-    "Francisca Salazar Perea",
-    "Hebert Antonio Araujo Olivera",
-    "Marta Escalada Salazar",
-    "José Luis Pereira Ferrou",
-    "María Dolors Moreno Mendez",
-    "Nicolás Gerlach Delgado",
-    "Laura Aida Bentancourt Cestau",
-    "Julio César Orrego Victorino",
-    "Lorena Valverde Manzanares",
-    "Álvaro Gustavo Pérez Castro",
-    "Magali Jacqueline Saldombide Sosa",
-    "Jorge Alonso Díaz"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "08",
    "partyId": "d21",
-   "name": "DEMOCRACIA PARA EL SIGLO 21",
+   "name": "DEMOCRACIA para el siglo 21",
    "acronym": "D21",
    "candidates": [
     "David Andrés Díaz",
@@ -2055,8 +1987,8 @@
     "María Rodríguez Murillo",
     "Carlos Linares Gómez",
     "Judith Rodríguez Marín",
-    "José Luis De La Rosa Núñez",
-    "Ruth Baygual De Ferrater",
+    "José Luis de la Rosa Núñez",
+    "Ruth Baygual de Ferrater",
     "Joaquín Brik Alcañiz",
     "Gloria Feliu Iglesias",
     "Jordi Cañas Manubens",
@@ -2072,8 +2004,8 @@
     "Germán Castillo Picón",
     "Sonia Reina Sánchez",
     "Iván Borrego Valverde",
-    "Cristina De Pelegrí Echeverría",
-    "Gustavo Fabián De Lío Pérez",
+    "Cristina de Pelegrí Echeverría",
+    "Gustavo Fabián de Lío Pérez",
     "Susana Casino López",
     "Enrique Luis López Viguria (Independiente)",
     "Laia Garrido Angarón",
@@ -2098,45 +2030,9 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "Beatriz Arévalo Rodrigo",
-    "Dimitri Nagib Defranc Cevallos",
-    "Alba García Roldan",
-    "Íñigo Urruchi Sagredo",
-    "Elisa López-Mateos Moreno",
-    "Gonzalo Blanca Bonilla",
-    "Maria Sol Costarrosa Marcos",
-    "Juan Jose Corres Orue",
-    "Rosa Domínguez Merino",
-    "Aldo Alcaraz Diaz De Liaño",
-    "Leonor Díaz De Liaño Serra",
-    "Javier Muñoz Aranda",
-    "Elisabet Ayuste Santana",
-    "Iván Tomsen Munné",
-    "Patricia Alfani Moncusi",
-    "Francisco Javier Martí Vallès",
-    "Cristina García González",
-    "Francesc De Paula Cardoner Puig",
-    "Luisa Claver Oñate",
-    "Javier López Morán",
-    "Sonia Hernández Jové",
-    "Javier Hernández Valverde",
-    "Ana María Lisbona Sacristan",
-    "Jose Manuel Diaz De Quijano Vizcaigana",
-    "Susana Avilés Toré",
-    "Eric Sánchez Alcalde",
-    "Francisca Alcalde Fernandez",
-    "Jose Luis Dolz Fernández",
-    "Edita Olaizola Fernández",
-    "Mario Lanero Fernánzdez",
-    "Eva María Borbón Ros",
-    "David Matamala Martínez"
-   ],
-   "substitutes": [
-    "Antonia Cañete Serrano",
-    "Maximino Cordero Erustes",
-    "Lorena Torrano Bote"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "08",
@@ -2144,33 +2040,33 @@
    "name": "ALHORA",
    "acronym": "ALHORA",
    "candidates": [
-    "Jordi Graupera Garcia Milà",
-    "Maria Del Pilar Carracelas Argiz",
+    "Jordi Graupera i Garcia Milà",
+    "Pilar Carracelas Argiz",
     "Joan Ricart Angulo",
     "Maria Bosch Soler",
     "Antoni Romero Cervià",
     "Elisabet Vives Requena",
     "Josep Torrens Viladecans",
     "Paula Mas Dapena",
-    "Josep Maria Losantos Sistach",
+    "Robert Garrigós i Castro",
     "Ingrid Narcisa Vilanova Karlsson",
     "Josep Subirana Jové",
     "Núria Inglada Cardona",
-    "Eduard Castellet Torrents",
+    "Eduard Castellet i Torrents",
     "Joana Verdera Font",
     "Joan Àngel Coll Marí (Independent)",
     "Pit-Roig Vinyals i Tasa (Independent)",
     "Ismael Florentin Mínguez Peña",
     "Beatriz Jiménez Gómez",
     "Joan Jorquera Bordonau (Independent)",
-    "Núria Saurí Sánchez",
+    "Núria Sauri Sánchez",
     "Antoni Mazaira Font",
-    "Anna Mujal Colilles",
+    "Anna Mujal i Colilles",
     "Héctor Casas Pinto (Independent)",
     "Àstrid Alemany Jaime",
-    "Josep Selga Brunet (Independent)",
-    "Jana Peñafiel Román",
-    "Maurici Santamaria Cots (Independent)",
+    "Josep Selga i Brunet (Independent)",
+    "Jana Peñafiel Roman",
+    "Maurici Santamaria i Cots (Independent)",
     "Esther Vilar Roca",
     "Albert Buigues Ortolà",
     "Assumpta Vilajosana Estopiñán",
@@ -2180,11 +2076,10 @@
    "substitutes": [
     "Sergi Bo Gudiol",
     "Elisabet Arjant Mas",
-    "Oriol Carbonell González (Independiente)",
-    "Meritxell Escuder De La Torre",
-    "Robert Garrigós Castro",
-    "Rosa Homs Serradesanferm",
-    "Sergi Vives Rodon"
+    "Oriol Carbonell González (Independent)",
+    "Meritxell Escuder i de la Torre",
+    "Sergi Vives Rodon",
+    "Rosa Homs Serradesanferm"
    ]
   },
   {
@@ -2203,7 +2098,7 @@
     "Aitor Sorriketa Larrea"
    ],
    "substitutes": [
-    "Amaia del Campo Berasategi",
+    "Amaia Del Campo Berasategi",
     "Ander Suárez Latas",
     "Maitane Zearreta Lizarte"
    ]
@@ -2211,7 +2106,7 @@
   {
    "province": "48",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA",
+   "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE",
    "acronym": "PSOE",
    "candidates": [
     "Patxi López Alvarez",
@@ -2233,7 +2128,7 @@
    "province": "48",
    "partyId": "bildu",
    "name": "EUSKAL HERRIA BILDU",
-   "acronym": "EH BILDU",
+   "acronym": "EH Bildu",
    "candidates": [
     "Oskar Matute Garcia de Jalón",
     "Marije Fullaondo La Cruz",
@@ -2258,7 +2153,7 @@
    "candidates": [
     "Sergio Saenz Álvarez",
     "Igone Bastida Esteban",
-    "Mikel Tapia Garcia del Valle",
+    "Mikel Tapia Garcia Del Valle",
     "Saioa Cuadrado Recio",
     "Unai Vidaurrazaga Sola",
     "Laura Alonso Ameyugo",
@@ -2386,7 +2281,7 @@
    ],
    "substitutes": [
     "Beatriz Calvo Fernández",
-    "Carlos David García Fernández",
+    "Carlos D. García Fernández",
     "Covadonga Aldamiz-Echevarria Gonzalez de Durana"
    ]
   },
@@ -2412,17 +2307,9 @@
    "partyId": "pfac",
    "name": "FEMINISTAS AL CONGRESO",
    "acronym": "PFAC",
-   "candidates": [
-    "Pilar Aguilar Carrasco",
-    "Jon Etxeandia Intxaurtieta (Independiente)",
-    "Alicia Varón García Amilibia",
-    "Jose Antonio Martín Acosta",
-    "Amaia Goiri Elcoro (Independiente)",
-    "Izukaitz Blanco Cortajarena (Independiente)",
-    "Paula Castera Zabalza (Independiente)",
-    "Alvaro Adolfo Larrubia Vidal (Independiente)"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "09",
@@ -2431,9 +2318,9 @@
    "acronym": "FO",
    "candidates": [
     "Gonzalo Herrero Burgos",
-    "Ángela Roibas Sanclodio",
+    "Angela Roibas Sanclodio",
     "Rubén Antón Tome",
-    "Laura Diaz Baldio"
+    "Laura Diaz Baldío"
    ],
    "substitutes": []
   },
@@ -2446,12 +2333,12 @@
     "Esther Peña Camarero",
     "Álvaro Morales Álvarez",
     "Amparo Simón Lázaro",
-    "Eduardo Martín Ortiz"
+    "Eduardo Martin Ortiz"
    ],
    "substitutes": [
     "Nerea Angulo González",
-    "Jose Luis Aragon Abajo",
-    "Lorena Terreros Gordón"
+    "José Luis Aragón Abajo",
+    "Lorena Terreros Gordon"
    ]
   },
   {
@@ -2460,8 +2347,8 @@
    "name": "SE ACABÓ LA FIESTA",
    "acronym": "SALF",
    "candidates": [
-    "Marcos Santamaría del Olmo",
-    "Raquel Basilio Barreiro",
+    "Marcos Santamaría Del Olmo",
+    "Lucía Echevarrieta Martín",
     "Diego Ibeas Cubillo",
     "Blanca María Gómez Arbeo"
    ],
@@ -2476,9 +2363,9 @@
    "name": "PODEMOS",
    "acronym": "PODEMOS",
    "candidates": [
-    "Isabel Lara Benitez",
+    "Isabel Lara Benítez",
     "Rodrigo Braceras López",
-    "María Ángeles Pizarro de la Fuente",
+    "María Ángeles Pizarro De La Fuente",
     "Lucas Hernaez Gil"
    ],
    "substitutes": [
@@ -2510,9 +2397,9 @@
    "acronym": "MUNDO+JUSTO",
    "candidates": [
     "Elsa Colina Arreba",
-    "Rodrigo del Pozo Fernández",
+    "Rodrigo Del Pozo Fernández",
     "Paula Vegas Hernández",
-    "Jose Martín Gutierrez Ortega"
+    "José Martín Gutiérrez Ortega"
    ],
    "substitutes": []
   },
@@ -2521,9 +2408,15 @@
    "partyId": "pcte",
    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
    "acronym": "PCTE",
-   "candidates": [],
-   "substitutes": [],
-   "note": "Candidatura inadmitida por acuerdo de la Junta Electoral Provincial de Burgos de 27 de octubre de 2026."
+   "candidates": [
+    "Rubén Cabezón Milla",
+    "Miriam Ulecia Saiz",
+    "Daniel Jesser Rad Hind",
+    "Ana Bujedo Moreno"
+   ],
+   "substitutes": [
+    "Sergio Lorenzana Redondo"
+   ]
   },
   {
    "province": "09",
@@ -2533,7 +2426,7 @@
    "candidates": [
     "Ángel Mariano Ibáñez Hernando",
     "Andrea Ballesteros Palacios",
-    "Adrián Serna del Pozo",
+    "Adrián Serna Del Pozo",
     "Sara González Moreno"
    ],
    "substitutes": [
@@ -2545,12 +2438,12 @@
   {
    "province": "09",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Fernando José Saiz Martínez",
     "María Isabel Alameda Abejón",
-    "Ramón Jose Mas Figueroa",
+    "Ramón José Mas Figueroa",
     "Concepción Rollizo Sanz"
    ],
    "substitutes": [
@@ -2562,7 +2455,7 @@
   {
    "province": "10",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA DE CÁCERES",
+   "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
    "acronym": "PSOE",
    "candidates": [
     "Irene Pozas García",
@@ -2603,7 +2496,7 @@
     "Rubén Albalá Manuel",
     "Alicia Torio Elices",
     "Pedro Fernández García",
-    "María del Carmen Ruíz Álvarez"
+    "María del Carmen Ruiz Álvarez"
    ],
    "substitutes": [
     "Abraham Sánchez Busto"
@@ -2632,7 +2525,7 @@
    "acronym": "FO",
    "candidates": [
     "Mónica Pérez Gaite",
-    "Jesús Villanueva Del Olmo",
+    "Jesús Villanueva del Olmo",
     "Ana Isabel Paramo Martín",
     "Rodrigo Menor de Gaspar López"
    ],
@@ -2657,16 +2550,12 @@
   },
   {
    "province": "10",
-   "partyId": "j-u-e-x",
+   "partyId": "juex",
    "name": "JUNTOS POR EXTREMADURA",
    "acronym": "J.U.E.X.",
-   "candidates": [
-    "Raúl González Holgado",
-    "María Borrero Solano",
-    "Ángel Luis Tiemblo Pérez",
-    "María Margarita Cordero Marcos"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "10",
@@ -2684,7 +2573,7 @@
   {
    "province": "10",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Antonio Moreno Pérez",
@@ -2860,22 +2749,22 @@
   {
    "province": "11",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO ANDALUZ",
+   "name": "Frente Amplio Andaluz",
    "acronym": "FA",
    "candidates": [
-    "Esther Francisca Gil de Reboleño Lastortres (Movimiento Sumar)",
-    "Pedro Pablo Santamaría Curtido (Izquierda Unida Andalucía)",
-    "Johanna Carla González Aragón (Movimiento Sumar)",
-    "José Alfaro Berenguer (Izquierda Unida Andalucía)",
-    "Ana Isabel Medina Curquejo (Izquierda Unida Andalucía)",
-    "Alfredo José Charques Calderón (Verdes Equo)",
-    "Ana María Muñoz Colera (Recortes Cero)",
-    "Raúl Berlanga Valenzuela (Iniciativa del Pueblo Andaluz)"
+    "Esther Francisca Gil de Reboleño Lastortres",
+    "Pedro Pablo Santamaría Curtido",
+    "Johanna Carla González Aragón",
+    "José Alfaro Berenguer",
+    "Ana Isabel Medina Curquejo",
+    "Alfredo José Charques Calderón",
+    "Ana María Muñoz Colera",
+    "Raúl Berlanga Valenzuela"
    ],
    "substitutes": [
-    "María Paz Peña Cuenca (Movimiento Sumar)",
-    "Ramón Vela Fernández (Movimiento Sumar)",
-    "Alba Zambrano Cabrera (Izquierda Unida Andalucía)"
+    "Rocío González Rodríguez",
+    "Ramón Vela Fernández",
+    "Alba Zambrano Cabrera"
    ]
   },
   {
@@ -2942,14 +2831,14 @@
    "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
    "acronym": "PSOE",
    "candidates": [
-    "Susana Herran Martin",
+    "Susana Herrán Martín",
     "Eduardo Magaldi González",
     "Gema Fernández Fernández",
     "Alejandro Llano Martínez",
     "Celia Bustamante Salcines"
    ],
    "substitutes": [
-    "Jorge Revuelta Diaz",
+    "Jorge Revuelta Díaz",
     "Ana Martínez Agudo",
     "Julio Cires Martínez",
     "María Mercedes Carrera Escobedo"
@@ -2961,11 +2850,11 @@
    "name": "FRENTE OBRERO",
    "acronym": "FO",
    "candidates": [
-    "Raúl Diaz Roces",
+    "Raúl Díaz Roces",
     "Mónica Ricciardiello Caballero",
     "Igor Martínez Losada",
-    "Pilar Vicenta Alba Gallarda",
-    "Rene Fernández Gámez"
+    "Pilar Vicenta Alba Gallardo",
+    "René Fernández Gámez"
    ],
    "substitutes": []
   },
@@ -2979,11 +2868,11 @@
     "Mónica Rodero Rodríguez",
     "Julio Luis Medina Pasaje",
     "Ana María Haya Blanco",
-    "Ruben Madrazo Muela"
+    "Rubén Madrazo Muela"
    ],
    "substitutes": [
     "Mirian Begoña Arenas Basterra",
-    "Javier San Martin Castaño",
+    "Javier San Martín Castaño",
     "María Argentina Cabarga Peña"
    ]
   },
@@ -2993,7 +2882,7 @@
    "name": "VOX",
    "acronym": "VOX",
    "candidates": [
-    "Emilio Jesús del Valle Rodríguez",
+    "Emilio Jesús Del Valle Rodríguez",
     "Laura Velasco Gutiérrez",
     "Antonio de la Riva Herrero",
     "Sonia Manteca Pando",
@@ -3014,7 +2903,7 @@
     "Cristina González Vítores",
     "Diego García-Oliva Stohr",
     "Julia Fábrega Torrano",
-    "Diego Guirau Berrueco"
+    "Diego Guirao Berrueco"
    ],
    "substitutes": [
     "Laura González Diego"
@@ -3026,7 +2915,7 @@
    "name": "PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
-    "María Isabel Urrutia de los Mozos",
+    "María Isabel Urrutía de los Mozos",
     "Félix de las Cuevas Cortés",
     "Eva Balbín García",
     "Oscar Clemente Campo",
@@ -3044,10 +2933,10 @@
    "name": "FRENTE AMPLIO",
    "acronym": "FA",
    "candidates": [
-    "María Carmen Martin García",
+    "María Carmen Martín García",
     "José Luis de la Mata Mancebo",
     "Carmen Fuentes Sáinz",
-    "José María Campuzano García-Bárcena",
+    "José María Campuzano García Bárcena",
     "Verónica Canel Montero"
    ],
    "substitutes": [
@@ -3226,7 +3115,7 @@
    ],
    "substitutes": [
     "Borja Castell Simó",
-    "María Del Carmen Saura Allepuz",
+    "María del Carmen Saura Allepuz",
     "Andrés Redó Viñes"
    ]
   },
@@ -3239,12 +3128,12 @@
     "Isabel Rodríguez García",
     "Julián Nieva Delgado",
     "Cristina López Zamora",
-    "Santiago Martin Campos",
+    "Santiago Martín Campos",
     "María Montes Sánchez"
    ],
    "substitutes": [
     "Alonso Sánchez Arriaga",
-    "Barbara Lucia Sánchez-Hermosilla Murillo",
+    "Bárbara Lucía Sánchez-Hermosilla Murillo",
     "Honorio Cañizares Nielfa"
    ]
   },
@@ -3254,11 +3143,11 @@
    "name": "FRENTE OBRERO",
    "acronym": "FO",
    "candidates": [
-    "Raül Abengózar Galán",
-    "Alba Del Castillo Castellanos",
+    "Raúl Abengozar Galán",
+    "Alba del Castillo Castellanos",
     "Mario Amorós Alcolea",
-    "Magaly Del Carmen Allen López",
-    "Pedro Juan Gómez-Limón Sánchez"
+    "Magaly del Carmen Allen López",
+    "Pedro Juan Gómez Limón Sánchez"
    ],
    "substitutes": []
   },
@@ -3270,7 +3159,7 @@
    "candidates": [
     "Ricardo Chamorro Delmo",
     "Esperanza Arriaga Hernández",
-    "Jose Luis Romero Hombrebueno Gómez",
+    "José Luis Romero Hombrebueno Gómez",
     "María Dolores Gómez Moreno",
     "Rodrigo Jaime Mac-Crohon Medina"
    ],
@@ -3290,7 +3179,7 @@
     "Diego Ruiz Figueroa",
     "Clorinda Ivonne Tejada Chauca",
     "José Manuel Lucerón Lucerón",
-    "Minerva Del Hoyo Ramírez"
+    "Minerva del Hoyo Ramírez"
    ],
    "substitutes": []
   },
@@ -3300,7 +3189,7 @@
    "name": "PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
-    "María Del Carmen Fúnez De Gregorio",
+    "María Del Carmen Fúnez de Gregorio",
     "Enrique Belda Pérez Pedrero",
     "Sonia González Martínez",
     "Luis Ramón Mohíno López",
@@ -3315,14 +3204,14 @@
   {
    "province": "13",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Juana Caro Marín",
-    "Óscar Del Fresno Novillo",
-    "María Marchante Armero",
+    "Óscar del Fresno Novillo",
+    "María Elisa Díaz Argüelles",
     "Álex Ferrón Hernández",
-    "María Elisa Díaz Argüelles"
+    "María Marchante Armero"
    ],
    "substitutes": [
     "Tomás Guijarro Herrera",
@@ -3551,8 +3440,8 @@
   {
    "province": "15",
    "partyId": "psoe",
-   "name": "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE",
-   "acronym": "PSDEG-PSOE",
+   "name": "Partido dos Socialistas de Galicia-PSOE",
+   "acronym": "PSdeG-PSOE",
    "candidates": [
     "Obdulia Taboadela Álvarez",
     "Julián Reina Villalón",
@@ -3609,7 +3498,7 @@
     "Olaya Otero Sanjurjo",
     "Manuel Santos Ruiz Rivas",
     "Tristana María Moraleja Gómez",
-    "Gonzalo Mora do Campo",
+    "Gonzalo Mora Do Campo",
     "Noelia Freijeiro Novo"
    ],
    "substitutes": [
@@ -3640,21 +3529,9 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "María Francisca Santos Vázquez",
-    "Manuel Vázquez Núñez",
-    "María del Pilar Grandal Azpeitia",
-    "José Luis Vázquez Pérez-Coleman",
-    "María Arántzazu Ortega Jiménez",
-    "Luis Miguel González Seijas",
-    "Olga María Navarrete Cabezas",
-    "Rogelio Navarrete García"
-   ],
-   "substitutes": [
-    "Elena Escudero Palazón",
-    "Yago Rafael Ricoy Martínez",
-    "María Milagros Rodríguez Menéndez"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "15",
@@ -3679,7 +3556,7 @@
    "province": "15",
    "partyId": "bng",
    "name": "BLOQUE NACIONALISTA GALEGO",
-   "acronym": "BNG",
+   "acronym": "B.N.G.",
    "candidates": [
     "Néstor Rego Candamil",
     "Rosana Pérez Fernández",
@@ -3740,10 +3617,10 @@
   {
    "province": "15",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO-FRONTE AMPLA",
+   "name": "Frente Amplio-Fronte Ampla",
    "acronym": "FRENTE AMPLIO-FRONTE AMPLA",
    "candidates": [
-    "José Luis Piñeiro García",
+    "José Luis Piñeiro García (Xosé Lois)",
     "María de La Trinidad Palacios Raposo",
     "Carlos Alberto Muiño Naveira",
     "Elisabet del Alba Cabeza Romero",
@@ -3888,7 +3765,7 @@
    "candidates": [
     "Pedro José Contreras Racionero",
     "Amanda Alonso Jurado",
-    "Jesús Corrales Rodríguez"
+    "Javier Sanjurjo Pinto"
    ],
    "substitutes": [
     "Francisca Caballero Valdivia",
@@ -3915,7 +3792,7 @@
    "province": "20",
    "partyId": "bildu",
    "name": "EUSKAL HERRIA BILDU",
-   "acronym": "EH Bildu",
+   "acronym": "EH BILDU",
    "candidates": [
     "Oihana Etxebarrieta Legrand",
     "Gorka Elejabarrieta Diaz",
@@ -3933,7 +3810,7 @@
   {
    "province": "20",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA",
+   "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE",
    "acronym": "PSOE",
    "candidates": [
     "Rafaela Romero Pozo",
@@ -4050,12 +3927,12 @@
     "Maite Gartzia Ontiveros",
     "Alberto Villarreal Alonso",
     "Nagore Basurto Escamilla",
-    "Julen Rodríguez Aboy",
+    "Julen Rodriguez Aboy",
     "María Victoria Eizaguirre Ballesteros",
-    "Francisco Javier Ezquerecocha Pajares"
+    "Javier Ezquerecocha Pajares"
    ],
    "substitutes": [
-    "María Teresa Santano Rubio"
+    "María Teresa Santana Rubio"
    ]
   },
   {
@@ -4080,8 +3957,8 @@
   {
    "province": "20",
    "partyId": "pcte",
-   "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
-   "acronym": "PCTE",
+   "name": "EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI",
+   "acronym": "ELAK/PCTE",
    "candidates": [
     "Eneko Lanz Llamas",
     "Maider Rodríguez Rodríguez",
@@ -4097,7 +3974,7 @@
   {
    "province": "20",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Rosa Rubio Sánchez",
@@ -4122,7 +3999,7 @@
     "Maria Blanca Cercas Mena",
     "Larbi Hlal Boutir",
     "Yolanda Aguilar Gallego",
-    "Juan Manuel Robles Cabanillas",
+    "Juan Manel Robles Cabanillas",
     "Maria Del Carme Retamero Fuster"
    ],
    "substitutes": [
@@ -4155,24 +4032,24 @@
    "name": "JUNTS PER CATALUNYA",
    "acronym": "JxCat",
    "candidates": [
-    "Marta Madrenas Mir",
-    "Josep Maria Cervera Pinart",
-    "Anna Maria Tarafa Güell",
-    "Oriol Comas Basté",
-    "Júia Sunyer Rigau",
-    "Jordi Gumí Merino"
+    "Marta Madrenas i Mir",
+    "Josep Maria Cervera i Pinart",
+    "Anna Maria Tarafa i Güell",
+    "Oriol Comas i Basté",
+    "Júlia Sunyer i Rigau",
+    "Jordi Gumí i Merino"
    ],
    "substitutes": [
-    "Blanca Suquet Fornós",
-    "Marc Romero Cano",
-    "Núria Bartrolich Ortega",
-    "Raimon Trujillo-coris Rotllan",
-    "Mireia Turon Masferrer",
-    "Josep Maria Plaja Solà",
-    "Anna Maria Coll Portabella",
-    "Eric Expósito Torres",
-    "Alicia Caritg Prats",
-    "Jordi Vilarrubí Costa"
+    "Blanca Suquet i Fornós",
+    "Marc Romero i Cano",
+    "Núria Bartrolich i Ortega",
+    "Raimon Trujillo-Coris i Rotllan",
+    "Mireia Turon i Masferrer",
+    "Josep Maria Plaja i Solà",
+    "Anna Maria Coll i Portabella",
+    "Eric Expósito i Torres",
+    "Alicia Caritg i Prats",
+    "Jordi Vilarrubí i Costa"
    ]
   },
   {
@@ -4182,7 +4059,7 @@
    "acronym": "ERC",
    "candidates": [
     "Teresa Jordà Roura",
-    "Albert Ferràndez Machado",
+    "Albert Ferrández Manchado",
     "Ester Soms Pagespetit",
     "Antoni Vidal Sastre",
     "Esther Fanyanàs Ropero",
@@ -4204,7 +4081,7 @@
   {
    "province": "17",
    "partyId": "frente-amplio",
-   "name": "COMUNS-FRONT AMPLI",
+   "name": "Comuns-Front Ampli",
    "acronym": "COMUNS-FRONT AMPLI",
    "candidates": [
     "Júlia Boada Danés",
@@ -4295,20 +4172,20 @@
   {
    "province": "17",
    "partyId": "pp",
-   "name": "PARTIT POPULAR/PARTIDO POPULAR",
+   "name": "PARTIT POPULAR / PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
     "Diana Moya Redondo",
-    "Cristobal Posadas Espinosa",
-    "Fina Argüelles Fernàndez",
+    "Cristóbal Posadas Espinosa",
+    "Fina Argüelles Fernández",
     "Luis Fernando Sarmiento Valladares",
-    "Miriam Pujola Romero",
-    "Daniel Ruiz Perez"
+    "Míriam Pujola Romero",
+    "Daniel Ruiz Pérez"
    ],
    "substitutes": [
     "Matilde De La Hoz Navarro",
     "Christian Matas Benavente",
-    "Maria Luisa Rodriguez Cantoya"
+    "María Luisa Rodríguez Cantoya"
    ]
   },
   {
@@ -4506,23 +4383,23 @@
   {
    "province": "18",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO ANDALUZ",
+   "name": "Frente Amplio Andaluz",
    "acronym": "FA",
    "candidates": [
-    "Jesús Fernández Martín (FA)",
-    "María De La Paz Ortega Quiles (FA)",
-    "Nabil Finsi Vílchez (FA)",
-    "María Jennifer García Moreno (FA)",
-    "Juan Manuel Sánchez García (FA)",
-    "Clara Morales Peláez (FA)",
-    "Pablo Manuel Melgarejo Cordón (FA)"
+    "Jesús Fernández Martín",
+    "María De La Paz Ortega Quiles",
+    "Nabil Finsi Vílchez",
+    "María Jennifer García Moreno",
+    "Juan Manuel Sánchez García",
+    "Clara Morales Peláez",
+    "Pablo Manuel Melgarejo Cordón"
    ],
    "substitutes": [
-    "Gemma María González García (FA)",
-    "Francisco Eduardo Álvarez Navas-Parejo (FA)",
-    "Celia Villena De Francisco (FA)",
-    "Armando Moya Castilla (FA)",
-    "Patricia Lara Fernández (FA)"
+    "Gemma María González García",
+    "Francisco Eduardo Álvarez Navas-Parejo",
+    "Celia Villena De Francisco",
+    "Armando Moya Castilla",
+    "Patricia Lara Fernández"
    ]
   },
   {
@@ -4658,8 +4535,8 @@
   {
    "province": "19",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
-   "acronym": "FE DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+   "acronym": "FE de las JONS",
    "candidates": [
     "Juan Francisco Durán Carralero",
     "Maria Ángeles Montero Martín",
@@ -4735,7 +4612,7 @@
    ],
    "substitutes": [
     "Gema Isabel Gutiérrez Toscano",
-    "José Joaquín de la Torre López",
+    "José Joaquín De la Torre López",
     "Amalia Josefa Ballester Goytia"
    ]
   },
@@ -4769,14 +4646,14 @@
    ],
    "substitutes": [
     "Francisco José Suero Toronjo",
-    "Margarita María de Melgar Marra López",
+    "Margarita María De Melgar Marra López",
     "Rafael Prado Pérez"
    ]
   },
   {
    "province": "21",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO ANDALUZ",
+   "name": "Frente Amplio Andaluz",
    "acronym": "FA",
    "candidates": [
     "Rebeca Martín Sánchez",
@@ -4792,7 +4669,7 @@
     "Laura Chamorro Lozano",
     "Joan Josep Llompart Pou",
     "María Ángeles Dolores Álvez Velázquez",
-    "José Carlos do Carmo Raposo"
+    "José Carlos Do Carmo Raposo"
    ]
   },
   {
@@ -4839,7 +4716,7 @@
    "acronym": "PODEMOS",
    "candidates": [
     "Hermes Gómez Escobar",
-    "María Bella Segovia de la Concepción",
+    "María Bella Segovia De la Concepción",
     "Carlos Quintero Jiménez",
     "Irene María Reyes Mesa",
     "José Antonio González Soriano"
@@ -4853,13 +4730,13 @@
    "acronym": "PSOE",
    "candidates": [
     "Begoña Nasarre Oliva",
-    "Antonio Biescas Gimenez",
+    "Antonio Biescas Giménez",
     "Elena Casaus Alcubierre"
    ],
    "substitutes": [
     "Carlos Loncan Galindo",
-    "Beatriz Celma Escartin",
-    "Jose Manuel Penella Cambra"
+    "Beatriz Celma Escartín",
+    "José Manuel Penella Cambra"
    ]
   },
   {
@@ -4943,9 +4820,9 @@
    "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
    "candidates": [
-    "Manuel Inurria Fernandez",
-    "Beatriz Magdalena Cabrera Del Olmo",
-    "Rafael Alvarez Serra"
+    "Manuel Inurria Fernández",
+    "Beatriz Magdalena Cabrera del Olmo",
+    "Rafael Álvarez Serra"
    ],
    "substitutes": []
   },
@@ -4967,12 +4844,12 @@
    "name": "PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
-    "Ana Isabel Alós Lopez",
-    "José Ignacio Gramun Castillo",
+    "Ana Isabel Alós López",
+    "José Ignacio Gramún Castillo",
     "María Sonia Bastinos Bordas"
    ],
    "substitutes": [
-    "Miguel Angel Torres Palacín",
+    "Miguel Ángel Torres Palacín",
     "Andrea Vargas Sánchez",
     "Francisco Javier Betorz Miranda (Independiente)"
    ]
@@ -4999,13 +4876,13 @@
    "name": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON",
    "acronym": "FIA",
    "candidates": [
-    "Jose Maria Abad Torres",
-    "Nuria Lafuente Sanchez",
+    "José María Abad Torres",
+    "Nuria Lafuente Sánchez",
     "Lorenzo Fumanal Trallero"
    ],
    "substitutes": [
-    "Martha Areli Alvarado Narvaez",
-    "Roberto Tierno Hernandez"
+    "Martha Areli Alvarado Narváez",
+    "Roberto Tierno Hernández"
    ]
   },
   {
@@ -5182,18 +5059,18 @@
    "name": "FRENTE AMPLIO",
    "acronym": "FA",
    "candidates": [
-    "Antonio Ortega Ruiz (Frente Amplio por Andalucía)",
-    "Josefa Palomares Sánchez (Frente Amplio por Andalucía)",
-    "Jesús González Barranco (Frente Amplio por Andalucía)",
-    "Sara Cera Martínez (Frente Amplio por Andalucía)",
-    "Manuel Cazalla Ortega (Frente Amplio por Andalucía)"
+    "Antonio Ortega Ruiz (Frente Amplio Andaluz)",
+    "Josefa Palomares Sánchez (Frente Amplio Andaluz)",
+    "Jesús González Barranco (Frente Amplio Andaluz)",
+    "Sara Cera Martínez (Frente Amplio Andaluz)",
+    "Manuel Cazalla Ortega (Frente Amplio Andaluz)"
    ],
    "substitutes": [
-    "Francisca Paula Calero Mena (Frente Amplio por Andalucía)",
-    "Miguel Manuel García Moreno (Frente Amplio por Andalucía)",
-    "Esperanza Rico Moral (Frente Amplio por Andalucía)",
-    "Francisco David Anguita Arance (Frente Amplio por Andalucía)",
-    "Rosa María Bárcenas Gutiérrez (Frente Amplio por Andalucía)"
+    "Francisca Paula Calero Mena (Frente Amplio Andaluz)",
+    "Miguel Manuel García Moreno (Frente Amplio Andaluz)",
+    "Esperanza Rico Moral (Frente Amplio Andaluz)",
+    "Francisco David Anguita Arance (Frente Amplio Andaluz)",
+    "Rosa María Bárcenas Gutiérrez (Frente Amplio Andaluz)"
    ]
   },
   {
@@ -5241,7 +5118,7 @@
    "substitutes": [
     "Paula García Franco",
     "Alfonso Miguel Pérez Urbano",
-    "Olga Concepción Álvarez Toledo"
+    "Olga Concepción Álvarez Alonso"
    ]
   },
   {
@@ -5257,18 +5134,18 @@
    ],
    "substitutes": [
     "Javier Oñoro Bachiller",
-    "Vanesa Rodríguez del Campo",
+    "Vanesa Rodríguez Del Campo",
     "Luis Antonio Pérez Pellitero",
     "Marta García Fernández",
     "Nectali Casado Posado",
-    "María Ángeles Diez de la Riva"
+    "María Ángeles Diez De La Riva"
    ]
   },
   {
    "province": "24",
    "partyId": "p-alantre",
    "name": "PROYECTO ALANTRE",
-   "acronym": "P ALANTRE",
+   "acronym": "P. ALANTRE",
    "candidates": [
     "José Antonio Fernández García",
     "María Dolores Diez Aláez (Independiente)",
@@ -5357,7 +5234,7 @@
     "Laura Torralba García",
     "Alfonso Melón Nicolás",
     "María Elena Bailez Lobato",
-    "Julio Arcas Escuredo"
+    "Julio Arias Escuredo"
    ]
   },
   {
@@ -5365,18 +5242,14 @@
    "partyId": "mundo-mas-justo",
    "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
-   "candidates": [
-    "María Elena Cánovas Puglisi",
-    "Francisco Javier Calzado Aldaria",
-    "Montserrat Cid García",
-    "Marco Osorio Ritter"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "24",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Rubén Estévez Miguel",
@@ -5435,7 +5308,7 @@
     "Jaume Trilla i Torné",
     "Maria Dolors Caelles i Baró",
     "Joan Badia i Terrado",
-    "Mariazel (Maricel) Viladoms i Bellart",
+    "Maricel Viladoms i Bellart",
     "Xavier Gras i Vilaseca",
     "Cristina Polina i Roca",
     "Martí Beleta i Crespo",
@@ -5463,39 +5336,39 @@
    "acronym": "ERC",
    "candidates": [
     "Inés Granollers i Cunillera",
-    "Àlex Godoy i Solé",
-    "Judit Gisbert i Ester",
+    "Alex Godoy i Solé",
+    "Lídia Peruga i Esteban",
     "Kevin Bruque i Domínguez"
    ],
    "substitutes": [
-    "Lídia Peruga i Esteban",
-    "Youssef (Jossef) Koumia i Martín",
     "Mireia Pomar i Natal",
-    "Xavier Benítez i Jiménez",
+    "Youssef (Jossef) Koumia i Martín",
     "Cristina Teixidó i Vendrell",
-    "Robert Cabasés i Piqué",
+    "Xavier Benítez i Jiménez",
     "Carme Lostao i Otero",
-    "Antoni González i Aceituna",
+    "Robert Cabasés i Piqué",
     "Eva Gené i Solans",
+    "Antoni González i Aceituna",
+    "Dolors Regué i Vilaró",
     "Ramon Gras i Canelles"
    ]
   },
   {
    "province": "25",
    "partyId": "frente-amplio",
-   "name": "COMUNS-FRONT AMPLI",
+   "name": "Comuns-Front Ampli",
    "acronym": "COMUNS-FRONT AMPLI",
    "candidates": [
-    "Montserrat (Montse) Cortasa Gras (COMUNS-FRONT AMPLI)",
-    "Mario Mata Madrid (COMUNS-FRONT AMPLI)",
-    "Sara Vilà Galán (COMUNS-FRONT AMPLI)",
-    "Oriol López Sanfeliu (COMUNS-FRONT AMPLI)"
+    "Montserrat Cortasa Gras",
+    "Mario Mata Madrid",
+    "Sara Vilà Galán",
+    "Oriol López Sanfeliu"
    ],
    "substitutes": [
-    "Judit Felip Cornudella (COMUNS-FRONT AMPLI)",
-    "Josep Carles Martín Vergara (COMUNS-FRONT AMPLI)",
-    "Meritxell Teruel Cubí (COMUNS-FRONT AMPLI)",
-    "Jordi Cipriano Líndez (COMUNS-FRONT AMPLI)"
+    "Judit Felip Cornudella",
+    "Josep Carles Martín Vergara",
+    "Meritxell Teruel Cubí",
+    "Jordi Cipriano Líndez"
    ]
   },
   {
@@ -5572,18 +5445,18 @@
     "Cristina Casol Segués",
     "Pau Carbonell Font",
     "Anna Punsoda Ricart",
-    "Josep David Garrido Valls (Independiente)"
+    "Josep David Garrido Valls"
    ],
    "substitutes": [
-    "Glòria Tomàs Nus (Independiente)",
-    "Xavier Joan (Xavi) Turmo Pujol (Independiente)"
+    "Glòria Tomàs Nus",
+    "Xavier Joan (Xavi) Turmo Pujol"
    ]
   },
   {
    "province": "27",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
-   "acronym": "PSOE",
+   "name": "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE",
+   "acronym": "PSdeG-PSOE",
    "candidates": [
     "Patricia Otero Rodríguez",
     "Jorge Bustos Atanasio",
@@ -5686,8 +5559,8 @@
   {
    "province": "27",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
-   "acronym": "FA",
+   "name": "FRENTE AMPLIO-FRONTE AMPLA",
+   "acronym": "FRENTE AMPLIO-FRONTE AMPLA",
    "candidates": [
     "Reyes Rodríguez García",
     "Miguel Martínez Cabaleiro",
@@ -5719,43 +5592,43 @@
    "acronym": "FO",
    "candidates": [
     "Roberto Vaquero Arribas",
-    "Denís Paredes Roibás",
     "Julia Galindo López",
+    "Denís Paredes Roibás",
     "Isabel García Lázaro",
     "Jaime Navarro Romero",
     "Matilde Latorre Sanz",
     "David Eduardo Peters Domínguez",
-    "Tamara Vega De La Fuente",
+    "Tamara Vega de la Fuente",
     "Ronny Orlando Recinos Miguel",
-    "Pablo Toribio Platero",
     "Lorena Salas Soto",
-    "Ismael-Salim Boudjahem Matellan",
-    "Javier Medel Navarro",
+    "Pablo Toribio Platero",
     "Amanda Toupet Domínguez",
-    "Adel Shaikh Qasem Sebastían",
-    "Bryan Javier Lema Muyulema",
-    "Aitor De la Escosura Segarra",
+    "Ismael - Salim Boudjahem Matellán",
     "Ana Catalina Molinero Barriuso",
-    "Javier García Sánchez",
+    "Adel Shaikh Qasem Sebastián",
     "Cristina Berenguer Muñoz",
-    "David Garzas Villanueva",
+    "Javier Medel Navarro",
     "Clara Palencia Gallego",
-    "Óscar Amado Brull",
+    "Bryan Javier Lema Muyulema",
     "María Carmen Tornero González",
-    "José Manuel Roldán García",
-    "María Durán De Los Ríos",
+    "Aitor de la Escosura Segarra",
+    "María Durán de los Ríos",
+    "Javier García Sánchez",
     "María Beatriz Tejada Fernández",
-    "Donovan López Pastor",
-    "Emilio Yebenes Abuin",
-    "Javier Sánchez Paniagua",
+    "David Garzas Villanueva",
     "Esperanza Soto Sánchez",
+    "Óscar Amado Brull",
     "Catarina González Smets",
-    "Roberto Márquez Vara",
-    "Ricardo Ruiz Fernández",
+    "Donovan López Pastor",
     "Amalia Guijo González",
+    "Daniel Leon Oltra",
     "María Patricia Aragón Chivato",
-    "Ángel Méndez Romo",
-    "Iñigo Narbona Jauregui"
+    "Roberto Márquez Vara",
+    "Mercedes Pérez Conde",
+    "Ricardo Ruiz Fernández",
+    "Yasmina Shaikh-Qasem Sebastián",
+    "Iñigo Narbona Jauregui",
+    "Susana Toribio Platero"
    ],
    "substitutes": []
   },
@@ -5776,7 +5649,7 @@
     "Borja Luis Cabezón Royo",
     "Lorena Morales Porro",
     "Vicente Montávez Aguillaume",
-    "Zina Elena Arafat Raucu",
+    "Zina Elena Arafat Rautu",
     "Víctor Gutiérrez Santiago",
     "Carmen Martínez Pascual",
     "Ángel Viveros Gutiérrez",
@@ -5809,7 +5682,7 @@
   {
    "province": "28",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
    "acronym": "FE de las JONS",
    "candidates": [
     "Norberto Pedro Pico Sanabria",
@@ -5912,13 +5785,13 @@
    "acronym": "PCTE",
    "candidates": [
     "Eva García de Madariaga Delgado",
-    "Javier Martín Rodriguez",
-    "Ana Granados Rua",
+    "Javier Martín Rodríguez",
+    "Ana Granados Rúa",
     "Hugo Carrasco González",
     "Daniela Selene Fresneda Gómez",
     "Raúl Fernández Fernández",
     "Aida Maguregui Tomey",
-    "Raúl Beduina Saura",
+    "Raúl Bedrina Saura",
     "Tania Sánchez Aceña",
     "Juan Fernández De Arriba",
     "Marta Palencia Fernández",
@@ -5927,7 +5800,7 @@
     "Alberto Sánchez Colomo",
     "Saray Jiménez González",
     "Pablo Castro Camarena",
-    "Rut Martínez Jiménez",
+    "Ruth Martínez Jiménez",
     "Santiago Fernández Alejos",
     "María Álamo Sanz",
     "Sergio López Del Río",
@@ -5947,7 +5820,7 @@
     "Javier Serrano Romero",
     "Aída Rodríguez Campesino",
     "Pablo Gaitán Vázquez",
-    "Maria del Carmen Delgado Tortosa",
+    "María Carmen Delgado Tortosa",
     "Javier Sebastián Villanueva Aguado"
    ],
    "substitutes": [
@@ -6147,7 +6020,7 @@
     "María Elena Santiso Soba",
     "Santiago Miranzo de Mateo",
     "Maria Inés Gil Antuñano Vizcaíno",
-    "Samuel Heungjin Muruzábal Ishigetani",
+    "Samuel Heung-Jin Muruzábal Ishigetani",
     "María Pilar Martínez Fernández",
     "Emilio José Botía López",
     "Isabel González Zúñiga",
@@ -6215,10 +6088,10 @@
     "Aroa del Carmen Lara Jiménez",
     "Germán Pardo Vera",
     "Irene Garcia Romero",
-    "Óscar Jesús Guerrero Colorado"
+    "Óscar Jesús Guerrero Colorado",
+    "Julia Inmaculada Maldonado Ruiz"
    ],
    "substitutes": [
-    "Julia Inmaculada Maldonado Ruiz",
     "Yeray Iglesias Sánchez",
     "Lucía García Vilar"
    ]
@@ -6298,12 +6171,12 @@
     "Alicia Cabrera Cortés",
     "Claudio Soli Olivar",
     "Elena Martínez Orgaz",
-    "Pedro Luis Villa Minguez",
+    "Pedro Luis Villa Mínguez",
     "Alicia San Antonio López de la Manzanara",
     "Luis Luna Seoane",
     "Verónica Pulido Magán",
     "Julio Moreno Fernández",
-    "Almudena Hernández Ruesca",
+    "Almudena Hernández Ruescas",
     "Daniel Delgado Eloy-García",
     "Ana María Carrión de la Llana",
     "Daniel Navarro Sánchez",
@@ -6311,10 +6184,10 @@
     "Diego Sánchez Boto",
     "Dorotea Armijo Hervalejo",
     "Enrique Juan Hidalgo Martínez",
-    "Irene Gómez Díaz Pedreño",
+    "Irene Gómez-Díaz Pedreño",
     "Francisco Javier García López",
-    "Lydia Cembellin Martín",
-    "Enrique Ricardo Díaz Barceló-Suanzes",
+    "Lydia Cembellín Martín",
+    "Enrique Ricardo Díaz-Barceló Suanzes",
     "Manuela Piquero López",
     "Juan Leandro Muro Ortega",
     "Margarita Suárez Andreu",
@@ -6332,7 +6205,7 @@
   {
    "province": "28",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Emilio Delgado Orgaz",
@@ -6346,7 +6219,7 @@
     "José Emilio Pérez Martínez",
     "Beatriz del Pozo Mateo",
     "César Bueno Pinilla",
-    "Maria Victoria García Gómez",
+    "María Victoria García Gómez",
     "Daniel Jiménez Vaquerizo",
     "Isabel Rosa Torralvo",
     "Joan Enric Cunyat Tamarit",
@@ -6366,7 +6239,7 @@
     "Víctor Terrón Palacios",
     "María Isabel Ramírez Gutiérrez",
     "Aldar Ferrera Lagoa",
-    "Iciar García Gómez",
+    "Icíar García Gómez",
     "Jorge Castaño Díaz",
     "Sara Montero Sánchez",
     "Jaime Menéndez de las Heras",
@@ -6375,14 +6248,14 @@
     "Inés Sabanés Nadal"
    ],
    "substitutes": [
-    "Damian Bianquetti del Pozo",
+    "Damián Bianquetti del Pozo",
     "María Paloma Corral Rivero",
     "Jesús Pérez Gómez",
     "Paula Iglesias Bueno",
     "Manuel Antonio Barriga del Río",
     "Francisca Redondo Gálvez",
     "Francisco Javier Cózar Segovia",
-    "Almudena Gomez Gabardino",
+    "Almudena Gómez Gabardino",
     "Juan Manuel Menéndez Frías",
     "María Cristina Escribano Morales"
    ]
@@ -6397,14 +6270,14 @@
     "Jacinto Morano González",
     "Dina Bousselham Boulaich",
     "Serigne Mbaye Diouf",
-    "María Teresa Arévalo Carballo",
+    "María Teresa Arévalo Caraballo",
     "Pablo Quesada Martín",
     "Amanda Angélica Pucuhuayla Gálvez",
     "Ignacio Eduardo Ramos Delgado",
     "Alba Leo Pérez",
     "Isaac López Sánchez",
     "Ana (Anita Botwin) Delgado Prada",
-    "Pabl Ramón Lueiro Valencia",
+    "Pablo Ramón Lueiro Valencia",
     "María Dolores (Boti) García Rodrigo",
     "Simón De la Riva Dechand",
     "Lourdes Lucía Aguirre",
@@ -6415,7 +6288,7 @@
     "Antonio Martín Ruiz",
     "Ana María Garrido Torrubias",
     "Fernado Luis Cabal Riera",
-    "Aurora Antolined Bruned",
+    "Aurora Antolinez Bruned",
     "Jorge Cabanelas Amoedo",
     "Begoña Terrón de Luis",
     "Carlos Francisco García Gelabert Pérez",
@@ -6425,7 +6298,7 @@
     "Miguel Perales López",
     "Rosa María Martínez Mata",
     "Gonzalo Cerezo Mata",
-    "María Rocío Marí Simón",
+    "María Rocío Marín Simón",
     "Julián Molina Pilares",
     "Soledad Cristóbal Marcos",
     "Sergio Del Hoyo Hernández",
@@ -6546,7 +6419,7 @@
     "Antonio José Luna García",
     "Alicia Encinas González",
     "Antonio Jesús Fernández Jiménez",
-    "Daniela Patricia Vega Wesphal",
+    "Daniela Patricia Vega Westphal",
     "Fernando José Jiménez Vicario",
     "Trinidad Celia Aragonés Leiva",
     "José María Callejón Suñé"
@@ -6576,7 +6449,7 @@
     "María Elena Macías Montes"
    ],
    "substitutes": [
-    "Elías García Pérez",
+    "Enrique Guerrero Rosado",
     "Estefanía Venegas Repullo",
     "Francisco Javier Del Río Marfil",
     "Ruth María Torquemada Robles"
@@ -6589,7 +6462,7 @@
    "acronym": "PP",
    "candidates": [
     "Elías Bendodo Benasayag",
-    "María Paloma Saborido Sánchez",
+    "María Paloma Saborido Sánchez (Independiente)",
     "Ángel Luis González Muñoz",
     "María Francisca Caracuel García",
     "Carlos Arturo Bernal Bergua",
@@ -6633,11 +6506,10 @@
   {
    "province": "29",
    "partyId": "jose-maria-calvo-guerra",
-   "name": "JOSÉ MARÍA CALVO GUERRA",
-   "candidates": [
-    "José María Calvo Guerra"
-   ],
-   "substitutes": []
+   "name": "José María Calvo Guerra",
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "29",
@@ -6684,7 +6556,7 @@
   {
    "province": "29",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Rafael Borrego Peña",
@@ -6804,14 +6676,14 @@
     "Rosa Ana Pacios Fernández",
     "José Tomás Bernal Quirós González",
     "Aída Peñalver Martínez",
-    "Gonzalo Manuel López Petrel",
+    "Gonzalo Manuel López Pretel",
     "María Castillo Castro",
     "Antonio José Candel Cano",
     "María Eugenia Sánchez Pérez"
    ],
    "substitutes": [
     "Jaime García García",
-    "María José Ruíz Díaz",
+    "María José Ruiz Díaz",
     "Jesús Castaño López",
     "Laura Somalo González"
    ]
@@ -6849,7 +6721,7 @@
     "Carmen María Conesa Nieto",
     "Juan Luis Pedreño Molina",
     "Patricia Martínez Copete",
-    "Antonio Landaburu Clares",
+    "Antonio Landáburu Clares",
     "Ana Belén Martínez Fernández",
     "Santiago Arsenio López Noguera",
     "Dolores Cerón Lisón",
@@ -6891,50 +6763,38 @@
    "partyId": "uc",
    "name": "UNION CARTAGINENSE",
    "acronym": "UC",
-   "candidates": [
-    "Isabel Diaz Cuevas",
-    "Fernando Jesús Bianqui Martínez",
-    "María del Pilar Martínez Soriano",
-    "Carlos Martínez Sáez",
-    "Rosa Soler Gómez",
-    "Antonio Cegarra Ojados",
-    "Nadia Lahsak Sadki",
-    "Carlos Martínez Viqueira",
-    "María Asunción Serna Maestro",
-    "Salvador Villegas Soler"
-   ],
-   "substitutes": [
-    "Tomás Sánchez Conesa"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "30",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
-    "Penélope Luna Palazón",
-    "Juan Carlos Pastor Gómez",
-    "María Hernández Abellán",
-    "Alfonso Lucas Muñoz",
-    "Teodora Muñoz Fernández",
-    "Jorge Elías Ollero Perán",
-    "Carmen Romera Aznar",
-    "Pedro Sosa Martínez",
-    "María Josefa Cánovas Caja",
-    "José Padilla Ruiz"
+    "Penélope Luna Palazón (FA)",
+    "Juan Carlos Pastor Gómez (FA)",
+    "María (Lara) Hernández Abellán (FA)",
+    "Alfonso Lucas Muñoz (FA)",
+    "Teodora (Dori) Muñoz Fernández (FA)",
+    "Jorge Elías Ollero Perán (FA)",
+    "Carmen Romera Aznar (FA)",
+    "Pedro Sosa Martínez (FA)",
+    "María Josefa Cánovas Caja (FA)",
+    "José Padilla Ruiz (FA)"
    ],
    "substitutes": [
-    "Laura Carrillo Mayor",
-    "José Luis Alvárez-Castellanos Rubio",
-    "Teresa Gómez Vidal",
-    "Mariano Vicente Albaladejo",
-    "Ana López Martínez",
-    "Pedro José Sánchez Pérez",
-    "Adolfina Hervás Carreño",
-    "Antonio Andrés Palao",
-    "Julia Novau Mañogil",
-    "José García Espigares"
+    "Laura Carrillo Mayor (FA)",
+    "José Luis Alvárez-Castellanos Rubio (FA)",
+    "Teresa Gómez Vidal (FA)",
+    "Mariano Vicente Albaladejo (FA)",
+    "Ana López Martínez (FA)",
+    "Pedro José Sánchez Pérez (FA)",
+    "Adolfina Hervás Carreño (FA)",
+    "Antonio Andrés Palao (FA)",
+    "Julia Novau Mañogil (FA)",
+    "José García Espigares (FA)"
    ]
   },
   {
@@ -6949,7 +6809,7 @@
     "Verónica Guillén Serrano",
     "Juan Miguel García Hernández",
     "María del Mar Rey Albesa",
-    "Jesús Corrales Rodríguez",
+    "Francisco Javier Rey Albesa",
     "María Albesa González",
     "Kristian Roca Saura",
     "María Josefa Pérez Fernández"
@@ -6961,39 +6821,26 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "Francisco Javier Mateo Valera",
-    "Laura Mármol Beltrán",
-    "Juan Patricio Peñalver García",
-    "Marta de Blas Sobejano",
-    "Francisco Antonio Ferrer González",
-    "Mónica Egea Bernal",
-    "Alberto Emilio López García",
-    "Susana Robredo Oraá",
-    "Francisco José Rivas Nadal",
-    "Laura Márquez Rodríguez"
-   ],
-   "substitutes": [
-    "Daniel Carrascosa Díez",
-    "María Luisa Serrano García"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "31",
    "partyId": "bildu",
-   "name": "EUSKAL HERRIA BILDU",
-   "acronym": "EH-Bildu",
+   "name": "EUSKAL HERRIA BILDU-ESQUERRA REPUBLICANA DE CATALUNYA",
+   "acronym": "EH BILDU-ERC",
    "candidates": [
-    "Eneka Maiz Ulaiar",
-    "Mikel Oteiza Iza",
-    "Ainhoa Bueno Munárriz",
-    "Arturo Goldaracena Asa",
-    "María Isabel (Bel) Pozueta Fernandez"
+    "Eneka Maiz Ulaiar (EH BILDU)",
+    "Mikel Oteiza Iza (EH BILDU)",
+    "Ainhoa Bueno Munárriz (EH BILDU)",
+    "Arturo Goldaracena Asa (EH BILDU)",
+    "María Isabel (Bel) Pozueta Fernández (EH BILDU)"
    ],
    "substitutes": [
-    "Pedro María (Peio) Martínez de Eulate Maestresalas",
-    "Iraia de la Torre Landera",
-    "Beñat Jusue Rosano"
+    "Pedro María (Peio) Martínez de Eulate Maestresalas (EH BILDU)",
+    "Iraia De La Torre Landera (EH BILDU)",
+    "Beñat Jusue Rosano (EH BILDU)"
    ]
   },
   {
@@ -7003,21 +6850,21 @@
    "acronym": "FO",
    "candidates": [
     "Nerea León Miranda",
-    "Ruben Molina Mellado",
-    "Urko Sasiain Txurruka",
+    "Rubén Molina Mellado",
     "Maite Guerrico Cruz",
-    "Alvaro Rubio Izquierdo"
+    "Urko Sasiain Txurruka",
+    "Manuela Gallo Santiago"
    ],
    "substitutes": []
   },
   {
    "province": "31",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA DE NAVARRA - PSOE",
+   "name": "PARTIDO SOCIALISTA DE NAVARRA-PSOE",
    "acronym": "PSN-PSOE",
    "candidates": [
     "Elma Saiz Delgado",
-    "Juan Cruz Cigudosa García",
+    "Juán Cruz Cigudosa García",
     "Nuria Medina Santos",
     "Guzmán García García",
     "María Esther Villanueva Ucar"
@@ -7031,36 +6878,40 @@
    "province": "31",
    "partyId": "eguzkilore",
    "name": "EGUZKILORE",
+   "acronym": "EGUZKILORE",
    "candidates": [
     "Francisco Javier Pérez Cueva",
     "Fanny Cecilia Carrillo Suárez (Independiente)",
-    "Bittor Jaúregui Alemán",
+    "Bittor Jaúregi Alemán",
     "Cristina Garín Fernández",
-    "Carmen María Martín Jiménez (Independiente)"
+    "Carlos María Adrián Sagardoy"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Carmen María Martín Jiménez (Independiente)"
+   ]
   },
   {
    "province": "31",
    "partyId": "geroa-bai",
    "name": "GEROA BAI",
+   "acronym": "GBAI",
    "candidates": [
-    "Pablo Azcona Molinet",
-    "María Rosa Basarte Osés",
-    "Javier Ollo Martínez",
-    "Aitana Duque Martínez",
-    "Alfredo Agós Ginés"
+    "Pablo Azcona Molinet (GEROA BAI)",
+    "María Rosa Basarte Osés (GEROA BAI)",
+    "Javier Ollo Martínez (GEROA BAI)",
+    "Aitana Duque Martínez (GEROA BAI)",
+    "Alfredo Agós Ginés (GEROA BAI)"
    ],
    "substitutes": [
-    "Miren Itxaso Soto Díaz de Cerio",
-    "Amaiur Guindeo Arandigoien",
-    "Idoia de Carlos Espartero"
+    "Miren Itxaso Soto Díaz de Cerio (GEROA BAI)",
+    "Amaiur Guindeo Arandigoien (GEROA BAI)",
+    "Idoia de Carlos Espartero (GEROA BAI)"
    ]
   },
   {
    "province": "31",
    "partyId": "mundo-mas-justo",
-   "name": "POR UN MUNDO MÁS JUSTO",
+   "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
    "candidates": [
     "José Antonio Aparicio Martín",
@@ -7074,7 +6925,7 @@
   {
    "province": "31",
    "partyId": "upn-pp",
-   "name": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON PARTIDO POPULAR",
+   "name": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR",
    "acronym": "UPN-PP",
    "candidates": [
     "Leticia San Martín Rodríguez (UPN)",
@@ -7084,7 +6935,7 @@
     "María Luz Moraza Busto (PP)"
    ],
    "substitutes": [
-    "Rubén Medrano Romero (UPN)",
+    "Rubén Medrano Romeo (UPN)",
     "María Inmaculada Múgica Ustárroz (PP)",
     "Daniel Francés Sáinz (UPN)"
    ]
@@ -7096,14 +6947,14 @@
    "acronym": "SALF",
    "candidates": [
     "Lidia Martínez Aranguibel",
-    "Angel Rodríguez Candelario",
+    "Ángel Rodríguez Candelario",
     "María Carmen Pioz Soriano",
     "Yoandry Sebastián Martín Cáceres",
     "Marina San Juan Soto"
    ],
    "substitutes": [
-    "Víctor Manuel Morales Rincón",
-    "Noelia González Salmerón",
+    "Victor Manuel Morales Rincón",
+    "Noelia Gonzaléz Salmerón",
     "Adrián Santamaría Larraga"
    ]
   },
@@ -7111,9 +6962,10 @@
    "province": "31",
    "partyId": "vox",
    "name": "VOX",
+   "acronym": "VOX",
    "candidates": [
     "María Perpetuo Socorro Sada Ballesteros",
-    "José María Garcçoa Elorz",
+    "José María García Elorz",
     "Sara Baigorri Jarauta",
     "Juan Manuel Cabeo Cabrera",
     "María Milagros Eraso Osés"
@@ -7126,6 +6978,7 @@
    "province": "31",
    "partyId": "podemos",
    "name": "PODEMOS",
+   "acronym": "PODEMOS",
    "candidates": [
     "Virginia Alonso Aparicio",
     "Mikel Mari González-Echeverri Peñagaricano",
@@ -7138,16 +6991,17 @@
   {
    "province": "31",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO – FRONTE ZABALA",
+   "name": "Frente Amplio-Fronte Zabala",
+   "acronym": "FRENTE AMPLIO-FRONTE ZABALA",
    "candidates": [
     "Javier Ibáñez Orayen",
     "Miren Edurne Eguino Sisain",
     "David Fuentes Pérez",
-    "María Sofía Pérez Ibiricu",
+    "Maria Sofía Pérez Ibiricu",
     "Daniel Prieto Notario"
    ],
    "substitutes": [
-    "Ana Ibarrola Piérola",
+    "Ana Belén Ibarrola Piérola",
     "Gustavo Adolfo Errea Lizaur",
     "Amaya Algarra Grande"
    ]
@@ -7159,15 +7013,31 @@
    "acronym": "PACMA",
    "candidates": [
     "Manuel Piñar Bautista",
-    "Ana Espelosín Aguinaga",
-    "Manuel Vilreales Núñez de Arenas",
+    "Ana Isabel Espelosín Aguinaga",
+    "Manuel Vilreales Nuñez de Arenas",
     "Lydia Jaso Irisarri",
-    "José Javier Lorenzo Paredes"
+    "Jose Javier Lorenzo Paredes"
    ],
    "substitutes": [
-    "Julio Manuel Echaide Izquierdo",
-    "Carlos Gómez Cerviño",
-    "Nuria Heras Peinado"
+    "Celestina Angélica Fernández Zamora",
+    "Carlos Gómez Cerciño",
+    "Nuria Hera Peinado"
+   ]
+  },
+  {
+   "province": "31",
+   "partyId": "pcte",
+   "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+   "acronym": "PCTE",
+   "candidates": [
+    "Iker Maguregui Saiz",
+    "Laura Martínez Jáñez",
+    "Diego Cameirao Ojer",
+    "Lidia Espeso García",
+    "Edorta Mora Ballesteros"
+   ],
+   "substitutes": [
+    "Olaya Rodríguez Ribeiro"
    ]
   },
   {
@@ -7176,7 +7046,7 @@
    "name": "Partido dos Socialistas de Galicia-PSOE",
    "acronym": "PSdeG-PSOE",
    "candidates": [
-    "María Del Carmen Rodríguez Dacosta",
+    "María del Carmen Rodríguez Dacosta",
     "Brian Diz González",
     "Marina Vaz Quintillan",
     "Brais González Fernández"
@@ -7184,7 +7054,7 @@
    "substitutes": [
     "Raquel Méndez Ramos",
     "Manuel Freire Cid",
-    "Rosa Martínez Rodríguez",
+    "Rosa Martinez Rodriguez",
     "Luis Fernández Gudiña"
    ]
   },
@@ -7195,8 +7065,8 @@
    "acronym": "FO",
    "candidates": [
     "Laia González Gandia",
-    "Martin Álvarez Rodríguez",
-    "Ana Maria Pérez Gaite",
+    "Martín Álvarez Rodríguez",
+    "Ana María Pérez Gaite",
     "Pablo Herrero Diz"
    ],
    "substitutes": []
@@ -7208,12 +7078,12 @@
    "acronym": "PCTG",
    "candidates": [
     "Brais Coello Vences",
-    "Maria de la O Campelo Tenoira",
+    "Maria De La O Campelo Tenoira",
     "Javier Daniel Heredia Fernandez",
-    "Paula García Martín"
+    "Paula Garcia Martin"
    ],
    "substitutes": [
-    "Lucas Tamargo López"
+    "Lucas Tamargo Lopez"
    ]
   },
   {
@@ -7252,12 +7122,12 @@
    "acronym": "SALF",
    "candidates": [
     "Abel Estévez González",
-    "Maria Consuelo Barros León",
+    "María Consuelo Barros León",
     "Fernando Estévez Alonso",
     "Silvia Irene Castro Suárez"
    ],
    "substitutes": [
-    "Jose García Leal",
+    "José García Leal",
     "Eva Rodríguez Olmos"
    ]
   },
@@ -7269,14 +7139,14 @@
    "candidates": [
     "Ana Belén Vázquez Blanco",
     "Roberto González Rodríguez",
-    "Rosa Maria Quintana Carballo",
+    "Rosa María Quintana Carballo",
     "Celso Luis Delgado Arce"
    ],
    "substitutes": [
     "Sonia Ogando Vázquez",
     "Ricardo González Gómez",
     "Patricia Lamela Rodríguez",
-    "Martin Gil Blanco"
+    "Martín Gil Blanco"
    ]
   },
   {
@@ -7293,7 +7163,7 @@
    "substitutes": [
     "Mirian Opazo Ojea",
     "Hadrián Alonso Álvarez",
-    "Laura Pérez Bernardez",
+    "Laura Pérez Bernárdez",
     "Juan Luís Domínguez Rodríguez",
     "Elena Añel Cabanelas",
     "Manuel Caíña Estévez",
@@ -7307,10 +7177,10 @@
    "province": "32",
    "partyId": "mundo-mas-justo",
    "name": "POR UN MUNDO MAIS XUSTO",
-   "acronym": "PUM+J",
+   "acronym": "MUNDO+JUSTO",
    "candidates": [
     "Rafael Manuel Fernández Alonso",
-    "Teresa De Vallejo Sancho De Sopranis",
+    "Teresa de Vallejo Sancho de Sopranis",
     "Carlos Besada Gesto",
     "Marina Fernández Delgado"
    ],
@@ -7319,10 +7189,10 @@
   {
    "province": "32",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO-FRONTE AMPLA",
+   "name": "Frente Amplio-Fronte Ampla",
    "acronym": "FRENTE AMPLIO-FRONTE AMPLA",
    "candidates": [
-    "Juan Diego Conde Eguileta",
+    "Cristian González Vázquez",
     "María Dolores López Meléndez",
     "David Teixeira Martin",
     "Mercedes González Pazos"
@@ -7336,17 +7206,9 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "María Fernanda Villegas Hermida",
-    "Rafael Cabanelas Seara",
-    "Aurora Del Pilar Prada Martínez",
-    "Óscar Fernández Gómez"
-   ],
-   "substitutes": [
-    "María Teresa Sánchez Navarro",
-    "Marcelo Javier Ventre Lespiaucq",
-    "Raquel Arana Morrondo"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "34",
@@ -7360,7 +7222,7 @@
    ],
    "substitutes": [
     "José Luis Pedreira Massa",
-    "María Ángeles Fombellida Cabezudo",
+    "María de los Ángeles Fombellida Cabezudo",
     "Julio Rascón Quirce"
    ]
   },
@@ -7410,8 +7272,8 @@
   {
    "province": "34",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
-   "acronym": "FE DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+   "acronym": "FE de las JONS",
    "candidates": [
     "Luis Miguel Pérez González",
     "Natalia Gil Sáez",
@@ -7468,7 +7330,7 @@
    "acronym": "MUNDO+JUSTO",
    "candidates": [
     "Miren Josu Moneo Viloria",
-    "Jesús Corrales Rodríguez",
+    "Carlos Rodríguez Pereira",
     "Cristina Marqués de Frutos"
    ],
    "substitutes": []
@@ -7488,7 +7350,7 @@
   {
    "province": "34",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Ana Belén Collantes Martín",
@@ -7566,16 +7428,16 @@
   },
   {
    "province": "35",
-   "partyId": "d-r-g",
+   "partyId": "drg",
    "name": "PARTIDO DRAGO CANARIAS",
    "acronym": "D.R.G",
    "candidates": [
     "Héctor Morán Rodríguez",
     "Aceysele Chacón Méndez",
-    "Luis Bruno de la Barrera Massieu",
+    "Luis Bruno De La Barrera Massieu",
     "Mar Jiménez Domínguez",
     "Rafael Jiménez Tortosa",
-    "Cristina del Carmen Acosta Haro",
+    "Cristina Del Carmen Acosta Haro",
     "Juan Cosme Vega Reyes",
     "Mónica Guacimara Bernal Quintana"
    ],
@@ -7633,12 +7495,12 @@
    "acronym": "PCTE",
    "candidates": [
     "Domingo González Perdomo",
-    "María Luisa de la Torre Acosta",
+    "María Luisa De la Torre Acosta",
     "Andrés Castañón Rincón",
     "Blanca Selena García Bisbicus",
     "Guaire Sánchez Monroy",
     "Nora Amaro Quintana",
-    "Andrés Juan Vazquez Espino",
+    "Andrés Juan Vázquez Espino",
     "Yanira Fernández Sánchez"
    ],
    "substitutes": [
@@ -7699,8 +7561,8 @@
     "Manuel Luis Pérez Salazar",
     "Jesús del Carmen Rosales Jiménez",
     "Carlos Sosa Rodríguez",
-    "Ana María Parriego de Celis",
-    "Rafael Ángel de León Morales"
+    "Ana María Parriego De Celis",
+    "Rafael Ángel De León Morales"
    ],
    "substitutes": []
   },
@@ -7739,18 +7601,18 @@
    "acronym": "PACMA",
    "candidates": [
     "Iris Cristina Sánchez Padrón",
-    "Esperanza Pino Gómez Guerra",
     "Luis Alberto Pardillos Fraile",
-    "María de los Ángeles Encabo López",
+    "Esperanza Pino Gómez Guerra",
     "Dailos Batista Suárez",
-    "Ana Isabel Pérez Gracia",
+    "María De Los Ángeles Encabo López",
     "Eleazar Mentado Déniz",
-    "María del Mar García Arias"
+    "Ana Isabel Pérez Gracia",
+    "Sergio Marrero Gómez"
    ],
    "substitutes": [
-    "Layla Morón El Hadri",
+    "María Del Mar García Arias",
     "Antonio Fermín Pérez Santiago",
-    "Clara Estil-Las García"
+    "Layla Morón El Hadri"
    ]
   },
   {
@@ -7761,16 +7623,16 @@
    "candidates": [
     "Sonia María Iruela Padrón",
     "Carmelo Antonio Suárez Cabrera",
-    "Daniel González Expósito",
     "Francisca Carmen Sánchez Macías",
+    "Daniel González Expósito",
     "María del Carmen Talavera Quevedo",
+    "José Del Toro Augusto",
     "Lorenza Machín Alarcón",
-    "Federico de Santa Ana Fernández",
-    "José del Toro Augusto"
+    "Federico De Santa Ana Fernández"
    ],
    "substitutes": [
-    "Roberto Carlos Barreto Alcántara",
-    "María Fernanda Gadea Martínez"
+    "María Fernanda Gadea Martínez",
+    "Roberto Carlos Barreto Alcántara"
    ]
   },
   {
@@ -7783,7 +7645,7 @@
     "Marta Benaiges Renom (Independiente)",
     "Daniel José Morales Ortega (Independiente)",
     "María Magdalena González Fuentes (Independiente)",
-    "Augusto Esparza Varona (Independiente)",
+    "Augusto Esparza Barona (Independiente)",
     "Divina del Pino Ruega López (Independiente)",
     "Juan Manuel Martínez Macías (Independiente)",
     "María de las Nieves Rey Travieso (Independiente)"
@@ -7796,7 +7658,7 @@
   {
    "province": "36",
    "partyId": "frente-obrero",
-   "name": "FRENTE OBRERO",
+   "name": "Frente Obrero",
    "acronym": "FO",
    "candidates": [
     "Xose Luis García Pazos",
@@ -7832,7 +7694,7 @@
   {
    "province": "36",
    "partyId": "pcte",
-   "name": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA",
+   "name": "Partido Comunista dos Traballadores da Galiza",
    "acronym": "PCTG",
    "candidates": [
     "Miguel Riaño Roa",
@@ -7850,8 +7712,8 @@
   {
    "province": "36",
    "partyId": "psoe",
-   "name": "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE",
-   "acronym": "PSDEG-PSOE",
+   "name": "Partido dos Socialistas de Galicia-PSOE",
+   "acronym": "PSdeG-PSOE",
    "candidates": [
     "Abel Fermín Losada Álvarez",
     "María Margarita Peregrina «Marica» Adrio Taracido",
@@ -7877,7 +7739,7 @@
   {
    "province": "36",
    "partyId": "escanos-en-blanco",
-   "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+   "name": "Escanos en Branco para deixar Escanos Baleiros",
    "acronym": "ESCAÑOS EN BLANCO",
    "candidates": [
     "Joaquín Francisco Pérez Fernández",
@@ -7893,11 +7755,11 @@
   {
    "province": "36",
    "partyId": "pp",
-   "name": "PARTIDO POPULAR",
+   "name": "Partido Popular",
    "acronym": "PP",
    "candidates": [
     "Julio García Comesaña",
-    "María José Pardo Pumar",
+    "María José Pardo Pumar «Pepa»",
     "Pedro Puy Fraga",
     "Irene Garrido Valenzuela",
     "Juan Andrés Bayón Rolo",
@@ -7905,7 +7767,7 @@
     "Alfonso Vázquez Reboredo"
    ],
    "substitutes": [
-    "María Antonia Sanmartín García",
+    "María Antonia Sanmartín García «Marián»",
     "Pío Millán Blanco",
     "Antía Rosa Carrera Couselo",
     "Óscar Alonso Álvarez",
@@ -7920,8 +7782,8 @@
   {
    "province": "36",
    "partyId": "frente-amplio",
-   "name": "FRONTE AMPLA",
-   "acronym": "FA",
+   "name": "Frente Amplio - Fronte Ampla",
+   "acronym": "FRENTE AMPLIO - FRONTE AMPLA",
    "candidates": [
     "Gloria Alonso Domínguez",
     "Luis Baena Blanco",
@@ -8004,22 +7866,6 @@
    "substitutes": []
   },
   {
-   "province": "36",
-   "partyId": "mundo-mas-justo",
-   "name": "POR UN MUNDO MÁS JUSTO",
-   "acronym": "MUNDO+JUSTO",
-   "candidates": [
-    "María Noelia Alonso Domínguez",
-    "Emilio Sestelo Lloves",
-    "María Dolores Pérez Moreno",
-    "José Manuel Ramos Puente",
-    "María Pilar Brocos Fernández",
-    "David Moure Bargo",
-    "María Lorena Martínez Gómez"
-   ],
-   "substitutes": []
-  },
-  {
    "province": "26",
    "partyId": "psoe",
    "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
@@ -8051,13 +7897,13 @@
   {
    "province": "26",
    "partyId": "salf",
-   "name": "SE ACABÓ LA FIESTA",
+   "name": "SE ACABO LA FIESTA",
    "acronym": "SALF",
    "candidates": [
     "Juan Aparici Jerez",
     "Susana María Blanco Ceña",
     "Darío Oñate Fernández",
-    "Estefanía la Torre Tejada"
+    "Estefanía La Torre Tejada"
    ],
    "substitutes": [
     "Ricardo Orio Yangüela"
@@ -8086,13 +7932,11 @@
    "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
    "acronym": "PCTE",
    "candidates": [
-    "Francisco Castro Portolés",
-    "María Eugenia Oleaga Muguerza",
-    "Gonzalo Alonso Alonso",
-    "Lucía Sáenz Burgos"
+    "Alejandro García Cáncer"
    ],
    "substitutes": [
-    "José Ángel Sáenz Díaz"
+    "Lucía Antoñanzas Gil",
+    "Sergio Ballesteros Muñoz"
    ]
   },
   {
@@ -8142,7 +7986,7 @@
   {
    "province": "26",
    "partyId": "escanos-en-blanco",
-   "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+   "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACIOS",
    "acronym": "ESCAÑOS EN BLANCO",
    "candidates": [
     "María Carmen García Pellejero",
@@ -8252,22 +8096,14 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "Jorge Martín García",
-    "María Montserrat Sánchez González",
-    "Gustavo Martín Castro",
-    "Raquel Tablado Castellanos"
-   ],
-   "substitutes": [
-    "Augusto Fenollar García-Izquierdo",
-    "Adela Moreno Sandoval",
-    "Brando Cruz Chicue"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "37",
    "partyId": "prepal",
-   "name": "PARTIDO REGIONALISTA DEL PAÍS LEONES",
+   "name": "PARTIDO REGIONALISTA DEL PAIS LEONES",
    "acronym": "PREPAL",
    "candidates": [
     "Rafael Diego Núñez",
@@ -8281,8 +8117,7 @@
     "Ángel Rodríguez Simón",
     "María del Pilar Galán Boyero",
     "Antonio Hernández Pérez",
-    "Inés García Álvarez",
-    "José Francisco Iglesias Bragado"
+    "Inés García Álvarez"
    ]
   },
   {
@@ -8320,7 +8155,7 @@
   {
    "province": "37",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Miriam Ruiz Arias",
@@ -8336,10 +8171,10 @@
   {
    "province": "38",
    "partyId": "psoe",
-   "name": "PARTIDO SOCIALISTA DE SANTA CRUZ DE TENERIFE",
+   "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
    "acronym": "PSOE",
    "candidates": [
-    "Jose Antonio Valbuena Alonso",
+    "José Antonio Valbuena Alonso",
     "Marta Arocha Correa",
     "Sergio Matos Castro",
     "María Teresa Gutiérrez Izquierdo",
@@ -8356,7 +8191,7 @@
   {
    "province": "38",
    "partyId": "cc-1can",
-   "name": "COALICIÓN CANARIA-MUNICIPALISTAS PRIMERO CANARIAS",
+   "name": "Coalición Canaria-Municipalistas Primero Canarias",
    "acronym": "CCa-1.ºCAN",
    "candidates": [
     "Cristina Valido García",
@@ -8386,7 +8221,7 @@
     "María Noelia González Daza",
     "Borja Pérez Sicilia",
     "Raquel Martín Castro",
-    "Adrián Delgado Rodríguez",
+    "Adrián Bibiano Delgado Rodríguez",
     "Damaris Ferraz Martín",
     "Jorge Iván Negrín Méndez"
    ],
@@ -8398,7 +8233,7 @@
   },
   {
    "province": "38",
-   "partyId": "d-r-g",
+   "partyId": "drg",
    "name": "PARTIDO DRAGO CANARIAS",
    "acronym": "D.R.G",
    "candidates": [
@@ -8452,9 +8287,8 @@
     "María Luz Trevisán Ortiz Zavalla"
    ],
    "substitutes": [
-    "Noelia Escudero Ramirez",
     "Iker Tortosa Del Toro",
-    "Marcela León Nava"
+    "Noelia Escudero Ramírez"
    ]
   },
   {
@@ -8466,7 +8300,7 @@
     "Antonio Coy García",
     "Ainhoa Díaz Gómez",
     "Giovanni Negrín Ramos",
-    "Salma Sanfelix Martín",
+    "Salma Sanfelix Martí",
     "Tanausú Díaz Rodríguez",
     "María Mercedes Sanz Peris",
     "Felipe Gómez González"
@@ -8481,7 +8315,7 @@
    "candidates": [
     "Alejandro Santiago Gómez Rodríguez",
     "Sara Daroca Núñez",
-    "Naim Valerio Yanez Alonso",
+    "Naím Valerio Yánez Alonso",
     "Nuria María Díaz Díaz",
     "Pedro González Martín",
     "María Noemí Campillo Portaña",
@@ -8499,24 +8333,24 @@
    "name": "UNIDAD DEL PUEBLO CANARIO UPC",
    "acronym": "NC-BC, PODEMOS, IU, SUMAR",
    "candidates": [
-    "María Soledad Collado Mirabal (UPC)",
-    "Francisco Ramón Santamaría Morales (UPC)",
+    "María Soledad Collado Mirabal",
+    "Francisco Ramón Santamaría Morales",
     "Idaira Afonso De Martín",
-    "Óscar Izquierdo Pérez (UPC)",
+    "Óscar Izquierdo Pérez",
     "Dolores Marta Espinosa Padilla",
     "Kevin Rodríguez Expósito",
-    "Vanesa Martín Toledo (UPC)"
+    "Vanesa Martín Toledo"
    ],
    "substitutes": [
-    "León Gutiérrez Jiménez (UPC)",
-    "Antía Fernández González (UPC)",
-    "Zebensuí Barrera Subirana (UPC)",
-    "Begoña Martín Marrero (UPC)",
-    "Daniel Rafael Ross Márquez (UPC)",
-    "Melania María González Torres (UPC)",
-    "Fernando Ruiz Pérez (UPC)",
-    "Aitami Bruno Bencomo (UPC)",
-    "Juan José Valencia Rodríguez (UPC)",
+    "León Gutiérrez Jiménez",
+    "Antía Fernández González",
+    "Zebensuí Barrera Subirana",
+    "Begoña Martín Marrero",
+    "Daniel Rafael Ross Márquez",
+    "Melania María González Torres",
+    "Fernando Ruiz Pérez",
+    "Aitami Bruno Bencomo",
+    "Juan José Valencia Rodríguez",
     "Margarita Naike Ramos Benítez"
    ]
   },
@@ -8527,7 +8361,7 @@
    "acronym": "LIB",
    "candidates": [
     "Angélica María Calero Armas",
-    "Ernesto Manuel Pelaez Méndez",
+    "Ernesto Manuel Peláez Méndez",
     "Ana Alicia González Marrero",
     "Eduardo González Cárdenas",
     "Beatriz Trujillo Hernández",
@@ -8547,7 +8381,7 @@
    "acronym": "PCTE",
    "candidates": [
     "Pablo Janai García Canino",
-    "Nedia García Hierro Mustafa",
+    "Nedia García Hierro Mustafá",
     "Pablo Mora Fumero",
     "María Carmen Fumero Rodríguez",
     "Pedro Muñoz López",
@@ -8564,11 +8398,11 @@
    "name": "PARTIDO AUTÓNOMOS",
    "acronym": "PARTIDO AUTÓNOMOS",
    "candidates": [
-    "Jose Luis Arias Machuca",
+    "José Luis Arias Machuca",
     "María Elena Blanco Marcos",
     "Lázaro Díaz Fajardo",
     "Claudia Caulés Justín",
-    "Jose María Lois Aragunde",
+    "José María Lois Aragunde",
     "Ángeles Blanco Marcos",
     "Florencio Luis Rodríguez Sempere"
    ],
@@ -8582,21 +8416,9 @@
    "partyId": "f8",
    "name": "FEMINISM8",
    "acronym": "F8",
-   "candidates": [
-    "Nuria Morales Delgado",
-    "Rosa María González Saenz Casas",
-    "Gabriel Ángel Núñez Hervás",
-    "Rafael Rodríguez",
-    "Sonia Ramos De Ganzo",
-    "Vidina Rodríguez Marrero",
-    "Juan Cruz Barrueco Quebedo"
-   ],
-   "substitutes": [
-    "Gala-Katherina Carrasco Yakubora",
-    "Reinaldo Morales Lugo",
-    "Isis Bly Earlines",
-    "Antonio Ladeveze León"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "40",
@@ -8616,12 +8438,12 @@
    "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
    "acronym": "PSOE",
    "candidates": [
-    "Jose Luis Aceves Galindo",
+    "José Luis Aceves Galindo",
     "Mercedes Otero Otero",
     "Daniel de Lucas García"
    ],
    "substitutes": [
-    "Lourdes Alvarez Callejo",
+    "Lourdes Álvarez Callejo",
     "Francisco Javier Bermejo Soto",
     "María Hontanares López Jimeno"
    ]
@@ -8632,7 +8454,7 @@
    "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
    "candidates": [
-    "Jose Manuel Eizaguirre Fernandez-Palacios",
+    "José Manuel Eizaguirre Fernández-Palacios",
     "Pilar Barral Heredero",
     "Fernando Cabello Meseguer"
    ],
@@ -8660,7 +8482,7 @@
    "name": "VOX",
    "acronym": "VOX",
    "candidates": [
-    "Gonzalo Babe Romero",
+    "Gonzalo Babé Romero",
     "Marta Andrino Martínez",
     "José Ángel Rubio García"
    ],
@@ -8711,13 +8533,13 @@
     "David García Valcarce"
    ],
    "substitutes": [
-    "Araceli Ráquel Valcarce Ramos"
+    "Araceli Raquel Valcarce Ramos"
    ]
   },
   {
    "province": "40",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Víctor Javier Borreguero García",
@@ -8727,7 +8549,6 @@
    "substitutes": [
     "Ana Peñalosa Llorente",
     "Tomás Menéndez Blas",
-    "María Inmaculada Concepción Domínguez Prats",
     "María Elena Jorge Hernández"
    ]
   },
@@ -8941,7 +8762,7 @@
   {
    "province": "41",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO ANDALUZ",
+   "name": "Frente Amplio Andaluz",
    "acronym": "FA",
    "candidates": [
     "Enrique Fernando Santiago Romero",
@@ -9010,38 +8831,13 @@
    "substitutes": []
   },
   {
-   "province": "41",
-   "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
-   "acronym": "FE de las JONS",
-   "candidates": [
-    "Jorge Luis Francisco Gil Lorenzo",
-    "Magdalena Rodríguez Hidalgo",
-    "Ángel Romero Moreira",
-    "María de las Nieves Valverde Pérez",
-    "Carlos José de los Reyes López",
-    "Ana Pastor Gutiérrez",
-    "Ignacio Grosso Boto",
-    "Susana Isabel Collado Fernández",
-    "Alejandro José Miguel Márquez",
-    "María del Carmen Biedma Gil",
-    "José Enrique Quesada Martínez",
-    "María Concepción Baras Japón"
-   ],
-   "substitutes": [
-    "Ignacio Castillo Vázquez",
-    "María de las Nieves García Valverde",
-    "José Pablo Sánchez Gómez"
-   ]
-  },
-  {
    "province": "42",
    "partyId": "frente-obrero",
    "name": "FRENTE OBRERO",
    "acronym": "FO",
    "candidates": [
     "Diego Gallardo de la Fuente",
-    "Maria Josefa Agudo Lopez"
+    "María Josefa Agudo López"
    ],
    "substitutes": []
   },
@@ -9061,11 +8857,11 @@
   {
    "province": "42",
    "partyId": "mundo-mas-justo",
-   "name": "POR UN MUNDO MÁS JUSTO",
+   "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
    "candidates": [
     "Rafael Alfonso Gómez Aguilar",
-    "Mazedona de la Altadama Craquis Díaz"
+    "Mazedona De La Altadama Craquis Díaz"
    ],
    "substitutes": []
   },
@@ -9121,21 +8917,21 @@
    ],
    "substitutes": [
     "Joel Martínez Moreno",
-    "Jaione Ovejero Muñóz"
+    "Jaione Ovejero Muñoz"
    ]
   },
   {
    "province": "42",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Ángel Alberto Flores Gaitán",
     "Lidia Molina Carazo"
    ],
    "substitutes": [
-    "María Milagros Solano Rodrigo",
-    "José Antonio Marín Carazo"
+    "José Antonio Marín Carazo",
+    "María Milagros Solano Rodrigo"
    ]
   },
   {
@@ -9164,7 +8960,7 @@
    ],
    "substitutes": [
     "César Rueda Lizarralde (Independiente)",
-    "Virginia Esther de la Parra Arruabarrena (Independiente)"
+    "Virginia Esther De la Parra Arruabarrena (Independiente)"
    ]
   },
   {
@@ -9212,7 +9008,7 @@
     "Norma Pujol Farré",
     "Eduard Rovira Gual",
     "Jennifer Macía Morilla",
-    "Toni Carmona Martínez (Independiente)",
+    "Toni Carmona Martínez (Independent)",
     "Núria Marco Selma",
     "Jordi Salvador Duch"
    ],
@@ -9310,8 +9106,8 @@
   {
    "province": "43",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
-   "acronym": "FA",
+   "name": "Comuns-Front Ampli",
+   "acronym": "COMUNS-FRONT AMPLI",
    "candidates": [
     "Ester Roca Domodel (COMUNS-FRONT AMPLI)",
     "Óscar Sendra Anglès (COMUNS-FRONT AMPLI)",
@@ -9406,7 +9202,7 @@
   {
    "province": "43",
    "partyId": "pp",
-   "name": "PARTIT POPULAR/PARTIDO POPULAR",
+   "name": "PARTIT POPULAR / PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
     "Mónica Landete Oliva",
@@ -9428,12 +9224,12 @@
    "name": "ALHORA",
    "acronym": "ALHORA",
    "candidates": [
-    "Miquel Bonet Pinyol (Independiente)",
+    "Miquel Bonet Pinyol (Independent)",
     "Anna Llorca Comes",
     "Jesús «Txus» Moreno Torres",
     "Noemí Rocabert Argila",
     "Bruno Forteza Casas",
-    "Neus Barberà i Salas (Independiente)"
+    "Neus Barberà i Salas (Independent)"
    ],
    "substitutes": [
     "Fèlix Garcia Garcia",
@@ -9537,7 +9333,7 @@
   {
    "province": "44",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
    "acronym": "FE de las JONS",
    "candidates": [
     "Santiago María Núñez Albesa",
@@ -9557,7 +9353,7 @@
     "Rosario Sánchez Blázquez"
    ],
    "substitutes": [
-    "Antonio Carlos Ferreira de Jesús",
+    "Antonio Carlos Ferreira De Jesús",
     "Marta Jimeno Antolín",
     "Pedro María Rodríguez López"
    ]
@@ -9604,7 +9400,7 @@
     "Francisco Mateo Cuadrado Arellano"
    ],
    "substitutes": [
-    "Ana Paula Bermúdez Días",
+    "Ana Paula Bermúdez Dias",
     "Francisco Javier Pasamontes Orgaz",
     "Asunción Gema Calderón Roizo"
    ]
@@ -9650,21 +9446,21 @@
     "Manuel Mariscal Zabala",
     "Rosalba Atilana Guerrero Sánchez",
     "Daniel Arias Vegas",
-    "Maria Victoria García-Esteban Pérez",
+    "María Victoria García-Esteban Pérez",
     "Enrique Quesada Sánchez",
     "Concepción Magán Sotomayor"
    ],
    "substitutes": [
     "Luis Miguel Esteban Jiménez",
     "María Teresa García de la Rosa Jiménez",
-    "David Flete De la Iglesia"
+    "David Flete De La Iglesia"
    ]
   },
   {
    "province": "45",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
-   "acronym": "FE DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+   "acronym": "FE de las JONS",
    "candidates": [
     "José Ramón Jarones Martín-Aragón",
     "María Rocío Sánchez-Horneros Miranda",
@@ -9712,20 +9508,20 @@
   {
    "province": "45",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
-    "José Alejandro Ávila Sánchez",
-    "María Gema Martín Llop",
-    "Raúl Díaz López",
-    "Verónica Mora Laguna",
-    "Miguel Rosa Loeches",
-    "Mariam Medina Blanco"
+    "José Alejandro Ávila Sánchez (FRENTE AMPLIO)",
+    "María Gema Martín Llop (FRENTE AMPLIO)",
+    "Raúl Díaz López (FRENTE AMPLIO)",
+    "Verónica Mora Laguna (FRENTE AMPLIO)",
+    "Miguel Rosa Loeches (FRENTE AMPLIO)",
+    "Mariam Medina Blanco (FRENTE AMPLIO)"
    ],
    "substitutes": [
-    "Sergio Félix Frías Castaño",
-    "Elisa Fernández Núñez",
-    "Sergio Granados Tante"
+    "Sergio Félix Frías Castaño (FRENTE AMPLIO)",
+    "Elisa Fernández Núñez (FRENTE AMPLIO)",
+    "Sergio Granados Tante (FRENTE AMPLIO)"
    ]
   },
   {
@@ -9737,7 +9533,7 @@
     "Miguel Ángel Alonso García-Largo",
     "Nagore Medrano Sánchez",
     "Gonzalo García Martínez",
-    "Nekane Medrano Martínez",
+    "Nekane Medrano Sánchez",
     "Javier Oliver Díaz-Alejo",
     "Nuria Martínez Trueba"
    ],
@@ -9784,20 +9580,20 @@
    "candidates": [
     "Carmen López Manzano",
     "David Rubio Fidel",
-    "Alicia Sanz Fernandez",
+    "Alicia Sanz Fernández",
     "Pau Botella López",
     "Claudia Coy Soriano",
     "Max Abad González",
-    "Lucía Rodriguez Tena",
+    "Lucía Rodríguez Tena",
     "Juan José Aguilar Macias",
     "Luzia Palomares Regidor",
     "Alberto Otero Álamo",
     "Teresa Pinazo Asensi",
     "Iván Escutia Manent",
-    "Maria del Carmen Ramos Galindo",
+    "María Del Carmen Ramos Galindo",
     "Marcos Navas Niñerola",
     "María Núñez Torreiro",
-    "Hector Mirasol Martorell"
+    "Héctor Mirasol Martorell"
    ],
    "substitutes": []
   },
@@ -9862,7 +9658,7 @@
    "province": "46",
    "partyId": "compromis-fv",
    "name": "COMPROMÍS: FRONT VALENCIÀ",
-   "acronym": "COMPROMÍS-EUPV-PODEM-ERPV",
+   "acronym": "COMPROMIS-EUPV-PODEM-ERPV",
    "candidates": [
     "Àgueda Micó Micó",
     "Alberto Ibáñez Mezquita",
@@ -9940,14 +9736,14 @@
     "Javier Baldovi Jachán",
     "Eva María Sanfélix López",
     "Salvador Moll Herrero",
-    "Esther Sanchís Mira",
+    "María Ángeles Magallón Subiela",
     "Santiago Llorente Criado",
     "María Rosa Rodríguez Carmona",
     "José Luis Lozano Polo"
    ],
    "substitutes": [
     "María Jesús Navarro Castro",
-    "Carlos Rodríguez Hervás",
+    "Óscar Pastor Bárcenas",
     "María Carmen Jachán Sánchez"
    ]
   },
@@ -9956,28 +9752,9 @@
    "partyId": "partido-autonomos",
    "name": "PARTIDO AUTÓNOMOS",
    "acronym": "PARTIDO AUTÓNOMOS",
-   "candidates": [
-    "Roberto Pradas Moncho",
-    "María Rosa Campos Pizarro (Independiente)",
-    "Antonio Ramírez Díaz",
-    "Tamara Gascón Pradas (Independiente)",
-    "Wilfredo Carballo Rodríguez (Independiente)",
-    "Tíifany Gascón Pradas (Independiente)",
-    "Ignacio Santos Gaudioso (Independiente)",
-    "Inmaculada Carmen Díaz Gimeno (Independiente)",
-    "Ángel Díaz Gallego",
-    "Pilar Pradas Moncho (Independiente)",
-    "Edison Omar Espinosa Carrera",
-    "María del Mar Ramírez Salinas (Independiente)",
-    "Pedro Pradas Moncho (Independiente)",
-    "María Soledad Domínguez Antequera (Independiente)",
-    "Álvaro Rodríguez Sánchez",
-    "Pilar Martínez Vivas (Independiente)"
-   ],
-   "substitutes": [
-    "Antonio Bustos Ferrer (Independiente)",
-    "María Dolores Benlloch Andrés (Independiente)"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "46",
@@ -10038,7 +9815,7 @@
   {
    "province": "46",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
    "acronym": "FE de las JONS",
    "candidates": [
     "Alejo Herrero González de Cárdenas",
@@ -10048,7 +9825,7 @@
     "Carlos Miquel Almiñana",
     "Ariadna Kouotou Espinosa",
     "Enrique Romero Marco",
-    "Maria Victoria Herrero González Cárdenas",
+    "María Victoria Herrero González Cárdenas",
     "Andrés Mateos Ibáñez",
     "María Jesús Catala Verdu",
     "Juan Carlos Egea Tellez",
@@ -10095,7 +9872,7 @@
   {
    "province": "46",
    "partyId": "mundo-mas-justo",
-   "name": "POR UN MUNDO MÁS JUSTO",
+   "name": "POR UN MUNDO MAS JUSTO",
    "acronym": "MUNDO+JUSTO",
    "candidates": [
     "Marta López Calatayud",
@@ -10126,18 +9903,19 @@
     "José Ramón Chirivella Vila",
     "Pilar Marco Ballester",
     "Vicente Climent Gisbert",
-    "Carmen Jover Laparra",
+    "Vicenta Jover Laparra",
     "José Antonio Pérez Vercher",
     "María Muñoz Bataller",
-    "Ramón Aznar i García",
+    "Ramon Aznar i García",
     "María Dolores Hernández Chirivella",
     "David Núñez Díaz",
     "Beatriz Gisbert Monllor",
     "Pau Giner Bayarri",
     "Carmen Cebrián Martínez",
-    "Enrique Sanz Burguete",
-    "Abelard Saragossà",
-    "Monica Chirivella Burgos"
+    "Ángel Ruiz Zamora",
+    "Isabel Castillo Del Carpio",
+    "Abelard Saragossa Alba",
+    "Mónica Chirivella Burgos"
    ],
    "substitutes": []
   },
@@ -10262,7 +10040,7 @@
   {
    "province": "47",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
    "acronym": "FE de las JONS",
    "candidates": [
     "Francisco Javier Sanz Méndez",
@@ -10279,7 +10057,7 @@
    "name": "PODEMOS",
    "acronym": "PODEMOS",
    "candidates": [
-    "María Almudena Villareal Vidal",
+    "María Almudena Villarreal Vidal",
     "Eduardo Alonso Antón",
     "Abril Martín Izquierdo",
     "Urbano Blanco Martín",
@@ -10326,19 +10104,19 @@
   {
    "province": "47",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
-    "Abdul Gadiri Diallo Bah",
-    "Rosana De Castro Blanco",
-    "Diego Fernández Pérez",
-    "Patricia Vaquero Del Campo",
-    "Jorge López López"
+    "Abdul Gadiri Diallo Bah (FRENTE AMPLIO)",
+    "Rosana De Castro Blanco (FRENTE AMPLIO)",
+    "Diego Fernández Pérez (FRENTE AMPLIO)",
+    "Patricia Vaquero Del Campo (FRENTE AMPLIO)",
+    "Jorge López López (FRENTE AMPLIO)"
    ],
    "substitutes": [
-    "Alba Hernandez Hierro",
-    "Nunilo Gato Perez",
-    "María Guia Rodriguez Martín"
+    "Alba Hernandez Hierro (FRENTE AMPLIO)",
+    "Nunilo Gato Perez (FRENTE AMPLIO)",
+    "María Guia Rodriguez Martín (FRENTE AMPLIO)"
    ]
   },
   {
@@ -10392,8 +10170,8 @@
    "acronym": "PREPAL",
    "candidates": [
     "Francisco Iglesias Carreño",
-    "María Paz Fernández Villa",
-    "Jesús Corrales Rodríguez"
+    "María Paz Fernández Villar",
+    "José Francisco Iglesias Bragado"
    ],
    "substitutes": [
     "Emma Rodríguez Centeno",
@@ -10479,7 +10257,7 @@
   {
    "province": "49",
    "partyId": "frente-amplio",
-   "name": "FRENTE AMPLIO",
+   "name": "Frente Amplio",
    "acronym": "FA",
    "candidates": [
     "Diego Bernardo Rosas",
@@ -10534,7 +10312,7 @@
    "candidates": [
     "Marina Lapuente Rey",
     "Alberto Sopeña Borroy",
-    "María Seral Lopez",
+    "María Seral López",
     "Cristian Ferrer García",
     "Elena Milla Utrilla (Independiente)",
     "Daniel García Trillo",
@@ -10599,8 +10377,8 @@
   {
    "province": "50",
    "partyId": "fia",
-   "name": "FEDERACIÓN DE LOS INDEPENDIENTES DE ARAGÓN",
-   "acronym": "FIA",
+   "name": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON",
+   "acronym": "F.I.A.",
    "candidates": [
     "Amadeo Escolán Remartínez",
     "María Carmen Beltrán Larrosa",
@@ -10637,25 +10415,14 @@
    "partyId": "pacma",
    "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
    "acronym": "PACMA",
-   "candidates": [
-    "Óscar Jesús Marcos Baigorri",
-    "Cristina Marcos Egido",
-    "Víctor Gustavo Moliner Ezquerra",
-    "Paloma Gracia Alvira",
-    "Enrique Juan Hidalgo Martínez",
-    "Cristina Pinillos Lázaro",
-    "Miguel Ángel Lázaro Escolano"
-   ],
-   "substitutes": [
-    "María Ángeles Gimeno Valios",
-    "Álvaro José Iradier Muro",
-    "María Pilar Almazán Pérez"
-   ]
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "50",
    "partyId": "frente-amplio",
-   "name": "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN",
+   "name": "Chunta Aragonesista-Frente Amplio Aragón",
    "acronym": "CHA-IU-MS-FRENTE AMPLIO",
    "candidates": [
     "Marina Rodríguez Hernando (CHA)",
@@ -10696,18 +10463,11 @@
   {
    "province": "50",
    "partyId": "falange",
-   "name": "FALANGE ESPAÑOLA DE LAS JONS",
+   "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
    "acronym": "FE de las JONS",
-   "candidates": [
-    "Ignacio Alejandro Moreno Bescós",
-    "Sara Millán Ochoa",
-    "Diego Becerril Oliveros",
-    "Bárbara Catalán Casorrán",
-    "Rogelio Javier Rodrigo Granda",
-    "María Pilar Sancho García",
-    "Carlos Javier Lapuerta Serrano"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "51",
@@ -10715,10 +10475,11 @@
    "name": "PARTIDO POPULAR",
    "acronym": "PP",
    "candidates": [
-    "Rafael Martínez Peñalver Mateos",
-    "Nabila Benzina Pavón"
+    "Rafael Martínez Peñalver Mateos"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Nabila Benzina Pavón"
+   ]
   },
   {
    "province": "51",
@@ -10726,10 +10487,11 @@
    "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
    "acronym": "PSOE",
    "candidates": [
-    "Luis Manuel Tovar Gálvez",
-    "Sandra María López Cantero"
+    "Luis Manuel Tovar Gálvez"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Sandra María López Cantero"
+   ]
   },
   {
    "province": "51",
@@ -10737,33 +10499,36 @@
    "name": "VOX",
    "acronym": "VOX",
    "candidates": [
-    "Ana Belén Cifuentes Cánovas",
-    "David Romero Díaz"
+    "Ana Belén Cifuentes Cánovas"
    ],
-   "substitutes": []
+   "substitutes": [
+    "David Romero Díaz"
+   ]
   },
   {
    "province": "51",
    "partyId": "podemos",
    "name": "PODEMOS",
-   "acronym": "PODEMOS",
+   "acronym": "PAZ,CASA Y TRABAJO",
    "candidates": [
-    "Ramón Rodríguez Casaubón",
-    "Olga Moreno Santos"
+    "Ramón Rodríguez Casaubón"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Olga Moreno Santos"
+   ]
   },
   {
    "province": "51",
    "partyId": "salf",
-   "name": "SE ACABÓ LA FIESTA",
+   "name": "SE ACABO LA FIESTA",
    "acronym": "SALF",
    "candidates": [
-    "Carlos Pavón Fumado",
-    "María Luisa Jiménez Aguilar",
-    "Manuel González Evangelista"
+    "Carlos José Pavón Fumadó"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Maria Luisa Jiménez Aguilar",
+    "Manuel González Evangelista"
+   ]
   },
   {
    "province": "51",
@@ -10794,7 +10559,9 @@
    "candidates": [
     "David Vidal Mas"
    ],
-   "substitutes": []
+   "substitutes": [
+    "Isabel Cristina Castro Hermida"
+   ]
   },
   {
    "province": "52",
@@ -10805,8 +10572,7 @@
     "Susana Morillo Espinosa"
    ],
    "substitutes": [
-    "Pedro Manuel Rodríguez Valverde",
-    "Laura María González Bueno"
+    "Pedro Manuel RodrÍguez Valverde"
    ]
   },
   {
@@ -10818,8 +10584,7 @@
     "José Miguel Tasende Souto"
    ],
    "substitutes": [
-    "María Dolores Moreno Valle",
-    "Rafael Ángel Montserrat Cabo"
+    "María Dolores Moreno Valle"
    ]
   },
   {
@@ -10827,10 +10592,9 @@
    "partyId": "escanos-en-blanco",
    "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
    "acronym": "ESCAÑOS EN BLANCO",
-   "candidates": [
-    "Juan Soler Pardo"
-   ],
-   "substitutes": []
+   "candidates": [],
+   "substitutes": [],
+   "note": "No proclamada."
   },
   {
    "province": "52",
@@ -10841,8 +10605,7 @@
     "Sofía Acedo Reyes"
    ],
    "substitutes": [
-    "Jesús Manuel Romero Imbroda",
-    "Marta Victoria Fernández de Castro Ruiz"
+    "Jesús Manuel Romero Imbroda"
    ]
   }
  ]
