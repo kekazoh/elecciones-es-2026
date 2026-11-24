@@ -7,8 +7,9 @@ import positions from './positions.json';
 import corruptionCases from './corruption-cases.json';
 
 /**
- * Dataset real. Las posiciones se codifican a partir de los programas de las
- * generales de 2023 hasta que se publiquen los nuevos (ver docs/FUENTES.md).
+ * Dataset real. Las posiciones salen de los programas de las generales de 2023
+ * (o anteriores) y de declaraciones; las de los programas del 29N esperan
+ * revisión en positions-29n.json (ver docs/FUENTES.md y docs/REVISION-29N.md).
  */
 export const realDataset = {
   meta,
